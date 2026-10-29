@@ -42,7 +42,7 @@ x: Doanh nghiệp trẻ, nhỏ | Doanh nghiệp lâu năm, lớn
 - Hợp tác | Làm việc theo nhóm, linh hoạt, dựa trên sự tin cậy thay cho thủ tục.
 :::
 
-Greiner cho rằng doanh nghiệp không lớn lên đều đặn. Mỗi giai đoạn có một cách tăng trưởng, và chính cách đó, khi quy mô vượt quá, sinh ra một **khủng hoảng**. Vượt được khủng hoảng thì sang giai đoạn sau; không vượt được thì doanh nghiệp giậm chân hoặc lùi lại.
+Greiner cho rằng doanh nghiệp không lớn lên đều đặn. Mỗi giai đoạn có một cách tăng trưởng, và chính cách đó, khi quy mô vượt quá, sinh ra một **khủng hoảng**. Vượt được thì sang giai đoạn sau; không vượt được thì giậm chân.
 
 - Khủng hoảng là tín hiệu bình thường của tăng trưởng, không phải dấu hiệu thất bại.
 - Lời giải của giai đoạn này thường trái ngược giai đoạn trước: tập trung rồi phân quyền, phân quyền rồi phối hợp.
@@ -56,10 +56,10 @@ Greiner cho rằng doanh nghiệp không lớn lên đều đặn. Mỗi giai đ
 - Tái cấu trúc một lần, thay toàn bộ sơ đồ tổ chức || Sửa đúng điểm nghẽn của giai đoạn hiện tại, từng phần, có thử nghiệm.
 :::
 
-Một vài dấu hiệu dễ nhận: lãnh đạo là người duyệt mọi việc nhỏ; hai bộ phận làm trùng hoặc đổ việc cho nhau; quy trình nhiều đến mức nhân viên phải tìm cách "lách" để kịp khách.
+Dấu hiệu dễ nhận: lãnh đạo duyệt mọi việc nhỏ; hai bộ phận đổ việc cho nhau; quy trình nhiều đến mức nhân viên phải "lách" để kịp khách.
 
 :::example Ví dụ giả định: công ty phân phối thiết bị gia dụng
-Một công ty phân phối mở thêm chi nhánh ở hai tỉnh. Giám đốc chi nhánh muốn tự quyết giá cho đại lý nhỏ nhưng mọi đơn vẫn phải gửi về trụ sở. Đơn hàng chậm, đại lý chuyển sang nơi khác.
+Một công ty phân phối mở chi nhánh ở hai tỉnh. Giám đốc chi nhánh muốn tự quyết giá cho đại lý nhỏ, nhưng mọi đơn vẫn phải gửi về trụ sở. Đơn chậm, đại lý bỏ đi.
 
 Đây là **khủng hoảng tự chủ** cuối giai đoạn Định hướng. Lời giải không phải thay giám đốc chi nhánh. Đó là giao một khung giá có biên độ, kèm báo cáo hằng tuần — tức là bước sang giai đoạn Uỷ quyền.
 :::
@@ -96,12 +96,12 @@ Clairmont giúp doanh nghiệp nhận diện điểm nghẽn và tái cấu trú
 
 ### Tái cấu trúc doanh nghiệp có phải là cắt giảm nhân sự?
 
-Không nhất thiết. Phần lớn tái cấu trúc khi tăng trưởng là sắp xếp lại quyền quyết định, quy trình và cách phối hợp. Con người có thể giữ nguyên, chỉ cách họ làm việc với nhau thay đổi.
+Không nhất thiết. Phần lớn tái cấu trúc khi tăng trưởng là sắp xếp lại quyền quyết định, quy trình và cách phối hợp.
 
 ### Doanh nghiệp có thể bỏ qua một giai đoạn trong mô hình Greiner?
 
-Greiner mô tả một xu hướng chung, không phải luật cứng. Doanh nghiệp có thể đi nhanh qua một giai đoạn, nhưng hiếm khi né được hoàn toàn khủng hoảng của nó. Biết trước giúp chuẩn bị sớm hơn.
+Greiner mô tả một xu hướng chung, không phải luật cứng. Doanh nghiệp có thể đi nhanh qua một giai đoạn, nhưng hiếm khi né hẳn khủng hoảng của nó.
 
 ### Bao lâu thì nên xem lại cơ cấu tổ chức?
 
-Không có mốc cố định. Nên xem lại mỗi khi quy mô thay đổi rõ: mở cơ sở mới, thêm dòng sản phẩm, hay số người tăng đáng kể. Đó là lúc cách quản lý cũ dễ chạm giới hạn nhất.
+Không có mốc cố định. Nên xem lại mỗi khi quy mô thay đổi rõ: mở cơ sở mới, thêm dòng sản phẩm, hay số người tăng đáng kể.

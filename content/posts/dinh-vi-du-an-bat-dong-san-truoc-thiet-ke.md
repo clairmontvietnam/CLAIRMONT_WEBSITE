@@ -2,7 +2,7 @@
 slug: dinh-vi-du-an-bat-dong-san-truoc-thiet-ke
 title: Định vị dự án bất động sản trước thiết kế: mô hình STP
 h1: Định vị dự án bất động sản: vì sao bản vẽ đẹp vẫn bán chậm?
-description: Định vị dự án bất động sản phải có trước bản vẽ đầu tiên. Mô hình STP của Kotler giúp chủ đầu tư chọn đúng khách, đúng lời hứa rồi mới giao đề bài thiết kế.
+description: Định vị dự án bất động sản phải có trước bản vẽ đầu tiên. Mô hình STP của Kotler giúp chủ đầu tư chọn đúng khách, đúng lời hứa rồi mới giao thiết kế.
 keywords: định vị dự án bất động sản, mô hình STP, phân khúc thị trường, định vị dự án, phát triển dự án bất động sản
 summary: Bản vẽ đã xong, phối cảnh rất đẹp, nhưng không ai trả lời được: dự án này bán cho ai? STP trả lời trước.
 date: 2026-10-29
@@ -52,7 +52,7 @@ STP được Philip Kotler hệ thống hoá thành nền tảng của marketing
 - Định vị là bước đặt tên, viết khẩu hiệu || Định vị là quyết định chi phối sản phẩm, giá và cách bán.
 :::
 
-Định vị càng muộn, chi phí sửa càng lớn. Sửa trên giấy rẻ hơn rất nhiều so với sửa khi móng đã đổ.
+Sửa trên giấy rẻ hơn rất nhiều so với sửa khi móng đã đổ.
 
 :::example Ví dụ giả định: cùng một khu đất cạnh vành đai
 **Phương án A:** nhóm mục tiêu là gia đình trẻ làm việc trong nội đô. Định vị "ở gần, sống rộng": căn hai phòng ngủ tối ưu, trường mầm non trong khu, kết nối giao thông là ưu tiên.
@@ -96,8 +96,8 @@ Clairmont đồng hành cùng chủ đầu tư ở giai đoạn nghiên cứu, �
 
 ### Dự án đã có thiết kế thì còn định vị lại được không?
 
-Được, nhưng chi phí cao hơn. Khi thiết kế đã xong, việc định vị thường phải làm cùng với việc điều chỉnh cơ cấu căn, tiện ích hoặc giai đoạn bán hàng. Càng sớm thì càng ít phải sửa.
+Được, nhưng tốn hơn. Khi thiết kế đã xong, định vị thường phải đi kèm điều chỉnh cơ cấu căn, tiện ích hoặc giai đoạn bán hàng.
 
 ### Có nên nhắm nhiều phân khúc cùng lúc?
 
-Một dự án lớn có thể phục vụ hai, ba nhóm khách, nhưng mỗi nhóm cần khu vực, sản phẩm và lời hứa rõ ràng. Gộp tất cả vào một thông điệp chung thường làm dự án mờ nhạt với mọi nhóm.
+Dự án lớn có thể phục vụ hai, ba nhóm khách, nhưng mỗi nhóm cần khu vực, sản phẩm và lời hứa riêng. Gộp chung một thông điệp thường làm dự án mờ nhạt với mọi nhóm.

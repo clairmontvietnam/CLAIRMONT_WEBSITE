@@ -2,7 +2,7 @@
 slug: chien-luoc-doanh-nghiep-la-gi
 title: Chiến lược doanh nghiệp là gì? Ba chiến lược của Porter
 h1: Chiến lược doanh nghiệp là gì, khi đối thủ to hơn mình gấp mười lần?
-description: Chiến lược doanh nghiệp là gì? Không phải danh sách mục tiêu, mà là chọn cách thắng. Đọc ba chiến lược cạnh tranh tổng quát của Porter qua chuyện một quán nhỏ.
+description: Chiến lược doanh nghiệp là gì? Không phải danh sách mục tiêu mà là chọn cách thắng. Ba chiến lược cạnh tranh của Porter qua chuyện một quán nhỏ.
 keywords: chiến lược doanh nghiệp, chiến lược doanh nghiệp là gì, ba chiến lược cạnh tranh tổng quát, Michael Porter, chiến lược kinh doanh
 summary: Một chuỗi lớn mở đối diện quán nhỏ. Rẻ hơn hay khác hơn? Porter nói: đừng cố làm cả hai.
 date: 2026-10-29
@@ -15,7 +15,7 @@ Chiến lược doanh nghiệp là bản kế hoạch tăng trưởng thật tha
 :::
 
 :::takeaways
-- Mục tiêu là nơi muốn đến; chiến lược là lý do mình đến được, còn người khác thì không.
+- Mục tiêu là nơi muốn đến; chiến lược là lý do chỉ mình đến được.
 - Porter chỉ ra hai cách thắng: rẻ hơn hoặc khác hơn, trên thị trường rộng hay hẹp.
 - Cố làm tất cả cùng lúc là cách nhanh nhất để mắc kẹt ở giữa.
 :::
@@ -41,9 +41,9 @@ y: Thị trường hẹp | Thị trường rộng
 - Tập trung khác biệt | Chọn một nhóm khách hẹp và phục vụ họ theo cách riêng mà người lớn không làm được.
 :::
 
-Porter đặt hai câu hỏi: doanh nghiệp tạo lợi thế bằng **chi phí thấp** hay bằng **sự khác biệt**, và nhắm vào **thị trường rộng** hay **một phân khúc hẹp**. Hai câu trả lời đặt doanh nghiệp vào một ô — và mỗi ô đòi một cách vận hành khác hẳn nhau.
+Porter đặt hai câu hỏi: lợi thế đến từ **chi phí thấp** hay **sự khác biệt**, và nhắm vào **thị trường rộng** hay **một phân khúc hẹp**. Mỗi ô đòi một cách vận hành khác hẳn nhau.
 
-- Ô Dẫn đầu chi phí thường dành cho người có quy mô lớn nhất. Doanh nghiệp nhỏ lao vào ô này hiếm khi trụ lâu.
+- Ô Dẫn đầu chi phí thường dành cho người có quy mô lớn nhất.
 - Ô Tập trung khác biệt là nơi nhiều doanh nghiệp vừa và nhỏ có lợi thế tự nhiên: gần khách, hiểu khách, linh hoạt.
 - Porter cảnh báo về trạng thái **"mắc kẹt ở giữa"**: vừa muốn rẻ, vừa muốn khác, vừa muốn phục vụ tất cả — cuối cùng không giỏi điều nào.
 
@@ -55,10 +55,10 @@ Porter đặt hai câu hỏi: doanh nghiệp tạo lợi thế bằng **chi phí
 - Thêm sản phẩm để giữ mọi nhóm khách || Bỏ bớt những gì không củng cố lợi thế đã chọn.
 :::
 
-Đó cũng là tinh thần Clairmont học từ Porter: chiến lược là chọn điều không làm. Một văn bản mà đối thủ nào cũng có thể ký tên vào thì chưa phải chiến lược.
+Tinh thần Clairmont học từ Porter: chiến lược là chọn điều không làm. Văn bản mà đối thủ nào cũng ký tên được thì chưa phải chiến lược.
 
 :::example Ví dụ giả định: xưởng nội thất gỗ ở ven đô
-Một xưởng nội thất gỗ có ba hướng. Làm hàng đại trà cho chuỗi bán lẻ, cạnh tranh bằng giá với nhà máy lớn. Làm hàng thiết kế cho mọi nhà. Hoặc chỉ làm đồ gỗ đặt riêng cho căn hộ nhỏ, nơi mỗi phân vuông đều quý.
+Một xưởng gỗ có ba hướng: làm hàng đại trà cạnh tranh giá với nhà máy lớn, làm hàng thiết kế cho mọi nhà, hoặc chỉ làm đồ đặt riêng cho căn hộ nhỏ.
 
 Hướng thứ ba là **Tập trung khác biệt**. Nó kéo theo một chuỗi quyết định: tuyển thợ đo đạc giỏi, không nhận đơn số lượng lớn, bán qua kiến trúc sư thay vì qua đại lý. Chiến lược lộ ra ở những lời từ chối đó.
 :::
@@ -95,12 +95,12 @@ Clairmont đồng hành cùng doanh nghiệp từ nghiên cứu, lựa chọn ch
 
 ### Chiến lược doanh nghiệp khác kế hoạch kinh doanh thế nào?
 
-Kế hoạch kinh doanh liệt kê việc cần làm, ai làm, khi nào xong. Chiến lược là logic đứng sau: vì sao con đường này giúp doanh nghiệp thắng. Có kế hoạch mà thiếu chiến lược thì làm nhiều nhưng không cộng dồn.
+Kế hoạch liệt kê việc cần làm, ai làm, khi nào xong. Chiến lược là logic đứng sau: vì sao con đường này giúp doanh nghiệp thắng.
 
 ### Doanh nghiệp nhỏ có nên chọn chiến lược dẫn đầu chi phí?
 
-Hiếm khi. Dẫn đầu chi phí thường đòi quy mô lớn và vận hành rất tinh gọn. Doanh nghiệp nhỏ thường có lợi thế hơn ở các ô Tập trung, nơi sự gần gũi và hiểu khách quan trọng hơn quy mô.
+Hiếm khi, vì ô này thường đòi quy mô lớn. Doanh nghiệp nhỏ có lợi thế hơn ở các ô Tập trung, nơi sự gần gũi và hiểu khách quan trọng hơn quy mô.
 
 ### Có thể đổi chiến lược khi thị trường thay đổi không?
 
-Có, nhưng không nên đổi theo từng tháng. Cách làm, sản phẩm và kênh bán có thể điều chỉnh liên tục. Còn lựa chọn cốt lõi về cách thắng cần đủ ổn định để đội ngũ xây năng lực quanh nó.
+Có, nhưng không nên đổi theo từng tháng. Sản phẩm và kênh bán có thể điều chỉnh liên tục; lựa chọn cốt lõi về cách thắng cần đủ ổn định để đội ngũ xây năng lực quanh nó.

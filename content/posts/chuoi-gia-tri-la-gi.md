@@ -2,7 +2,7 @@
 slug: chuoi-gia-tri-la-gi
 title: Chuỗi giá trị là gì? Đọc mô hình của Michael Porter
 h1: Chuỗi giá trị là gì? Một ly cà phê đã đi qua tay bao nhiêu người?
-description: Chuỗi giá trị là gì và khác chuỗi cung ứng ở đâu? Đọc mô hình chuỗi giá trị của Porter qua hành trình một ly cà phê, kèm cách tìm chỗ doanh nghiệp tạo lợi thế.
+description: Chuỗi giá trị là gì, khác chuỗi cung ứng ở đâu? Đọc mô hình của Porter qua hành trình một ly cà phê, và tìm khâu doanh nghiệp thật sự tạo lợi thế.
 keywords: chuỗi giá trị là gì, chuỗi giá trị Porter, hoạt động chính và hỗ trợ, chuỗi giá trị và chuỗi cung ứng, hợp tác đối tác
 summary: Khách trả tiền cho một ly cà phê. Nhưng giá trị của nó được tạo ra ở đâu, và ai đang giữ phần lớn nhất?
 date: 2026-10-29
@@ -54,10 +54,10 @@ Porter xem doanh nghiệp như một chuỗi hoạt động, mỗi hoạt độn
 - Tự làm mọi khâu để "nắm hết" || Tự làm khâu cốt lõi, hợp tác ở khâu đối tác làm tốt hơn.
 :::
 
-Ở Clairmont, chúng tôi nhìn quan hệ với đối tác theo năm cấp độ: Kết nối, Chuẩn hoá, Tích hợp, Mở thị trường, Bền vững. Càng lên cao, hai bên càng chia sẻ nhiều khâu trong chuỗi.
+Clairmont nhìn quan hệ đối tác theo năm cấp độ: Kết nối, Chuẩn hoá, Tích hợp, Mở thị trường, Bền vững. Càng lên cao, hai bên càng chia sẻ nhiều khâu.
 
 :::example Ví dụ giả định: một thương hiệu trà đóng hộp
-Một thương hiệu trà nhỏ thấy biên lợi nhuận mỏng. Vẽ chuỗi ra, họ nhận ra đang tự làm cả khâu giao hàng, tốn người mà khách không thấy khác biệt.
+Một thương hiệu trà nhỏ thấy biên lợi nhuận mỏng. Vẽ chuỗi ra, họ thấy mình đang tự làm khâu giao hàng, tốn người mà khách không thấy khác.
 
 Trong khi đó, khâu khách nhắc nhiều nhất là câu chuyện vùng trà in trên hộp. Họ chuyển giao hàng cho đối tác, dồn nguồn lực sang làm việc với vùng trồng và thiết kế bao bì — tức là đầu tư vào khâu tạo ra giá trị khách thật sự trả tiền.
 :::
@@ -94,12 +94,12 @@ Clairmont đồng hành cùng doanh nghiệp phân tích chuỗi và xây quan h
 
 ### Chuỗi giá trị và chuỗi cung ứng khác nhau thế nào?
 
-Chuỗi cung ứng tập trung vào dòng hàng hoá: nguyên liệu, sản xuất, vận chuyển, tồn kho. Chuỗi giá trị nhìn rộng hơn, hỏi mỗi hoạt động tạo thêm bao nhiêu giá trị cho khách. Một doanh nghiệp có thể tối ưu chuỗi cung ứng mà vẫn chưa rõ mình tạo lợi thế ở đâu.
+Chuỗi cung ứng tập trung vào dòng hàng: nguyên liệu, vận chuyển, tồn kho. Chuỗi giá trị hỏi mỗi hoạt động tạo thêm bao nhiêu giá trị cho khách.
 
 ### Doanh nghiệp dịch vụ có dùng được mô hình chuỗi giá trị?
 
-Có. Porter xây mô hình từ doanh nghiệp sản xuất, nhưng các khâu có thể đọc lại cho dịch vụ: đầu vào là thông tin, nhân sự; sản xuất là quá trình phục vụ. Điều quan trọng là tách được từng hoạt động để xem giá trị sinh ra ở đâu.
+Có. Porter xây mô hình từ doanh nghiệp sản xuất, nhưng các khâu có thể đọc lại cho dịch vụ: đầu vào là thông tin, nhân sự; sản xuất là quá trình phục vụ.
 
 ### Nên bắt đầu hợp tác đối tác từ khâu nào?
 
-Thường là khâu doanh nghiệp không có lợi thế nhưng vẫn ảnh hưởng đến khách, như giao hàng hay bao bì. Bắt đầu ở cấp Kết nối và Chuẩn hoá, rồi mới đi sâu hơn khi hai bên đã tin nhau.
+Thường là khâu doanh nghiệp không có lợi thế nhưng vẫn ảnh hưởng đến khách, như giao hàng hay bao bì. Bắt đầu ở cấp Kết nối và Chuẩn hoá, rồi mới đi sâu hơn.

@@ -2,7 +2,7 @@
 slug: ban-sac-diem-xuat-phat-cua-chien-luoc
 title: Bản sắc doanh nghiệp và chiến lược: Vòng tròn vàng
 h1: Bản sắc doanh nghiệp: vì sao chiến lược nên bắt đầu từ câu "Vì sao"?
-description: Bản sắc doanh nghiệp là điểm tựa ít dịch chuyển nhất của chiến lược. Vòng tròn vàng của Simon Sinek giải thích vì sao nên bắt đầu từ "Vì sao", không từ sản phẩm.
+description: Bản sắc doanh nghiệp là điểm tựa bền nhất của chiến lược. Vòng tròn vàng của Simon Sinek giải thích vì sao nên bắt đầu từ "Vì sao", không từ sản phẩm.
 keywords: bản sắc doanh nghiệp, Vòng tròn vàng Simon Sinek, bản sắc dẫn lối chiến lược, xây dựng chiến lược từ bản sắc, Clairmont Group
 summary: Một tiệm bánh bán bánh. Một tiệm khác bán lý do để người ta quay lại. Khác nhau nằm ở vòng tròn trong cùng.
 date: 2026-10-29
@@ -52,12 +52,12 @@ Sinek quan sát rằng hầu hết doanh nghiệp giao tiếp từ ngoài vào: 
 - Bắt đầu từ con số: đặt doanh thu rồi tìm cách đạt || Dùng con số để đo chiến lược, không dùng nó thay chiến lược.
 :::
 
-Cả ba cách đều nhìn ra ngoài trước. Bản sắc buộc doanh nghiệp nhìn vào trong trước — nhưng luôn phải đặt cạnh dữ liệu thị trường, để không nhầm bản sắc với thói quen hay với mong muốn riêng của người đứng đầu.
+Bản sắc buộc doanh nghiệp nhìn vào trong trước — nhưng luôn đặt cạnh dữ liệu thị trường, để không nhầm bản sắc với thói quen hay mong muốn riêng của người đứng đầu.
 
 :::example Chúng tôi áp dụng điều này cho chính mình
 Clairmont chọn khẩu hiệu "Bản sắc dẫn lối chiến lược", và dùng chính nguyên tắc đó khi xây thương hiệu riêng. FLEUR — cà phê và quà tặng cao cấp mang bản sắc Việt, ra mắt tại Hà Nội ngày 29/11/2026 — bắt đầu từ câu hỏi: điều gì của Việt Nam đáng được trao tặng, và trao sao cho tử tế.
 
-KỂ và MỜI, ra mắt theo kế hoạch 2027, cũng đi từ cùng một gốc: văn hoá Việt, thiết kế, nghề thủ công và sự hiếu khách. Tự làm giúp chúng tôi hiểu bản sắc phải đi xuyên qua lựa chọn sản phẩm, đối tác và cả những điều quyết định không làm.
+KỂ và MỜI, ra mắt theo kế hoạch 2027, cũng đi từ cùng một gốc: văn hoá Việt, nghề thủ công và sự hiếu khách. Bản sắc phải đi xuyên qua sản phẩm, đối tác và cả những điều chúng tôi chọn không làm.
 :::
 
 ## Áp dụng cho doanh nghiệp
@@ -96,8 +96,8 @@ Tầm nhìn nói nơi doanh nghiệp muốn đến, sứ mệnh nói việc doan
 
 ### Doanh nghiệp mới thành lập đã có bản sắc chưa?
 
-Thường đã có, nằm ở người sáng lập: lý do họ bắt đầu, điều họ không chịu thoả hiệp. Việc cần làm là gọi tên nó sớm và kiểm chứng với khách hàng đầu tiên.
+Thường đã có, nằm ở người sáng lập: lý do họ bắt đầu, điều họ không chịu thoả hiệp. Cần gọi tên nó sớm và kiểm chứng với những khách đầu tiên.
 
 ### Bản sắc có làm doanh nghiệp kém linh hoạt không?
 
-Không, nếu phân biệt đúng. Vòng "Vì sao" nên bền, còn vòng "Cái gì" có thể đổi liên tục theo thị trường. Chính vì gốc vững, doanh nghiệp mới dám thử những sản phẩm mới mà không lạc hướng.
+Không, nếu phân biệt đúng. Vòng "Vì sao" nên bền, còn vòng "Cái gì" có thể đổi theo thị trường. Gốc vững thì mới dám thử cái mới mà không lạc hướng.

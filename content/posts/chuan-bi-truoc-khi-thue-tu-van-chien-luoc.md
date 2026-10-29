@@ -2,7 +2,7 @@
 slug: chuan-bi-truoc-khi-thue-tu-van-chien-luoc
 title: Thuê tư vấn chiến lược: chuẩn bị gì? Mô hình Kim cương đôi
 h1: Thuê tư vấn chiến lược: chuẩn bị gì để buổi đầu không phí?
-description: Trước khi thuê tư vấn chiến lược, doanh nghiệp nên chuẩn bị câu hỏi, dữ liệu và người tham dự nào? Mô hình Kim cương đôi giúp biết buổi đầu đang ở bước nào.
+description: Trước khi thuê tư vấn chiến lược, nên chuẩn bị câu hỏi, dữ liệu và người tham dự nào? Mô hình Kim cương đôi cho biết buổi đầu đang ở bước nào.
 keywords: thuê tư vấn chiến lược, mô hình Kim cương đôi, Double Diamond, chuẩn bị làm việc với tư vấn, tư vấn chiến lược doanh nghiệp
 summary: Mang đến buổi đầu một lời giải có sẵn là cách nhanh nhất để giải sai bài toán. Hãy mang câu hỏi.
 date: 2026-10-29
@@ -53,10 +53,10 @@ Design Council của Anh dùng hình hai viên kim cương để mô tả quá t
 - Giữ lại số liệu vì ngại "lộ" || Chuẩn bị vài con số cốt lõi: doanh thu theo nhóm khách, chi phí lớn, xu hướng gần đây.
 :::
 
-Doanh nghiệp cũng nên hỏi lại đơn vị tư vấn: cách họ làm việc gồm những bước nào, doanh nghiệp cần tham gia ra sao, và đầu ra của mỗi bước trông như thế nào.
+Doanh nghiệp cũng nên hỏi lại: cách làm việc gồm những bước nào, mình cần tham gia ra sao, đầu ra mỗi bước trông thế nào.
 
 :::example Ví dụ giả định: một nhà hàng muốn mở chi nhánh
-Chủ một nhà hàng đến buổi đầu với câu "tôi cần kế hoạch mở chi nhánh thứ hai". Ở bước Khám phá, hai bên xem lại số liệu và thấy khách quen đến ít hơn, dù khách mới vẫn tăng.
+Chủ một nhà hàng đến với câu "tôi cần kế hoạch mở chi nhánh thứ hai". Ở bước Khám phá, hai bên thấy khách quen đến ít hơn, dù khách mới vẫn tăng.
 
 Ở bước Xác định, bài toán được viết lại: "Vì sao khách quen thưa dần?" Mở chi nhánh có thể vẫn là phương án — nhưng giờ nó được cân nhắc cùng nhiều phương án khác, cho đúng bài toán.
 :::
@@ -93,12 +93,12 @@ Tìm hiểu cách Clairmont làm việc cùng doanh nghiệp từ bước nghiê
 
 ### Buổi làm việc đầu tiên với đơn vị tư vấn nên kéo dài bao lâu?
 
-Không có chuẩn chung; điều quan trọng là đủ thời gian để hai bên hiểu vấn đề và cách làm việc của nhau. Nên chuẩn bị trước để thời gian dành cho trao đổi, không phải cho việc tìm số liệu.
+Không có chuẩn chung; quan trọng là đủ để hai bên hiểu vấn đề và cách làm việc của nhau. Chuẩn bị trước để thời gian dành cho trao đổi, không phải tìm số liệu.
 
 ### Có nên chia sẻ số liệu nội bộ ngay buổi đầu?
 
-Nên chia sẻ ở mức đủ để hiểu bức tranh: xu hướng, tỷ trọng, những con số chính. Nếu lo ngại về bảo mật, doanh nghiệp có thể đề nghị ký thoả thuận bảo mật trước khi đi sâu.
+Nên chia sẻ đủ để hiểu bức tranh: xu hướng, tỷ trọng, vài con số chính. Nếu lo về bảo mật, có thể đề nghị ký thoả thuận bảo mật trước khi đi sâu.
 
 ### Đơn vị tư vấn chiến lược có làm thay phần triển khai không?
 
-Tuỳ cách hợp tác hai bên thống nhất. Tư vấn chiến lược giúp chọn hướng và thiết kế cách làm; đội ngũ doanh nghiệp thường là người triển khai. Nhiều đơn vị, trong đó có Clairmont, đồng hành cả bước Triển khai và Đánh giá.
+Tuỳ cách hợp tác hai bên thống nhất. Tư vấn chiến lược giúp chọn hướng và thiết kế cách làm; đội ngũ doanh nghiệp thường là người triển khai, và Clairmont có thể đồng hành cả bước Triển khai và Đánh giá.
