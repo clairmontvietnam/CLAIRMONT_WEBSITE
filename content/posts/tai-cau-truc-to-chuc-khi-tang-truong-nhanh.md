@@ -56,7 +56,7 @@ Waterman, Peters và Phillips đưa ra khung này để nhắc rằng tổ chứ
 - Giữ nguyên cách lãnh đạo quyết mọi việc || Trao quyền trong giới hạn rõ, giữ nhịp họp vận hành hằng tuần.
 :::
 
-Rủi ro lớn nhất khi tái cấu trúc giữa lúc tăng trưởng không phải là sơ đồ sai. Đó là mất những người đã giữ doanh nghiệp chạy suốt giai đoạn nhỏ.
+Rủi ro lớn nhất không phải sơ đồ sai, mà là mất những người đã giữ doanh nghiệp chạy suốt giai đoạn nhỏ.
 
 :::example Chuỗi dịch vụ từ hai lên sáu điểm
 Người quản lý điểm đầu tiên vẫn xử lý mọi vấn đề của cả sáu điểm và bắt đầu quá tải. Ban lãnh đạo rà theo 7S và thấy Cấu trúc đã đổi, nhưng Phong cách, Hệ thống và Kỹ năng vẫn như cũ.
@@ -100,8 +100,8 @@ Nên tránh thay đổi lớn về người và quy trình trong mùa cao điể
 
 ### Khung 7S có phù hợp với doanh nghiệp nhỏ?
 
-Có. Doanh nghiệp nhỏ không cần báo cáo dài, chỉ cần dùng bảy yếu tố như một danh mục kiểm tra trong một buổi họp ban lãnh đạo.
+Có. Doanh nghiệp nhỏ chỉ cần dùng bảy yếu tố như một danh mục kiểm tra trong một buổi họp ban lãnh đạo.
 
 ### Nên đề bạt người cũ hay tuyển quản lý mới từ bên ngoài?
 
-Không có câu trả lời chung. Điều quan trọng là thiết kế vai trò trước, rồi mới chọn người phù hợp với vai trò đó — dù là người cũ hay người mới.
+Không có câu trả lời chung. Hãy thiết kế vai trò trước, rồi mới chọn người phù hợp.

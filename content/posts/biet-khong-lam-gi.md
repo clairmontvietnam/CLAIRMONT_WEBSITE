@@ -2,7 +2,7 @@
 slug: biet-khong-lam-gi
 title: Chiến lược là lựa chọn: biết không làm gì với khung ERRC
 h1: Chiến lược là lựa chọn: doanh nghiệp trẻ đã dám bỏ điều gì chưa?
-description: Chiến lược là lựa chọn, và lựa chọn khó nhất là điều không làm. Khung ERRC trong Chiến lược đại dương xanh giúp doanh nghiệp trẻ biết bỏ, giảm, tăng và tạo mới.
+description: Chiến lược là lựa chọn, và lựa chọn khó nhất là điều không làm. Khung ERRC của Chiến lược đại dương xanh giúp doanh nghiệp trẻ biết bỏ, giảm, tăng và tạo.
 keywords: chiến lược là lựa chọn, khung ERRC, chiến lược đại dương xanh, chiến lược là chọn điều không làm, Michael Porter, đánh đổi chiến lược
 summary: Doanh nghiệp trẻ ít khi thiếu cơ hội. Họ thiếu một danh sách rõ những điều sẽ bỏ — và lý do để bỏ.
 date: 2026-10-29

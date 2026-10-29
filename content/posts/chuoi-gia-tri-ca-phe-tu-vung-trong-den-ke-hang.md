@@ -96,7 +96,7 @@ Clairmont áp dụng cách nhìn chuỗi này cho chính thương hiệu của m
 
 ### Chuỗi giá trị cà phê khác chuỗi cung ứng cà phê thế nào?
 
-Chuỗi cung ứng tập trung vào dòng hàng hoá: nguyên liệu đi từ đâu đến đâu, khi nào, chi phí bao nhiêu. Chuỗi giá trị nhìn rộng hơn: mỗi khâu tạo thêm hay làm mất giá trị gì trong mắt khách hàng cuối.
+Chuỗi cung ứng tập trung vào dòng hàng hoá: nguyên liệu đi đâu, khi nào, tốn bao nhiêu. Chuỗi giá trị nhìn rộng hơn: mỗi khâu tạo thêm hay làm mất giá trị gì trong mắt khách hàng cuối.
 
 ### Thương hiệu mới có nên tự rang cà phê không?
 
@@ -104,4 +104,4 @@ Tuỳ năng lực và chiến lược. Tự rang cho quyền kiểm soát hươn
 
 ### Đường cong nụ cười có áp dụng được ngoài ngành cà phê?
 
-Có. Mô hình ra đời từ ngành điện tử và được dùng rộng rãi cho nông sản, thủ công, chế biến. Câu hỏi luôn giống nhau: khâu nào khách sẵn lòng trả thêm, và mình có đang giữ khâu đó không.
+Có. Mô hình ra đời từ ngành điện tử, nhưng dùng được cho nông sản, thủ công, chế biến. Câu hỏi luôn là: khâu nào khách sẵn lòng trả thêm, và mình có đang giữ khâu đó không.

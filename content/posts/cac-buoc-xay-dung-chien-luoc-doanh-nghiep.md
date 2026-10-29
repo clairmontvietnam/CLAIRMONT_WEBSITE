@@ -54,8 +54,6 @@ Lafley và Martin gọi đây là một "dòng thác" lựa chọn: câu trên �
 - Mười ưu tiên, không ai chịu trách nhiệm chính || Vài năng lực cốt lõi, mỗi năng lực có người giữ và chỉ số theo dõi.
 :::
 
-Một chuỗi lựa chọn tốt có thể viết gọn trong vài trang. Điều quan trọng là năm câu trả lời khớp nhau, không câu nào đi một hướng riêng.
-
 :::example Một xưởng in bao bì ba mươi người
 **Khát vọng:** trở thành xưởng mà các thương hiệu nhỏ nghĩ đến đầu tiên khi cần bao bì có thiết kế riêng.
 
@@ -97,7 +95,7 @@ Clairmont đồng hành cùng doanh nghiệp qua bốn giai đoạn Nghiên cứ
 
 ### Doanh nghiệp nhỏ có cần đi đủ năm câu hỏi không?
 
-Có, nhưng mỗi câu có thể trả lời rất gọn. Doanh nghiệp nhỏ càng cần chuỗi lựa chọn rõ, vì một lựa chọn sai tốn một phần lớn hơn trong nguồn lực có hạn.
+Có, nhưng mỗi câu có thể trả lời rất gọn. Nguồn lực càng ít, một lựa chọn sai càng tốn kém.
 
 ### Có phải trả lời theo đúng thứ tự từ trên xuống?
 

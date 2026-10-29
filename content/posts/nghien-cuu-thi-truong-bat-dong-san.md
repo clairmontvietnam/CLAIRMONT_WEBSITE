@@ -2,7 +2,7 @@
 slug: nghien-cuu-thi-truong-bat-dong-san
 title: Nghiên cứu thị trường bất động sản với khung PESTEL
 h1: Nghiên cứu thị trường bất động sản: dự án của bạn đang đứng giữa sáu cơn gió nào?
-description: Nghiên cứu thị trường bất động sản không chỉ là đếm dự án và so giá. Khung PESTEL giúp chủ đầu tư đọc sáu lực vĩ mô trước khi chốt sản phẩm, giá và thời điểm.
+description: Nghiên cứu thị trường bất động sản không chỉ là đếm dự án, so giá. Khung PESTEL giúp chủ đầu tư đọc sáu lực vĩ mô trước khi chốt sản phẩm và thời điểm.
 keywords: nghiên cứu thị trường bất động sản, PESTEL, phân tích môi trường vĩ mô, nghiên cứu thị trường dự án, phát triển dự án bất động sản
 summary: Đếm đủ dự án quanh khu đất vẫn có thể bán chậm. Sáu cơn gió PESTEL thường quyết định trước cả bảng giá.
 date: 2026-10-29
@@ -56,8 +56,6 @@ PESTEL không cho đáp án. Nó là danh mục để nhóm dự án không bỏ
 - Dùng giá trung bình của cả quận || Tách theo khu vực nhỏ và nhóm khách, kết hợp phỏng vấn người mua thật.
 :::
 
-Một nghiên cứu tốt không đo bằng số trang. Nó đo bằng số quyết định mà nó giúp chủ đầu tư ra được.
-
 :::example Khu đất gần khu công nghiệp
 Nghiên cứu ban đầu đề xuất nhà phố thương mại. Khi đọc lại theo PESTEL, nhóm dự án thấy lực Xã hội rõ nhất: các gia đình trẻ làm việc ở khu công nghiệp gần đó đang thiếu nhà ở có giá phù hợp, có tiện ích cho trẻ nhỏ.
 
@@ -96,7 +94,7 @@ Clairmont hỗ trợ chủ đầu tư trong nghiên cứu, định vị và phá
 
 ### PESTEL khác phân tích cung cầu thế nào?
 
-Phân tích cung cầu nhìn trực tiếp vào thị trường: ai mua, ai bán, giá bao nhiêu. PESTEL nhìn ra các lực lớn hơn tác động lên cả cung lẫn cầu. Hai phần bổ sung cho nhau, không thay thế nhau.
+Phân tích cung cầu nhìn thẳng vào thị trường: ai mua, ai bán, giá bao nhiêu. PESTEL nhìn ra các lực lớn hơn tác động lên cả hai. Hai phần bổ sung cho nhau.
 
 ### Nên làm nghiên cứu thị trường ở giai đoạn nào của dự án?
 
