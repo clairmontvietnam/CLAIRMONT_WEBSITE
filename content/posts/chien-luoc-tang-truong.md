@@ -1,89 +1,105 @@
 ---
 slug: chien-luoc-tang-truong
 title: Chiến lược tăng trưởng và ma trận Ansoff | Clairmont Group
-h1: Chiến lược tăng trưởng: mở thị trường, thêm sản phẩm hay đào sâu khách hàng hiện có
-description: Chiến lược tăng trưởng nên đi theo hướng nào? Bài viết dùng ma trận Ansoff để so sánh bốn hướng, mức rủi ro của từng hướng và cách doanh nghiệp chọn đúng.
-keywords: chiến lược tăng trưởng, ma trận Ansoff, phát triển thị trường, phát triển sản phẩm, đa dạng hoá
-summary: Bốn hướng tăng trưởng theo ma trận Ansoff, rủi ro của từng hướng và câu hỏi giúp doanh nghiệp chọn đúng hướng.
+h1: Chiến lược tăng trưởng: đi xa ngay hay đào sâu chỗ mình đang đứng?
+description: Chiến lược tăng trưởng không nhất thiết là mở thị trường mới. Ma trận Ansoff so sánh bốn hướng tăng trưởng, mức rủi ro của từng hướng và cách chọn đúng.
+keywords: chiến lược tăng trưởng, ma trận Ansoff, thâm nhập thị trường, phát triển thị trường, phát triển sản phẩm, đa dạng hoá
+summary: Muốn lớn hơn, nhiều người nghĩ ngay đến chỗ mới. Nhưng ô ít rủi ro nhất thường nằm ngay dưới chân.
 date: 2026-10-29
 category: Chiến lược doanh nghiệp
 author: Clairmont Group
 ---
 
-Khi doanh thu chững lại hoặc khi doanh nghiệp có thêm nguồn lực, câu hỏi gần như luôn xuất hiện: tăng trưởng tiếp bằng cách nào? Mở thêm thị trường mới, ra thêm sản phẩm mới, hay bán nhiều hơn cho chính những khách hàng đang có? Chiến lược tăng trưởng là câu trả lời có chủ đích cho câu hỏi đó, thay vì làm cùng lúc mọi thứ có vẻ hứa hẹn.
+:::hook
+Muốn tăng trưởng thì phải mở thị trường mới hoặc ra sản phẩm mới? **Chưa đúng.** Ma trận Ansoff cho thấy có bốn hướng tăng trưởng, và hướng **ít rủi ro nhất** thường là bán tốt hơn sản phẩm đang có cho khách đang có.
+:::
 
-Bài viết dùng ma trận Ansoff — một khung phân tích kinh điển — để làm rõ bốn hướng tăng trưởng, rủi ro đi kèm và cách doanh nghiệp vừa và nhỏ lựa chọn trong điều kiện nguồn lực có hạn.
+:::takeaways
+- Có bốn hướng tăng trưởng, rủi ro tăng dần khi càng xa chỗ quen.
+- Thâm nhập thị trường thường là hướng nên khai thác hết trước tiên.
+- Chọn một hướng nghĩa là tạm gác những hướng còn lại.
+:::
+
+:::story ong-tu | Sạp dưa của ông Tư muốn lớn hơn
+Hai mươi năm nay, sạp dưa hấu của ông Tư giữ đúng một lời: *không đỏ không lấy tiền*. Năm nay con trai ông bàn: mở thêm sạp ở chợ bên kia quận, rồi bán cả nước ép, cả trái cây nhập.
+
+Ông Tư nghe hết, rồi hỏi một câu: *"Thế người trong phố này đã mua dưa của bố hết chưa?"* Hai bố con ngồi đếm. Hoá ra cả dãy văn phòng mới mở đầu phố chưa ai biết đến sạp. Còn khách quen thì chỉ mua cuối tuần, vì ngại xách quả to về.
+
+Tháng sau, ông nhận đặt dưa qua điện thoại, giao tận nơi, bổ sẵn cho văn phòng. Vẫn quả dưa ấy, vẫn con phố ấy, nhưng sạp bán được nhiều hơn hẳn.
+:::
+
+Nhiều doanh nghiệp cũng như con trai ông Tư: thấy chỗ mới hấp dẫn hơn chỗ đang đứng. Câu hỏi then chốt là: **thị trường hiện tại của bạn đã thật sự hết chỗ để lớn chưa?**
 
 ## Ma trận Ansoff: bốn hướng của chiến lược tăng trưởng
 
-Ma trận Ansoff do Igor Ansoff giới thiệu năm 1957 trong bài viết "Strategies for Diversification" trên Harvard Business Review. Khung này đặt hai câu hỏi: doanh nghiệp bán sản phẩm hiện có hay sản phẩm mới, và bán cho thị trường hiện có hay thị trường mới. Kết hợp hai câu hỏi cho ra bốn hướng:
+:::model matrix | Ma trận Ansoff | H. Igor Ansoff (1957, Harvard Business Review)
+x: Sản phẩm hiện có | Sản phẩm mới
+y: Thị trường hiện có | Thị trường mới
+highlight: 3
+- Phát triển thị trường | Đưa sản phẩm đang có tới nhóm khách mới, khu vực mới hoặc kênh bán mới.
+- Đa dạng hoá | Sản phẩm mới cho thị trường mới, xa nhất với những gì doanh nghiệp đã quen.
+- Thâm nhập thị trường | Bán nhiều hơn sản phẩm đang có cho chính thị trường đang có.
+- Phát triển sản phẩm | Làm sản phẩm mới cho khách hàng mình đã hiểu rõ.
+:::
 
-- **Thâm nhập thị trường (market penetration):** sản phẩm hiện có, thị trường hiện có. Tăng thị phần, tăng tần suất mua, tăng giá trị mỗi lần mua, giành khách từ đối thủ.
-- **Phát triển thị trường (market development):** sản phẩm hiện có, thị trường mới. Mở sang khu vực địa lý mới, nhóm khách hàng mới hoặc kênh phân phối mới.
-- **Phát triển sản phẩm (product development):** sản phẩm mới, thị trường hiện có. Đưa thêm sản phẩm, dịch vụ cho những khách hàng doanh nghiệp đã hiểu.
-- **Đa dạng hoá (diversification):** sản phẩm mới, thị trường mới. Bước sang lĩnh vực mà doanh nghiệp chưa có cả sản phẩm lẫn khách hàng.
+Ansoff dựng ma trận từ hai câu hỏi: bán *cái gì* và bán *cho ai*. Mỗi lần bước sang một ô "mới", doanh nghiệp phải học thêm một điều chưa biết, nên **rủi ro tăng dần** từ Thâm nhập, qua Phát triển thị trường hay Phát triển sản phẩm, đến Đa dạng hoá.
 
-Điểm quan trọng của ma trận không nằm ở việc gọi tên, mà ở nhận định đi kèm: càng rời xa ô "hiện có – hiện có", mức rủi ro càng tăng, vì doanh nghiệp phải học thêm nhiều điều mới cùng lúc.
+- Ô Thâm nhập dựa trên những gì đã có: sản phẩm đã được kiểm chứng, khách đã quen tên. Việc cần làm là tăng tần suất mua, thêm điểm chạm, lấy thêm khách trong cùng nhóm.
+- Hai ô Phát triển chỉ đổi một biến: hoặc khách, hoặc sản phẩm. Phần còn lại vẫn là lợi thế cũ.
+- Ô Đa dạng hoá đổi cả hai biến cùng lúc. Nó không sai, nhưng cần nguồn lực và năng lực mới thật sự.
 
-## Vì sao rủi ro tăng dần theo từng ô
+## Đi xa hay đào sâu?
 
-Ở ô thâm nhập thị trường, doanh nghiệp đã biết sản phẩm của mình hoạt động ra sao, khách hàng mua vì lý do gì, kênh nào hiệu quả. Phần chưa biết chủ yếu là dư địa còn lại của thị trường và phản ứng của đối thủ.
+:::compare Thường làm | Nên làm
+- Thấy doanh số chững lại là mở ngay chi nhánh mới || Kiểm tra trước: khách hiện tại mua thường xuyên đến đâu, còn ai trong khu vực chưa biết mình.
+- Ra thêm thật nhiều sản phẩm cho "đủ lựa chọn" || Chọn một sản phẩm mới phục vụ đúng nhóm khách đã hiểu rõ.
+- Theo nhiều hướng cùng lúc cho chắc ăn || Chọn một hướng chính và ghi rõ những hướng tạm gác.
+:::
 
-Khi phát triển thị trường, sản phẩm vẫn quen nhưng khách hàng thì lạ: thói quen mua, mức giá chấp nhận được, kênh tiếp cận, quy định địa phương đều có thể khác. Khi phát triển sản phẩm, khách hàng quen nhưng năng lực làm ra sản phẩm mới — nghiên cứu, cung ứng, sản xuất, chất lượng — có thể chưa có.
+:::example Một xưởng nội thất gỗ
+Xưởng làm bàn ghế gỗ cho gia đình trong thành phố, đang bàn ba ý: mở cửa hàng ở tỉnh khác, làm thêm nội thất văn phòng, hay mở quán cà phê trưng bày.
 
-Đa dạng hoá chồng cả hai lớp chưa biết lên nhau. Đây không phải hướng sai, nhưng là hướng đòi hỏi lý do rõ ràng nhất: doanh nghiệp có năng lực cốt lõi nào chuyển được sang lĩnh vực mới, hoặc có sự cộng hưởng nào giữa lĩnh vực cũ và mới.
+Soi vào ma trận: ý thứ nhất là Phát triển thị trường, ý thứ hai là Phát triển sản phẩm, ý thứ ba gần với Đa dạng hoá. Trước khi chọn, xưởng xem lại ô Thâm nhập: khách cũ có quay lại mua thêm không, có giới thiệu cho người quen không. Câu trả lời ở ô ấy cho biết xưởng đã sẵn sàng đi xa chưa.
+:::
 
-## Bốn câu hỏi trước khi chọn hướng tăng trưởng
+## Áp dụng cho doanh nghiệp
 
-### 1. Thị trường hiện tại đã thực sự hết dư địa chưa?
+:::steps Bốn bước chọn hướng tăng trưởng
+- Đo độ sâu hiện tại | Khách hiện tại mua bao lâu một lần, bao nhiêu người trong nhóm khách mục tiêu đã biết đến mình?
+- Xếp các ý tưởng vào ô | Đặt từng ý tưởng tăng trưởng vào một trong bốn ô để thấy rõ mức rủi ro của nó.
+- Soi năng lực cần thêm | Với ô ngoài Thâm nhập, ghi rõ doanh nghiệp phải học hoặc có thêm điều gì, và hiện đã có chưa.
+- Chọn một và gác phần còn lại | Chọn hướng chính trong một đến hai năm, viết ra những hướng tạm không làm.
+:::
 
-Nhiều doanh nghiệp vội tìm thị trường mới trong khi khách hàng hiện có vẫn mua ít hơn khả năng. Trước khi đi xa, nên kiểm tra: khách nào mua nhiều nhất, vì sao một nhóm khách bỏ đi.
+Bước cuối là bước khó nhất, xem thêm [biết không làm gì](/goc-nhin/biet-khong-lam-gi/). Khi hướng đã chọn đòi hỏi nhiều người và nhiều điểm bán hơn, đọc tiếp [tái cấu trúc tổ chức khi tăng trưởng nhanh](/goc-nhin/tai-cau-truc-to-chuc-khi-tang-truong-nhanh/).
 
-### 2. Năng lực nào là thứ doanh nghiệp làm tốt hơn người khác?
+:::principle
+Đào hết chỗ đang đứng rồi hãy đi xa. Càng xa chỗ quen, càng phải chắc tay.
+:::
 
-Hướng tăng trưởng nên dựa trên năng lực đã được chứng minh. Nếu thế mạnh là hiểu sâu một nhóm khách hàng, phát triển sản phẩm cho chính nhóm đó thường hợp lý hơn. Nếu thế mạnh là sản phẩm có chất lượng ổn định và quy trình chuẩn, phát triển thị trường có cơ sở hơn.
+:::exercise
+Viết ra ba ý tưởng tăng trưởng bạn đang nghĩ đến. Đặt mỗi ý vào một ô của ma trận Ansoff. Nếu không có ý nào ở ô Thâm nhập, hãy viết thêm một ý cho ô đó.
+:::
 
-### 3. Hướng này cần thêm nguồn lực gì, và doanh nghiệp có chúng không?
+:::quote
+兵無常勢，水無常形
+Binh vô thường thế, thuỷ vô thường hình
+Binh không có thế cố định, nước không có hình cố định
+Tôn Tử binh pháp · Hư thực
+:::
 
-Mỗi hướng kéo theo nhu cầu riêng về vốn, con người, cung ứng, thời gian của ban lãnh đạo. Kế hoạch chưa tính đến phần này thường dừng giữa chừng.
-
-### 4. Nếu chọn hướng này, doanh nghiệp sẽ tạm không làm gì?
-
-Chiến lược là lựa chọn. Theo tinh thần của Michael Porter, chọn điều không làm quan trọng ngang chọn điều sẽ làm. Một doanh nghiệp vừa và nhỏ hiếm khi đủ sức theo cả bốn ô cùng lúc. Tham khảo thêm bài [biết không làm gì](/goc-nhin/biet-khong-lam-gi/) về những lời từ chối có chủ đích.
-
-## Ví dụ giả định: một xưởng nội thất gỗ
-
-Ví dụ giả định: một xưởng nội thất gỗ có khách hàng chính là các gia đình ở một thành phố lớn, mua qua cửa hàng trưng bày. Ban lãnh đạo cân nhắc bốn hướng:
-
-- **Thâm nhập thị trường:** giữ liên lạc với khách cũ, đưa ra dịch vụ bảo dưỡng định kỳ, gợi ý sản phẩm bổ sung khi khách chuyển nhà hoặc sửa nhà.
-- **Phát triển thị trường:** bán cùng dòng sản phẩm sang một thành phố khác, hoặc cho nhóm khách mới như văn phòng nhỏ, quán cà phê.
-- **Phát triển sản phẩm:** thêm đồ trang trí, đồ gia dụng bằng gỗ cho đúng nhóm gia đình đã mua nội thất.
-- **Đa dạng hoá:** mở dịch vụ thiết kế thi công trọn gói cho chủ đầu tư dự án — sản phẩm mới, khách hàng mới, cách bán mới.
-
-Nếu phân tích cho thấy tỷ lệ khách quay lại thấp và xưởng mạnh về tay nghề hơn là bán hàng, hai ô đầu tiên có thể mang lại kết quả với ít rủi ro hơn. Hướng đa dạng hoá chỉ nên xem xét khi xưởng đã có năng lực quản lý dự án và đội ngũ phù hợp.
-
-## Từ hướng tăng trưởng đến kế hoạch triển khai
-
-Chọn ô trên ma trận mới là bước đầu. Để thành chiến lược tăng trưởng thực thi được, doanh nghiệp cần thêm:
-
-- **Mục tiêu cụ thể và cách đo:** tăng trưởng đến từ đâu, đo bằng chỉ số nào. Bài [đo lường hiệu quả chiến lược](/goc-nhin/do-luong-hieu-qua-chien-luoc/) gợi ý bộ chỉ số tối thiểu.
-- **Thứ tự ưu tiên:** làm thử ở quy mô nhỏ trước, mở rộng khi có tín hiệu rõ.
-- **Điều kiện dừng:** những dấu hiệu nào cho thấy cần điều chỉnh hoặc rút lui, được thống nhất trước khi bắt đầu.
-
-Ma trận Ansoff cũng nên được đặt cạnh các phân tích khác. Một [phân tích SWOT đúng cách](/goc-nhin/phan-tich-swot-dung-cach/) giúp nhìn rõ năng lực và bối cảnh trước khi chọn hướng.
-
-Clairmont đồng hành cùng doanh nghiệp từ bước nghiên cứu, lựa chọn hướng tăng trưởng đến triển khai và đánh giá. Tìm hiểu thêm tại [tư vấn chiến lược doanh nghiệp](/dich-vu/tu-van-chien-luoc-doanh-nghiep/).
+Clairmont đồng hành cùng doanh nghiệp đánh giá hướng tăng trưởng và lập kế hoạch triển khai — xem [tư vấn chiến lược doanh nghiệp](/dich-vu/tu-van-chien-luoc-doanh-nghiep/).
 
 ## Câu hỏi thường gặp
 
 ### Ma trận Ansoff có còn phù hợp với doanh nghiệp hiện nay không?
 
-Có, nếu dùng như một công cụ đặt câu hỏi. Ma trận không cho biết nên chọn hướng nào, nhưng giúp ban lãnh đạo nhìn rõ mỗi hướng đòi hỏi học thêm những gì và rủi ro nằm ở đâu.
+Có. Ma trận ra đời từ năm 1957 nhưng hai câu hỏi "bán gì, bán cho ai" vẫn là gốc của mọi quyết định tăng trưởng. Nó không thay được nghiên cứu thị trường, nhưng giúp nhóm lãnh đạo nói cùng một ngôn ngữ về rủi ro.
 
 ### Doanh nghiệp có thể theo nhiều hướng tăng trưởng cùng lúc không?
 
-Có thể, khi nguồn lực đủ và các hướng hỗ trợ nhau. Với doanh nghiệp vừa và nhỏ, thường nên có một hướng chính và một hướng thử nghiệm nhỏ, thay vì dàn đều nguồn lực.
+Có thể, nếu có đủ nguồn lực và người phụ trách riêng cho từng hướng. Với doanh nghiệp nhỏ, theo nhiều hướng một lúc thường làm mỏng sức. Nên có một hướng chính, các hướng khác ở mức thử nghiệm.
 
 ### Đa dạng hoá có phải là cách giảm rủi ro không?
 
-Đa dạng hoá có thể giảm sự phụ thuộc vào một thị trường, nhưng bản thân bước đa dạng hoá lại mang rủi ro cao nhất trong bốn hướng. Nó hợp lý khi có năng lực chuyển giao được hoặc sự cộng hưởng rõ ràng.
+Không hẳn. Đa dạng hoá có thể giảm phụ thuộc vào một thị trường, nhưng chính bước đi đó lại là ô rủi ro cao nhất trong ma trận. Nên cân nhắc khi doanh nghiệp đã có nền tảng vững ở các ô gần hơn.

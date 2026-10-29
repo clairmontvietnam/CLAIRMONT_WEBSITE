@@ -592,3 +592,5 @@ a.more:hover{border-color:var(--gold-2)}
 .card .mchip{display:flex;align-items:center;gap:10px;margin-bottom:4px}
 .card .mchip svg{width:44px;height:44px;flex:0 0 44px;padding:6px;border-radius:12px;background:#170704;border:1px solid rgba(201,173,123,.3)}
 .card .mchip span{font:600 10.5px/1.4 var(--f-label);letter-spacing:.14em;text-transform:uppercase;color:var(--gold)}
+.v-ring.many .nd{width:23%;padding:8px 4px;font-size:clamp(10.5px,1.3vw,13px)}
+.v-ring.many .ctr{width:26%}

@@ -86,7 +86,7 @@ CHARS = {
                  f'<path d="M12 18h6l6 22h22l5-16H21" fill="none" stroke="{GOLD}" stroke-width="2.4" stroke-linejoin="round"/><circle cx="27" cy="46" r="3" fill="{IVORY}"/><circle cx="43" cy="46" r="3" fill="{IVORY}"/>'),
     'cau-hieu': ('Cậu Hiếu', 'Khách sạn Hiếu Thảo',
                  f'<path d="M14 42a18 18 0 0 1 36 0z" fill="none" stroke="{GOLD}" stroke-width="2.4"/><path d="M10 46h44" stroke="{IVORY}" stroke-width="2.6" stroke-linecap="round"/><circle cx="32" cy="21" r="3" fill="{GOLD}"/>'),
-    'cau-trong': ('Cậu Trống', 'xưởng đồ thủ công KỂ',
+    'cau-trong': ('Cậu Trống', 'xưởng đồ thủ công',
                   f'<ellipse cx="32" cy="22" rx="16" ry="6" fill="none" stroke="{GOLD}" stroke-width="2.4"/><path d="M16 22v18c0 3.3 7.2 6 16 6s16-2.7 16-6V22" fill="none" stroke="{GOLD}" stroke-width="2.4"/><path d="M20 26l8 18M44 26l-8 18" stroke="{RED}" stroke-width="2"/>'),
     'chi-thao': ('Chị Thảo', 'văn phòng tư vấn Clairmont',
                  f'<circle cx="32" cy="32" r="18" fill="none" stroke="{GOLD}" stroke-width="2.4"/><path d="M32 18l5 14-5 14-5-14z" fill="{GOLD}"/><path d="M18 32h28" stroke="{IVORY}" stroke-width="1.6" opacity=".7"/>'),
@@ -177,7 +177,8 @@ def _around(items, r=38, start=-90):
 
 
 def v_cycle(items, o, radial=False):
-    pos = _around(items, 38 if not radial else 39)
+    many = len(items) > 6
+    pos = _around(items, 41 if many else (38 if not radial else 39))
     n = len(items)
     svg = ['<svg viewBox="0 0 100 100" aria-hidden="true">']
     if radial:
@@ -194,7 +195,7 @@ def v_cycle(items, o, radial=False):
     nodes = ''.join(f'<div class="nd" style="left:{x:.1f}%;top:{y:.1f}%"><b>{i + 1}</b><span>{inline(l)}</span></div>' for i, ((l, _), (x, y)) in enumerate(zip(items, pos)))
     center = o.get('center', '')
     c = f'<div class="ctr">{inline(center)}</div>' if center else ''
-    return f'<div class="v-ring{" radial" if radial else ""}">{"".join(svg)}{c}{nodes}</div>'
+    return f'<div class="v-ring{" radial" if radial else ""}{" many" if many else ""}">{"".join(svg)}{c}{nodes}</div>'
 
 
 def v_steps(items, o):

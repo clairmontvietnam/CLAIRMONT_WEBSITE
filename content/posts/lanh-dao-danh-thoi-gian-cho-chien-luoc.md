@@ -1,79 +1,105 @@
 ---
 slug: lanh-dao-danh-thoi-gian-cho-chien-luoc
-title: Lãnh đạo chiến lược: dành thời gian cho điều quan trọng
-h1: Lãnh đạo doanh nghiệp dành thời gian cho chiến lược như thế nào
-description: Lãnh đạo chiến lược bắt đầu từ cách dùng thời gian. Bài viết chia sẻ nhịp tuần, quý, năm và những câu hỏi giúp người đứng đầu thoát khỏi vòng việc gấp.
-keywords: lãnh đạo chiến lược, quản lý thời gian lãnh đạo, tư duy chiến lược, nhịp chiến lược, lãnh đạo doanh nghiệp
-summary: Chiến lược thường không thiếu ý tưởng mà thiếu thời gian được bảo vệ — và một nhịp làm việc đều đặn.
+title: Lãnh đạo chiến lược: dùng thời gian theo ma trận Eisenhower
+h1: Lãnh đạo chiến lược: vì sao việc quan trọng luôn bị việc gấp lấn át?
+description: Lãnh đạo chiến lược bắt đầu từ cách dùng thời gian. Ma trận Eisenhower chỉ ra vì sao chiến lược nằm ở ô "quan trọng, không gấp" và cách giữ ô đó.
+keywords: lãnh đạo chiến lược, ma trận Eisenhower, quản lý thời gian lãnh đạo, tư duy chiến lược, nhịp chiến lược, lãnh đạo doanh nghiệp
+summary: Không ai bỏ quên chiến lược cả. Nó chỉ lặng lẽ nằm ở ô không bao giờ gấp, rồi bị dời mãi.
 date: 2026-10-29
 category: Góc nhìn Nhà sáng lập
 author: Clairmont Group
 ---
 
-Trong các buổi làm việc với lãnh đạo doanh nghiệp, chúng tôi thường nghe cùng một câu: "Tôi biết cần nghĩ về chiến lược, nhưng không có thời gian." Câu nói đó phản ánh một thực tế. Người đứng đầu doanh nghiệp vừa và nhỏ thường kiêm nhiều vai: bán hàng, tuyển người, duyệt chi, giải quyết sự cố. Lịch tuần nào cũng kín, và chiến lược luôn là việc để "tuần sau".
+:::hook
+Lãnh đạo bận vì doanh nghiệp còn nhiều việc, rảnh rồi sẽ nghĩ chiến lược? **Sai.** Chiến lược không bao giờ tự trở nên gấp; nếu không được **xếp lịch trước**, nó sẽ luôn thua những việc đang réo tên.
+:::
 
-Lãnh đạo chiến lược, theo cách chúng tôi hiểu, không bắt đầu từ một bản kế hoạch dày. Nó bắt đầu từ việc người đứng đầu bảo vệ được một phần thời gian cho những câu hỏi không ai khác trong doanh nghiệp có thể trả lời thay. Bài viết này chia sẻ cách chúng tôi nghĩ về chuyện đó, từ chính công việc của Clairmont và từ những doanh nghiệp chúng tôi đồng hành.
+:::takeaways
+- Việc gấp ồn ào, việc quan trọng thì im lặng chờ.
+- Chiến lược nằm ở ô quan trọng nhưng không gấp của ma trận Eisenhower.
+- Thời gian chiến lược phải được giữ chỗ như một cuộc hẹn.
+:::
 
-## Việc gấp luôn thắng việc quan trọng, nếu không có cơ chế
+:::story cau-hieu | Cuốn sổ chưa bao giờ được mở
+Cậu Hiếu có một cuốn sổ ghi ý tưởng cho Khách sạn Hiếu Thảo: làm lại sảnh, thêm gói lưu trú dài ngày, liên kết với mấy quán ăn trong phố. Cuốn sổ ấy đã nằm trong ngăn kéo gần một năm.
 
-Ma trận "gấp – quan trọng", thường gắn với tên Tổng thống Mỹ Dwight Eisenhower và được Stephen Covey phổ biến, chỉ ra một điều đơn giản: những việc quan trọng nhưng không gấp là những việc dễ bị bỏ lại nhất. Chiến lược nằm đúng ở ô đó. Không có khách hàng nào gọi điện đòi doanh nghiệp xem lại định vị. Không có hạn chót nào buộc ban lãnh đạo phải quyết định năm sau không làm gì.
+Ngày nào cũng có việc: khách đổi phòng, máy nước nóng hỏng, nhân viên xin nghỉ. Tối nào cậu cũng nói với vợ: *"Để tuần sau rảnh anh ngồi tính."* Tuần sau lại có việc khác.
 
-Vì vậy, chờ đến lúc "rảnh" để nghĩ về chiến lược gần như đồng nghĩa với không bao giờ nghĩ. Điều cần là một cơ chế: thời gian được đặt trước, câu hỏi được chuẩn bị trước, và người khác trong tổ chức biết đó là khoảng thời gian không bị chen ngang.
+Một hôm mất điện cả buổi chiều, không làm gì được, cậu mới lôi cuốn sổ ra đọc. Ba tiếng ngồi yên ấy cho cậu một kế hoạch rõ hơn cả năm bận rộn. Cậu nhận ra thứ mình thiếu chưa bao giờ là ý tưởng, mà là một khoảng thời gian không ai được gọi.
+:::
 
-## Ba nhịp: tuần, quý, năm
+Người đứng đầu doanh nghiệp nào cũng từng có một cuốn sổ như thế. Câu hỏi then chốt là: **trong lịch tuần này của bạn, giờ nào là giờ dành cho chiến lược?**
 
-Chúng tôi thấy hữu ích khi chia thời gian dành cho chiến lược thành ba nhịp, mỗi nhịp có câu hỏi riêng.
+## Ma trận Eisenhower: chiến lược nằm ở ô nào?
 
-### Nhịp tuần: nhìn lại hướng đi
+:::model matrix | Ma trận Eisenhower | Được Stephen Covey phổ biến
+x: Gấp | Không gấp
+y: Không quan trọng | Quan trọng
+highlight: 2
+- Làm ngay | Quan trọng và gấp: sự cố, khách phàn nàn, hạn chót sát nút.
+- Lên lịch | Quan trọng nhưng không gấp: chiến lược, đào tạo người, xây quan hệ đối tác.
+- Giao việc | Gấp nhưng không quan trọng với vai trò lãnh đạo: nhiều cuộc gọi, giấy tờ thường ngày.
+- Bỏ | Không gấp, không quan trọng: những việc chỉ làm cho có, làm vì quen tay.
+:::
 
-Một khoảng ngắn mỗi tuần, tách khỏi họp vận hành. Câu hỏi không phải "tuần này làm được gì" mà là: những việc đã làm có đang đưa doanh nghiệp đến gần lựa chọn chiến lược đã đặt ra không? Có tín hiệu nào từ khách hàng, đối thủ, thị trường cần ghi lại để bàn kỹ hơn?
+Ma trận chia việc theo hai câu hỏi: việc này có gấp không, và có quan trọng không. Stephen Covey nhấn mạnh rằng người làm việc hiệu quả dành phần lớn sức cho ô **Lên lịch**, vì đó là nơi tạo ra kết quả lâu dài và giảm bớt sự cố ở ô Làm ngay.
 
-### Nhịp quý: điều chỉnh ưu tiên
+- Ô Làm ngay không thể bỏ, nhưng nếu lãnh đạo sống trọn ở đây thì doanh nghiệp chỉ đang chữa cháy.
+- Ô Giao việc là nơi lãnh đạo lấy lại thời gian. Việc gấp mà người khác làm được, hãy để người khác làm.
+- Ô Lên lịch không có ai nhắc. Chỉ khi được đặt vào lịch với giờ cụ thể, nó mới thực sự xảy ra.
 
-Mỗi quý, ban lãnh đạo dành một buổi trọn vẹn để rà lại các ưu tiên. Đây là lúc xem việc gì cần đẩy nhanh, việc gì nên dừng, nguồn lực nên dịch chuyển về đâu. Buổi này cần dữ liệu chuẩn bị trước; nếu không, nó sẽ trở thành một cuộc họp vận hành dài hơn bình thường.
+## Khi chiến lược chỉ là "để sau"
 
-### Nhịp năm: đặt lại câu hỏi lớn
+:::compare Thường làm | Nên làm
+- Đợi rảnh mới ngồi nghĩ chiến lược || Đặt một buổi cố định mỗi tuần, như một cuộc hẹn với khách quan trọng.
+- Họp chiến lược rồi trôi sang chuyện doanh số tháng này || Tách riêng họp vận hành và họp chiến lược, mỗi buổi một chương trình.
+- Ôm mọi việc gấp vì "mình làm nhanh hơn" || Giao việc ở ô thứ ba, chấp nhận lúc đầu người khác làm chậm hơn.
+:::
 
-Mỗi năm một lần, nên có thời gian đủ dài, tốt nhất là ra khỏi văn phòng, để đặt lại những câu hỏi nền: doanh nghiệp đang phục vụ ai, khác biệt ở đâu, ba năm tới muốn ở vị trí nào, và đâu là những điều sẽ chủ động không làm. Đây cũng là lúc dùng phương pháp Nghiên cứu → Chiến lược → Triển khai → Đánh giá như một vòng khép kín, thay vì một dự án làm một lần.
+:::example Hai giờ sáng thứ Hai
+Một chủ xưởng in nhỏ thấy tuần nào cũng kín việc. Ông giữ hai giờ sáng thứ Hai, không nhận điện thoại, chỉ làm một việc: đọc lại các con số tuần trước và trả lời một câu hỏi lớn.
 
-## Giải phóng thời gian: ủy quyền trước, chiến lược sau
+Có tuần câu hỏi là nên giữ khách nào, có tuần là nên ngừng loại sản phẩm nào. Không phải tuần nào cũng ra kết luận. Nhưng sau vài tháng, ông ra quyết định chủ động hơn, và số việc ở ô Làm ngay thưa dần.
+:::
 
-Thời gian cho chiến lược không tự xuất hiện. Nó đến từ những việc người đứng đầu thôi không làm. Trong trải nghiệm của chúng tôi, có ba nhóm việc lãnh đạo thường giữ lại lâu hơn cần thiết:
+## Áp dụng cho lãnh đạo doanh nghiệp
 
-- **Những phê duyệt có thể chuẩn hoá.** Nếu một quyết định lặp lại nhiều lần với cùng tiêu chí, nó nên được viết thành quy định và giao xuống.
-- **Những sự cố có thể phòng ngừa.** Lãnh đạo liên tục chữa cháy thường là dấu hiệu quy trình chưa rõ, không phải dấu hiệu nhân viên kém.
-- **Những việc mình làm giỏi nhất.** Đây là nhóm khó buông nhất. Người sáng lập giỏi bán hàng thường tiếp tục bán hàng, dù doanh nghiệp đã cần họ nhìn xa hơn.
+:::steps Bốn bước giữ ô Lên lịch
+- Ghi lại một tuần thật | Ghi mọi việc mình làm trong năm ngày, rồi xếp từng việc vào bốn ô. Kết quả thường khác hẳn cảm giác.
+- Bỏ và giao trước | Gạch những việc ở ô Bỏ. Chọn ba việc ở ô Giao việc và giao trong tuần này.
+- Giữ chỗ trong lịch | Đặt ít nhất một buổi cố định mỗi tuần cho ô Lên lịch. Coi nó như cuộc hẹn không được dời.
+- Mang câu hỏi lớn vào | Mỗi buổi chỉ một câu hỏi: thị trường, sản phẩm, con người hay điều nên thôi làm.
+:::
 
-Ủy quyền không có nghĩa là rời xa vận hành. Lãnh đạo vẫn cần những điểm tiếp xúc trực tiếp với khách hàng và đội ngũ để chiến lược không thành lý thuyết. Khác biệt nằm ở chỗ họ chọn tiếp xúc ở đâu và vì mục đích gì.
+Câu hỏi nào đáng mang vào buổi đó? Bài [chiến lược doanh nghiệp là gì](/goc-nhin/chien-luoc-doanh-nghiep-la-gi/) và [biết không làm gì](/goc-nhin/biet-khong-lam-gi/) là hai điểm khởi đầu tốt.
 
-## Những câu hỏi đáng mang vào thời gian chiến lược
+:::principle
+Việc gấp tự tìm đến bạn. Việc quan trọng phải được bạn mời vào lịch.
+:::
 
-Thời gian được bảo vệ mà không có câu hỏi tốt thì dễ trôi thành đọc báo cáo. Một số câu hỏi chúng tôi thường dùng:
+:::exercise
+Mở lịch tuần tới. Chọn một khoảng 90 phút, đặt tên "Chiến lược", tắt thông báo trong giờ đó. Viết sẵn một câu hỏi bạn sẽ trả lời trong buổi ấy.
+:::
 
-- Nếu bắt đầu lại doanh nghiệp từ hôm nay, chúng ta có còn làm những việc đang làm không?
-- Khách hàng tốt nhất của chúng ta là ai, và vì sao họ chọn chúng ta?
-- Điều gì đang thay đổi trong thị trường mà ta chưa phản ứng?
-- Việc gì đang tiêu nhiều nguồn lực nhưng không đưa doanh nghiệp đến gần mục tiêu?
-- Năm nay, chúng ta chọn không làm điều gì?
+:::quote
+千里之行，始於足下
+Thiên lý chi hành, thuỷ ư túc hạ
+Đi nghìn dặm bắt đầu từ một bước chân
+Đạo Đức Kinh · chương 64
+:::
 
-Câu hỏi cuối là câu khó nhất và cũng quan trọng nhất. Tinh thần "Không làm mọi thứ. Chỉ làm điều đúng. Làm đúng cách. Đúng lúc." mà Clairmont theo đuổi xuất phát từ quan niệm của Michael Porter rằng chiến lược là chọn điều không làm. Chúng tôi đã bàn kỹ hơn trong bài [biết không làm gì](/goc-nhin/biet-khong-lam-gi/).
-
-## Khi nào nên có người đồng hành
-
-Có những giai đoạn, thời gian dành cho chiến lược vẫn không đủ, không phải vì thiếu giờ mà vì người đứng đầu ở quá gần vấn đề. Một góc nhìn từ bên ngoài có thể giúp đặt câu hỏi khó hơn, cấu trúc buổi làm việc chặt hơn và giữ nhịp khi doanh nghiệp bận rộn.
-
-Clairmont đồng hành cùng ban lãnh đạo trong các buổi làm việc chiến lược định kỳ, như một phần của dịch vụ [tư vấn chiến lược doanh nghiệp](/dich-vu/tu-van-chien-luoc-doanh-nghiep/). Vai trò của chúng tôi không phải là quyết định thay, mà là giúp thời gian lãnh đạo dành cho chiến lược được dùng đúng cho điều quan trọng.
+Khi cần một người cùng ngồi giữ nhịp chiến lược, Clairmont có thể đồng hành — xem [tư vấn chiến lược doanh nghiệp](/dich-vu/tu-van-chien-luoc-doanh-nghiep/).
 
 ## Câu hỏi thường gặp
 
 ### Lãnh đạo doanh nghiệp nhỏ nên dành bao nhiêu thời gian cho chiến lược?
 
-Không có con số chung. Quan trọng hơn là thời gian đó được đặt trước, đều đặn và có câu hỏi rõ ràng, theo các nhịp tuần, quý, năm.
+Không có con số chung cho mọi doanh nghiệp. Điều quan trọng hơn là sự đều đặn: một buổi cố định mỗi tuần thường hiệu quả hơn một đợt dài mỗi năm. Khi đã quen, có thể thêm buổi nhìn lại theo quý.
 
 ### Có nên giao việc nghĩ chiến lược cho một bộ phận riêng?
 
-Bộ phận kế hoạch có thể chuẩn bị dữ liệu và phân tích, nhưng những lựa chọn cốt lõi về khách hàng, khác biệt và điều không làm vẫn cần người đứng đầu trực tiếp quyết định.
+Bộ phận riêng có thể chuẩn bị dữ liệu và phương án. Nhưng quyết định chọn hướng đi và điều không làm vẫn là việc của người đứng đầu. Giao hết đi thì chiến lược dễ thành báo cáo nằm trong ngăn kéo.
 
 ### Làm sao để buổi họp chiến lược không biến thành họp vận hành?
 
-Tách lịch, chuẩn bị dữ liệu trước, giới hạn chương trình ở vài câu hỏi lớn và ghi lại quyết định cùng người chịu trách nhiệm theo dõi.
+Tách riêng hai loại họp và ghi chương trình trước. Khi chuyện vận hành chen vào, ghi lại để xử lý ở buổi khác. Mỗi buổi chiến lược nên kết thúc bằng một quyết định hoặc một câu hỏi cho lần sau.
