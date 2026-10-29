@@ -3,7 +3,7 @@ slug: dau-hieu-can-tai-cau-truc-doanh-nghiep
 title: 7 dấu hiệu cần tái cấu trúc doanh nghiệp | Clairmont Group
 h1: 7 dấu hiệu doanh nghiệp cần tái cấu trúc, và cách làm không gây xáo trộn
 description: Bảy dấu hiệu cho thấy doanh nghiệp cần tái cấu trúc tổ chức và vận hành, cùng các bước thực hiện từng phần để giữ ổn định đội ngũ và khách hàng.
-keywords: tái cấu trúc doanh nghiệp, dấu hiệu cần tái cấu trúc, tái cấu trúc tổ chức, tái cấu trúc vận hành, quản trị tổ chức
+keywords: dấu hiệu cần tái cấu trúc doanh nghiệp, tái cấu trúc doanh nghiệp, dấu hiệu cần tái cấu trúc, tái cấu trúc tổ chức, tái cấu trúc vận hành, quản trị tổ chức
 summary: Nhận diện sớm các dấu hiệu tổ chức không còn theo kịp quy mô, và cách tái cấu trúc từng bước mà không gây xáo trộn.
 date: 2026-10-29
 category: Quản trị tổ chức
