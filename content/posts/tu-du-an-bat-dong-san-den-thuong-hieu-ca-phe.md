@@ -58,7 +58,7 @@ Kinh nghiệm tư vấn của Nhà sáng lập được tôi luyện chủ yếu
 Điểm giao của Clairmont gói trong câu "Bản sắc dẫn lối chiến lược": tìm điều có thật, chọn cho rõ, rồi triển khai có kỷ luật. Ngành có thể khác nhau như hai vùng đất khác thổ nhưỡng; cách gieo thì vẫn giữ nguyên.
 
 :::example Những điều phải học lại từ đầu
-**Nhịp phản hồi.** Một dự án bất động sản đi qua chu kỳ nhiều năm. Một sản phẩm tiêu dùng nhận phản hồi ngay từ lô hàng đầu tiên, nên phải quen thử nhỏ và sửa nhanh.
+**Nhịp phản hồi.** Một dự án bất động sản đi qua chu kỳ nhiều năm. Một sản phẩm tiêu dùng nhận phản hồi ngay từ lô đầu tiên, nên phải quen thử nhỏ và sửa nhanh.
 
 **Độ chi tiết.** Ở dự án lớn, nhiều hạng mục được giao cho đơn vị chuyên môn. Ở một thương hiệu nhỏ, độ dày tờ giấy hay sắc màu một con tem đều đi thẳng đến tay khách.
 

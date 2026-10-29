@@ -58,8 +58,6 @@ Clairmont chọn nấc **bảo trợ**. Mỗi thương hiệu có tên, nhận d
 - Đổi nấc mỗi khi ra sản phẩm mới || Giữ một nấc chính, chỉ đổi khi chiến lược thực sự đổi.
 :::
 
-Một hệ thương hiệu cũng giống một dãy phố nghề: mỗi cửa hiệu một biển riêng, nhưng người qua đường vẫn nhận ra cùng một nếp. Quy tắc chung không làm các thương hiệu giống nhau; nó giữ cho sự khác nhau ấy có trật tự.
-
 ## Chọn nấc cho hệ thương hiệu của doanh nghiệp
 
 :::steps Bốn bước chọn nấc kiến trúc thương hiệu
