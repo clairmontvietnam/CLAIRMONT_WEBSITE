@@ -12,6 +12,8 @@ New daily article = add one file to content/posts/ (frontmatter + Markdown) and 
 import datetime as dt, html, json, os, re, shutil, sys
 from pathlib import Path
 import markdown
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+import blocks
 
 ROOT = Path(__file__).resolve().parent.parent
 SITE = 'https://www.clairmontgroup.vn'
@@ -97,8 +99,9 @@ def parse_md(path):
         body = body[:fm.start()].rstrip()
         for q in re.finditer(r'^###\s+(.+?)\n(.*?)(?=^###\s|\Z)', faq_txt, re.S | re.M):
             faq.append((q.group(1).strip(), ' '.join(q.group(2).split())))
+    body, store = blocks.extract(body, meta)
     md = markdown.Markdown(extensions=['toc', 'tables', 'sane_lists'], extension_configs={'toc': {'toc_depth': '2'}})
-    meta['html'] = md.convert(body)
+    meta['html'] = blocks.restore(md.convert(body), store)
     meta['toc'] = [(t['id'], t['name']) for t in md.toc_tokens]
     meta['faq'] = faq
     meta['words'] = len(re.sub(r'<[^>]+>', ' ', meta['html']).split())
@@ -230,9 +233,10 @@ def toc_box(toc):
     return f'<div class="glass"><h4>Nội dung</h4><ol>{li}</ol></div>'
 
 
-def card(url, k, title, summary, go='Đọc tiếp →', cat=None):
+def card(url, k, title, summary, go='Đọc tiếp →', cat=None, model=None):
     dc = f' data-cat="{esc(cat)}"' if cat else ''
-    return (f'<a class="card" href="{url}"{dc}><span class="k">{esc(k)}</span><h3>{esc(title)}</h3>'
+    mc = f'<div class="mchip">{blocks.glyph(model["type"])}<span>{esc(re.sub("<[^>]+>", "", model["title"]).split(" · ")[0])}</span></div>' if model else ''
+    return (f'<a class="card" href="{url}"{dc}>{mc}<span class="k">{esc(k)}</span><h3>{esc(title)}</h3>'
             f'<p>{esc(summary)}</p><span class="go">{go}</span></a>')
 
 
@@ -263,7 +267,7 @@ def main():
     for key, frag, url, nav, title, desc in CORE:
         body = read(ROOT / f'src/pages/{frag}.html')
         pcard = lambda p: card(f'/goc-nhin/{p["slug"]}/', p.get('category', 'Góc nhìn'), p.get('h1') or p['title'],
-                               p.get('summary', p['description']), cat=p.get('category', 'Góc nhìn'))
+                               p.get('summary', p['description']), cat=p.get('category', 'Góc nhìn'), model=(p.get('models') or [None])[0])
         if '{{POSTS}}' in body:
             cats = []
             for p in posts:
