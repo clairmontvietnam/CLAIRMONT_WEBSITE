@@ -22,7 +22,7 @@ FORM_ENDPOINT = ''  # Google Apps Script / Formspree URL for the contact form (e
 ORG = {
     'name': 'Clairmont Group',
     'legal': 'Công ty TNHH Clairmont Group',
-    'alt': ['Clairmont Việt Nam', 'Clairmont Vietnam', 'Clairmont'],
+    'alt': ['Clairmont Việt Nam', 'Clairmont Vietnam', 'Clairmont Group Việt Nam', 'Công ty TNHH Clairmont Group', 'CLAIRMONT GROUP', 'Clairmont'],
     'tax': '0111450942',
     'founded': '2021-04-17',
     'email': 'clairmontvietnam@gmail.com',
@@ -40,7 +40,7 @@ ORG = {
 CORE = [
     # key, fragment, url, nav, title, description
     ('home', 'home', '/', '/',
-     'Clairmont Group – Tư vấn chiến lược & phát triển thương hiệu',
+     'Clairmont Group | Clairmont Việt Nam – Tư vấn chiến lược',
      'Clairmont Group (Clairmont Việt Nam): tư vấn chiến lược doanh nghiệp, tái cấu trúc, tư vấn bất động sản, định vị và phát triển thương hiệu tại Hà Nội.'),
     ('gioi-thieu', 'gioi-thieu', '/gioi-thieu/', '/gioi-thieu/',
      'Giới thiệu Clairmont Group – Nhà sáng lập Tô Thị Thu Thảo',
@@ -120,6 +120,10 @@ def org_graph():
         'url': SITE + '/', 'logo': SITE + '/icon-512.png', 'image': OG_IMAGE,
         'email': o['email'], 'telephone': o['phone'], 'taxID': o['tax'], 'foundingDate': o['founded'],
         'slogan': o['slogan'], 'priceRange': 'Theo phạm vi dự án',
+        'description': 'Clairmont Group (Công ty TNHH Clairmont Group, MST 0111450942) là doanh nghiệp tư vấn chiến lược, phát triển thương hiệu và phát triển chuỗi giá trị tại Hà Nội, thành lập năm 2021, chủ sở hữu các thương hiệu FLEUR, KỂ, MỜI.',
+        'disambiguatingDescription': 'Công ty tư vấn chiến lược tại Hà Nội, Việt Nam; không liên quan đến The Clermont Group (Singapore).',
+        'brand': [{'@type': 'Brand', 'name': 'FLEUR'}, {'@type': 'Brand', 'name': 'KỂ', 'url': 'https://www.madebyke.vn/'}, {'@type': 'Brand', 'name': 'MỜI'}],
+        'identifier': {'@type': 'PropertyValue', 'propertyID': 'Mã số thuế', 'value': o['tax']},
         'address': {'@type': 'PostalAddress', 'streetAddress': o['street'], 'addressLocality': o['locality'],
                     'addressRegion': o['region'], 'addressCountry': 'VN'},
         'areaServed': {'@type': 'Country', 'name': 'Việt Nam'},
