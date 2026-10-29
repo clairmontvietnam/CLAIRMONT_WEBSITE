@@ -8,7 +8,7 @@ Trụ cột theo thứ trong tuần (dùng khi hết lịch): T2 Chiến lược
 
 | Xong | Ngày | Trụ cột | Tiêu đề | Từ khóa → cụm | Slug |
 |---|---|---|---|---|---|
-| [ ] | 2026-10-30 (T6) | Chuỗi giá trị | Phát triển chuỗi giá trị là gì? Năm cấp độ đồng hành giữa doanh nghiệp và đối tác | phát triển chuỗi giá trị → G | |
+| [ ] | 2026-10-30 (T6) | Chuỗi giá trị | Phát triển chuỗi giá trị là gì? Năm cấp độ đồng hành giữa doanh nghiệp và đối tác | chuỗi giá trị là gì → G | |
 | [ ] | 2026-10-31 (T7) | Nhà sáng lập | Vì sao Clairmont chọn bản sắc làm điểm xuất phát của chiến lược | Clairmont Group → A | |
 | [ ] | 2026-11-01 (CN) | Hỏi đáp | Thuê tư vấn chiến lược: doanh nghiệp cần chuẩn bị gì cho buổi làm việc đầu tiên | thuê tư vấn chiến lược → B | |
 | [ ] | 2026-11-02 (T2) | Chiến lược | Các bước xây dựng chiến lược cho doanh nghiệp vừa và nhỏ | xây dựng chiến lược doanh nghiệp → B | |
