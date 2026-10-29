@@ -1,88 +1,104 @@
 ---
 slug: chi-phi-tu-van-chien-luoc
-title: Chi phí tư vấn chiến lược phụ thuộc gì? | Clairmont Group
-h1: Chi phí tư vấn chiến lược phụ thuộc vào những yếu tố nào?
-description: Chi phí tư vấn chiến lược khác nhau rất nhiều giữa các dự án. Bài viết giải thích các yếu tố quyết định chi phí và cách đọc một đề xuất tư vấn.
-keywords: chi phí tư vấn chiến lược, phí tư vấn chiến lược, thuê tư vấn chiến lược, đề xuất tư vấn, tư vấn chiến lược doanh nghiệp
-summary: Không có một mức phí chung cho tư vấn chiến lược — chi phí đến từ phạm vi, độ sâu, thời gian và mức độ đồng hành.
+title: Chi phí tư vấn chiến lược và tam giác dự án
+h1: Chi phí tư vấn chiến lược: vì sao không có một mức giá chung?
+description: Chi phí tư vấn chiến lược phụ thuộc vào phạm vi, thời gian và độ sâu. Tam giác dự án giúp bạn đọc một đề xuất tư vấn và biết mình đang đánh đổi gì.
+keywords: chi phí tư vấn chiến lược, tam giác dự án, phí tư vấn chiến lược, thuê tư vấn chiến lược, đề xuất tư vấn
+summary: Muốn rộng, muốn nhanh và muốn ít tốn kém cùng lúc? Tam giác dự án cho thấy vì sao điều đó hiếm khi xảy ra.
 date: 2026-10-29
 category: Hỏi đáp
 author: Clairmont Group
 ---
 
-Chi phí tư vấn chiến lược là câu hỏi doanh nghiệp nào cũng đặt ra trước khi bắt đầu, và cũng là câu hỏi khó trả lời bằng một con số chung. Hai dự án cùng được gọi là "xây dựng chiến lược" có thể khác nhau rất xa về khối lượng công việc: một bên là vài buổi làm việc để rà soát định hướng, bên kia là nhiều tháng nghiên cứu thị trường, thiết kế lại mô hình và đồng hành triển khai.
+:::hook
+Chi phí tư vấn chiến lược là một bảng giá cố định, cứ hỏi là biết? **Chưa đúng.** Chi phí là kết quả của **ba lựa chọn**: làm rộng đến đâu, xong trong bao lâu, và chất lượng cần sâu tới mức nào.
+:::
 
-Bài viết không đưa ra mức giá. Thay vào đó, chúng tôi giải thích những yếu tố thực sự quyết định chi phí tư vấn chiến lược, để doanh nghiệp có thể đọc một đề xuất tư vấn một cách tỉnh táo và so sánh các đề xuất trên cùng một nền.
+:::takeaways
+- Không có mức phí chung, vì không có hai bài toán chiến lược giống hệt nhau.
+- Phạm vi, thời gian, chi phí là ba cạnh; đổi một cạnh, hai cạnh kia đổi theo.
+- Đọc đề xuất tư vấn bằng câu hỏi: mình đang đánh đổi cạnh nào?
+:::
 
-## Vì sao chi phí tư vấn chiến lược khó có một mức chung
+:::story ong-9-co | Mái tôn trước Tết
+Năm ngoái, mái tôn siêu thị đầu ngõ của ông 9 Cò bị dột. Ông gọi thợ, dặn một hơi: *"Làm lại cả mái, xong trước Tết, mà giá phải mềm nhé."*
 
-Tư vấn chiến lược không phải một sản phẩm đóng gói sẵn. Mỗi doanh nghiệp đến với một câu hỏi khác nhau: có nên mở thêm mảng kinh doanh mới, vì sao tăng trưởng chững lại, cần tái định vị hay tái cấu trúc, chuẩn bị gọi vốn hay mở rộng thị trường. Câu hỏi khác nhau dẫn đến phạm vi, phương pháp và đội ngũ khác nhau.
+Ông thợ già cười: *"Anh chọn hai thôi. Muốn cả mái mà nhanh thì phải thêm người. Muốn rẻ mà nhanh thì vá chỗ dột trước, sau Tết làm nốt."* Ông 9 Cò không chịu, hỏi thêm mấy nơi, tìm được đội khác nhận đủ cả ba. Ra Giêng, mưa xuân, mái dột đúng chỗ cũ, lần này ướt cả dãy kệ bánh kẹo.
 
-Vì vậy, khi một doanh nghiệp hỏi "tư vấn chiến lược hết bao nhiêu", câu trả lời có trách nhiệm luôn bắt đầu bằng câu hỏi ngược lại: doanh nghiệp cần quyết định điều gì, và cần những gì để quyết định được.
+Năm nay ông định mời người tư vấn mở thêm điểm bán. Câu đầu tiên ông viết vào sổ là: lần này mình chọn hai cạnh nào?
+:::
 
-## Sáu yếu tố quyết định chi phí tư vấn chiến lược
+Mời tư vấn chiến lược cũng là một dự án. Vì vậy câu hỏi đáng hỏi trước tiên không phải "bao nhiêu tiền", mà là: **mình cần phạm vi nào, trong bao lâu, và sẵn sàng đánh đổi điều gì?**
 
-### 1. Phạm vi câu hỏi
+## Tam giác dự án: ba cạnh giữ chất lượng ở giữa
 
-Đây là yếu tố lớn nhất. Một câu hỏi hẹp và rõ — chẳng hạn đánh giá một cơ hội mở rộng cụ thể — cần ít công sức hơn nhiều so với việc xây dựng chiến lược tổng thể cho cả doanh nghiệp trong nhiều năm. Phạm vi càng rộng, số mảng cần phân tích, số người cần phỏng vấn, số phương án cần cân nhắc càng nhiều.
+:::model venn | Tam giác dự án | Khung kinh điển trong quản lý dự án
+center: Chất lượng
+- Phạm vi | Làm những phần việc nào, cho bao nhiêu mảng, sâu đến mức nào.
+- Thời gian | Bao lâu thì xong, có bao nhiêu vòng trao đổi và điều chỉnh.
+- Chi phí | Nguồn lực bỏ ra: số người tham gia, mức độ chuyên môn, công đồng hành.
+:::
 
-### 2. Độ sâu nghiên cứu
+Trong quản lý dự án, ba ràng buộc này luôn kéo nhau. Muốn giữ chất lượng ở giữa, **đổi một cạnh thì phải chấp nhận hai cạnh kia đổi theo**.
 
-Một số dự án có thể dựa chủ yếu vào dữ liệu nội bộ và kinh nghiệm chuyên môn. Một số khác cần nghiên cứu thị trường riêng: khảo sát khách hàng, phỏng vấn đối tác, phân tích đối thủ, khảo sát thực địa. Nghiên cứu sơ cấp tốn thời gian và nguồn lực hơn đáng kể so với tổng hợp thông tin sẵn có.
+- Mở rộng phạm vi mà giữ nguyên thời gian thì cần thêm nguồn lực.
+- Rút ngắn thời gian mà giữ nguyên chi phí thì phải thu hẹp phạm vi.
+- Ép cả ba cùng lúc thì cạnh bị hy sinh âm thầm là chất lượng ở giữa.
 
-### 3. Mức độ sẵn sàng của dữ liệu doanh nghiệp
+## Đọc một đề xuất tư vấn qua ba cạnh
 
-Nếu doanh nghiệp đã có số liệu tài chính, kinh doanh, nhân sự rõ ràng, đội ngũ tư vấn có thể đi thẳng vào phân tích. Nếu dữ liệu rời rạc, phải thu thập và làm sạch trước, khối lượng công việc tăng lên. Đây là phần doanh nghiệp có thể chủ động giảm bằng cách chuẩn bị trước, như gợi ý trong bài [doanh nghiệp cần chuẩn bị gì trước khi thuê tư vấn chiến lược](/goc-nhin/chuan-bi-truoc-khi-thue-tu-van-chien-luoc/).
+:::compare Thường hỏi | Nên hỏi
+- "Gói này giá bao nhiêu?" || "Gói này gồm những đầu việc nào, và không gồm những gì?"
+- "Có làm nhanh hơn được không?" || "Nếu rút ngắn thời gian, phần nào sẽ được làm mỏng đi?"
+- "Bên nào rẻ hơn?" || "Hai đề xuất có cùng phạm vi, cùng độ sâu và cùng mức đồng hành không?"
+:::
 
-### 4. Mức độ đồng hành sau khi có chiến lược
+Hai đề xuất có con số khác nhau thường không phải vì một bên đắt, một bên rẻ. Chúng thường **mô tả hai dự án khác nhau** dưới cùng một cái tên "tư vấn chiến lược".
 
-Có doanh nghiệp chỉ cần một bản chiến lược và lộ trình. Có doanh nghiệp cần đơn vị tư vấn tiếp tục đồng hành trong giai đoạn triển khai: tham gia các buổi họp định kỳ, hỗ trợ điều chỉnh, đánh giá kết quả. Theo phương pháp bốn bước Nghiên cứu → Chiến lược → Triển khai → Đánh giá mà Clairmont áp dụng, phạm vi có thể dừng ở bước hai hoặc kéo dài đến bước bốn, và chi phí thay đổi tương ứng.
+:::example Ví dụ giả định — một chuỗi bán lẻ nhỏ
+Chủ một chuỗi bán lẻ nhỏ nhận hai đề xuất. Đề xuất thứ nhất làm một buổi chẩn đoán và một bản khuyến nghị. Đề xuất thứ hai có nghiên cứu khách hàng, các buổi làm việc với đội quản lý, lộ trình triển khai và đồng hành vài tháng đầu.
 
-### 5. Thời gian và nhịp độ
+Nếu chỉ so con số, đề xuất thứ nhất có vẻ hợp lý hơn. Nếu so ba cạnh, đây là hai phạm vi khác hẳn nhau. Câu hỏi đúng là: doanh nghiệp đang cần một bản đồ, hay cần người cùng đi đoạn đầu?
+:::
 
-Một dự án cần kết quả gấp đòi hỏi tập trung nhiều người trong thời gian ngắn. Một dự án có nhịp độ hợp lý cho phép làm việc tuần tự, có thời gian để doanh nghiệp phản hồi và thảo luận nội bộ.
+## Áp dụng cho doanh nghiệp
 
-### 6. Số bên liên quan và độ phức tạp của tổ chức
+:::steps Bốn bước trước khi hỏi chi phí tư vấn
+- Viết rõ vấn đề | Một đoạn ngắn: doanh nghiệp đang vướng ở đâu, quyết định nào cần đưa ra.
+- Chọn cạnh không được đổi | Thời hạn cứng, phạm vi tối thiểu, hay ngân sách trần — cạnh nào là cố định?
+- Hỏi về độ sâu | Có nghiên cứu thực địa không, bao nhiêu vòng làm việc, có đồng hành triển khai không.
+- So các đề xuất cùng phạm vi | Đặt các đề xuất cạnh nhau theo ba cạnh, rồi mới so con số.
+:::
 
-Doanh nghiệp có nhiều cổ đông, nhiều công ty thành viên hoặc nhiều cấp quản lý cần được lắng nghe và đồng thuận sẽ cần nhiều buổi làm việc, phỏng vấn và trình bày hơn.
+Bước đầu tiên quyết định phần lớn chất lượng cuộc trao đổi — xem thêm [cần chuẩn bị gì trước khi thuê tư vấn chiến lược](/goc-nhin/chuan-bi-truoc-khi-thue-tu-van-chien-luoc/) và [doanh nghiệp nhỏ khi nào nên thuê tư vấn](/goc-nhin/doanh-nghiep-nho-khi-nao-nen-thue-tu-van/).
 
-## Cách đọc một đề xuất tư vấn chiến lược
+:::principle
+Đừng hỏi giá trước. Hãy chọn cạnh nào được phép đổi.
+:::
 
-Khi nhận đề xuất, thay vì chỉ so con số cuối cùng, doanh nghiệp nên kiểm tra:
+:::exercise
+Viết ba dòng: phạm vi tối thiểu bạn cần, thời hạn bạn không thể lùi, và mức nguồn lực bạn sẵn sàng bỏ ra. Gạch chân một dòng không được thay đổi.
+:::
 
-- **Câu hỏi cần trả lời** có được nêu rõ không, có đúng điều doanh nghiệp cần quyết định không.
-- **Sản phẩm bàn giao** cụ thể là gì: báo cáo, phương án, lộ trình, bộ chỉ số, số buổi làm việc.
-- **Phương pháp**: nghiên cứu những gì, phỏng vấn ai, dựa trên dữ liệu nào.
-- **Những gì không nằm trong phạm vi.** Một đề xuất tốt nói rõ ranh giới, tránh hiểu lầm về sau.
-- **Vai trò của doanh nghiệp**: ai từ phía doanh nghiệp tham gia, cần dành bao nhiêu thời gian.
-- **Đội ngũ thực hiện**: ai trực tiếp làm việc, kinh nghiệm liên quan của họ.
+:::quote
+欲速則不達
+Dục tốc bất đạt
+Muốn nhanh thì không tới.
+Luận Ngữ · Tử Lộ
+:::
 
-Hai đề xuất có mức phí khác nhau nhiều thường là vì chúng mô tả hai phạm vi công việc khác nhau, dù cùng một tên gọi. Đặt chúng cạnh nhau theo các mục trên giúp so sánh công bằng hơn.
-
-## Làm sao để chi phí tư vấn tương xứng với giá trị
-
-Một số cách giúp doanh nghiệp sử dụng ngân sách tư vấn hiệu quả hơn:
-
-**Bắt đầu bằng giai đoạn chẩn đoán.** Thay vì cam kết một dự án lớn ngay từ đầu, có thể bắt đầu bằng một giai đoạn ngắn để làm rõ vấn đề, rồi quyết định phạm vi tiếp theo.
-
-**Thu hẹp câu hỏi.** Một câu hỏi rõ ràng giúp tập trung nguồn lực vào phần có giá trị nhất.
-
-**Tự làm những gì nội bộ làm được.** Thu thập dữ liệu, tổ chức lịch phỏng vấn, tổng hợp tài liệu có sẵn — những việc này đội ngũ doanh nghiệp thường làm tốt và giúp giảm khối lượng cho tư vấn. Bài [khi nào nên thuê tư vấn, khi nào tự làm](/goc-nhin/doanh-nghiep-nho-khi-nao-nen-thue-tu-van/) bàn kỹ hơn về ranh giới này.
-
-Ví dụ giả định: một doanh nghiệp sản xuất muốn "xây dựng chiến lược năm năm". Qua buổi làm việc đầu tiên, hai bên nhận ra câu hỏi cấp bách thực sự là có nên mở thêm một dòng sản phẩm mới hay không. Thu hẹp phạm vi vào câu hỏi đó giúp doanh nghiệp có câu trả lời sớm hơn, và có cơ sở để quyết định có cần một chiến lược tổng thể ở giai đoạn sau hay không.
-
-Clairmont trao đổi phạm vi và đề xuất cho từng doanh nghiệp sau khi hiểu câu hỏi cần giải quyết. Xem thêm về [tư vấn chiến lược doanh nghiệp](/dich-vu/tu-van-chien-luoc-doanh-nghiep/) hoặc [liên hệ](/lien-he/) để trao đổi.
+Muốn trao đổi về phạm vi phù hợp cho doanh nghiệp của bạn, xem [tư vấn chiến lược doanh nghiệp](/dich-vu/tu-van-chien-luoc-doanh-nghiep/).
 
 ## Câu hỏi thường gặp
 
-### Vì sao Clairmont không công bố bảng giá tư vấn chiến lược trên website?
+### Vì sao các đơn vị tư vấn không công bố một bảng giá chung?
 
-Vì mỗi dự án có phạm vi, độ sâu và mức độ đồng hành khác nhau. Một con số chung dễ gây hiểu lầm hơn là giúp doanh nghiệp ra quyết định.
+Vì mỗi bài toán có phạm vi, độ sâu và thời gian khác nhau. Một mức giá chung dễ khiến hai dự án rất khác nhau trông như giống nhau, và người mua khó so sánh đúng.
 
-### Chi phí thấp hơn có nghĩa là tư vấn kém hơn không?
+### Chi phí tư vấn chiến lược phụ thuộc vào những yếu tố nào?
 
-Không nhất thiết. Chi phí thấp hơn có thể phản ánh phạm vi hẹp hơn. Điều cần kiểm tra là đề xuất đó có trả lời đúng câu hỏi doanh nghiệp cần và có nêu rõ sản phẩm bàn giao không.
+Chủ yếu là phạm vi công việc, độ sâu nghiên cứu, thời gian thực hiện và mức độ đồng hành sau khi có chiến lược. Quy mô và độ phức tạp của doanh nghiệp cũng ảnh hưởng tới cả ba yếu tố đó.
 
-### Doanh nghiệp nhỏ có thể làm tư vấn chiến lược với ngân sách hạn chế không?
+### Làm sao để giảm chi phí mà không giảm chất lượng?
 
-Có thể, nếu thu hẹp phạm vi vào một hai câu hỏi quan trọng nhất và chủ động làm những phần việc nội bộ có thể tự làm.
+Cách thực tế nhất là thu hẹp phạm vi vào vấn đề quan trọng nhất và chuẩn bị sẵn dữ liệu nội bộ. Doanh nghiệp chuẩn bị kỹ giúp phần việc tư vấn tập trung hơn, ít vòng lặp hơn.

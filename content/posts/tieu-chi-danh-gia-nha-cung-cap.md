@@ -1,85 +1,106 @@
 ---
 slug: tieu-chi-danh-gia-nha-cung-cap
-title: Đánh giá nhà cung cấp: tiêu chí ngoài giá | Clairmont Group
-h1: Chọn nhà cung ứng cho thương hiệu mới: tiêu chí đánh giá ngoài giá
-description: Đánh giá nhà cung cấp chỉ bằng báo giá dễ dẫn đến rủi ro chất lượng và tiến độ. Bài viết đề xuất bộ tiêu chí ngoài giá cho thương hiệu mới.
-keywords: đánh giá nhà cung cấp, tiêu chí chọn nhà cung cấp, chọn nhà cung ứng, chuỗi cung ứng, đối tác sản xuất
-summary: Với thương hiệu mới, nhà cung ứng không chỉ bán hàng mà còn quyết định lời hứa thương hiệu có giữ được hay không.
+title: Đánh giá nhà cung cấp bằng ma trận Kraljic
+h1: Đánh giá nhà cung cấp: bạn có đang mặc cả nhầm chỗ?
+description: Đánh giá nhà cung cấp không chỉ là so báo giá. Ma trận Kraljic chia hàng mua thành bốn nhóm để biết chỗ nào nên ép giá, chỗ nào phải giữ chặt đối tác.
+keywords: đánh giá nhà cung cấp, ma trận Kraljic, tiêu chí chọn nhà cung cấp, chọn nhà cung ứng, chuỗi cung ứng
+summary: Có món nên ép giá, có món mất một nhà cung ứng là cả xưởng dừng. Kraljic giúp bạn phân biệt hai loại đó.
 date: 2026-10-29
 category: Chuỗi giá trị
 author: Clairmont Group
 ---
 
-Đánh giá nhà cung cấp là việc xem xét có hệ thống một đối tác sản xuất, gia công hoặc cung ứng nguyên liệu trước khi giao việc, dựa trên nhiều tiêu chí chứ không chỉ một bảng báo giá. Với doanh nghiệp đã vận hành lâu năm, việc này thường có quy trình. Với một thương hiệu mới, nó lại hay bị rút gọn thành câu hỏi: ai làm được, ai rẻ nhất, ai nhận đơn nhỏ.
+:::hook
+Đánh giá nhà cung cấp là tìm ai báo giá thấp nhất? **Chưa đúng.** Đánh giá nhà cung cấp là biết **món nào mất đi thì mình dừng lại**, rồi mới quyết định nên mặc cả hay nên giữ chặt.
+:::
 
-Bài viết đề xuất một bộ tiêu chí đánh giá nhà cung cấp ngoài giá, dành cho thương hiệu đang ở giai đoạn chọn những đối tác đầu tiên.
+:::takeaways
+- Không phải món hàng nào cũng đáng mặc cả như nhau.
+- Ma trận Kraljic chia hàng mua theo hai trục: lợi nhuận và rủi ro cung ứng.
+- Nhà cung ứng ở ô "Chiến lược" cần được giữ như người cùng làm, không như người bán.
+:::
 
-## Vì sao giá không nên là tiêu chí đầu tiên
+:::story cau-trong | Hai cuộc mặc cả của cậu Trống
+Xưởng của cậu Trống làm hộp quà sơn mài. Cả tuần cậu ngồi so báo giá hộp giấy đựng ngoài, đi ba nơi, ép được mỗi chiếc vài trăm đồng. Cậu thấy mình làm chủ rất chặt, tối về còn ghi sổ từng khoản tiết kiệm được.
 
-Giá quan trọng, nhưng là con số dễ so sánh nhất nên dễ được ưu tiên quá mức. Một báo giá thấp có thể đi kèm những chi phí không hiện trên giấy: tỷ lệ hàng lỗi cao, giao trễ khiến lỡ thời điểm bán, mẫu thử đẹp nhưng hàng loạt không đều, hoặc phải tốn thời gian kiểm tra và làm lại.
+Rồi bác thợ pha sơn ta duy nhất cậu tin tưởng báo nghỉ một tháng về quê. Cả xưởng ngồi chơi, đơn hàng dồn lại trên bàn. Bác chỉ nhắn: *"Lâu nay cháu có hỏi bác cần gì đâu, cứ đến lấy sơn rồi về."*
 
-Với thương hiệu mới, những chi phí ẩn này nặng hơn với doanh nghiệp lớn. Thương hiệu chưa có niềm tin tích luỹ để bù cho một lô hàng lỗi; một lần thất hứa với khách hàng đầu tiên có thể ảnh hưởng đến cả giai đoạn ra mắt. Vì vậy, câu hỏi nên đặt là: tổng chi phí để có được một sản phẩm đúng chuẩn, đúng hạn là bao nhiêu — chứ không chỉ đơn giá.
+Cậu Trống mới hiểu: món cậu mặc cả kỹ nhất lại là món ai bán cũng được. Còn món giữ cả xưởng sống, cậu chưa từng ngồi nói chuyện cho tử tế.
+:::
 
-## Sáu nhóm tiêu chí đánh giá nhà cung cấp ngoài giá
+Doanh nghiệp nào cũng có "hộp giấy" và "sơn ta" của mình. Câu hỏi là: **bạn đang dồn thời gian đánh giá nhà cung cấp vào đúng nhóm hàng chưa?**
 
-### 1. Năng lực kỹ thuật thật sự
+## Ma trận Kraljic: bốn nhóm hàng, bốn cách chơi
 
-Nhà cung ứng làm được sản phẩm ở mức chất lượng thương hiệu cần không, và làm được ổn định không. Cần phân biệt giữa năng lực làm mẫu và năng lực sản xuất hàng loạt. Nên xem trực tiếp xưởng, thiết bị, những sản phẩm tương tự họ đã làm, và hỏi về giới hạn kỹ thuật của họ — một nhà cung ứng nói rõ mình không làm được gì thường đáng tin hơn người nhận mọi yêu cầu.
+:::model matrix | Ma trận danh mục mua hàng | Peter Kraljic, Harvard Business Review (1983)
+x: Rủi ro cung ứng thấp | Rủi ro cung ứng cao
+y: Ảnh hưởng lợi nhuận thấp | Ảnh hưởng lợi nhuận cao
+- Đòn bẩy | Chi phí lớn nhưng nhiều nơi bán: so sánh, đấu thầu, mặc cả là đúng việc.
+- Chiến lược | Vừa quyết định chất lượng vừa khó thay: cần quan hệ lâu dài, cùng nhau lên kế hoạch.
+- Thông thường | Giá trị nhỏ, dễ mua: làm gọn quy trình, đừng tốn công.
+- Nút thắt | Giá trị không lớn nhưng ít nơi có: giữ hàng dự phòng, tìm thêm nguồn thứ hai.
+:::
 
-### 2. Kiểm soát chất lượng
+Kraljic cho rằng mua hàng không nên có một chính sách chung. Mỗi nhóm cần một cách quản lý riêng, vì **rủi ro và giá trị không đi cùng nhau**.
 
-Họ kiểm tra ở những điểm nào trong quy trình, ghi chép ra sao, xử lý hàng lỗi thế nào. Các chứng nhận hệ thống quản lý chất lượng hay an toàn thực phẩm, nếu có, là một tín hiệu; nhưng cách họ thực sự làm hằng ngày quan trọng hơn tấm giấy. Nên thống nhất từ đầu tiêu chuẩn nghiệm thu bằng văn bản và mẫu đối chứng.
+- Trục dọc hỏi: món này ảnh hưởng bao nhiêu đến chất lượng và lợi nhuận cuối cùng?
+- Trục ngang hỏi: nếu nhà cung ứng này dừng, mình mất bao lâu để tìm người thay?
+- Thương hiệu mới hay mắc lỗi của cậu Trống: dồn sức vào ô "Thông thường", bỏ quên ô "Nút thắt" và "Chiến lược".
 
-### 3. Độ tin cậy về tiến độ và năng lực đáp ứng
+## Tiêu chí đánh giá nhà cung cấp đổi theo từng ô
 
-Thời gian sản xuất thực tế, khả năng nhận đơn nhỏ ở giai đoạn đầu và mở rộng khi thương hiệu tăng trưởng, cách họ xử lý mùa cao điểm. Một nhà cung ứng phù hợp với lô đầu tiên chưa chắc theo được khi đơn hàng tăng nhiều lần.
+:::compare Đánh giá chung một kiểu | Đánh giá theo ô Kraljic
+- Mọi nhà cung ứng chấm cùng một bảng, giá chiếm nặng nhất || Ô Đòn bẩy nặng về giá; ô Chiến lược nặng về năng lực, minh bạch và độ ổn định.
+- Đổi nhà cung ứng ngay khi có báo giá rẻ hơn || Ô Chiến lược và Nút thắt chỉ đổi khi đã có người thay được kiểm chứng.
+- Gặp nhà cung ứng khi có lỗi || Gặp định kỳ đối tác ô Chiến lược để cùng xem kế hoạch mùa tới.
+:::
 
-### 4. Minh bạch và giao tiếp
+Ngoài giá, các tiêu chí vẫn là những điều quen thuộc: năng lực sản xuất hàng loạt chứ không chỉ làm mẫu, cách kiểm soát chất lượng, độ tin cậy tiến độ, sự minh bạch về nguồn gốc. Điều thay đổi là **trọng số** của từng tiêu chí ở mỗi ô.
 
-Họ phản hồi thế nào khi có vấn đề, có báo trước khi chậm tiến độ không, có sẵn sàng chia sẻ thông tin về nguyên liệu, nguồn gốc, quy trình không. Với thương hiệu muốn kể câu chuyện về sản phẩm, khả năng truy xuất và minh bạch của nhà cung ứng là điều kiện để câu chuyện đó đúng sự thật.
+:::example Ví dụ giả định — thương hiệu quà tặng mới
+Một thương hiệu quà tặng mua bốn thứ: thùng carton vận chuyển, giấy in tờ giới thiệu, hộp quà in ép kim và một loại nguyên liệu chính chỉ vài nơi làm đạt chuẩn.
 
-### 5. Sự ổn định của chính nhà cung ứng
+Thùng carton và giấy in thuộc ô Thông thường: chọn một nơi ổn, đặt định kỳ. Hộp quà là Đòn bẩy nếu nhiều xưởng in làm được, nên so sánh kỹ. Nguyên liệu chính là ô Chiến lược: thương hiệu nên đến tận nơi, thống nhất mẫu đối chứng và cùng lập kế hoạch sản lượng cả năm.
+:::
 
-Tình hình hoạt động, mức độ phụ thuộc vào một vài khách hàng lớn, nhân sự chủ chốt, nguồn nguyên liệu đầu vào của họ. Thương hiệu mới không cần thẩm định tài chính sâu như ngân hàng, nhưng nên biết đối tác của mình có khả năng đồng hành lâu dài hay không.
+## Áp dụng cho doanh nghiệp
 
-### 6. Mức độ phù hợp về giá trị và cách làm
+:::steps Bốn bước sắp nhà cung ứng vào ma trận
+- Liệt kê mọi thứ đang mua | Từ nguyên liệu chính đến tem nhãn, vận chuyển. Ghi kèm chi phí mỗi năm.
+- Chấm hai trục | Mỗi món chấm ảnh hưởng lợi nhuận và rủi ro cung ứng từ 1 đến 5, có lý do kèm theo.
+- Đặt cách làm cho từng ô | Ô nào mặc cả, ô nào làm gọn, ô nào cần nguồn dự phòng, ô nào cần quan hệ lâu dài.
+- Xem lại mỗi mùa | Một món có thể đổi ô khi thị trường đổi, khi có thêm nhà cung ứng hoặc khi sản phẩm đổi.
+:::
 
-Nhà cung ứng có hiểu và tôn trọng điều thương hiệu theo đuổi không. Một đối tác coi đơn hàng của thương hiệu mới là việc phụ sẽ khó đầu tư công sức cho các chi tiết nhỏ. Một đối tác cùng quan tâm đến chất lượng, đến nghề, đến cách làm có trách nhiệm thường trở thành người góp ý giá trị cho sản phẩm.
+Ma trận chỉ là bước đầu. Nhìn rộng hơn về toàn bộ chuỗi tạo ra sản phẩm ở bài [chuỗi giá trị là gì](/goc-nhin/chuoi-gia-tri-la-gi/), và một ví dụ cụ thể ở bài [chuỗi giá trị cà phê từ vùng trồng đến kệ hàng](/goc-nhin/chuoi-gia-tri-ca-phe-tu-vung-trong-den-ke-hang/).
 
-## Biến tiêu chí thành một bảng chấm điểm
+:::principle
+Mặc cả ở nơi có nhiều lựa chọn. Giữ chữ tín ở nơi chỉ có một.
+:::
 
-Để so sánh các nhà cung ứng một cách nhất quán, có thể dùng một bảng chấm điểm đơn giản:
+:::exercise
+Viết ra ba thứ bạn mua nhiều tiền nhất và một thứ nếu thiếu thì dừng sản xuất. Thứ cuối cùng, bạn đã nói chuyện với nhà cung ứng của nó lần gần nhất khi nào?
+:::
 
-- Liệt kê các tiêu chí ở trên, kèm giá như một tiêu chí trong số đó.
-- Gán trọng số theo ưu tiên của thương hiệu. Một thương hiệu quà tặng cao cấp có thể đặt chất lượng và hoàn thiện lên cao nhất; một thương hiệu theo mùa vụ có thể ưu tiên tiến độ.
-- Chấm từng nhà cung ứng dựa trên bằng chứng: mẫu thử, chuyến thăm xưởng, trao đổi với khách hàng khác của họ, kết quả đơn thử.
-- Ghi lại lý do cho từng điểm số để lần sau đánh giá lại có cơ sở.
+:::quote
+言必信，行必果
+Ngôn tất tín, hành tất quả
+Nói phải giữ lời, làm phải đến nơi.
+Luận Ngữ · Tử Lộ
+:::
 
-Ví dụ giả định: một thương hiệu mới cần đối tác in hộp quà. Nhà cung ứng A có giá thấp nhất nhưng màu in giữa hai lô mẫu lệch rõ. Nhà cung ứng B giá cao hơn, có quy trình duyệt màu và gửi mẫu đối chứng trước khi chạy hàng loạt. Nếu chất lượng hoàn thiện là phần cốt lõi của lời hứa thương hiệu, bảng chấm điểm có trọng số sẽ cho thấy B phù hợp hơn, dù đơn giá không phải thấp nhất.
-
-## Bắt đầu nhỏ và đánh giá lại định kỳ
-
-Đánh giá nhà cung cấp không kết thúc khi ký hợp đồng. Một số thực hành giúp giảm rủi ro:
-
-- **Đơn thử trước đơn lớn.** Một lô nhỏ cho thấy năng lực thật rõ hơn mọi buổi thuyết trình.
-- **Có phương án dự phòng** cho những hạng mục quan trọng, ngay cả khi chưa dùng đến.
-- **Đánh giá lại sau mỗi giai đoạn** dựa trên dữ liệu thực tế: tỷ lệ lỗi, đúng hạn, chất lượng phản hồi.
-- **Phản hồi hai chiều.** Cho nhà cung ứng biết họ được đánh giá thế nào và lắng nghe góp ý của họ về đơn hàng, thiết kế, quy cách.
-
-Trong khung năm cấp độ đồng hành mà Clairmont sử dụng — Kết nối, Chuẩn hoá, Tích hợp, Mở thị trường, Bền vững — việc đánh giá nhà cung cấp nằm ở hai cấp đầu: tìm đúng đối tác và cùng họ thống nhất chuẩn làm việc. Bài [chuỗi giá trị là gì](/goc-nhin/chuoi-gia-tri-la-gi/) giải thích rõ hơn các cấp độ này. Chúng tôi cũng đang áp dụng chính cách nghĩ đó khi xây thương hiệu của mình, như chia sẻ trong bài [từ vùng trồng đến kệ hàng](/goc-nhin/chuoi-gia-tri-ca-phe-tu-vung-trong-den-ke-hang/).
-
-Clairmont đồng hành cùng doanh nghiệp trong việc kết nối, đánh giá và chuẩn hoá đối tác sản xuất. Xem thêm tại [phát triển chuỗi giá trị](/dich-vu/phat-trien-chuoi-gia-tri/).
+Clairmont đồng hành cùng doanh nghiệp xây chuỗi đối tác và chuẩn hoá cách phối hợp — xem [phát triển chuỗi giá trị](/dich-vu/phat-trien-chuoi-gia-tri/).
 
 ## Câu hỏi thường gặp
 
-### Thương hiệu mới nên đánh giá bao nhiêu nhà cung cấp cho một hạng mục?
+### Ma trận Kraljic có dùng được cho doanh nghiệp nhỏ không?
 
-Thường nên so sánh ít nhất hai đến ba nhà cung ứng cho các hạng mục quan trọng, đủ để có cơ sở đối chiếu mà không kéo dài quá trình chọn.
+Có. Doanh nghiệp nhỏ mua ít món hơn nên càng dễ sắp vào bốn ô. Việc này giúp chủ doanh nghiệp biết nên dành thời gian ít ỏi của mình cho nhà cung ứng nào.
 
-### Có nên chọn nhà cung ứng lớn hay nhỏ?
+### Nên có bao nhiêu nhà cung ứng cho một món hàng?
 
-Không có lựa chọn đúng cho mọi trường hợp. Nhà cung ứng lớn thường ổn định hơn nhưng ít ưu tiên đơn nhỏ; nhà cung ứng nhỏ linh hoạt hơn nhưng cần đánh giá kỹ khả năng mở rộng.
+Không có con số chung. Với ô Nút thắt, nên có ít nhất một nguồn dự phòng đã thử. Với ô Chiến lược, thường tập trung vào một đối tác chính để xây quan hệ sâu, kèm kế hoạch phòng khi có biến.
 
-### Đánh giá nhà cung cấp có cần làm lại khi đã hợp tác lâu?
+### Giá có còn là tiêu chí đánh giá nhà cung cấp không?
 
-Có. Năng lực, nhân sự và nguồn nguyên liệu của nhà cung ứng thay đổi theo thời gian; đánh giá định kỳ giúp phát hiện sớm rủi ro và cũng là cơ sở để cùng nhau cải tiến.
+Vẫn là một tiêu chí, nhưng không phải lúc nào cũng nặng nhất. Hãy nhìn tổng chi phí để có hàng đúng chuẩn, đúng hạn, gồm cả chi phí hàng lỗi, giao trễ và thời gian kiểm tra lại.

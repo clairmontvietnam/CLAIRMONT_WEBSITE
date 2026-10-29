@@ -1,95 +1,104 @@
 ---
 slug: chuan-bi-truoc-khi-thue-tu-van-chien-luoc
-title: Thuê tư vấn chiến lược: chuẩn bị gì | Clairmont Group
-h1: Thuê tư vấn chiến lược: doanh nghiệp cần chuẩn bị gì cho buổi làm việc đầu tiên
-description: Trước khi thuê tư vấn chiến lược, doanh nghiệp nên chuẩn bị câu hỏi, dữ liệu, người tham dự nào? Danh sách gọn để buổi làm việc đầu tiên có ích.
-keywords: thuê tư vấn chiến lược, chuẩn bị làm việc với tư vấn, buổi làm việc đầu tiên, tư vấn chiến lược doanh nghiệp
-summary: Buổi đầu tiên với đơn vị tư vấn có ích nhất khi doanh nghiệp mang đến đúng câu hỏi, đúng người và vài dữ liệu cốt lõi.
+title: Thuê tư vấn chiến lược: chuẩn bị gì? Mô hình Kim cương đôi
+h1: Thuê tư vấn chiến lược: chuẩn bị gì để buổi đầu không phí?
+description: Trước khi thuê tư vấn chiến lược, doanh nghiệp nên chuẩn bị câu hỏi, dữ liệu và người tham dự nào? Mô hình Kim cương đôi giúp biết buổi đầu đang ở bước nào.
+keywords: thuê tư vấn chiến lược, mô hình Kim cương đôi, Double Diamond, chuẩn bị làm việc với tư vấn, tư vấn chiến lược doanh nghiệp
+summary: Mang đến buổi đầu một lời giải có sẵn là cách nhanh nhất để giải sai bài toán. Hãy mang câu hỏi.
 date: 2026-10-29
 category: Hỏi đáp
 author: Clairmont Group
 ---
 
-Khi quyết định thuê tư vấn chiến lược, nhiều doanh nghiệp đến buổi làm việc đầu tiên với tâm thế "để bên tư vấn hỏi". Cách này không sai, nhưng thường khiến buổi gặp dừng ở mức giới thiệu chung. Một buổi làm việc đầu tiên tốt cần cả hai phía chuẩn bị — và phần chuẩn bị của doanh nghiệp không cần nhiều, chỉ cần đúng.
+:::hook
+Thuê tư vấn chiến lược là để người ta đưa ngay lời giải? **Chưa đúng.** Buổi đầu tiên có ích nhất khi hai bên cùng làm rõ **bài toán thật là gì** — và điều đó phụ thuộc nhiều vào những gì doanh nghiệp mang đến.
+:::
 
-Bài viết này trả lời ngắn gọn những câu hỏi doanh nghiệp hay đặt ra trước buổi gặp: nên mang gì, ai nên dự, nên hỏi gì, và buổi đầu tiên không nên kỳ vọng điều gì.
+:::takeaways
+- Đừng mang lời giải có sẵn; hãy mang vấn đề, dữ liệu và người hiểu việc.
+- Kim cương đôi: mở rộng để hiểu vấn đề, thu hẹp để chọn, rồi mới tìm lời giải.
+- Buổi đầu thuộc viên kim cương thứ nhất, không phải lúc chốt phương án.
+:::
 
-## Buổi làm việc đầu tiên nhằm mục đích gì
+:::story ong-9-co | Lần đầu mời người tư vấn
+Siêu thị đầu ngõ của ông 9 Cò vừa mở điểm thứ hai thì doanh thu điểm cũ chững lại. Ông quyết định mời người tư vấn, và chuẩn bị rất kỹ: một tập giấy ghi sẵn "cần làm app giao hàng, cần chạy quảng cáo, cần đổi biển hiệu".
 
-Buổi đầu tiên không phải để có lời giải. Mục đích của nó là hai bên cùng hiểu vấn đề đủ rõ để quyết định có nên làm cùng nhau hay không, và nếu có thì phạm vi công việc nên là gì.
+Buổi gặp, chị Thảo đọc tập giấy rồi hỏi: *"Thế khách cũ của bác bây giờ đi đâu mua ạ? Bác có biết họ bỏ từ lúc nào không?"* Ông 9 Cò gãi đầu: *"Cái đấy thì tôi chưa hỏi. Tôi cứ nghĩ là tại mình chưa có app."*
 
-Cụ thể, sau buổi gặp, doanh nghiệp nên trả lời được:
+Ông nhận ra mình đã mang đến ba lời giải, nhưng chưa mang đến một câu hỏi nào. Buổi gặp ấy chuyển sang chuyện khác hẳn: đi tìm xem khách đã thay đổi điều gì.
+:::
 
-- Vấn đề mình đang gặp có thực sự là vấn đề chiến lược, hay là vấn đề vận hành, tài chính, pháp lý cần chuyên gia khác?
-- Đơn vị tư vấn có hiểu bối cảnh ngành và doanh nghiệp của mình không?
-- Cách họ làm việc có phù hợp với nhịp độ, văn hoá và nguồn lực của doanh nghiệp không?
+Nhiều doanh nghiệp bước vào buổi đầu như ông 9 Cò: đã chọn xong cách chữa trước khi biết bệnh. Câu hỏi then chốt là: **doanh nghiệp đang cần người giúp tìm đúng vấn đề, hay cần người giúp làm một lời giải đã chắc chắn?**
 
-Clairmont là đơn vị tư vấn chiến lược và kinh doanh, không làm tư vấn tài chính, pháp lý hay môi giới. Vì vậy, một phần quan trọng của buổi đầu là làm rõ ranh giới này để doanh nghiệp tìm đúng người cho đúng việc.
+## Thuê tư vấn chiến lược theo mô hình Kim cương đôi
 
-## Ba câu hỏi doanh nghiệp nên tự trả lời trước
+:::model steps | Kim cương đôi (Double Diamond) | Design Council, Anh (2005)
+- Khám phá | Mở rộng: tìm hiểu thị trường, khách hàng, đội ngũ để hiểu chuyện gì đang thật sự xảy ra.
+- Xác định | Thu hẹp: từ những gì tìm được, chọn và phát biểu rõ một bài toán cần giải.
+- Phát triển | Mở rộng lần nữa: đưa ra nhiều phương án cho bài toán đã chọn, thử và so sánh.
+- Triển khai | Thu hẹp: chọn phương án tốt nhất, làm thật, đo lại và điều chỉnh.
+:::
 
-Trước khi gặp bất kỳ đơn vị tư vấn nào, ban lãnh đạo nên dành một buổi nội bộ để trả lời ba câu hỏi. Không cần câu trả lời hoàn chỉnh — câu trả lời sơ bộ, kể cả còn bất đồng, vẫn rất có giá trị.
+Design Council của Anh dùng hình hai viên kim cương để mô tả quá trình thiết kế. Viên thứ nhất dành cho **vấn đề**, viên thứ hai dành cho **lời giải**; mỗi viên có một nhịp mở rộng rồi thu hẹp. Lỗi phổ biến nhất là bỏ qua viên thứ nhất, nhảy thẳng vào Phát triển.
 
-### 1. Điều gì khiến chúng ta cần tư vấn lúc này?
+- Buổi làm việc đầu tiên với đơn vị tư vấn nằm ở bước Khám phá. Mục tiêu là hiểu, chưa phải quyết định.
+- Danh sách lời giải doanh nghiệp mang đến vẫn có ích — như một dữ liệu để kiểm chứng, không phải đề bài.
+- Phương pháp bốn bước của Clairmont — Nghiên cứu, Chiến lược, Triển khai, Đánh giá — cũng đặt việc hiểu vấn đề ở đầu tiên.
 
-Hãy mô tả tình huống cụ thể thay vì mục tiêu chung. "Muốn phát triển bền vững" khó làm việc. "Doanh thu ba năm gần đây đi ngang dù đã mở thêm hai dòng sản phẩm" là điểm bắt đầu tốt hơn nhiều.
+## Mang gì đến buổi làm việc đầu tiên
 
-### 2. Chúng ta đã thử những gì?
+:::compare Thường làm | Nên làm
+- Mang danh sách việc muốn tư vấn làm || Mang ba câu: chuyện gì đang xảy ra, từ khi nào, đã thử gì.
+- Chỉ người đứng đầu tham dự || Mời thêm một, hai người trực tiếp gặp khách và hiểu số liệu.
+- Giữ lại số liệu vì ngại "lộ" || Chuẩn bị vài con số cốt lõi: doanh thu theo nhóm khách, chi phí lớn, xu hướng gần đây.
+:::
 
-Những gì đã làm, kết quả ra sao, vì sao chưa đạt. Phần này giúp đơn vị tư vấn tránh đề xuất lại những điều doanh nghiệp đã thử, và cho thấy điểm nghẽn thật có thể nằm ở đâu.
+Doanh nghiệp cũng nên hỏi lại đơn vị tư vấn: cách họ làm việc gồm những bước nào, doanh nghiệp cần tham gia ra sao, và đầu ra của mỗi bước trông như thế nào.
 
-### 3. Sau dự án tư vấn, điều gì phải khác đi?
+:::example Ví dụ giả định: một nhà hàng muốn mở chi nhánh
+Chủ một nhà hàng đến buổi đầu với câu "tôi cần kế hoạch mở chi nhánh thứ hai". Ở bước Khám phá, hai bên xem lại số liệu và thấy khách quen đến ít hơn, dù khách mới vẫn tăng.
 
-Có thể là một quyết định cần được đưa ra, một định hướng cần được thống nhất trong ban lãnh đạo, hay một kế hoạch cần đủ rõ để triển khai. Câu trả lời này quyết định phạm vi và cách làm của dự án.
+Ở bước Xác định, bài toán được viết lại: "Vì sao khách quen thưa dần?" Mở chi nhánh có thể vẫn là phương án — nhưng giờ nó được cân nhắc cùng nhiều phương án khác, cho đúng bài toán.
+:::
 
-## Chuẩn bị dữ liệu và người tham dự
+## Áp dụng cho doanh nghiệp
 
-### Dữ liệu nên chuẩn bị (và không cần chuẩn bị)
+:::steps Bốn việc chuẩn bị trước khi thuê tư vấn chiến lược
+- Viết vấn đề trong một trang | Điều gì đang không như mong muốn, có dấu hiệu gì, ảnh hưởng đến đâu.
+- Gom vài dữ liệu cốt lõi | Doanh thu, nhóm khách chính, chi phí lớn nhất, những gì đã thử và kết quả.
+- Chọn người tham dự | Người quyết định, cộng một, hai người gần khách hàng và vận hành nhất.
+- Tách lời giải khỏi vấn đề | Ghi các ý tưởng sẵn có sang một danh sách riêng, để kiểm chứng sau.
+:::
 
-Doanh nghiệp không cần gửi toàn bộ hồ sơ trước buổi đầu. Một bộ tài liệu gọn thường hữu ích hơn:
+Nếu chưa chắc có nên thuê tư vấn, đọc thêm [doanh nghiệp nhỏ khi nào nên thuê tư vấn](/goc-nhin/doanh-nghiep-nho-khi-nao-nen-thue-tu-van/) và [tư vấn chiến lược khác tư vấn tài chính, pháp lý thế nào](/goc-nhin/tu-van-chien-luoc-khac-tu-van-tai-chinh-phap-ly/).
 
-- **Tổng quan doanh nghiệp:** lịch sử hình thành, sản phẩm hoặc dịch vụ chính, cơ cấu tổ chức hiện tại.
-- **Số liệu kinh doanh ở mức tổng quát:** xu hướng doanh thu, cơ cấu theo sản phẩm hoặc kênh, nhóm khách hàng chính. Mức độ chi tiết tuỳ doanh nghiệp quyết định.
-- **Các tài liệu chiến lược đã có:** kế hoạch năm, định hướng, báo cáo nghiên cứu cũ nếu có — kể cả những tài liệu đã "để đó".
-- **Ghi chú về thị trường và đối thủ:** doanh nghiệp đang nhìn thấy gì, theo góc nhìn của chính mình.
+:::principle
+Mang câu hỏi, đừng mang sẵn lời giải. Hiểu đúng vấn đề là một nửa bài toán.
+:::
 
-Điều không cần làm trước: tự thuê nghiên cứu thị trường, tự viết lại chiến lược cho "đẹp" trước khi gặp tư vấn. Một bức tranh trung thực, kể cả còn lộn xộn, có ích hơn một bức tranh đã được chỉnh sửa.
+:::exercise
+Viết vấn đề lớn nhất của doanh nghiệp trong một câu, không chứa từ "cần làm". Nếu câu nào cũng thành một lời giải, bạn đang ở viên kim cương thứ hai quá sớm.
+:::
 
-Về bảo mật, doanh nghiệp hoàn toàn có thể đề nghị ký thoả thuận bảo mật thông tin trước khi chia sẻ số liệu chi tiết. Đây là thực hành bình thường và nên được đặt ra từ đầu.
+:::quote
+工欲善其事，必先利其器
+Công dục thiện kỳ sự, tất tiên lợi kỳ khí
+Thợ muốn làm tốt việc, trước hết phải mài sắc đồ nghề.
+Luận Ngữ · Vệ Linh Công
+:::
 
-### Ai nên tham dự buổi làm việc đầu tiên
-
-Người quyết định cuối cùng nên có mặt. Nếu chỉ cử người phụ trách đến nghe rồi báo cáo lại, thông tin thường bị rút gọn ở cả hai chiều: đơn vị tư vấn không hiểu đủ ý định của lãnh đạo, còn lãnh đạo không nghe được trực tiếp các câu hỏi phản biện.
-
-Ngoài người quyết định, nên có một hoặc hai người nắm vận hành thực tế — người hiểu khách hàng, sản phẩm hoặc thị trường ở mức chi tiết. Không nên mời quá đông; buổi đầu cần trao đổi thẳng thắn, và nhóm nhỏ thường thẳng thắn hơn.
-
-## Doanh nghiệp nên hỏi đơn vị tư vấn những gì
-
-Buổi đầu là cơ hội để doanh nghiệp đánh giá đơn vị tư vấn, không chỉ ngược lại. Một số câu hỏi đáng đặt ra:
-
-- Anh chị hiểu vấn đề của chúng tôi như thế nào sau buổi hôm nay?
-- Cách tiếp cận của anh chị gồm những bước nào, doanh nghiệp cần tham gia ở đâu?
-- Kết quả cuối cùng của dự án là gì — tài liệu, quyết định, kế hoạch, hay đồng hành triển khai?
-- Điều gì nằm ngoài phạm vi anh chị làm?
-
-Ở Clairmont, chúng tôi làm việc theo bốn bước Nghiên cứu → Chiến lược → Triển khai → Đánh giá, và luôn bắt đầu từ bản sắc của doanh nghiệp. Chúng tôi không hứa trước kết quả kinh doanh cụ thể, vì kết quả phụ thuộc vào cả quá trình thực thi của doanh nghiệp và biến động thị trường.
-
-## Sau buổi đầu tiên
-
-Thông thường, sau buổi làm việc, đơn vị tư vấn sẽ tổng hợp lại cách họ hiểu vấn đề và đề xuất phạm vi công việc. Doanh nghiệp nên đọc kỹ phần "hiểu vấn đề" trước phần đề xuất: nếu cách hiểu lệch, mọi đề xuất phía sau đều lệch theo.
-
-Nếu doanh nghiệp còn phân vân có nên thuê tư vấn hay tự làm, bài [doanh nghiệp nhỏ: khi nào nên thuê tư vấn](/goc-nhin/doanh-nghiep-nho-khi-nao-nen-thue-tu-van/) có thể giúp cân nhắc. Thông tin về cách Clairmont làm việc có tại trang [tư vấn chiến lược doanh nghiệp](/dich-vu/tu-van-chien-luoc-doanh-nghiep/).
+Tìm hiểu cách Clairmont làm việc cùng doanh nghiệp từ bước nghiên cứu — xem [tư vấn chiến lược doanh nghiệp](/dich-vu/tu-van-chien-luoc-doanh-nghiep/).
 
 ## Câu hỏi thường gặp
 
-### Buổi làm việc đầu tiên kéo dài bao lâu là hợp lý?
+### Buổi làm việc đầu tiên với đơn vị tư vấn nên kéo dài bao lâu?
 
-Tuỳ mức độ phức tạp của vấn đề. Điều quan trọng hơn thời lượng là có đủ thời gian cho phần doanh nghiệp trình bày và phần hai bên đặt câu hỏi phản biện, thay vì chỉ nghe giới thiệu năng lực.
+Không có chuẩn chung; điều quan trọng là đủ thời gian để hai bên hiểu vấn đề và cách làm việc của nhau. Nên chuẩn bị trước để thời gian dành cho trao đổi, không phải cho việc tìm số liệu.
 
-### Có nên gửi tài liệu trước buổi gặp không?
+### Có nên chia sẻ số liệu nội bộ ngay buổi đầu?
 
-Nên gửi một bộ tài liệu tổng quan gọn để đơn vị tư vấn chuẩn bị câu hỏi tốt hơn. Số liệu chi tiết có thể chia sẻ sau khi hai bên đã thống nhất về bảo mật.
+Nên chia sẻ ở mức đủ để hiểu bức tranh: xu hướng, tỷ trọng, những con số chính. Nếu lo ngại về bảo mật, doanh nghiệp có thể đề nghị ký thoả thuận bảo mật trước khi đi sâu.
 
-### Nếu ban lãnh đạo chưa thống nhất về vấn đề thì có nên gặp tư vấn không?
+### Đơn vị tư vấn chiến lược có làm thay phần triển khai không?
 
-Có. Sự chưa thống nhất là thông tin quan trọng, và giúp ban lãnh đạo nhìn rõ các quan điểm khác nhau thường là một phần giá trị của tư vấn chiến lược.
+Tuỳ cách hợp tác hai bên thống nhất. Tư vấn chiến lược giúp chọn hướng và thiết kế cách làm; đội ngũ doanh nghiệp thường là người triển khai. Nhiều đơn vị, trong đó có Clairmont, đồng hành cả bước Triển khai và Đánh giá.

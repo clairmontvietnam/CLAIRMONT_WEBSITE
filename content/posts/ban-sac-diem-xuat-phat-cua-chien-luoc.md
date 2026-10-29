@@ -1,70 +1,103 @@
 ---
 slug: ban-sac-diem-xuat-phat-cua-chien-luoc
-title: Bản sắc doanh nghiệp và chiến lược | Clairmont Group
-h1: Vì sao Clairmont chọn bản sắc làm điểm xuất phát của chiến lược
-description: Vì sao bản sắc doanh nghiệp nên là điểm xuất phát của chiến lược, thay vì xu hướng hay đối thủ. Góc nhìn của Clairmont về cách tìm và dùng bản sắc.
-keywords: bản sắc doanh nghiệp, bản sắc dẫn lối chiến lược, xây dựng chiến lược từ bản sắc, Clairmont Group
-summary: Xu hướng thay đổi, đối thủ thay đổi — bản sắc là điểm tựa ít dịch chuyển nhất để bắt đầu một chiến lược.
+title: Bản sắc doanh nghiệp và chiến lược: Vòng tròn vàng
+h1: Bản sắc doanh nghiệp: vì sao chiến lược nên bắt đầu từ câu "Vì sao"?
+description: Bản sắc doanh nghiệp là điểm tựa ít dịch chuyển nhất của chiến lược. Vòng tròn vàng của Simon Sinek giải thích vì sao nên bắt đầu từ "Vì sao", không từ sản phẩm.
+keywords: bản sắc doanh nghiệp, Vòng tròn vàng Simon Sinek, bản sắc dẫn lối chiến lược, xây dựng chiến lược từ bản sắc, Clairmont Group
+summary: Một tiệm bánh bán bánh. Một tiệm khác bán lý do để người ta quay lại. Khác nhau nằm ở vòng tròn trong cùng.
 date: 2026-10-29
 category: Góc nhìn Nhà sáng lập
 author: Clairmont Group
 ---
 
-Khi đặt slogan "Bản sắc dẫn lối chiến lược" cho Clairmont, chúng tôi biết đó là một lựa chọn có đánh đổi. Có nhiều điểm xuất phát khác cho một chiến lược: xu hướng thị trường, đối thủ cạnh tranh, mục tiêu tài chính. Chúng tôi chọn bản sắc doanh nghiệp — và bài viết này giải thích vì sao, cũng như cách chúng tôi dùng nó trong công việc hằng ngày.
+:::hook
+Chiến lược nên bắt đầu từ xu hướng thị trường hay từ đối thủ? **Chưa đúng.** Chúng tôi tin chiến lược bắt đầu từ **bản sắc doanh nghiệp** — điều doanh nghiệp tin và không đánh đổi, thứ thay đổi chậm nhất trong mọi yếu tố.
+:::
 
-## Ba điểm xuất phát quen thuộc, và giới hạn của chúng
+:::takeaways
+- Xu hướng và đối thủ đổi theo năm; bản sắc thật đổi chậm hơn nhiều.
+- Vòng tròn vàng: nói "Vì sao" trước, rồi "Như thế nào", sau cùng mới đến "Cái gì".
+- Bản sắc được tìm ra trong doanh nghiệp, không được sáng tác trong phòng họp.
+:::
 
-Không có điểm xuất phát nào sai hoàn toàn. Nhưng mỗi cách đều có giới hạn khi được dùng làm điểm bắt đầu duy nhất.
+:::story ong-thuong | "Tiệm của tôi tin rằng…"
+Một chiều, chị Thảo ghé Tiệm Bánh Thương mua bánh mì. Thấy ông Thương đang loay hoay viết lại tấm bảng giới thiệu: "Bánh ngon, giá tốt, nguyên liệu sạch". Ông bảo tiệm mới mở đầu phố cũng ghi y như thế.
 
-**Bắt đầu từ xu hướng.** Thị trường đang chuộng gì, doanh nghiệp làm theo. Cách này cho cảm giác nhanh nhạy, nhưng xu hướng mở ra cho tất cả mọi người cùng lúc. Khi nhiều doanh nghiệp cùng chạy theo một hướng, lợi thế nhanh chóng biến mất, chỉ còn cạnh tranh bằng giá.
+Chị hỏi: *"Thế bác làm bánh mấy chục năm nay là vì cái gì ạ?"* Ông ngẫm một lúc rồi nói: *"Tiệm của tôi tin rằng sáng nào người trong phố cũng đáng được ăn một cái bánh nóng làm bằng tay. Thế nên tôi dậy từ ba giờ, không dùng bột trộn sẵn."*
 
-**Bắt đầu từ đối thủ.** Nhìn người dẫn đầu làm gì rồi làm tốt hơn một chút. Cách này giúp doanh nghiệp không bị tụt lại, nhưng hiếm khi giúp doanh nghiệp khác đi. Theo cách phân biệt của Michael Porter, đây là cạnh tranh để trở thành "tốt nhất" thay vì cạnh tranh để trở thành "độc nhất" — một cuộc đua mà ít người thắng và lợi nhuận của cả ngành thường bị bào mòn.
+Ông xoá tấm bảng cũ, viết lại đúng câu ấy. Không thêm chữ "ngon" nào. Từ hôm đó, khách mới đọc bảng xong thường hỏi thêm một câu — và ở lại lâu hơn.
+:::
 
-**Bắt đầu từ con số.** Đặt mục tiêu doanh thu rồi tìm cách đạt. Mục tiêu cần thiết, nhưng mục tiêu không phải chiến lược. Nó cho biết muốn đến đâu, không cho biết vì sao doanh nghiệp này, chứ không phải doanh nghiệp khác, có thể đến được đó.
+Tấm bảng đầu nói tiệm **bán cái gì**. Tấm bảng sau nói tiệm **tin vào điều gì**. Với doanh nghiệp, câu hỏi then chốt là: **khi bỏ hết sản phẩm và giá ra, điều gì còn lại khiến khách chọn mình?**
 
-Cả ba cách đều nhìn ra bên ngoài trước. Chúng tôi muốn bắt đầu bằng việc nhìn vào bên trong.
+## Bản sắc doanh nghiệp qua Vòng tròn vàng
 
-## Bản sắc doanh nghiệp là điểm tựa ít dịch chuyển nhất
+:::model circles | Vòng tròn vàng | Simon Sinek, "Start with Why" (2009)
+- Vì sao | Niềm tin, lý do tồn tại của doanh nghiệp — không phải "để kiếm lời", vì lợi nhuận là kết quả.
+- Như thế nào | Cách làm riêng biến niềm tin thành hành động: quy trình, tiêu chuẩn, điều không thoả hiệp.
+- Cái gì | Sản phẩm, dịch vụ cụ thể — phần ai cũng nhìn thấy và dễ bị sao chép nhất.
+:::
 
-Lý do đầu tiên rất thực tế: trong các yếu tố tạo nên chiến lược, bản sắc là thứ thay đổi chậm nhất. Thị trường thay đổi theo năm, công nghệ thay đổi theo tháng. Nhưng những điều một doanh nghiệp thực sự giỏi, những giá trị nó không đánh đổi, những con người và câu chuyện làm nên nó — những điều đó thường bền hơn nhiều.
+Sinek quan sát rằng hầu hết doanh nghiệp giao tiếp từ ngoài vào: nói sản phẩm trước, cách làm sau, hiếm khi nói lý do. Những tổ chức truyền cảm hứng làm ngược lại, **từ trong ra**: bắt đầu bằng "Vì sao". Theo ông, người ta không mua cái bạn làm, họ mua lý do bạn làm.
 
-Một chiến lược đặt trên điểm tựa bền sẽ ít phải đập đi làm lại. Doanh nghiệp vẫn điều chỉnh sản phẩm, kênh, cách làm theo thị trường, nhưng hướng chính không lung lay mỗi khi có một xu hướng mới.
+- Vòng "Vì sao" chính là phần lõi của bản sắc: điều doanh nghiệp tin, đã có trước khi có sản phẩm.
+- Vòng "Như thế nào" là nơi bản sắc thành lợi thế: dậy từ ba giờ, không dùng bột trộn sẵn.
+- Khi ba vòng nhất quán, lời nói "Vì sao" mới đáng tin. Một vòng lệch là khách nhận ra ngay.
 
-Lý do thứ hai: bản sắc khó sao chép. Đối thủ có thể học cách định giá, cách thiết kế bao bì, cách chạy quảng cáo. Rất khó để họ sao chép lịch sử, văn hoá làm việc, quan hệ với đối tác, hay cách một đội ngũ ra quyết định. Lợi thế bắt nguồn từ bản sắc vì thế giữ được lâu hơn.
+## Ba điểm xuất phát và giới hạn của chúng
 
-Lý do thứ ba: bản sắc giúp nói "không". Khi doanh nghiệp biết rõ mình là ai, việc từ chối những cơ hội không phù hợp trở nên dễ hơn. Đây là tinh thần chúng tôi học từ Porter — chiến lược là chọn điều không làm — và bản sắc chính là thước đo để chọn.
+:::compare Thường làm | Nên làm
+- Bắt đầu từ xu hướng: thị trường chuộng gì, làm nấy || Bắt đầu từ bản sắc, rồi chọn xu hướng nào hợp với mình.
+- Bắt đầu từ đối thủ: nhìn người dẫn đầu, làm tốt hơn một chút || Tìm điều mình khác, thay vì cố trở thành "tốt nhất" theo luật người khác.
+- Bắt đầu từ con số: đặt doanh thu rồi tìm cách đạt || Dùng con số để đo chiến lược, không dùng nó thay chiến lược.
+:::
 
-## Bản sắc được tìm ra, không được đặt ra
+Cả ba cách đều nhìn ra ngoài trước. Bản sắc buộc doanh nghiệp nhìn vào trong trước — nhưng luôn phải đặt cạnh dữ liệu thị trường, để không nhầm bản sắc với thói quen hay với mong muốn riêng của người đứng đầu.
 
-Một hiểu lầm thường gặp là coi bản sắc như thứ có thể "sáng tác" trong một buổi họp: chọn vài tính từ đẹp, viết thành tuyên bố sứ mệnh. Trong công việc tư vấn, chúng tôi thấy bản sắc thật thường đã có sẵn trong doanh nghiệp, chỉ chưa được gọi tên.
+:::example Chúng tôi áp dụng điều này cho chính mình
+Clairmont chọn khẩu hiệu "Bản sắc dẫn lối chiến lược", và dùng chính nguyên tắc đó khi xây thương hiệu riêng. FLEUR — cà phê và quà tặng cao cấp mang bản sắc Việt, ra mắt tại Hà Nội ngày 29/11/2026 — bắt đầu từ câu hỏi: điều gì của Việt Nam đáng được trao tặng, và trao sao cho tử tế.
 
-Chúng tôi thường tìm nó ở bốn nơi:
+KỂ và MỜI, ra mắt theo kế hoạch 2027, cũng đi từ cùng một gốc: văn hoá Việt, thiết kế, nghề thủ công và sự hiếu khách. Tự làm giúp chúng tôi hiểu bản sắc phải đi xuyên qua lựa chọn sản phẩm, đối tác và cả những điều quyết định không làm.
+:::
 
-- **Những lần doanh nghiệp làm tốt nhất.** Khách hàng nào quay lại, dự án nào được nhắc đến, vì lý do gì.
-- **Những quyết định khó đã đưa ra.** Doanh nghiệp đã từ chối điều gì, kể cả khi có lợi. Đó thường là nơi lộ ra giá trị thật.
-- **Con người và cách làm việc.** Đội ngũ tự hào về điều gì, khách hàng mô tả doanh nghiệp bằng những từ nào.
-- **Bối cảnh nơi doanh nghiệp lớn lên.** Vùng đất, ngành nghề, văn hoá, nguồn lực mà người khác không dễ có.
+## Áp dụng cho doanh nghiệp
 
-Việc của chúng tôi là gom những dấu vết đó lại, kiểm chứng chúng, và chuyển thành ngôn ngữ dùng được cho chiến lược.
+:::steps Bốn bước tìm vòng "Vì sao" của doanh nghiệp
+- Kể lại những lần làm tốt nhất | Khách nào quay lại, dự án nào được nhắc, và vì lý do gì.
+- Tìm những lần đã từ chối | Doanh nghiệp từng nói "không" với điều gì, kể cả khi có lợi — đó là nơi lộ ra giá trị thật.
+- Viết câu "Chúng tôi tin rằng…" | Một câu, không tính từ khen mình, đủ cụ thể để có người không đồng ý.
+- Soát lại hai vòng ngoài | Cách làm và sản phẩm hiện tại có đang chứng minh câu đó không?
+:::
 
-## Khi bản sắc trở thành cái bẫy
+Bản sắc là nền để chọn cách thắng — xem [chiến lược doanh nghiệp là gì](/goc-nhin/chien-luoc-doanh-nghiep-la-gi/) và cách kể nó thành lời trong bài [câu chuyện thương hiệu](/goc-nhin/cau-chuyen-thuong-hieu/).
 
-Đặt bản sắc làm điểm xuất phát không có nghĩa là bám chặt quá khứ. Có hai cái bẫy chúng tôi luôn tự nhắc mình.
+:::principle
+Bắt đầu từ điều mình tin. Sản phẩm thay đổi được, gốc thì phải vững.
+:::
 
-**Nhầm bản sắc với thói quen.** "Chúng tôi vẫn luôn làm thế" không phải bản sắc. Bản sắc là điều tạo ra giá trị cho khách hàng; thói quen chỉ là cách làm đã quen. Một số thói quen cần được bỏ đi chính để bản sắc rõ hơn.
+:::exercise
+Viết tiếp câu "Doanh nghiệp chúng tôi tin rằng…" trong ba dòng. Đưa cho một nhân viên đọc và hỏi: câu này có đúng với những gì anh chị thấy mỗi ngày không?
+:::
 
-**Nhầm bản sắc với mong muốn của người đứng đầu.** Bản sắc cần được khách hàng, đối tác, đội ngũ nhận ra. Nếu chỉ người lãnh đạo thấy, đó là tầm nhìn cá nhân chưa được kiểm chứng.
+:::quote
+君子務本，本立而道生
+Quân tử vụ bản, bản lập nhi đạo sinh
+Người quân tử lo cái gốc; gốc vững thì đường đi tự mở.
+Luận Ngữ · Học nhi
+:::
 
-Vì thế, bản sắc luôn phải được đặt cạnh dữ liệu thị trường. Trong phương pháp bốn bước Nghiên cứu → Chiến lược → Triển khai → Đánh giá của Clairmont, bước Nghiên cứu luôn nhìn cả hai phía: doanh nghiệp là ai, và thị trường cần gì.
+Tìm hiểu thêm về cách Clairmont làm việc và những gì chúng tôi tin ở trang [giới thiệu Clairmont Group](/gioi-thieu/).
 
-## Chúng tôi áp dụng điều này cho chính mình
+## Câu hỏi thường gặp
 
-Clairmont không chỉ tư vấn theo nguyên tắc này, mà còn dùng nó khi xây các thương hiệu của mình. FLEUR — cà phê và quà tặng cao cấp mang bản sắc Việt, ra mắt tại Hà Nội ngày 29/11/2026 — bắt đầu từ câu hỏi: điều gì của Việt Nam đáng được trao tặng, và trao theo cách nào cho tử tế. KỂ và MỜI, ra mắt theo kế hoạch 2027, cũng đi từ cùng một gốc: văn hoá Việt, thiết kế, nghề thủ công và sự hiếu khách.
+### Bản sắc doanh nghiệp khác tầm nhìn, sứ mệnh thế nào?
 
-Tự làm giúp chúng tôi hiểu rằng bản sắc không chỉ nằm ở logo hay câu chuyện. Nó phải đi xuyên qua lựa chọn sản phẩm, đối tác, cách bán và cả những điều chúng tôi quyết định không làm.
+Tầm nhìn nói nơi doanh nghiệp muốn đến, sứ mệnh nói việc doanh nghiệp làm cho ai. Bản sắc là điều doanh nghiệp vốn là và tin vào — nó giải thích vì sao tầm nhìn và sứ mệnh ấy thuộc về doanh nghiệp này, không phải doanh nghiệp khác.
 
-## Điều này có ý nghĩa gì với doanh nghiệp làm việc cùng Clairmont
+### Doanh nghiệp mới thành lập đã có bản sắc chưa?
 
-Khi bắt đầu một dự án, câu hỏi đầu tiên của chúng tôi hiếm khi là "doanh nghiệp muốn tăng bao nhiêu". Chúng tôi hỏi doanh nghiệp đã làm tốt điều gì, vì sao khách hàng chọn họ, và điều gì họ không muốn đánh đổi. Những câu trả lời đó trở thành nền cho mọi bước sau: định vị, sản phẩm, tổ chức, đối tác.
+Thường đã có, nằm ở người sáng lập: lý do họ bắt đầu, điều họ không chịu thoả hiệp. Việc cần làm là gọi tên nó sớm và kiểm chứng với khách hàng đầu tiên.
 
-Bạn có thể đọc thêm về cách chúng tôi định nghĩa chiến lược trong bài [chiến lược doanh nghiệp là gì](/goc-nhin/chien-luoc-doanh-nghiep-la-gi/), hoặc tìm hiểu thêm [về Clairmont Group](/gioi-thieu/).
+### Bản sắc có làm doanh nghiệp kém linh hoạt không?
+
+Không, nếu phân biệt đúng. Vòng "Vì sao" nên bền, còn vòng "Cái gì" có thể đổi liên tục theo thị trường. Chính vì gốc vững, doanh nghiệp mới dám thử những sản phẩm mới mà không lạc hướng.

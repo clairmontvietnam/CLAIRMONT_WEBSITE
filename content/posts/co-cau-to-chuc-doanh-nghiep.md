@@ -1,95 +1,105 @@
 ---
 slug: co-cau-to-chuc-doanh-nghiep
-title: Cơ cấu tổ chức doanh nghiệp: bốn mô hình phổ biến
-h1: Cơ cấu tổ chức doanh nghiệp: bốn mô hình phổ biến và khi nào nên đổi
-description: Cơ cấu tổ chức doanh nghiệp ảnh hưởng trực tiếp đến tốc độ ra quyết định. Bài viết so sánh bốn mô hình phổ biến và các dấu hiệu cho thấy đã đến lúc đổi.
-keywords: cơ cấu tổ chức doanh nghiệp, mô hình tổ chức, sơ đồ tổ chức, cơ cấu ma trận, quản trị tổ chức
-summary: Chức năng, bộ phận, ma trận hay phẳng — mỗi cơ cấu tổ chức giải một bài toán, và đều có giá phải trả.
+title: Cơ cấu tổ chức doanh nghiệp: bốn kiểu và nguyên lý Chandler
+h1: Cơ cấu tổ chức doanh nghiệp: vì sao sơ đồ cũ không chạy cho chiến lược mới?
+description: Cơ cấu tổ chức doanh nghiệp phải đi theo chiến lược. So sánh bốn kiểu cơ cấu trên phổ tập trung – phân quyền và dấu hiệu cho thấy đã đến lúc đổi.
+keywords: cơ cấu tổ chức doanh nghiệp, cơ cấu đi theo chiến lược, Alfred Chandler, mô hình tổ chức, sơ đồ tổ chức, cơ cấu ma trận
+summary: Một cơ cấu chạy rất tốt cho một cơ sở có thể làm nghẽn cả hệ thống khi mở cơ sở thứ hai.
 date: 2026-10-29
 category: Quản trị tổ chức
 author: Clairmont Group
 ---
 
-Cơ cấu tổ chức doanh nghiệp là cách phân chia công việc, quyền ra quyết định và trách nhiệm giữa các bộ phận và cá nhân. Sơ đồ tổ chức chỉ là phần nhìn thấy được. Phần quan trọng hơn nằm ở câu hỏi: ai quyết định điều gì, thông tin đi theo đường nào, và khi hai mục tiêu xung đột thì ai là người phân xử.
+:::hook
+Cơ cấu tổ chức doanh nghiệp là vẽ sơ đồ một lần rồi dùng mãi? **Chưa đúng.** Cơ cấu là công cụ để chạy chiến lược. **Chiến lược đổi thì cơ cấu phải đổi theo**, nếu không nó sẽ kéo chiến lược lại.
+:::
 
-Không có cơ cấu nào đúng cho mọi doanh nghiệp. Bài viết giới thiệu bốn mô hình phổ biến, điểm mạnh, điểm yếu của từng mô hình và các dấu hiệu cho thấy cơ cấu hiện tại không còn phù hợp.
+:::takeaways
+- Không có cơ cấu tốt nhất, chỉ có cơ cấu hợp với chiến lược lúc này.
+- Bốn kiểu phổ biến nằm trên một phổ, từ tập trung đến phân quyền.
+- Dấu hiệu cần đổi: quyết định nhỏ cũng phải chờ một người duyệt.
+:::
 
-## Cơ cấu tổ chức đi theo chiến lược
+:::story cau-hieu | Chiếc điện thoại không ngừng reo
+Ở Khách sạn Hiếu Thảo, việc gì cũng qua tay cậu Hiếu: nhận phòng, đổi phòng, bát cháo khuya cho khách về muộn. Một cơ sở, một người quyết, mọi thứ trôi chảy.
 
-Nhà sử học kinh doanh Alfred Chandler đã đúc kết một nguyên lý được dùng rộng rãi trong quản trị: cơ cấu đi theo chiến lược. Doanh nghiệp chọn tập trung vào một sản phẩm, mở rộng sang nhiều ngành hàng hay vươn ra nhiều thị trường sẽ cần những cách tổ chức khác nhau.
+Khi mở cơ sở thứ hai bên kia sông, điện thoại của cậu reo từ sáng đến đêm. *"Anh ơi, khách xin trả phòng muộn một tiếng, em có được cho không ạ?"* Khách chờ, nhân viên chờ, cậu chạy qua chạy lại giữa hai nơi, bát cháo khuya bên này thì nguội dần.
 
-Điều này có nghĩa là trước khi vẽ lại sơ đồ, ban lãnh đạo cần trả lời rõ doanh nghiệp đang cạnh tranh bằng điều gì. Nếu lợi thế nằm ở chi phí và hiệu quả, cơ cấu cần ưu tiên chuyên môn hoá và chuẩn hoá. Nếu lợi thế nằm ở việc phản ứng nhanh với từng nhóm khách hàng, cơ cấu cần trao quyền gần khách hàng hơn. Xem thêm về cách xác định lựa chọn này trong bài [chiến lược doanh nghiệp là gì](/goc-nhin/chien-luoc-doanh-nghiep-la-gi/).
+Một tối ngồi tính sổ ở quầy lễ tân, cậu nhận ra nhân viên không thiếu tâm. Họ chỉ không được trao quyền. Cách tổ chức hợp với một ngôi nhà đã không còn hợp với hai.
+:::
 
-## Bốn mô hình cơ cấu tổ chức doanh nghiệp phổ biến
+Câu chuyện của cậu Hiếu lặp lại ở rất nhiều doanh nghiệp đang lớn. Câu hỏi then chốt là: **chiến lược mới đòi hỏi quyết định nào được đưa ra ở đâu?**
 
-### 1. Cơ cấu theo chức năng
+## Bốn kiểu cơ cấu trên phổ tập trung – phân quyền
 
-Doanh nghiệp được chia theo chuyên môn: kinh doanh, marketing, tài chính, vận hành, nhân sự. Mỗi khối có trưởng bộ phận báo cáo lên giám đốc.
+:::model spectrum | Phổ bốn kiểu cơ cấu tổ chức | Nguyên lý "cơ cấu đi theo chiến lược" — Alfred D. Chandler (1962)
+x: Tập trung | Phân quyền
+- Theo chức năng | Chia theo chuyên môn: kinh doanh, vận hành, kế toán. Rõ ràng, tiết kiệm, quyết định dồn lên trên.
+- Theo bộ phận | Chia theo sản phẩm, thị trường hay cơ sở; mỗi đơn vị có đủ chức năng và tự chịu kết quả.
+- Ma trận | Một người có hai tuyến báo cáo, ví dụ chuyên môn và dự án; linh hoạt nhưng dễ va chạm.
+- Phẳng | Ít tầng quản lý, nhóm nhỏ tự quyết nhiều việc; nhanh nhưng phụ thuộc vào con người và văn hoá.
+:::
 
-- **Phù hợp khi:** doanh nghiệp có một dòng sản phẩm chính hoặc một thị trường chính, quy mô vừa phải.
-- **Điểm mạnh:** chuyên môn sâu, tránh trùng lặp nguồn lực, dễ chuẩn hoá quy trình.
-- **Điểm yếu:** các khối dễ tối ưu cho mục tiêu riêng; mọi xung đột liên phòng ban dồn lên lãnh đạo cao nhất, khiến người đứng đầu trở thành điểm nghẽn.
+Chandler nghiên cứu các tập đoàn lớn của Mỹ và rút ra: khi doanh nghiệp đổi chiến lược, chẳng hạn mở rộng thị trường hay thêm dòng sản phẩm, **cơ cấu cũ sẽ bộc lộ giới hạn**, và doanh nghiệp phải tổ chức lại để chiến lược chạy được.
 
-### 2. Cơ cấu theo bộ phận
+- Đi về bên trái phổ: kiểm soát chặt, tiết kiệm, nhưng chậm khi quy mô tăng.
+- Đi về bên phải phổ: nhanh và gần khách, nhưng cần quy trình và người quản lý đủ chín.
+- Doanh nghiệp không cần nhảy một bước từ đầu này sang đầu kia; nhiều nơi kết hợp hai kiểu.
 
-Doanh nghiệp được chia thành các đơn vị tương đối độc lập theo sản phẩm, nhóm khách hàng hoặc khu vực. Mỗi đơn vị có đủ các chức năng chính và chịu trách nhiệm về kết quả của mình.
+## Dấu hiệu đã đến lúc đổi cơ cấu
 
-- **Phù hợp khi:** doanh nghiệp có nhiều ngành hàng hoặc thị trường khác biệt rõ.
-- **Điểm mạnh:** trách nhiệm kết quả rõ ràng, phản ứng nhanh với thị trường riêng, dễ đánh giá từng mảng.
-- **Điểm yếu:** trùng lặp chức năng giữa các đơn vị, chi phí quản lý tăng, khó chia sẻ nguồn lực và kiến thức.
+:::compare Cơ cấu đang kéo chiến lược lại | Cơ cấu đang đỡ chiến lược
+- Việc nhỏ ở cơ sở mới cũng phải gọi về hỏi chủ || Quyết định thường ngày nằm ở người gần khách nhất, có giới hạn rõ.
+- Hai bộ phận đùn đẩy khi khách phàn nàn || Mỗi kết quả có một người chịu trách nhiệm cuối cùng.
+- Thêm người mà việc không nhanh hơn || Thêm người đi kèm với thêm quyền và thêm cách đo kết quả.
+:::
 
-### 3. Cơ cấu ma trận
+Những dấu hiệu này thường xuất hiện ngay sau một quyết định chiến lược: mở cơ sở mới, thêm dòng sản phẩm, vào thị trường mới.
 
-Nhân sự cùng lúc báo cáo theo hai trục, thường là chức năng và dự án (hoặc sản phẩm, khu vực). Một kiến trúc sư vừa thuộc khối thiết kế, vừa làm việc cho ban quản lý một dự án cụ thể.
+:::example Ví dụ giả định — một chuỗi nhà hàng ba cơ sở
+Một chuỗi nhà hàng ba cơ sở vẫn tổ chức theo chức năng: một bếp trưởng cho cả ba bếp, một người lo mua hàng, chủ duyệt mọi khoản chi. Khi mở cơ sở thứ tư, chủ chuyển sang cơ cấu theo bộ phận: mỗi cơ sở có quản lý riêng, tự quyết ca làm và khoản chi nhỏ.
 
-- **Phù hợp khi:** doanh nghiệp vận hành nhiều dự án song song cần dùng chung đội ngũ chuyên môn, như phát triển bất động sản, tư vấn, kỹ thuật.
-- **Điểm mạnh:** tận dụng chuyên môn trên nhiều dự án, cân bằng giữa chất lượng chuyên môn và tiến độ dự án.
-- **Điểm yếu:** hai cấp quản lý dễ mâu thuẫn về ưu tiên; nếu không có quy tắc phân xử rõ, nhân sự chịu áp lực và trách nhiệm bị mờ.
+Bộ phận mua hàng và công thức món vẫn để tập trung, để giữ chất lượng giống nhau. Đây là một cơ cấu lai: phân quyền chỗ cần nhanh, tập trung chỗ cần đồng nhất.
+:::
 
-### 4. Cơ cấu phẳng
+## Áp dụng cho doanh nghiệp
 
-Ít cấp quản lý trung gian, các nhóm nhỏ làm việc trực tiếp với lãnh đạo và với nhau. Thường gặp ở doanh nghiệp khởi nghiệp và doanh nghiệp nhỏ.
+:::steps Bốn bước rà lại cơ cấu tổ chức
+- Viết lại chiến lược một câu | Doanh nghiệp đang tăng trưởng bằng cách nào: thêm cơ sở, thêm sản phẩm hay thêm thị trường?
+- Liệt kê quyết định thường ngày | Mười quyết định lặp lại nhiều nhất, hiện ai đang quyết, ai nên quyết.
+- Chọn vị trí trên phổ | Phần nào cần tập trung để giữ chuẩn, phần nào cần phân quyền để nhanh.
+- Đổi từng phần, đo lại | Thử ở một đơn vị trước, ghi lại thời gian ra quyết định, rồi mới nhân rộng.
+:::
 
-- **Phù hợp khi:** đội ngũ nhỏ, sản phẩm đang hình thành, cần thử nghiệm nhanh.
-- **Điểm mạnh:** thông tin đi nhanh, ít thủ tục, mỗi người thấy rõ đóng góp của mình.
-- **Điểm yếu:** khi quy mô tăng, lãnh đạo bị quá tải, vai trò chồng chéo, những việc "không ai sở hữu" bắt đầu rơi rụng.
+Đổi cơ cấu thường đi cùng chuẩn hoá quy trình và tái cấu trúc — đọc thêm [tái cấu trúc tổ chức khi tăng trưởng nhanh](/goc-nhin/tai-cau-truc-to-chuc-khi-tang-truong-nhanh/) và [chuẩn hoá quy trình vận hành](/goc-nhin/chuan-hoa-quy-trinh-van-hanh/).
 
-## Dấu hiệu cơ cấu tổ chức không còn phù hợp
+:::principle
+Vẽ chiến lược trước, vẽ sơ đồ tổ chức sau. Đừng làm ngược lại.
+:::
 
-Cơ cấu thường chậm thay đổi hơn chiến lược và thị trường. Một số dấu hiệu cho thấy khoảng cách đó đã lớn:
+:::exercise
+Ghi ba quyết định bạn duyệt trong tuần qua mà người khác hoàn toàn có thể tự quyết. Chọn một, viết ra giới hạn, rồi trao quyền ngay tuần này.
+:::
 
-- **Quyết định nhỏ cũng phải chờ lãnh đạo cao nhất.** Người đứng đầu dành phần lớn thời gian phân xử thay vì định hướng.
-- **Cùng một việc, nhiều bộ phận làm; có việc thì không ai làm.** Ranh giới trách nhiệm không còn khớp với công việc thực tế.
-- **Chiến lược mới không có "nhà".** Doanh nghiệp quyết định mở thị trường hay ngành hàng mới nhưng không có đơn vị nào chịu trách nhiệm trọn vẹn.
-- **Người giỏi rời đi vì không thấy lộ trình.** Cơ cấu quá phẳng hoặc quá cứng không tạo ra vị trí để người có năng lực lớn lên.
-- **Chỉ số của các bộ phận đều đạt, nhưng kết quả chung không đạt.** Mỗi khối tối ưu cho phần mình, không ai chịu trách nhiệm cho tổng thể.
+:::quote
+上善若水
+Thượng thiện nhược thuỷ
+Điều thiện cao nhất như nước — mềm mà theo được mọi hình.
+Đạo Đức Kinh · chương 8
+:::
 
-Những dấu hiệu này thường đi cùng các vấn đề rộng hơn được phân tích trong bài [dấu hiệu doanh nghiệp cần tái cấu trúc](/goc-nhin/dau-hieu-can-tai-cau-truc-doanh-nghiep/).
-
-## Đổi cơ cấu tổ chức: những nguyên tắc nên giữ
-
-Thay đổi cơ cấu ảnh hưởng đến con người, quyền lợi và thói quen làm việc, nên cần được làm có chủ đích.
-
-**Bắt đầu từ quyết định, không phải từ sơ đồ.** Liệt kê các quyết định quan trọng nhất của doanh nghiệp — giá bán, tuyển dụng, chọn nhà cung ứng, phê duyệt dự án — và xác định ai đề xuất, ai quyết, ai cần được hỏi ý kiến. Sơ đồ mới nên phản ánh bản đồ quyết định này.
-
-**Đổi đủ, không đổi thừa.** Không phải vấn đề nào cũng cần đổi mô hình. Đôi khi chỉ cần làm rõ vai trò hoặc thêm một cơ chế phối hợp liên phòng ban.
-
-**Đi cùng quy trình và chỉ số.** Cơ cấu mới mà quy trình, quy chế phân quyền và chỉ số đánh giá vẫn giữ nguyên thì hành vi sẽ không đổi.
-
-**Truyền thông sớm và trung thực.** Nhân sự cần hiểu vì sao thay đổi, vai trò của họ ra sao và lộ trình chuyển tiếp thế nào. Sự mơ hồ kéo dài thường gây tổn thất lớn hơn chính thay đổi.
-
-Clairmont đồng hành cùng doanh nghiệp rà soát và thiết kế lại cơ cấu tổ chức như một phần của [tái cấu trúc doanh nghiệp](/dich-vu/tai-cau-truc-doanh-nghiep/), theo phương pháp Nghiên cứu → Chiến lược → Triển khai → Đánh giá.
+Clairmont đồng hành cùng doanh nghiệp rà lại cơ cấu khi chiến lược thay đổi — xem [tái cấu trúc doanh nghiệp](/dich-vu/tai-cau-truc-doanh-nghiep/).
 
 ## Câu hỏi thường gặp
 
-### Doanh nghiệp nhỏ có cần sơ đồ tổ chức không?
+### Doanh nghiệp nhỏ nên chọn cơ cấu nào?
 
-Có, dù đơn giản. Sơ đồ giúp làm rõ ai chịu trách nhiệm việc gì, đặc biệt khi bắt đầu tuyển thêm người và người sáng lập không thể trực tiếp theo dõi mọi việc.
+Phần lớn doanh nghiệp nhỏ bắt đầu theo chức năng, vì rõ ràng và tiết kiệm. Khi có thêm cơ sở hoặc dòng sản phẩm khác hẳn nhau, nên cân nhắc chia theo bộ phận cho những phần cần tự chủ.
 
-### Cơ cấu ma trận có phù hợp với doanh nghiệp Việt Nam?
+### Cơ cấu ma trận có phù hợp với doanh nghiệp Việt Nam không?
 
-Phù hợp với doanh nghiệp vận hành nhiều dự án song song, với điều kiện có quy tắc phân xử rõ giữa quản lý chức năng và quản lý dự án. Thiếu quy tắc này, ma trận dễ tạo ra mâu thuẫn kéo dài.
+Có thể, nếu vai trò và quyền quyết định được viết rõ. Ma trận dễ gây rối khi một người nhận hai chỉ đạo trái nhau mà không biết ai quyết cuối cùng.
 
-### Bao lâu nên rà soát cơ cấu tổ chức một lần?
+### Đổi cơ cấu tổ chức có cần đổi nhân sự không?
 
-Mỗi khi chiến lược thay đổi đáng kể hoặc quy mô nhân sự tăng nhanh, thay vì đợi đến khi vấn đề bộc lộ rõ.
+Không nhất thiết. Nhiều khi chỉ cần đổi quyền quyết định và tuyến báo cáo. Nhưng cơ cấu mới thường đòi hỏi kỹ năng quản lý mới, nên cần kế hoạch đào tạo đi kèm.

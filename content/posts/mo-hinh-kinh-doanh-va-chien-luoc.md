@@ -1,87 +1,98 @@
 ---
 slug: mo-hinh-kinh-doanh-va-chien-luoc
-title: Mô hình kinh doanh và chiến lược | Clairmont Group
-h1: Mô hình kinh doanh và chiến lược: phân biệt để không nhầm việc
-description: Mô hình kinh doanh mô tả cách doanh nghiệp tạo và thu giá trị; chiến lược là lựa chọn để thắng. Phân biệt rõ để biết khi nào cần sửa cái nào.
-keywords: mô hình kinh doanh, mô hình kinh doanh là gì, Business Model Canvas, chiến lược kinh doanh
-summary: Mô hình kinh doanh là cỗ máy, chiến lược là cách chọn cuộc đua. Nhầm hai thứ dễ khiến doanh nghiệp sửa sai chỗ.
+title: Mô hình kinh doanh và chiến lược: Business Model Canvas
+h1: Mô hình kinh doanh hỏng, hay chiến lược đang chạy sai cuộc đua?
+description: Mô hình kinh doanh là cỗ máy, chiến lược là cuộc đua. Đọc chín ô Business Model Canvas để biết doanh nghiệp cần sửa máy hay cần chọn lại đường.
+keywords: mô hình kinh doanh, Business Model Canvas, mô hình kinh doanh là gì, chiến lược kinh doanh, Osterwalder
+summary: Chép cỗ máy của người khác chưa chắc thắng, vì có thể họ đang chạy một cuộc đua khác hẳn bạn.
 date: 2026-10-29
 category: Chiến lược doanh nghiệp
 author: Clairmont Group
 ---
 
-Mô hình kinh doanh và chiến lược là hai khái niệm thường được dùng thay cho nhau trong các buổi họp. "Chúng ta cần đổi mô hình" và "chúng ta cần chiến lược mới" đôi khi được nói như cùng một ý. Nhưng chúng trả lời hai câu hỏi khác nhau. Nhầm lẫn giữa hai khái niệm này khiến doanh nghiệp dễ sửa sai chỗ: đổi cách kiếm tiền trong khi vấn đề nằm ở việc chọn thị trường, hoặc ngược lại.
+:::hook
+Kinh doanh không ổn thì đổi mô hình kinh doanh là xong? **Chưa đúng.** Mô hình kinh doanh là cỗ máy, chiến lược là cuộc đua — sửa nhầm chỗ thì cỗ máy chỉ chạy nhanh hơn trên một con đường sai.
+:::
 
-Bài viết giải thích mô hình kinh doanh là gì, chiến lược là gì, hai thứ liên quan với nhau thế nào, và cách nhận biết doanh nghiệp đang cần xem lại cái nào.
+:::takeaways
+- Mô hình kinh doanh mô tả cách tạo, trao và thu giá trị.
+- Business Model Canvas gom cả cỗ máy vào chín ô trên một trang giấy.
+- Chọn cuộc đua trước, rồi mới thiết kế cỗ máy để thắng cuộc đua ấy.
+:::
 
-## Mô hình kinh doanh là gì
+:::story di-linh | Bản vẽ của quán đầu ngõ
+Quán cơm gà kiểu Đà Lạt của Dì Linh trưa nào cũng kín bàn, vậy mà cuối tháng dì vẫn lo tiền chợ. Đứa cháu đi làm văn phòng về, khuyên một mạch: *"Dì cứ làm như quán đầu ngõ ấy, lên app giao hàng, bán đến khuya, thêm trà sữa nữa là đông ngay!"*
 
-Mô hình kinh doanh mô tả cách một doanh nghiệp tạo ra giá trị, đưa giá trị đến khách hàng và thu lại giá trị dưới dạng doanh thu. Nói đơn giản, đó là "cỗ máy" vận hành của doanh nghiệp: ai là khách, mình mang đến điều gì, bằng con đường nào, thu tiền ra sao, và cần những nguồn lực, hoạt động, đối tác nào để làm được.
+Tối đó dì lấy tờ giấy, ghi từng thứ: ai ăn ở quán, họ đến vì gì, gà mua của ai, tiền đi đâu. Khách của dì là dân văn phòng quanh đó, đến vì đĩa cơm nóng và miếng gà ta xé tay, gần như chỉ trong hai tiếng buổi trưa.
 
-Công cụ phổ biến để mô tả mô hình kinh doanh là Business Model Canvas do Alexander Osterwalder và Yves Pigneur phát triển, gồm chín ô:
+Quán đầu ngõ sống bằng đơn giao hàng buổi tối, cho một nhóm khách khác. Dì nhận ra: bản vẽ ấy không sai, nó chỉ được vẽ cho một cuộc đua khác.
+:::
 
-- Phân khúc khách hàng (Customer Segments)
-- Giá trị đề xuất (Value Propositions)
-- Kênh (Channels)
-- Quan hệ khách hàng (Customer Relationships)
-- Dòng doanh thu (Revenue Streams)
-- Nguồn lực chính (Key Resources)
-- Hoạt động chính (Key Activities)
-- Đối tác chính (Key Partnerships)
-- Cơ cấu chi phí (Cost Structure)
+Doanh nghiệp cũng hay mượn cỗ máy của người đang thành công. Trước khi chép, cần hỏi: **mình đang sửa cỗ máy, hay đang chọn sai cuộc đua?**
 
-Canvas hữu ích vì nó buộc doanh nghiệp nhìn toàn bộ cỗ máy trên một trang. Nhưng chính vì là bản mô tả, nó không tự trả lời câu hỏi: cỗ máy này có đủ sức thắng trong thị trường cụ thể không.
+## Business Model Canvas: chín ô của một mô hình kinh doanh
 
-## Chiến lược là gì, và khác mô hình kinh doanh ở đâu
+:::model canvas | Business Model Canvas | Alexander Osterwalder & Yves Pigneur (2010)
+- Đối tác chính | Những người bên ngoài giúp cỗ máy chạy: nhà cung cấp, đơn vị gia công, đối tác phân phối.
+- Hoạt động chính | Những việc phải làm thật giỏi để giữ được lời hứa với khách.
+- Nguồn lực chính | Tài sản không thể thiếu: con người, công thức, mặt bằng, thương hiệu.
+- Giá trị | Lý do khách chọn mình: vấn đề được giải quyết hay niềm vui được mang lại.
+- Quan hệ khách hàng | Cách giữ chân khách: tự phục vụ, chăm sóc riêng hay xây cộng đồng.
+- Kênh | Con đường đưa giá trị tới khách: cửa hàng, giao hàng, đại lý, mạng xã hội.
+- Phân khúc khách hàng | Những nhóm người cụ thể mà doanh nghiệp phục vụ.
+- Chi phí | Các khoản lớn nhất phát sinh khi vận hành cỗ máy.
+- Doanh thu | Khách trả tiền cho điều gì, theo cách nào: theo lần, theo gói hay theo hợp đồng.
+:::
 
-Chiến lược là tập hợp lựa chọn về việc doanh nghiệp sẽ cạnh tranh ở đâu và bằng cách nào để tạo ra lợi thế bền vững. Theo Michael Porter, chiến lược gắn với việc tạo ra một vị trí khác biệt, đi kèm những đánh đổi rõ ràng, và các hoạt động phải ăn khớp với nhau để củng cố vị trí đó. Phần cốt lõi được trình bày trong bài [chiến lược doanh nghiệp là gì](/goc-nhin/chien-luoc-doanh-nghiep-la-gi/).
+Canvas đặt khách hàng ở bên phải, phần vận hành ở bên trái và tiền ở hàng dưới. Ô Giá trị nằm giữa, nối hai phía. Nhờ vậy, cả cỗ máy hiện ra trên một trang.
 
-Có thể phân biệt như sau:
+- **Đọc từ phải sang trái:** bắt đầu từ Phân khúc và Giá trị, rồi mới hỏi cần hoạt động, nguồn lực, đối tác gì.
+- **Hàng dưới là phép thử:** Chi phí và Doanh thu cho biết cỗ máy có tự nuôi được mình không.
+- **Canvas là bản mô tả:** nó không cho biết cỗ máy có thắng được đối thủ không. Đó là việc của chiến lược.
 
-- **Mô hình kinh doanh trả lời "cỗ máy vận hành thế nào".** Chiến lược trả lời "cỗ máy ấy được dùng để thắng cuộc đua nào, trước những đối thủ nào".
-- **Mô hình kinh doanh có thể mô tả mà không cần nhắc đến đối thủ.** Chiến lược thì không: nó luôn là lựa chọn trong tương quan cạnh tranh.
-- **Nhiều doanh nghiệp có thể có mô hình kinh doanh giống nhau** nhưng chiến lược khác nhau. Ví dụ giả định: hai quán cà phê cùng bán đồ uống tại chỗ, cùng thu tiền theo ly, cùng thuê mặt bằng và nhân viên. Một quán chọn phục vụ dân văn phòng cần nhanh, gần tòa nhà; quán kia chọn phục vụ người muốn ngồi lâu, không gian yên tĩnh ở phố nhỏ. Cùng cỗ máy, hai lựa chọn chiến lược, kéo theo hai cách bố trí, định giá, tuyển người khác nhau.
+## Mô hình kinh doanh khác chiến lược ở đâu
 
-Hai khái niệm vẫn gắn chặt với nhau. Một số nhà nghiên cứu, như Ramon Casadesus-Masanell và Joan Ricart, mô tả mô hình kinh doanh là sự phản ánh của chiến lược đã được hiện thực hóa: chiến lược là lựa chọn, mô hình kinh doanh là kết quả của lựa chọn ấy khi đi vào vận hành.
+Theo Michael Porter, chiến lược là tạo một vị trí khác biệt, chấp nhận đánh đổi và cho các hoạt động ăn khớp với nhau. Mô hình kinh doanh có thể vẽ mà không nhắc tới đối thủ; chiến lược thì luôn là lựa chọn trong tương quan cạnh tranh.
 
-## Khi nào cần xem lại mô hình kinh doanh, khi nào cần xem lại chiến lược
+:::compare Nhầm lẫn thường gặp | Cách nhìn đúng
+- "Đổi mô hình" khi khách không còn chọn mình || Xem lại chiến lược trước: mình thắng bằng điều gì, trước đối thủ nào.
+- Chép canvas của doanh nghiệp đang thành công || Hỏi canvas ấy được dựng cho cuộc đua nào, có phải cuộc đua của mình không.
+- Vẽ canvas một lần rồi cất || Soát lại từng ô mỗi khi lựa chọn chiến lược thay đổi.
+:::
 
-Đây là phần hữu ích nhất của việc phân biệt. Một số dấu hiệu gợi ý doanh nghiệp đang gặp vấn đề ở đâu:
+:::example Hai quán cà phê, một cỗ máy
+Hai quán cùng bán đồ uống tại chỗ, cùng thu tiền theo ly, cùng thuê mặt bằng và nhân viên. Canvas của hai quán gần như giống hệt nhau.
 
-**Dấu hiệu vấn đề nằm ở mô hình kinh doanh:**
+Nhưng một quán chọn phục vụ dân văn phòng cần nhanh, đặt ngay chân toà nhà. Quán kia chọn người muốn ngồi lâu, trong một phố nhỏ yên tĩnh. Cùng cỗ máy, hai lựa chọn chiến lược, kéo theo hai cách bố trí, định giá và tuyển người khác nhau.
+:::
 
-- Khách hàng mục tiêu đúng, họ thích sản phẩm, nhưng biên lợi nhuận không đủ nuôi bộ máy.
-- Chi phí đưa sản phẩm đến khách quá cao so với giá trị mỗi đơn hàng.
-- Doanh thu phụ thuộc vào một dòng duy nhất dễ bị gián đoạn.
-- Một hoạt động chính đòi hỏi nguồn lực doanh nghiệp không có và khó có.
+## Áp dụng cho doanh nghiệp
 
-**Dấu hiệu vấn đề nằm ở chiến lược:**
+:::steps Bốn bước: chiến lược trước, canvas sau
+- Chọn cuộc đua | Trả lời ba câu: phục vụ khách nào, khác biệt ở điều gì, và chủ động không làm gì.
+- Vẽ canvas hiện tại | Điền chín ô theo đúng cách doanh nghiệp đang chạy, không phải cách mình mong.
+- Soát sự ăn khớp | Đánh dấu ô nào củng cố lựa chọn chiến lược, ô nào đang kéo sang hướng khác.
+- Thử nhỏ trước | Sửa một hai ô, kiểm chứng ở quy mô nhỏ rồi mới đầu tư lớn.
+:::
 
-- Doanh nghiệp không trả lời được rõ ràng vì sao khách chọn mình thay vì đối thủ.
-- Sản phẩm phục vụ nhiều nhóm khách nhưng không nhóm nào thực sự gắn bó.
-- Đối thủ dễ dàng sao chép mọi điểm khác biệt.
-- Các bộ phận theo đuổi những ưu tiên mâu thuẫn nhau.
+Phần "chọn cuộc đua" được bàn kỹ trong bài [chiến lược doanh nghiệp là gì](/goc-nhin/chien-luoc-doanh-nghiep-la-gi/). Lộ trình đầy đủ cho doanh nghiệp vừa và nhỏ có ở bài [các bước xây dựng chiến lược doanh nghiệp](/goc-nhin/cac-buoc-xay-dung-chien-luoc-doanh-nghiep/).
 
-Nếu dấu hiệu thuộc nhóm đầu, sửa cỗ máy có thể đủ. Nếu thuộc nhóm sau, đổi cách thu tiền hay thêm kênh bán sẽ chỉ làm cỗ máy chạy nhanh hơn theo một hướng chưa đúng.
+:::principle
+Chọn cuộc đua trước, rồi mới thiết kế cỗ máy để thắng cuộc đua ấy.
+:::
 
-## Thứ tự hợp lý: chiến lược trước, mô hình sau
+:::exercise
+Vẽ chín ô lên một tờ A4, mỗi ô tối đa ba dòng về doanh nghiệp của bạn. Khoanh tròn ô bạn ít chắc chắn nhất — đó là nơi cần hỏi tiếp.
+:::
 
-Nhiều doanh nghiệp bắt đầu từ mô hình: thấy một cách kiếm tiền hấp dẫn ở nơi khác rồi áp dụng — nhanh, nhưng dễ vay mượn một cỗ máy thiết kế cho cuộc đua khác.
+:::quote
+物有本末，事有終始
+Vật hữu bản mạt, sự hữu chung thuỷ
+Vật có gốc ngọn, việc có đầu cuối
+Đại Học
+:::
 
-Thứ tự Clairmont thường đề xuất là:
-
-1. **Làm rõ lựa chọn chiến lược:** khách hàng nào, giá trị khác biệt gì, không làm gì.
-2. **Thiết kế mô hình kinh doanh phục vụ lựa chọn đó:** kênh, doanh thu, nguồn lực, đối tác, chi phí.
-3. **Kiểm tra sự ăn khớp:** mỗi ô trong mô hình có củng cố vị trí chiến lược không, hay đang kéo theo hướng khác.
-4. **Thử nghiệm và điều chỉnh:** mô hình nên được kiểm chứng ở quy mô nhỏ trước khi đầu tư lớn.
-
-Thứ tự này nằm trong phương pháp bốn bước Nghiên cứu → Chiến lược → Triển khai → Đánh giá. Các bước cụ thể cho doanh nghiệp vừa và nhỏ được trình bày trong bài [các bước xây dựng chiến lược doanh nghiệp](/goc-nhin/cac-buoc-xay-dung-chien-luoc-doanh-nghiep/).
-
-## Lời kết
-
-Mô hình kinh doanh và chiến lược không phải hai cách gọi của cùng một thứ. Mô hình kinh doanh là cỗ máy; chiến lược là lựa chọn về cuộc đua và cách thắng. Doanh nghiệp cần cả hai, và cần chúng ăn khớp với nhau. Khi kết quả kinh doanh không như mong muốn, câu hỏi đầu tiên nên là: cỗ máy đang hỏng, hay cỗ máy đang chạy sai đường?
-
-Clairmont đồng hành cùng doanh nghiệp làm rõ lựa chọn chiến lược và thiết kế mô hình phù hợp. Tìm hiểu thêm tại [tư vấn chiến lược doanh nghiệp](/dich-vu/tu-van-chien-luoc-doanh-nghiep/).
+Clairmont đồng hành cùng doanh nghiệp làm rõ lựa chọn chiến lược và thiết kế mô hình phù hợp — xem [tư vấn chiến lược doanh nghiệp](/dich-vu/tu-van-chien-luoc-doanh-nghiep/).
 
 ## Câu hỏi thường gặp
 
@@ -91,7 +102,7 @@ Không. Canvas là công cụ mô tả và thiết kế mô hình kinh doanh tr�
 
 ### Doanh nghiệp nhỏ có cần phân biệt hai khái niệm này không?
 
-Có, vì nguồn lực hạn chế khiến việc sửa sai chỗ càng tốn kém. Chỉ cần trả lời được hai câu hỏi: mình thắng bằng điều gì, và cỗ máy hiện tại có phục vụ điều đó không.
+Có, vì nguồn lực hạn chế khiến việc sửa sai chỗ càng tốn kém. Chỉ cần trả lời được hai câu: mình thắng bằng điều gì, và cỗ máy hiện tại có phục vụ điều đó không.
 
 ### Đổi mô hình kinh doanh có phải là tái cấu trúc không?
 
