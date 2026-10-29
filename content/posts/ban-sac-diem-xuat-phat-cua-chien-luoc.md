@@ -21,7 +21,7 @@ Chiến lược nên bắt đầu từ xu hướng thị trường hay từ đ�
 :::
 
 :::story ong-thuong | "Tiệm của tôi tin rằng…"
-Một chiều, chị Thảo ghé Tiệm Bánh Thương mua bánh mì. Thấy ông Thương đang loay hoay viết lại tấm bảng giới thiệu: "Bánh ngon, giá tốt, nguyên liệu sạch". Ông bảo tiệm mới mở đầu phố cũng ghi y như thế.
+Một chiều, chị Thảo ghé Tiệm Bánh Thương, thấy ông Thương đang loay hoay viết lại tấm bảng: "Bánh ngon, giá tốt, nguyên liệu sạch". Ông bảo tiệm mới mở đầu phố cũng ghi y như thế.
 
 Chị hỏi: *"Thế bác làm bánh mấy chục năm nay là vì cái gì ạ?"* Ông ngẫm một lúc rồi nói: *"Tiệm của tôi tin rằng sáng nào người trong phố cũng đáng được ăn một cái bánh nóng làm bằng tay. Thế nên tôi dậy từ ba giờ, không dùng bột trộn sẵn."*
 
@@ -38,11 +38,11 @@ Tấm bảng đầu nói tiệm **bán cái gì**. Tấm bảng sau nói tiệm 
 - Cái gì | Sản phẩm, dịch vụ cụ thể — phần ai cũng nhìn thấy và dễ bị sao chép nhất.
 :::
 
-Sinek quan sát rằng hầu hết doanh nghiệp giao tiếp từ ngoài vào: nói sản phẩm trước, cách làm sau, hiếm khi nói lý do. Những tổ chức truyền cảm hứng làm ngược lại, **từ trong ra**: bắt đầu bằng "Vì sao". Theo ông, người ta không mua cái bạn làm, họ mua lý do bạn làm.
+Sinek quan sát rằng hầu hết doanh nghiệp nói từ ngoài vào: sản phẩm trước, cách làm sau, hiếm khi nói lý do. Những tổ chức truyền cảm hứng làm ngược lại, **từ trong ra**: bắt đầu bằng "Vì sao". Theo ông, người ta không mua cái bạn làm, họ mua lý do bạn làm.
 
 - Vòng "Vì sao" chính là phần lõi của bản sắc: điều doanh nghiệp tin, đã có trước khi có sản phẩm.
 - Vòng "Như thế nào" là nơi bản sắc thành lợi thế: dậy từ ba giờ, không dùng bột trộn sẵn.
-- Khi ba vòng nhất quán, lời nói "Vì sao" mới đáng tin. Một vòng lệch là khách nhận ra ngay.
+- Ba vòng nhất quán thì "Vì sao" mới đáng tin.
 
 ## Ba điểm xuất phát và giới hạn của chúng
 
@@ -55,7 +55,7 @@ Sinek quan sát rằng hầu hết doanh nghiệp giao tiếp từ ngoài vào: 
 Bản sắc buộc doanh nghiệp nhìn vào trong trước — nhưng luôn đặt cạnh dữ liệu thị trường, để không nhầm bản sắc với thói quen hay mong muốn riêng của người đứng đầu.
 
 :::example Chúng tôi áp dụng điều này cho chính mình
-Clairmont chọn khẩu hiệu "Bản sắc dẫn lối chiến lược", và dùng chính nguyên tắc đó khi xây thương hiệu riêng. FLEUR — cà phê và quà tặng cao cấp mang bản sắc Việt, ra mắt tại Hà Nội ngày 29/11/2026 — bắt đầu từ câu hỏi: điều gì của Việt Nam đáng được trao tặng, và trao sao cho tử tế.
+Clairmont chọn khẩu hiệu "Bản sắc dẫn lối chiến lược" và dùng nó khi xây thương hiệu riêng. FLEUR — cà phê và quà tặng cao cấp mang bản sắc Việt, ra mắt tại Hà Nội ngày 29/11/2026 — bắt đầu từ câu hỏi: điều gì của Việt Nam đáng được trao tặng, và trao sao cho tử tế.
 
 KỂ và MỜI, ra mắt theo kế hoạch 2027, cũng đi từ cùng một gốc: văn hoá Việt, nghề thủ công và sự hiếu khách. Bản sắc phải đi xuyên qua sản phẩm, đối tác và cả những điều chúng tôi chọn không làm.
 :::

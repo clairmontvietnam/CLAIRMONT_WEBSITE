@@ -28,7 +28,7 @@ Hôm ấy, ông khách quen ngồi góc cửa sổ nói một câu làm cô kh�
 Cô không giảm giá nữa. Cô cắt bớt nửa thực đơn, giữ lại cà phê pha tay, ghi nhớ thói quen của từng khách quen. Quán vẫn nhỏ, nhưng lần đầu tiên cô biết rõ mình đang thắng ở đâu.
 :::
 
-Doanh nghiệp nào rồi cũng gặp một "chuỗi lớn bên kia đường". Lúc đó, câu hỏi then chốt không phải "làm thêm gì", mà là: **mình chọn thắng bằng chi phí hay bằng sự khác biệt, và cho nhóm khách nào?**
+Doanh nghiệp nào rồi cũng gặp một "chuỗi lớn bên kia đường". Câu hỏi then chốt lúc đó là: **mình chọn thắng bằng chi phí hay bằng sự khác biệt, và cho nhóm khách nào?**
 
 ## Chiến lược doanh nghiệp qua ba chiến lược cạnh tranh tổng quát của Porter
 
@@ -60,7 +60,7 @@ Tinh thần Clairmont học từ Porter: chiến lược là chọn điều khô
 :::example Ví dụ giả định: xưởng nội thất gỗ ở ven đô
 Một xưởng gỗ có ba hướng: làm hàng đại trà cạnh tranh giá với nhà máy lớn, làm hàng thiết kế cho mọi nhà, hoặc chỉ làm đồ đặt riêng cho căn hộ nhỏ.
 
-Hướng thứ ba là **Tập trung khác biệt**. Nó kéo theo một chuỗi quyết định: tuyển thợ đo đạc giỏi, không nhận đơn số lượng lớn, bán qua kiến trúc sư thay vì qua đại lý. Chiến lược lộ ra ở những lời từ chối đó.
+Hướng thứ ba là **Tập trung khác biệt**, kéo theo chuỗi quyết định: tuyển thợ đo giỏi, không nhận đơn lớn, bán qua kiến trúc sư thay vì đại lý. Chiến lược lộ ra ở những lời từ chối đó.
 :::
 
 ## Áp dụng cho doanh nghiệp

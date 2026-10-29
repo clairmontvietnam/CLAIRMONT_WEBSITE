@@ -21,14 +21,14 @@ Chuỗi giá trị là gì — chỉ là đường đi của hàng hoá từ kho
 :::
 
 :::story co-hoa | Một ly cà phê đi qua tay những ai
-Một buổi sáng vắng khách, cô Hoa ngồi tính xem ly phin của mình đi qua tay bao nhiêu người. Người trồng ở vùng cao. Người sơ chế phơi hạt. Người rang. Anh giao hàng mỗi thứ Hai. Rồi đến cô, đến cậu phục vụ bưng ly ra bàn.
+Một sáng vắng khách, cô Hoa ngồi tính xem ly phin của mình đi qua tay bao nhiêu người. Người trồng ở vùng cao, người phơi hạt, người rang, anh giao hàng mỗi thứ Hai. Rồi đến cô, đến cậu phục vụ bưng ly ra bàn.
 
 Cậu cháu học kinh tế ngồi cạnh hỏi: *"Thế cô nghĩ khách trả tiền cho khâu nào nhất?"* Cô định nói "cho hạt ngon". Nhưng nghĩ lại, khách quen của cô không biết hạt từ vùng nào. Họ nhớ ly cà phê được pha đúng độ đậm mình thích, và câu chào bằng tên.
 
 Hoá ra, trong cả chuỗi dài ấy, phần giá trị khách nhận rõ nhất lại nằm ở hai khâu cuối — nơi cô tự tay làm.
 :::
 
-Doanh nghiệp nào cũng có một "chuỗi" như vậy, chỉ ít khi được vẽ ra. Câu hỏi then chốt là: **trong các khâu mình làm, khâu nào khách sẵn lòng trả tiền nhiều nhất, và mình có đang đầu tư đúng chỗ đó không?**
+Doanh nghiệp nào cũng có một chuỗi như vậy. Câu hỏi then chốt là: **trong các khâu mình làm, khâu nào khách sẵn lòng trả tiền nhiều nhất, và mình có đang đầu tư đúng chỗ đó không?**
 
 ## Chuỗi giá trị là gì theo Michael Porter
 
@@ -42,7 +42,7 @@ Doanh nghiệp nào cũng có một "chuỗi" như vậy, chỉ ít khi được
 
 Porter xem doanh nghiệp như một chuỗi hoạt động, mỗi hoạt động có thể cộng thêm giá trị hoặc chỉ cộng thêm chi phí. Phần chênh giữa giá trị khách trả và tổng chi phí là **biên lợi nhuận**. Bên dưới năm hoạt động chính còn có bốn **hoạt động hỗ trợ**: hạ tầng doanh nghiệp, quản trị nhân sự, phát triển công nghệ và thu mua.
 
-- Hoạt động hỗ trợ không trực tiếp chạm đến khách, nhưng quyết định chất lượng của mọi khâu chính. Một quán tuyển người tốt thì khâu Dịch vụ tự khác.
+- Hoạt động hỗ trợ không chạm đến khách, nhưng quyết định chất lượng mọi khâu chính.
 - Lợi thế cạnh tranh, theo Porter, đến từ cách doanh nghiệp làm và nối các hoạt động khác đối thủ.
 - Chuỗi giá trị khác chuỗi cung ứng: chuỗi cung ứng là dòng hàng, chuỗi giá trị là dòng lợi thế.
 
@@ -59,7 +59,7 @@ Clairmont nhìn quan hệ đối tác theo năm cấp độ: Kết nối, Chuẩ
 :::example Ví dụ giả định: một thương hiệu trà đóng hộp
 Một thương hiệu trà nhỏ thấy biên lợi nhuận mỏng. Vẽ chuỗi ra, họ thấy mình đang tự làm khâu giao hàng, tốn người mà khách không thấy khác.
 
-Trong khi đó, khâu khách nhắc nhiều nhất là câu chuyện vùng trà in trên hộp. Họ chuyển giao hàng cho đối tác, dồn nguồn lực sang làm việc với vùng trồng và thiết kế bao bì — tức là đầu tư vào khâu tạo ra giá trị khách thật sự trả tiền.
+Còn khâu khách nhắc nhiều nhất là câu chuyện vùng trà trên hộp. Họ giao khâu vận chuyển cho đối tác, dồn sức vào vùng trồng và bao bì — nơi khách thật sự trả tiền.
 :::
 
 ## Áp dụng cho doanh nghiệp

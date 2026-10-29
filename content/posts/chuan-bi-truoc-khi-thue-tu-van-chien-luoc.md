@@ -28,7 +28,7 @@ Buổi gặp, chị Thảo đọc tập giấy rồi hỏi: *"Thế khách cũ c
 Ông nhận ra mình đã mang đến ba lời giải, nhưng chưa mang đến một câu hỏi nào. Buổi gặp ấy chuyển sang chuyện khác hẳn: đi tìm xem khách đã thay đổi điều gì.
 :::
 
-Nhiều doanh nghiệp bước vào buổi đầu như ông 9 Cò: đã chọn xong cách chữa trước khi biết bệnh. Câu hỏi then chốt là: **doanh nghiệp đang cần người giúp tìm đúng vấn đề, hay cần người giúp làm một lời giải đã chắc chắn?**
+Nhiều doanh nghiệp chọn xong cách chữa trước khi biết bệnh. Câu hỏi then chốt là: **doanh nghiệp đang cần người giúp tìm đúng vấn đề, hay cần người giúp làm một lời giải đã chắc chắn?**
 
 ## Thuê tư vấn chiến lược theo mô hình Kim cương đôi
 
@@ -42,7 +42,7 @@ Nhiều doanh nghiệp bước vào buổi đầu như ông 9 Cò: đã chọn x
 Design Council của Anh dùng hình hai viên kim cương để mô tả quá trình thiết kế. Viên thứ nhất dành cho **vấn đề**, viên thứ hai dành cho **lời giải**; mỗi viên có một nhịp mở rộng rồi thu hẹp. Lỗi phổ biến nhất là bỏ qua viên thứ nhất, nhảy thẳng vào Phát triển.
 
 - Buổi làm việc đầu tiên với đơn vị tư vấn nằm ở bước Khám phá. Mục tiêu là hiểu, chưa phải quyết định.
-- Danh sách lời giải doanh nghiệp mang đến vẫn có ích — như một dữ liệu để kiểm chứng, không phải đề bài.
+- Lời giải có sẵn vẫn có ích — như dữ liệu để kiểm chứng, không phải đề bài.
 - Phương pháp bốn bước của Clairmont — Nghiên cứu, Chiến lược, Triển khai, Đánh giá — cũng đặt việc hiểu vấn đề ở đầu tiên.
 
 ## Mang gì đến buổi làm việc đầu tiên
@@ -58,7 +58,7 @@ Doanh nghiệp cũng nên hỏi lại: cách làm việc gồm những bước n
 :::example Ví dụ giả định: một nhà hàng muốn mở chi nhánh
 Chủ một nhà hàng đến với câu "tôi cần kế hoạch mở chi nhánh thứ hai". Ở bước Khám phá, hai bên thấy khách quen đến ít hơn, dù khách mới vẫn tăng.
 
-Ở bước Xác định, bài toán được viết lại: "Vì sao khách quen thưa dần?" Mở chi nhánh có thể vẫn là phương án — nhưng giờ nó được cân nhắc cùng nhiều phương án khác, cho đúng bài toán.
+Ở bước Xác định, bài toán được viết lại: "Vì sao khách quen thưa dần?" Mở chi nhánh vẫn có thể là phương án — nhưng giờ được cân nhắc cho đúng bài toán.
 :::
 
 ## Áp dụng cho doanh nghiệp

@@ -61,7 +61,7 @@ Theo Michael Porter, chiến lược là tạo một vị trí khác biệt, ch�
 :::
 
 :::example Hai quán cà phê, một cỗ máy
-Hai quán cùng bán đồ uống tại chỗ, cùng thu tiền theo ly, cùng thuê mặt bằng và nhân viên. Canvas của hai quán gần như giống hệt nhau.
+Hai quán cùng bán đồ uống tại chỗ, cùng thu tiền theo ly, cùng thuê mặt bằng và nhân viên.
 
 Nhưng một quán chọn phục vụ dân văn phòng cần nhanh, đặt ngay chân toà nhà. Quán kia chọn người muốn ngồi lâu, trong một phố nhỏ yên tĩnh. Cùng cỗ máy, hai lựa chọn chiến lược, kéo theo hai cách bố trí, định giá và tuyển người khác nhau.
 :::

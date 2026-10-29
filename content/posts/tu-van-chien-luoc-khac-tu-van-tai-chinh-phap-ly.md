@@ -53,8 +53,6 @@ Quyết định đúng nằm ở chỗ ba vòng chồng lên nhau. Hướng đi 
 - Chờ tư vấn chiến lược ký ý kiến pháp lý || Tư vấn chiến lược chỉ ra câu hỏi nào cần đơn vị pháp lý, tài chính trả lời.
 :::
 
-Ba loại tư vấn không thay thế nhau mà bổ sung cho nhau. Điều quan trọng là biết mình đang hỏi câu nào, để tìm đúng người.
-
 :::example Mở dòng sản phẩm cho thị trường mới
 Một doanh nghiệp sản xuất muốn bán thêm một dòng sản phẩm ở tỉnh khác. **Chiến lược** giúp quyết định có nên làm không, cho nhóm khách nào, với điểm khác biệt gì. **Tài chính** tính nhu cầu vốn, phương án huy động và điểm hoà vốn.
 

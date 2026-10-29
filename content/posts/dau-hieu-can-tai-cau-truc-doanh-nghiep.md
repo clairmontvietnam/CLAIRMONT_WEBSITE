@@ -23,7 +23,7 @@ Doanh nghiệp chỉ cần tái cấu trúc khi làm ăn sa sút? **Chưa đúng
 :::story ong-thuong | Tiệm bánh thứ ba
 Tiệm Bánh Thương mở đến cơ sở thứ ba thì ông Thương bắt đầu mất ngủ. Ở tiệm đầu, ông tự nhào bột, tự nếm, tự dặn từng đứa thợ. Giờ ba tiệm, ngày nào điện thoại cũng reo: hết bơ, thiếu người, khách chê bánh hôm nay ngọt hơn.
 
-Ông chạy qua chạy lại cả ba nơi, càng chạy càng thấy thiếu tay. Đến khi cô thợ cả ở tiệm hai nói thẳng: *"Bác ơi, việc gì cũng chờ bác gật thì chúng con biết làm sao. Bác cho con quyết chuyện nhập bơ thôi cũng được."*
+Ông chạy qua chạy lại, càng chạy càng thiếu tay. Đến khi cô thợ cả ở tiệm hai nói thẳng: *"Bác ơi, việc gì cũng chờ bác gật thì chúng con biết làm sao. Bác cho con quyết chuyện nhập bơ thôi cũng được."*
 
 Ông ngồi lặng một lúc. Cái tâm "việc gì cũng tự tay" từng làm nên tiệm đầu tiên, giờ lại là nút thắt của cả ba tiệm. Không phải thợ kém đi. Là cách ông quản lý chưa lớn kịp với tiệm.
 :::
@@ -44,7 +44,7 @@ x: Doanh nghiệp trẻ, nhỏ | Doanh nghiệp lâu năm, lớn
 
 Greiner cho rằng doanh nghiệp không lớn lên đều đặn. Mỗi giai đoạn có một cách tăng trưởng, và chính cách đó, khi quy mô vượt quá, sinh ra một **khủng hoảng**. Vượt được thì sang giai đoạn sau; không vượt được thì giậm chân.
 
-- Khủng hoảng là tín hiệu bình thường của tăng trưởng, không phải dấu hiệu thất bại.
+- Khủng hoảng là tín hiệu bình thường của tăng trưởng, không phải thất bại.
 - Lời giải của giai đoạn này thường trái ngược giai đoạn trước: tập trung rồi phân quyền, phân quyền rồi phối hợp.
 - Ông Thương đang đứng ở cuối chặng Sáng tạo: khủng hoảng lãnh đạo, cần người và cách quản lý mới.
 

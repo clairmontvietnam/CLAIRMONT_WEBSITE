@@ -42,7 +42,7 @@ x: Mở bán | Theo thời gian
 - Suy thoái | Bán chậm kéo dài, chỉ còn giá là đòn bẩy, mỗi đợt giảm lại khiến khách chờ đợt sau.
 :::
 
-Vòng đời sản phẩm mô tả doanh số của một sản phẩm theo thời gian. Áp vào dự án, đường cong là nhịp bán hàng qua các đợt mở bán. Đọc đúng giai đoạn thì mới chọn đúng việc cần làm.
+Vòng đời sản phẩm mô tả doanh số của một sản phẩm theo thời gian. Áp vào dự án, đường cong là nhịp bán hàng qua các đợt mở bán.
 
 - **Bán chậm ở giai đoạn Giới thiệu** là chuyện thường gặp; bán chậm sau Tăng trưởng mới là tín hiệu cần chẩn đoán.
 - **Ở Bão hoà**, khung so sánh của khách đã đổi: dự án mới mọc lên, hạ tầng mới, nhu cầu mới.
@@ -61,7 +61,7 @@ Nguyên nhân bán chậm thường rơi vào năm nhóm: sai khách, sai sản 
 :::example Nhà phố ven đô, đợt mở bán thứ ba
 Một dự án nhà phố ban đầu nhắm tới nhà đầu tư, nhưng nhu cầu đầu tư chững lại. Chẩn đoán cho thấy nhóm khách đến xem nhiều nhất là gia đình trẻ làm việc ở khu công nghiệp gần đó, nhưng họ e ngại vì thiếu trường học và chỗ chơi cho trẻ.
 
-Tái định vị lúc này không phải giảm giá, mà là chuyển trọng tâm sang ở thực. Chủ đầu tư ưu tiên hoàn thiện vài tiện ích cho trẻ ở phân khu đang bán, và kể câu chuyện dự án theo hướng cuộc sống gia đình.
+Tái định vị lúc này không phải giảm giá, mà là chuyển trọng tâm sang ở thực. Chủ đầu tư ưu tiên vài tiện ích cho trẻ ở phân khu đang bán và kể lại câu chuyện dự án theo hướng gia đình.
 :::
 
 ## Áp dụng cho chủ đầu tư

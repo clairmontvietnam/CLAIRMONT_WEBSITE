@@ -28,7 +28,7 @@ Buổi họp bán hàng đầu tiên, trưởng phòng kinh doanh hỏi một c�
 Anh Minh nhận ra mình đã đặt hàng một ngôi nhà rất đẹp, nhưng chưa từng hỏi ai sẽ về ở. Bộ phối cảnh không sai. Chỉ là nó được vẽ trước khi có câu trả lời quan trọng nhất.
 :::
 
-Đây là thứ tự đảo ngược rất phổ biến. Trước khi gọi đơn vị thiết kế, chủ đầu tư cần trả lời: **trong cả thị trường, dự án này chọn phục vụ ai, và hứa với họ điều gì mà nơi khác không có?**
+Trước khi gọi đơn vị thiết kế, chủ đầu tư cần trả lời: **trong cả thị trường, dự án này chọn phục vụ ai, và hứa với họ điều gì mà nơi khác không có?**
 
 ## Mô hình STP: ba bước định vị dự án bất động sản
 
