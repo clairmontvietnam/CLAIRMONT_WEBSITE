@@ -52,8 +52,13 @@ Thân bài theo FORMAT BẮT BUỘC ở trên. Không có H1 trong thân bài. `
 - Clairmont là đơn vị tư vấn chiến lược và kinh doanh, KHÔNG phải tư vấn tài chính, pháp lý, môi giới. Không hứa kết quả, không nêu giá, không nêu thời hạn phản hồi.
 - Kiến thức chung (định nghĩa, khung phân tích) được dùng nếu chính xác; ví dụ phải ghi "Ví dụ giả định", không dùng tên doanh nghiệp thật.
 
-## Giọng văn
-Tiếng Việt tự nhiên, chuyên nghiệp, rõ ràng, có chiều sâu; không "văn AI", không sáo rỗng (đột phá, hàng đầu, số 1, toàn diện), không emoji, không hạ thấp doanh nghiệp khác. Thuật ngữ tiếng Anh chỉ khi là thuật ngữ chuyên môn. Bài "Góc nhìn Nhà sáng lập" viết ở ngôi "Clairmont" hoặc "chúng tôi", không đặt lời trích dẫn vào miệng Nhà sáng lập.
+## Giọng văn (bắt buộc — Nhà sáng lập chốt 29/10/2026)
+Văn phong **tạp chí tư vấn chiến lược cao cấp** pha **bút ký du lịch có chiều sâu văn hoá**. Bài mẫu chuẩn giọng: `content/posts/concept-du-an-bat-dong-san.md`.
+- Chất tạp chí chiến lược: nhận định rõ, có luận điểm; câu dài – ngắn xen kẽ; động từ chính xác; có sắc thái ("không phải lúc nào…", "điều đáng chú ý là…"); nói với người lãnh đạo, nhà sáng lập, chủ đầu tư; hạn chế "bạn"; không dạy đời, không hô hào.
+- Chất bút ký – văn hoá: câu chuyện khu phố có không gian và thời khắc cụ thể (sáng sớm phố cũ, gió heo may, mưa phùn tháng Hai, sương Đà Lạt, chợ sớm, mái ngói rêu), chi tiết giác quan (mùi cà phê rang, hơi bánh mới ra lò), chạm tự nhiên vào văn hoá Việt (làng nghề, Tết, nếp nhà, chữ tín, buôn bán phố phường); ví von ngắn, chừng mực, không sến.
+- Câu mở (`:::hook`) là một nhận định có hình ảnh — không dùng "Sai.", "Chưa đúng." hay giọng TikTok.
+- Tiêu đề `##` giàu hình ảnh nhưng ít nhất một tiêu đề chứa từ khóa chính hoặc tên mô hình.
+- Tránh: "bí quyết", "đột phá", "hàng đầu", "số 1", "trong bối cảnh hiện nay", "hãy cùng…", lạm dụng "không chỉ… mà còn…", câu cảm thán, emoji, câu kết sáo, giọng quảng cáo, khẩu ngữ, hạ thấp doanh nghiệp khác. Thuật ngữ tiếng Anh chỉ khi là thuật ngữ chuyên môn. Bài "Góc nhìn Nhà sáng lập" viết ở ngôi "Clairmont"/"chúng tôi", không đặt lời trích dẫn vào miệng Nhà sáng lập.
 
 ## Bản cắt mạng xã hội (lưu `social/<date>-<slug>.md`, không đăng lên web)
 1. LinkedIn: 150–250 chữ, một luận điểm, giọng chuyên gia, link bài.
