@@ -12,7 +12,7 @@ author: Clairmont Group
 
 Kiến trúc thương hiệu là cách một doanh nghiệp tổ chức quan hệ giữa thương hiệu mẹ và các thương hiệu con, sản phẩm, dịch vụ của mình. Câu hỏi nghe có vẻ kỹ thuật, nhưng ảnh hưởng trực tiếp đến cách khách hàng hiểu doanh nghiệp, cách ngân sách truyền thông được phân bổ và mức độ rủi ro khi một thương hiệu gặp vấn đề.
 
-Bài viết giới thiệu bốn mô hình kiến trúc thương hiệu phổ biến, các tiêu chí lựa chọn, và chia sẻ cách Clairmont Group đang tổ chức các thương hiệu của chính mình.
+Bài viết giới thiệu bốn mô hình phổ biến, tiêu chí lựa chọn và cách Clairmont Group tổ chức các thương hiệu của mình.
 
 ## Vì sao cần nghĩ về kiến trúc thương hiệu từ sớm
 
@@ -46,7 +46,7 @@ Mỗi thương hiệu con hoạt động độc lập, thương hiệu mẹ gầ
 
 ## Chọn mô hình: bốn câu hỏi
 
-Không có mô hình nào tốt hơn tuyệt đối. Lựa chọn phụ thuộc vào hoàn cảnh của từng doanh nghiệp:
+Không có mô hình nào tốt hơn tuyệt đối:
 
 - **Các thương hiệu con có phục vụ cùng một nhóm khách hàng không?** Càng giống nhau, càng nên gần thương hiệu mẹ. Càng khác nhau, càng cần khoảng cách.
 - **Thương hiệu mẹ có mang lại uy tín với người tiêu dùng cuối không?** Một thương hiệu mẹ mạnh với đối tác doanh nghiệp chưa chắc có ý nghĩa với người mua lẻ.
@@ -92,3 +92,7 @@ Có, nếu có kế hoạch mở rộng dòng sản phẩm hoặc ngành hàng. 
 ### Có thể chuyển từ mô hình này sang mô hình khác không?
 
 Có thể, nhưng cần lộ trình chuyển tiếp rõ ràng và thường kéo dài, vì khách hàng cần thời gian để làm quen với quan hệ mới giữa các thương hiệu.
+
+### Dòng bảo trợ nên đặt ở đâu?
+
+Ở vị trí phụ nhưng nhất quán, như mặt sau bao bì hay chân trang website, theo quy tắc ghi trong brand guideline.

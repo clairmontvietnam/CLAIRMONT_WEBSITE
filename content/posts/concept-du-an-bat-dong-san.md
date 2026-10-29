@@ -26,7 +26,7 @@ Một dự án ghi "concept Địa Trung Hải" thực chất mới chỉ có ph
 
 ## Vì sao nhiều concept khác biệt lại khó bán
 
-Khác biệt là cần thiết, nhưng khác biệt không tự động tạo ra giá trị. Có bốn lý do thường gặp khiến một concept độc đáo không chuyển thành doanh số.
+Khác biệt không tự động tạo ra giá trị. Có bốn lý do thường gặp:
 
 **Khác biệt ở điều khách hàng không coi trọng.** Một hạng mục ấn tượng nhưng không gắn với nhu cầu thật của nhóm khách hàng mục tiêu chỉ làm tăng giá thành. Người mua trả tiền cho điều họ dùng, không phải cho điều được giới thiệu nhiều nhất trong tài liệu bán hàng.
 
@@ -38,7 +38,7 @@ Khác biệt là cần thiết, nhưng khác biệt không tự động tạo ra
 
 ## Bốn phép thử cho một concept dự án bất động sản
 
-Trước khi chuyển concept thành đề bài thiết kế, chủ đầu tư có thể đặt ý tưởng qua bốn phép thử đơn giản.
+Trước khi chuyển concept thành đề bài thiết kế, nên đặt ý tưởng qua bốn phép thử.
 
 ### 1. Phép thử khách hàng
 
@@ -70,7 +70,7 @@ Ví dụ giả định: một dự án nhà ở vùng ven đô hướng đến g
 
 ## Giữ concept qua các giai đoạn
 
-Concept thường bị bào mòn dần: mỗi lần tối ưu chi phí, mỗi lần đổi đơn vị thiết kế, mỗi lần đội bán hàng đề xuất thêm một tiện ích. Để giữ được concept, chủ đầu tư nên chỉ định một người hoặc một nhóm chịu trách nhiệm kiểm tra mọi điều chỉnh lớn theo câu hỏi: thay đổi này làm concept rõ hơn hay mờ đi?
+Concept thường bị bào mòn dần qua mỗi lần tối ưu chi phí hay thêm một tiện ích. Để giữ được concept, chủ đầu tư nên chỉ định một người hoặc một nhóm chịu trách nhiệm kiểm tra mọi điều chỉnh lớn theo câu hỏi: thay đổi này làm concept rõ hơn hay mờ đi?
 
 Giữ concept không có nghĩa là không điều chỉnh, mà là tránh những thay đổi rời rạc khiến dự án đến lúc ra mắt không còn câu chuyện nào đủ rõ.
 

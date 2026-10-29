@@ -23,7 +23,7 @@ Trước khi thu thập bất kỳ dữ liệu nào, chủ đầu tư nên viế
 - Mức giá và chính sách bán hàng nào khả thi?
 - Nên ra hàng vào thời điểm nào, chia giai đoạn ra sao?
 
-Khi quyết định đã rõ, phạm vi nghiên cứu sẽ tự thu gọn. Dữ liệu nào không phục vụ một quyết định cụ thể có thể để sau.
+Khi quyết định đã rõ, phạm vi nghiên cứu tự thu gọn.
 
 ## Sáu nhóm câu hỏi chủ đầu tư cần trả lời
 
@@ -33,11 +33,11 @@ Phần cầu là nơi nhiều nghiên cứu dừng ở mức chung chung: "ngư�
 
 ### 2. Nguồn cung hiện tại và sắp tới là gì?
 
-Không chỉ đếm các dự án đang bán, mà cả các dự án sẽ ra hàng trong cùng khoảng thời gian dự án của mình đến thị trường. Với mỗi dự án cạnh tranh, cần biết loại hình, quy mô, mức giá, tiến độ và điểm mạnh trong mắt khách hàng. Một khu vực có vẻ thiếu nguồn cung hôm nay có thể dư thừa khi dự án của mình mở bán.
+Không chỉ đếm các dự án đang bán, mà cả các dự án sẽ ra hàng cùng thời điểm với dự án của mình. Với mỗi dự án cạnh tranh, cần biết loại hình, quy mô, giá, tiến độ và điểm mạnh trong mắt khách hàng. Một khu vực có vẻ thiếu nguồn cung hôm nay có thể dư thừa khi dự án của mình mở bán.
 
 ### 3. Giá và tốc độ hấp thụ thực tế ra sao?
 
-Giá chào bán và giá giao dịch thực có thể chênh nhau đáng kể, đặc biệt khi tính đến chiết khấu, hỗ trợ lãi suất, quà tặng. Tốc độ hấp thụ — sản phẩm được bán hết trong bao lâu — cho biết thị trường thực sự chấp nhận đến đâu. Hai thông số này ảnh hưởng trực tiếp đến dòng tiền dự án, nên cần được kiểm chứng từ nhiều nguồn thay vì chỉ dựa vào một báo cáo.
+Giá chào bán và giá giao dịch thực có thể chênh nhau đáng kể, đặc biệt khi tính đến chiết khấu, hỗ trợ lãi suất, quà tặng. Tốc độ hấp thụ — sản phẩm được bán hết trong bao lâu — cho biết thị trường thực sự chấp nhận đến đâu. Hai thông số này ảnh hưởng trực tiếp đến dòng tiền, nên cần kiểm chứng từ nhiều nguồn.
 
 ### 4. Thị trường đang thiếu sản phẩm gì?
 
@@ -53,9 +53,9 @@ Thị trường bất động sản vận động theo chu kỳ. Một dự án 
 
 ## Những sai lệch thường gặp trong nghiên cứu thị trường
 
-- **Nghiên cứu để xác nhận.** Chủ đầu tư đã có ý tưởng, nghiên cứu được làm để chứng minh ý tưởng đó đúng. Dữ liệu trái chiều bị bỏ qua.
+- **Nghiên cứu để xác nhận.** Nghiên cứu được làm để chứng minh ý tưởng sẵn có là đúng; dữ liệu trái chiều bị bỏ qua.
 - **Dùng số liệu trung bình.** Giá trung bình của một quận có thể che khuất những khác biệt lớn giữa các khu vực nhỏ và các loại hình sản phẩm.
-- **Chỉ nhìn dự án cùng loại.** Khách hàng không chỉ so sánh căn hộ với căn hộ; họ có thể so sánh căn hộ với nhà phố ở khu vực lân cận, hoặc với việc tiếp tục thuê.
+- **Chỉ nhìn dự án cùng loại.** Khách hàng có thể so sánh căn hộ với nhà phố lân cận, hoặc với việc tiếp tục thuê.
 - **Thiếu tiếng nói khách hàng.** Số liệu thứ cấp cho biết điều gì đã xảy ra; phỏng vấn khách hàng tiềm năng và đội ngũ bán hàng giúp hiểu vì sao.
 
 ## Ví dụ giả định: một khu đất ven đô
@@ -79,3 +79,7 @@ Càng sớm càng tốt — lý tưởng là trước khi chốt quy mô và lo�
 ### Nghiên cứu thị trường có thay được thẩm định pháp lý và tài chính không?
 
 Không. Nghiên cứu thị trường cung cấp đầu vào về cầu, cung, giá và sản phẩm. Thẩm định pháp lý và phân tích tài chính cần các đơn vị chuyên trách thực hiện riêng.
+
+### Dữ liệu thứ cấp có đủ không?
+
+Thường chưa đủ. Nên kết hợp khảo sát thực địa và phỏng vấn khách hàng tiềm năng, đội ngũ bán hàng để nghiên cứu sát thực tế hơn.

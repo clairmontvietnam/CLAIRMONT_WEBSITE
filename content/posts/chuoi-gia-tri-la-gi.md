@@ -10,7 +10,7 @@ category: Chuỗi giá trị
 author: Clairmont Group
 ---
 
-Chuỗi giá trị là gì? Nói ngắn gọn, đó là chuỗi các hoạt động mà qua đó một sản phẩm hay dịch vụ được tạo ra, hoàn thiện và đến tay khách hàng, với giá trị tăng thêm ở mỗi mắt xích. Khái niệm nghe quen, nhưng trong thực tế doanh nghiệp thường chỉ dùng nó để vẽ một sơ đồ trong hồ sơ năng lực, rồi để đó.
+Chuỗi giá trị là gì? Nói ngắn gọn, đó là chuỗi các hoạt động mà qua đó một sản phẩm hay dịch vụ được tạo ra, hoàn thiện và đến tay khách hàng, với giá trị tăng thêm ở mỗi mắt xích. Khái niệm quen thuộc, nhưng thường chỉ được vẽ thành một sơ đồ trong hồ sơ năng lực rồi để đó.
 
 Bài viết đi qua khung của Michael Porter, điểm khác giữa chuỗi giá trị và chuỗi cung ứng, và cách dùng năm cấp độ đồng hành để biết quan hệ với đối tác đang ở đâu.
 
@@ -28,9 +28,9 @@ Michael E. Porter giới thiệu khái niệm chuỗi giá trị trong cuốn *C
 
 **Hoạt động hỗ trợ** — những việc giúp các hoạt động chính chạy tốt: cơ sở hạ tầng doanh nghiệp (quản trị, tài chính, kế hoạch), quản trị nguồn nhân lực, phát triển công nghệ và thu mua.
 
-Ý nghĩa của khung này không nằm ở danh sách. Porter dùng nó để trả lời câu hỏi: lợi thế cạnh tranh của doanh nghiệp nằm ở hoạt động nào, và các hoạt động liên kết với nhau ra sao. Chiến lược là chọn mắt xích nào sẽ làm thật tốt, mắt xích nào sẽ làm vừa đủ hoặc giao cho đối tác.
+Porter dùng khung này để trả lời câu hỏi: lợi thế cạnh tranh nằm ở hoạt động nào, và các hoạt động liên kết với nhau ra sao. Chiến lược là chọn mắt xích nào sẽ làm thật tốt, mắt xích nào sẽ làm vừa đủ hoặc giao cho đối tác.
 
-Porter cũng mở rộng khái niệm thành "hệ thống giá trị": chuỗi giá trị của nhà cung ứng, của doanh nghiệp, của kênh phân phối và của khách hàng nối với nhau. Ở góc nhìn này, không doanh nghiệp nào tự làm ra toàn bộ giá trị. Chất lượng của cả hệ thống phụ thuộc vào mắt xích yếu nhất.
+Porter cũng mở rộng khái niệm thành "hệ thống giá trị": chuỗi giá trị của nhà cung ứng, doanh nghiệp, kênh phân phối và khách hàng nối với nhau. Không doanh nghiệp nào tự làm ra toàn bộ giá trị.
 
 ## Chuỗi giá trị và chuỗi cung ứng khác nhau thế nào
 
@@ -57,7 +57,7 @@ Trong mô hình phát triển đối tác của Clairmont, đối tác là doanh
 
 ### Vì sao không nên nhảy cấp
 
-Lỗi thường gặp là muốn đi thẳng đến "mở thị trường" khi chưa qua "chuẩn hoá". Khi sản phẩm chưa ổn định về chất lượng và quy cách, việc mở thêm kênh chỉ khuếch đại vấn đề: đơn hàng lớn hơn, lỗi lớn hơn, uy tín của cả hai bên cùng chịu ảnh hưởng. Mỗi cấp độ tạo nền cho cấp tiếp theo.
+Lỗi thường gặp là đi thẳng đến "mở thị trường" khi chưa qua "chuẩn hoá". Khi chất lượng chưa ổn định, mở thêm kênh chỉ khuếch đại vấn đề: đơn hàng lớn hơn, lỗi lớn hơn, uy tín cả hai bên cùng chịu ảnh hưởng. Mỗi cấp độ tạo nền cho cấp tiếp theo.
 
 ## Ví dụ giả định: một xưởng sản xuất và một thương hiệu mới
 
@@ -76,6 +76,10 @@ Nếu doanh nghiệp muốn nhìn lại chuỗi giá trị của mình, có th�
 Khi chọn đối tác mới, tiêu chí cũng nên vượt ra ngoài giá — xem thêm [tiêu chí đánh giá nhà cung cấp ngoài giá](/goc-nhin/tieu-chi-danh-gia-nha-cung-cap/).
 
 ## Câu hỏi thường gặp
+
+### Chuỗi giá trị có chỉ dành cho doanh nghiệp sản xuất không?
+
+Không. Doanh nghiệp dịch vụ cũng có chuỗi giá trị, từ tiếp nhận nhu cầu đến chăm sóc sau bán; khung của Porter vẫn áp dụng được.
 
 ### Doanh nghiệp nhỏ có cần phân tích chuỗi giá trị không?
 

@@ -66,7 +66,7 @@ Nếu dấu hiệu thuộc nhóm đầu, sửa cỗ máy có thể đủ. Nếu 
 
 ## Thứ tự hợp lý: chiến lược trước, mô hình sau
 
-Trong thực tế, nhiều doanh nghiệp bắt đầu từ mô hình: thấy một cách kiếm tiền hấp dẫn ở thị trường khác rồi áp dụng. Cách làm này nhanh, nhưng rủi ro là vay mượn một cỗ máy được thiết kế cho cuộc đua khác.
+Nhiều doanh nghiệp bắt đầu từ mô hình: thấy một cách kiếm tiền hấp dẫn ở nơi khác rồi áp dụng — nhanh, nhưng dễ vay mượn một cỗ máy thiết kế cho cuộc đua khác.
 
 Thứ tự Clairmont thường đề xuất là:
 

@@ -25,7 +25,7 @@ Theo cách tiếp cận chuỗi giá trị của Michael Porter, giá trị củ
 - **Phân phối và bán hàng:** sản phẩm đến tay khách ở đâu, trong điều kiện nào.
 - **Trải nghiệm sử dụng:** khách pha thế nào, uống trong hoàn cảnh nào, có hiểu điều mình đang uống không.
 
-Điều dễ thấy khi nhìn cả chuỗi là: chất lượng không thể "thêm vào" ở khâu cuối. Một hồ sơ rang tốt không cứu được nhân xanh bảo quản kém. Một bao bì đẹp không bù được hương vị đã phai.
+Nhìn cả chuỗi sẽ thấy: chất lượng không thể "thêm vào" ở khâu cuối. Bao bì đẹp không bù được hương vị đã phai.
 
 ## Bài học thứ nhất: bắt đầu từ lời hứa với khách, rồi đi ngược chuỗi
 
@@ -57,7 +57,7 @@ Trong thực tế xây thương hiệu cà phê, điều đó có nghĩa là:
 
 ## Bài học thứ tư: câu chuyện phải khớp với chuỗi thật
 
-Thương hiệu cà phê, nhất là ở phân khúc quà tặng, rất dễ bị cuốn vào việc kể chuyện: về vùng đất, con người, truyền thống. Câu chuyện là cần thiết, nhưng nó chỉ bền khi mỗi chi tiết đều có mắt xích thật trong chuỗi đứng sau.
+Thương hiệu cà phê quà tặng rất dễ bị cuốn vào kể chuyện về vùng đất, con người, truyền thống. Câu chuyện chỉ bền khi mỗi chi tiết có mắt xích thật đứng sau.
 
 Ví dụ giả định: một thương hiệu nói sản phẩm "được tuyển chọn thủ công từng hạt" trong khi khâu phân loại thực tế dùng máy. Khách hàng có thể không biết ngay, nhưng khi biết, niềm tin mất đi không chỉ ở chi tiết đó mà ở toàn bộ câu chuyện. Vì vậy, với FLEUR, chúng tôi đặt nguyên tắc: chỉ kể những gì chuỗi giá trị chứng minh được, và nếu muốn kể thêm, phải làm thêm ở chuỗi trước.
 

@@ -18,7 +18,7 @@ Khác với định vị từ đầu, tái định vị diễn ra trong giới h
 
 ## Bước một: chẩn đoán nguyên nhân bán chậm
 
-Chẩn đoán tốt dựa trên dữ liệu thật của chính dự án, không chỉ cảm nhận của đội bán hàng. Những nguồn nên được rà soát:
+Chẩn đoán cần dữ liệu thật của dự án, không chỉ cảm nhận của đội bán hàng:
 
 - **Dữ liệu khách hàng đã tiếp cận:** ai đến xem, ai quay lại, ai dừng ở bước nào, lý do từ chối được ghi nhận ra sao.
 - **Phỏng vấn người đã mua và người không mua:** điều gì khiến họ quyết định, điều gì khiến họ lưỡng lự.
@@ -59,9 +59,9 @@ Ví dụ giả định: một dự án nhà phố ven đô ban đầu nhắm đ�
 
 ## Bước bốn: giữ nhất quán với khách hàng đã mua
 
-Một điểm hay bị bỏ qua: tái định vị ảnh hưởng đến người đã mua. Nếu hướng mới làm họ cảm thấy giá trị tài sản bị giảm hoặc cộng đồng tương lai khác với điều được hứa, dự án có thể đổi một vấn đề bán hàng lấy một vấn đề niềm tin.
+Tái định vị ảnh hưởng đến người đã mua. Nếu hướng mới khiến họ thấy tài sản mất giá trị hoặc cộng đồng tương lai khác điều được hứa, dự án đổi một vấn đề bán hàng lấy một vấn đề niềm tin.
 
-Vì vậy, phương án tái định vị nên trả lời: hướng mới có làm giá trị của khách hàng hiện hữu tốt lên không? Nếu có, họ có thể trở thành người giới thiệu tốt nhất cho dự án. Nếu không, cần có cách trao đổi minh bạch trước khi triển khai.
+Vì vậy, phương án nên trả lời: hướng mới có làm giá trị của khách hàng hiện hữu tốt lên không? Nếu có, họ thành người giới thiệu tốt nhất; nếu không, cần trao đổi minh bạch trước khi triển khai.
 
 ## Lời kết
 
@@ -78,3 +78,7 @@ Làm lại thương hiệu chủ yếu thay đổi tên, hình ảnh, thông đi
 ### Khi nào nên cân nhắc tái định vị?
 
 Khi tốc độ bán chậm kéo dài dù đã điều chỉnh chính sách bán hàng, khi phần lớn sản phẩm tồn rơi vào cùng một loại hình, hoặc khi nguồn cung cạnh tranh mới làm thay đổi khung so sánh của khách hàng.
+
+### Tái định vị có giải quyết được vấn đề pháp lý không?
+
+Không. Vấn đề pháp lý cần được đơn vị tư vấn pháp lý và cơ quan có thẩm quyền xử lý. Tái định vị chỉ làm rõ hướng sản phẩm, khách hàng và câu chuyện.
