@@ -3,5 +3,6 @@ Allow: /
 Disallow: /src/
 Disallow: /tools/
 Disallow: /content/
+Disallow: /social/
 
 Sitemap: https://www.clairmontgroup.vn/sitemap.xml

@@ -339,7 +339,7 @@ def main():
     sm += [f'<url><loc>{SITE}{u}</loc><lastmod>{d}</lastmod><priority>{pr}</priority></url>' for u, d, pr in urls]
     sm.append('</urlset>')
     write('sitemap.xml', '\n'.join(sm) + '\n')
-    write('robots.txt', f'User-agent: *\nAllow: /\nDisallow: /src/\nDisallow: /tools/\nDisallow: /content/\n\nSitemap: {SITE}/sitemap.xml\n')
+    write('robots.txt', f'User-agent: *\nAllow: /\nDisallow: /src/\nDisallow: /tools/\nDisallow: /content/\nDisallow: /social/\n\nSitemap: {SITE}/sitemap.xml\n')
     items = ''.join(
         f'<item><title>{esc(p.get("h1") or p["title"])}</title><link>{SITE}/goc-nhin/{p["slug"]}/</link><guid>{SITE}/goc-nhin/{p["slug"]}/</guid>'
         f'<pubDate>{dt.datetime.strptime(p["date"], "%Y-%m-%d").strftime("%a, %d %b %Y 07:00:00 +0700")}</pubDate><description>{esc(p["description"])}</description></item>'
