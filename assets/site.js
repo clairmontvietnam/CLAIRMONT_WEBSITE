@@ -26,6 +26,12 @@
     [].forEach.call(D.querySelectorAll('video.bgv'),function(v){var p=v.play();if(p&&p.catch)p.catch(function(){})});
   }
 
+  /* article filter on /goc-nhin/ */
+  var pf=D.querySelector('.pfilter');
+  if(pf)pf.addEventListener('click',function(e){var b=e.target.closest('button');if(!b)return;var f=b.getAttribute('data-f');
+    [].forEach.call(pf.querySelectorAll('button'),function(x){x.classList.toggle('on',x===b)});
+    [].forEach.call(D.querySelectorAll('#post-cards .card'),function(c){c.hidden=!!f&&c.getAttribute('data-cat')!==f})});
+
   /* mobile menu */
   var hd=$('hd'),mb=$('menu');
   if(hd&&mb){mb.onclick=function(){var o=hd.classList.toggle('open');mb.setAttribute('aria-expanded',o)};

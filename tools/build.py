@@ -226,8 +226,9 @@ def toc_box(toc):
     return f'<div class="glass"><h4>Nội dung</h4><ol>{li}</ol></div>'
 
 
-def card(url, k, title, summary, go='Đọc tiếp →'):
-    return (f'<a class="card" href="{url}"><span class="k">{esc(k)}</span><h3>{esc(title)}</h3>'
+def card(url, k, title, summary, go='Đọc tiếp →', cat=None):
+    dc = f' data-cat="{esc(cat)}"' if cat else ''
+    return (f'<a class="card" href="{url}"{dc}><span class="k">{esc(k)}</span><h3>{esc(title)}</h3>'
             f'<p>{esc(summary)}</p><span class="go">{go}</span></a>')
 
 
@@ -257,12 +258,28 @@ def main():
     # core pages
     for key, frag, url, nav, title, desc in CORE:
         body = read(ROOT / f'src/pages/{frag}.html')
+        pcard = lambda p: card(f'/goc-nhin/{p["slug"]}/', p.get('category', 'Góc nhìn'), p.get('h1') or p['title'],
+                               p.get('summary', p['description']), cat=p.get('category', 'Góc nhìn'))
         if '{{POSTS}}' in body:
-            latest = ''.join(card(f'/goc-nhin/{p["slug"]}/', f'{p.get("category", "Góc nhìn")} · {fmt_date(p["date"])}', p['h1'] if p.get('h1') else p['title'], p.get('summary', p['description']))
-                             for p in posts)
-            block = (f'<div class="posts-head"><h2 class="subh" style="margin:0" data-en="Latest articles">Bài viết mới</h2></div>'
-                     f'<div class="cards">{latest}</div>') if posts else ''
+            cats = []
+            for p in posts:
+                c = p.get('category', 'Góc nhìn')
+                if c not in cats:
+                    cats.append(c)
+            CAT_ORDER = ['Chiến lược doanh nghiệp', 'Bất động sản', 'Quản trị tổ chức', 'Thương hiệu', 'Chuỗi giá trị', 'Góc nhìn Nhà sáng lập', 'Hỏi đáp']
+            cats.sort(key=lambda c: CAT_ORDER.index(c) if c in CAT_ORDER else 99)
+            chips = '<button type="button" class="on" data-f="">Tất cả · ' + str(len(posts)) + '</button>' + ''.join(
+                f'<button type="button" data-f="{esc(c)}">{esc(c)} · {sum(1 for p in posts if p.get("category", "Góc nhìn") == c)}</button>' for c in cats)
+            block = (f'<div class="posts-head"><h2 class="subh" style="margin:0" data-en="All articles">Bài viết</h2></div>'
+                     f'<div class="pfilter" role="group" aria-label="Lọc theo chủ đề">{chips}</div>'
+                     f'<div class="cards" id="post-cards">{"".join(pcard(p) for p in posts)}</div>') if posts else ''
             body = body.replace('{{POSTS}}', block)
+        if '{{LATEST}}' in body:
+            block = (f'<section class="sec" style="padding-bottom:0"><div class="wrap"><div class="shead"><div><div class="lbl" data-en="Insights">Góc nhìn</div>'
+                     f'<h2 data-en="Latest &lt;em&gt;articles&lt;/em&gt;">Bài viết <em>mới</em></h2></div>'
+                     f'<p><a class="more" href="/goc-nhin/"><span data-en="All articles">Tất cả bài viết</span> →</a></p></div>'
+                     f'<div class="cards">{"".join(pcard(p) for p in posts[:3])}</div></div></section>\n') if posts else ''
+            body = body.replace('{{LATEST}}', block)
         main_html = f'<div class="page" id="p-{key}">\n{body}{nextp(key, titles)}\n</div>'
         extra = [] if key == 'home' else [crumbs_ld([('Trang chủ', '/'), (titles[key][0], url)])]
         render(url, head(title, desc, url, extra=extra), main_html, nav)
