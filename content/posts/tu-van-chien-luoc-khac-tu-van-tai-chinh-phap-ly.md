@@ -25,10 +25,10 @@ Chiều tháng Hai, mưa phùn giăng mờ mặt phố. Cậu Hiếu ghé văn p
 
 *"Tiền thì vay được, giấy tờ thì đúng hết rồi chị ạ. Em chỉ cần ai đó bảo em là cứ làm đi."*
 
-Chị Thảo rót chén trà nóng, lật chậm từng trang, rồi hỏi một câu chưa ai hỏi: *"Tám phòng mới ấy, em định đón ai?"* Cậu Hiếu lặng người, nhìn ra ô cửa đọng nước. Khách quen tìm về Hiếu Thảo vì cảm giác như về nhà người thân, vì lời chào gọi đúng tên ở quầy; thêm tám phòng có giữ được cảm giác ấy không, cậu chưa từng nghĩ tới.
+Chị Thảo rót chén trà nóng, lật chậm từng trang, rồi hỏi một câu chưa ai hỏi: *"Tám phòng mới ấy, em định đón ai?"* Cậu Hiếu lặng người. Khách quen tìm về Hiếu Thảo vì cảm giác như về nhà người thân, vì lời chào gọi đúng tên ở quầy; thêm tám phòng có giữ được cảm giác ấy không, cậu chưa từng nghĩ tới.
 :::
 
-Ngân hàng trả lời câu hỏi về tiền, luật sư trả lời câu hỏi về luật. Nhưng đứng trước cả hai, như người gác cổng của mọi khoản đầu tư, là một câu khác: **hướng đi này có đáng để đi không?**
+Ngân hàng trả lời câu hỏi về tiền, luật sư trả lời câu hỏi về luật. Nhưng đứng trước cả hai là một câu khác: **hướng đi này có đáng để đi không?**
 
 ## Tư vấn chiến lược là gì: ba câu hỏi nằm trong một quyết định lớn
 
@@ -70,7 +70,7 @@ Clairmont là đơn vị tư vấn chiến lược và kinh doanh; chúng tôi k
 - Giao đúng người | Mỗi câu hỏi có một người chịu trách nhiệm, đủ chuyên môn và tư cách hành nghề phù hợp.
 :::
 
-Với người lãnh đạo còn băn khoăn chiến lược gồm những lựa chọn nào, bài [chiến lược doanh nghiệp là gì](/goc-nhin/chien-luoc-doanh-nghiep-la-gi/) là điểm khởi đầu. Khi đã sẵn sàng làm việc với một đơn vị tư vấn, bài [cần chuẩn bị gì trước khi thuê tư vấn chiến lược](/goc-nhin/chuan-bi-truoc-khi-thue-tu-van-chien-luoc/) giúp buổi gặp đầu tiên không bị bỏ phí.
+Với người lãnh đạo còn băn khoăn chiến lược gồm những lựa chọn nào, bài [chiến lược doanh nghiệp là gì](/goc-nhin/chien-luoc-doanh-nghiep-la-gi/) là điểm khởi đầu. Khi đã sẵn sàng làm việc với một đơn vị tư vấn, bài [cần chuẩn bị gì trước khi thuê tư vấn chiến lược](/goc-nhin/chuan-bi-truoc-khi-thue-tu-van-chien-luoc/) giúp buổi gặp đầu tiên trúng việc hơn.
 
 :::principle
 Tiền hỏi tài chính, luật hỏi pháp lý; còn hướng đi, phải hỏi chiến lược.
