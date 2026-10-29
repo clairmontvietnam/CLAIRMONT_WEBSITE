@@ -17,7 +17,7 @@ import blocks
 
 ROOT = Path(__file__).resolve().parent.parent
 SITE = 'https://www.clairmontgroup.vn'
-TODAY = dt.date.today().isoformat()
+TODAY = dt.datetime.now(dt.timezone(dt.timedelta(hours=7))).date().isoformat()  # giờ Việt Nam
 OG_IMAGE = SITE + '/assets/og-clairmont.jpg'
 FORM_ENDPOINT = ''  # Google Apps Script / Formspree URL for the contact form (empty = manual copy mode)
 

@@ -8,7 +8,7 @@ Trụ cột theo thứ trong tuần (dùng khi hết lịch): T2 Chiến lược
 
 | Xong | Ngày | Trụ cột | Tiêu đề | Từ khóa → cụm | Slug |
 |---|---|---|---|---|---|
-| [ ] | 2026-10-30 (T6) | Chuỗi giá trị | Tích hợp chuỗi giá trị: khi nào tự làm, khi nào hợp tác | tích hợp chuỗi giá trị → G | |
+| [x] | 2026-10-30 (T6) | Chuỗi giá trị | Tích hợp chuỗi giá trị: khi nào tự làm, khi nào hợp tác | tích hợp chuỗi giá trị → G | tich-hop-chuoi-gia-tri |
 | [ ] | 2026-10-31 (T7) | Nhà sáng lập | Một đơn vị tư vấn tự xây thương hiệu riêng: được gì, mất gì | tư vấn thực chiến → A | |
 | [ ] | 2026-11-01 (CN) | Hỏi đáp | Một dự án tư vấn chiến lược gồm những giai đoạn nào? | quy trình tư vấn chiến lược → B | |
 | [ ] | 2026-11-02 (T2) | Chiến lược | Tầm nhìn, sứ mệnh, giá trị cốt lõi: viết sao để dùng được | tầm nhìn sứ mệnh doanh nghiệp → B | |
