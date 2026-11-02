@@ -12,7 +12,7 @@ Trụ cột theo thứ trong tuần (dùng khi hết lịch): T2 Chiến lược
 | [x] | 2026-10-31 (T7) | Nhà sáng lập | Một đơn vị tư vấn tự xây thương hiệu riêng: được gì, mất gì | tư vấn thực chiến → A | tu-van-thuc-chien |
 | [x] | 2026-11-01 (CN) | Hỏi đáp | Một dự án tư vấn chiến lược gồm những giai đoạn nào? | quy trình tư vấn chiến lược → B | quy-trinh-tu-van-chien-luoc |
 | [x] | 2026-11-02 (T2) | Chiến lược | Tầm nhìn, sứ mệnh, giá trị cốt lõi: viết sao để dùng được | tầm nhìn sứ mệnh doanh nghiệp → B | tam-nhin-su-menh-doanh-nghiep |
-| [ ] | 2026-11-03 (T3) | Bất động sản | Cơ cấu sản phẩm dự án bất động sản: chọn loại hình và tỷ lệ thế nào | cơ cấu sản phẩm bất động sản → C | |
+| [x] | 2026-11-03 (T3) | Bất động sản | Cơ cấu sản phẩm dự án bất động sản: chọn loại hình và tỷ lệ thế nào | cơ cấu sản phẩm bất động sản → C | co-cau-san-pham-bat-dong-san |
 | [ ] | 2026-11-04 (T4) | Quản trị | Doanh nghiệp gia đình khi thế hệ thứ hai tham gia: phân vai và phân quyền | quản trị doanh nghiệp gia đình → D | |
 | [ ] | 2026-11-05 (T5) | Thương hiệu | Tuyên bố định vị thương hiệu: cấu trúc và cách viết | tuyên bố định vị thương hiệu → E | |
 | [ ] | 2026-11-06 (T6) | Chuỗi giá trị | Kiểm soát chất lượng khi làm việc với đối tác gia công | kiểm soát chất lượng gia công → G | |
