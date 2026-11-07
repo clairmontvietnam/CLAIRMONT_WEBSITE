@@ -17,7 +17,7 @@ Trụ cột theo thứ trong tuần (dùng khi hết lịch): T2 Chiến lược
 | [x] | 2026-11-05 (T5) | Thương hiệu | Tuyên bố định vị thương hiệu: cấu trúc và cách viết | tuyên bố định vị thương hiệu → E | tuyen-bo-dinh-vi-thuong-hieu |
 | [x] | 2026-11-06 (T6) | Chuỗi giá trị | Kiểm soát chất lượng khi làm việc với đối tác gia công | kiểm soát chất lượng gia công → G | kiem-soat-chat-luong-gia-cong |
 | [x] | 2026-11-07 (T7) | Nhà sáng lập | Làm chiến lược khi thị trường chậm lại | chiến lược khi thị trường suy giảm → B | chien-luoc-khi-thi-truong-suy-giam |
-| [ ] | 2026-11-08 (CN) | Hỏi đáp | Chẩn đoán doanh nghiệp: cần chuẩn bị những dữ liệu nào | chẩn đoán doanh nghiệp → B | |
+| [x] | 2026-11-08 (CN) | Hỏi đáp | Chẩn đoán doanh nghiệp: cần chuẩn bị những dữ liệu nào | chẩn đoán doanh nghiệp → B | chan-doan-doanh-nghiep |
 | [ ] | 2026-11-09 (T2) | Chiến lược | Lợi thế cạnh tranh bền vững: nhận diện từ bên trong doanh nghiệp | lợi thế cạnh tranh → B | |
 | [ ] | 2026-11-10 (T3) | Bất động sản | Thương hiệu dự án và thương hiệu chủ đầu tư: tách hay gộp | thương hiệu dự án bất động sản → C | |
 | [ ] | 2026-11-11 (T4) | Quản trị | Khung năng lực và mô tả công việc khi tái cấu trúc | khung năng lực → D | |
