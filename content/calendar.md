@@ -19,7 +19,7 @@ Trụ cột theo thứ trong tuần (dùng khi hết lịch): T2 Chiến lược
 | [x] | 2026-11-07 (T7) | Nhà sáng lập | Làm chiến lược khi thị trường chậm lại | chiến lược khi thị trường suy giảm → B | chien-luoc-khi-thi-truong-suy-giam |
 | [x] | 2026-11-08 (CN) | Hỏi đáp | Chẩn đoán doanh nghiệp: cần chuẩn bị những dữ liệu nào | chẩn đoán doanh nghiệp → B | chan-doan-doanh-nghiep |
 | [x] | 2026-11-09 (T2) | Chiến lược | Lợi thế cạnh tranh bền vững: nhận diện từ bên trong doanh nghiệp | lợi thế cạnh tranh → B | loi-the-canh-tranh |
-| [ ] | 2026-11-10 (T3) | Bất động sản | Thương hiệu dự án và thương hiệu chủ đầu tư: tách hay gộp | thương hiệu dự án bất động sản → C | |
+| [x] | 2026-11-10 (T3) | Bất động sản | Thương hiệu dự án và thương hiệu chủ đầu tư: tách hay gộp | thương hiệu dự án bất động sản → C | thuong-hieu-du-an-bat-dong-san |
 | [ ] | 2026-11-11 (T4) | Quản trị | Khung năng lực và mô tả công việc khi tái cấu trúc | khung năng lực → D | |
 | [ ] | 2026-11-12 (T5) | Thương hiệu | Giọng nói thương hiệu: xây bộ quy tắc ngôn ngữ cho cả đội | giọng nói thương hiệu → F | |
 | [ ] | 2026-11-13 (T6) | Chuỗi giá trị | Đưa thương hiệu Việt ra nước ngoài: chuẩn bị gì trước khi tìm nhà phân phối | thương hiệu Việt xuất khẩu → G | |
