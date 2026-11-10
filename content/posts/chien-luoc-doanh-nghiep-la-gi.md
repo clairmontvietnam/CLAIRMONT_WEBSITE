@@ -107,7 +107,7 @@ Thứ hai, một chiến lược tốt cần chừa chỗ để học. Với doa
 
 ## Bắt đầu từ đâu
 
-Với doanh nghiệp chưa có văn bản chiến lược, thứ tự hợp lý là chẩn đoán trước, lựa chọn sau, kế hoạch cuối cùng. Quy trình chi tiết được trình bày trong bài [các bước xây dựng chiến lược doanh nghiệp](/goc-nhin/cac-buoc-xay-dung-chien-luoc-doanh-nghiep/). Phần khó nhất, quyết định những gì không làm, được bàn riêng trong bài [chiến lược là biết không làm gì](/goc-nhin/biet-khong-lam-gi/). Khi lựa chọn đã rõ, câu hỏi tiếp theo là doanh nghiệp có năng lực nào khó sao chép để giữ vị thế, nội dung của bài [lợi thế cạnh tranh](/goc-nhin/loi-the-canh-tranh/).
+Với doanh nghiệp chưa có văn bản chiến lược, thứ tự hợp lý là chẩn đoán trước, lựa chọn sau, kế hoạch cuối cùng. Quy trình chi tiết được trình bày trong bài [các bước xây dựng chiến lược doanh nghiệp](/goc-nhin/cac-buoc-xay-dung-chien-luoc-doanh-nghiep/). Với doanh nghiệp nhiều mảng, quyết định khó nhất thường là dừng một mảng; tiêu chí cho quyết định này được bàn trong bài [khi nào nên dừng một mảng kinh doanh](/goc-nhin/biet-khong-lam-gi/). Khi lựa chọn đã rõ, câu hỏi tiếp theo là doanh nghiệp có năng lực nào khó sao chép để giữ vị thế, nội dung của bài [lợi thế cạnh tranh](/goc-nhin/loi-the-canh-tranh/).
 
 Với doanh nghiệp đã có văn bản, bốn phép thử ở trên là một điểm khởi đầu tự đánh giá. Nếu Hội đồng quản trị cần một góc nhìn độc lập, dịch vụ [tư vấn chiến lược doanh nghiệp](/dich-vu/tu-van-chien-luoc-doanh-nghiep/) của Clairmont bắt đầu bằng phần chẩn đoán, với ba đầu ra: bản chẩn đoán thách thức trọng tâm có dữ liệu chứng minh, danh sách lựa chọn và đánh đổi để Hội đồng quản trị quyết định, và bản đồ dịch chuyển nguồn lực tương ứng.
 
