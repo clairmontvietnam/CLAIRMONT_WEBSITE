@@ -103,13 +103,13 @@ Nếu không ghi được nguyên lý, vòng học đang dừng ở chặng ph�
 :::
 
 :::quote
-溫故而知新
-Ôn cố nhi tri tân
-Ôn lại cái cũ mà biết thêm cái mới
-Luận Ngữ · Vi chính
+紙上得來終覺淺，絕知此事要躬行
+Chỉ thượng đắc lai chung giác thiển, tuyệt tri thử sự yếu cung hành
+Điều học được trên giấy rốt cuộc vẫn nông, muốn hiểu thấu việc gì phải tự mình làm.
+Lục Du · Đông dạ độc thư thị Tử Duật
 :::
 
-Câu nguyên văn trong Luận Ngữ kết bằng ý người như vậy có thể làm thầy. Trong nghề tư vấn, có thể liên hệ với yêu cầu người khuyên người khác phải liên tục nhìn lại trải nghiệm của chính mình và rút ra hiểu biết mới, thay vì chỉ lặp lại kinh nghiệm đã cũ.
+Câu thơ nêu giới hạn của tri thức sách vở. Với người lựa chọn đơn vị tư vấn, kinh nghiệm vận hành thực tế là một yếu tố đáng xem xét, nhưng cần đi cùng cơ chế quản lý xung đột lợi ích.
 
 Clairmont đồng hành cùng doanh nghiệp theo bốn bước Nghiên cứu, Chiến lược, Triển khai, Đánh giá. Tìm hiểu thêm về [dịch vụ tư vấn chiến lược doanh nghiệp](/dich-vu/tu-van-chien-luoc-doanh-nghiep/).
 

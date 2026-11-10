@@ -105,13 +105,13 @@ Sau đó thực hiện chiều ngược lại: liệt kê các khoản đầu t�
 :::
 
 :::quote
-凡事豫則立，不豫則廢
-Phàm sự dự tắc lập, bất dự tắc phế
-Việc gì chuẩn bị trước thì thành, không chuẩn bị thì hỏng.
-Trung Dung · Lễ Ký
+人無遠慮，必有近憂
+Nhân vô viễn lự, tất hữu cận ưu
+Người không lo xa ắt có buồn gần.
+Luận Ngữ · Vệ Linh Công
 :::
 
-Sách Trung Dung đặt sự chuẩn bị trước làm điều kiện để việc thành. Trong quản trị giai đoạn suy giảm, có thể liên hệ với việc lập kịch bản và ngưỡng kích hoạt trước khi áp lực đến, để quyết định được đưa ra có chuẩn bị thay vì bị động.
+Với doanh nghiệp, lo xa là chuẩn bị sẵn kịch bản dòng tiền và ngưỡng kích hoạt từ khi thị trường còn thuận lợi. Khi suy giảm đã đến, những quyết định không được chuẩn bị trước thường phải đưa ra trong thế bị động.
 
 Clairmont đồng hành cùng ban lãnh đạo rà soát nguồn lực, xây dựng kịch bản và lựa chọn hướng đi trong những giai đoạn thị trường biến động. Tìm hiểu thêm về [tư vấn chiến lược doanh nghiệp](/dich-vu/tu-van-chien-luoc-doanh-nghiep/).
 

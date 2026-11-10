@@ -18,7 +18,7 @@ Doanh nghiệp đã thành công ở một lĩnh vực thường có thêm cơ h
 
 Khi câu hỏi ấy không được trả lời, nguồn lực quản lý bị chia nhỏ, thương hiệu mẹ phải gánh những lời hứa không tương thích và ban lãnh đạo khó đánh giá đơn vị nào đang thực sự tạo ra giá trị.
 
-Clairmont cũng đối diện câu hỏi này khi đi từ tư vấn chiến lược, gồm các dự án bất động sản, sang đầu tư và phát triển thương hiệu FLEUR. Bài viết dùng trường hợp đó để phân tích một cách tiếp cận, không phải để chứng minh lựa chọn của chính chúng tôi là đúng.
+Clairmont cũng đối diện câu hỏi này khi đi từ tư vấn chiến lược, gồm các dự án bất động sản, sang đầu tư và phát triển thương hiệu FLEUR. Kinh nghiệm tư vấn của Nhà sáng lập hình thành chủ yếu ở các dự án bất động sản quy mô lớn như Thăng Long Legend, Meyhomes Capital Phú Quốc, Vạn Phúc City. Bài viết dùng trường hợp đó để phân tích một cách tiếp cận, không phải để chứng minh lựa chọn của chính chúng tôi là đúng.
 
 :::takeaways
 - Đa ngành chỉ tạo giá trị khi các lĩnh vực dùng chung được năng lực, khách hàng, kênh hoặc tài sản thương hiệu một cách có thể chỉ ra được.

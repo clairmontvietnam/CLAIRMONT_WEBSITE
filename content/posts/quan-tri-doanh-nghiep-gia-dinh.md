@@ -108,13 +108,13 @@ Sau đó thực hiện chiều ngược lại: với mỗi thành viên gia đì
 :::
 
 :::quote
-不以規矩，不能成方圓
-Bất dĩ quy củ, bất năng thành phương viên
-Không có thước và compa thì không vẽ được vuông tròn.
-Mạnh Tử · Ly Lâu thượng
+過猶不及
+Quá do bất cập
+Làm quá cũng như làm không tới.
+Luận Ngữ · Tiên tiến
 :::
 
-Trong doanh nghiệp gia đình, có thể liên hệ lời cổ nhân với yêu cầu thiết lập quy ước trước khi phát sinh bất đồng. Điều kiện gia nhập, cơ chế họp và lộ trình chuyển giao là những quy củ giúp quan hệ gia đình và hoạt động kinh doanh không phải gánh thay vai trò của nhau.
+Trong doanh nghiệp gia đình, cả hai thái cực đều có rủi ro: gia đình can thiệp quá sâu vào điều hành, hoặc tách gia đình hoàn toàn khỏi các quyết định sở hữu. Các công cụ quản trị giúp xác định mức độ tham gia phù hợp cho từng vai trò.
 
 Clairmont đồng hành cùng doanh nghiệp gia đình trong rà soát cơ cấu tổ chức, phân vai và xây dựng lộ trình chuyển giao điều hành, phối hợp với đơn vị pháp lý khi cần. Tìm hiểu thêm về [dịch vụ tư vấn tái cấu trúc doanh nghiệp](/dich-vu/tai-cau-truc-doanh-nghiep/).
 

@@ -113,13 +113,13 @@ Sau đó làm chiều ngược lại: với nhà cung cấp của món ấy, l�
 :::
 
 :::quote
-多算勝，少算不勝
-Đa toán thắng, thiểu toán bất thắng
-Tính toán nhiều thì thắng, tính toán ít thì không thắng.
-Tôn Tử binh pháp · Thủy kế
+兼聽則明，偏信則暗
+Kiêm thính tắc minh, thiên tín tắc ám
+Nghe nhiều phía thì sáng suốt, tin một phía thì mù quáng.
+Ngụy Trưng · Tư trị thông giám
 :::
 
-Trong quản trị cung ứng, có thể liên hệ lời cổ nhân với việc chốt tiêu chí, ngưỡng loại và trọng số trước khi mở báo giá. Bảng chấm được thiết kế trước giúp quyết định dựa trên tính toán, không dựa trên con số hấp dẫn nhất xuất hiện sau cùng.
+Khi đánh giá nhà cung cấp, chỉ nhìn vào giá là một dạng tin một phía. Bộ tiêu chí có trọng số buộc người ra quyết định cân nhắc đồng thời chất lượng, năng lực giao hàng, rủi ro và tổng chi phí sở hữu.
 
 Clairmont đồng hành cùng doanh nghiệp xây dựng chuỗi đối tác và chuẩn hoá cách đánh giá, phối hợp giữa các bên. Tìm hiểu thêm về [dịch vụ phát triển chuỗi giá trị](/dich-vu/phat-trien-chuoi-gia-tri/).
 

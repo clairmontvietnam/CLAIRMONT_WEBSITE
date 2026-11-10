@@ -109,13 +109,13 @@ Tầng nào chưa có việc hoàn thành, hoặc chưa có chỉ số đo, là 
 :::
 
 :::quote
-人有不為也，而後可以有為
-Nhân hữu bất vi dã, nhi hậu khả dĩ hữu vi
-Người có điều không làm, sau mới làm được việc lớn.
-Mạnh Tử · Ly Lâu hạ
+君子欲訥於言而敏於行
+Quân tử dục nột ư ngôn nhi mẫn ư hành
+Người quân tử muốn chậm về lời nói mà nhanh nhẹn trong việc làm.
+Luận Ngữ · Lý nhân
 :::
 
-Trong quản trị chiến lược, có thể liên hệ lời Mạnh Tử với việc chủ động giới hạn phạm vi. Với một thương hiệu mới, những điều chọn không làm giúp nguồn lực tập trung vào những chặng quyết định việc khách hàng có lựa chọn thương hiệu hay không.
+Với một thương hiệu mới, lời nói này gợi ý thứ tự ưu tiên: hoàn thiện những gì khách hàng trực tiếp trải nghiệm trước khi mở rộng truyền thông. Lời hứa đi trước năng lực thực hiện thường là rủi ro lớn nhất của giai đoạn ra mắt.
 
 Clairmont đầu tư và phát triển thương hiệu như một trong ba lĩnh vực hoạt động, đồng thời đồng hành cùng doanh nghiệp trong [phát triển thương hiệu](/dich-vu/phat-trien-thuong-hieu/). Tìm hiểu thêm về Clairmont tại [trang giới thiệu](/gioi-thieu/).
 

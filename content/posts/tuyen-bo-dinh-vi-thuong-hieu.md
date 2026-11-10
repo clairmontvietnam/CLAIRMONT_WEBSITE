@@ -102,13 +102,13 @@ Mời ba người, gồm một người phụ trách bán hàng, một người 
 :::
 
 :::quote
-人有不為也，而後可以有為
-Nhân hữu bất vi dã, nhi hậu khả dĩ hữu vi
-Người có điều không làm, sau mới làm được việc lớn.
-Mạnh Tử · Ly Lâu hạ
+上兵伐謀
+Thượng binh phạt mưu
+Dùng binh giỏi nhất là thắng bằng mưu lược.
+Tôn Tử binh pháp · Mưu công
 :::
 
-Trong định vị thương hiệu, có thể liên hệ lời Mạnh Tử với yêu cầu chủ động xác định nhóm khách và lợi ích mà thương hiệu không theo đuổi. Chỉ khi có điều bị loại trừ, tuyên bố định vị mới thực sự định hướng được quyết định.
+Tuyên bố định vị là phần mưu lược đi trước mọi hoạt động truyền thông. Khi lựa chọn đã được viết rõ, các quyết định về thông điệp, kênh và ngân sách có chung một tiêu chí để kiểm tra.
 
 Clairmont đồng hành cùng doanh nghiệp từ nghiên cứu khách hàng, lựa chọn vị trí cạnh tranh đến viết và kiểm chứng tuyên bố định vị. Tìm hiểu thêm về [dịch vụ tư vấn định vị thương hiệu](/dich-vu/dinh-vi-thuong-hieu/).
 

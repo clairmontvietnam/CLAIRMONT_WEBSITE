@@ -109,13 +109,13 @@ Sau đó xem lại ba lô hàng gần nhất: lỗi nào xuất hiện nhiều h
 :::
 
 :::quote
-凡事豫則立，不豫則廢
-Phàm sự dự tắc lập, bất dự tắc phế
-Việc gì chuẩn bị trước thì thành, không chuẩn bị thì hỏng.
-Trung Dung · Lễ Ký
+慎終如始，則無敗事
+Thận chung như thuỷ, tắc vô bại sự
+Thận trọng lúc cuối như lúc đầu thì không hỏng việc.
+Đạo Đức Kinh · chương 64
 :::
 
-Lời này liên hệ trực tiếp với quá trình lập kế hoạch chất lượng của Juran: phần lớn vấn đề chất lượng gia công có thể được phòng ngừa từ bản yêu cầu kỹ thuật và mẫu chuẩn, trước khi lô hàng đầu tiên được sản xuất.
+Trong gia công, rủi ro chất lượng thường xuất hiện ở các lô sau, khi sự chú ý của hai bên đã giảm so với giai đoạn làm mẫu. Kiểm soát chất lượng vì vậy cần duy trì cùng một tiêu chuẩn từ lô đầu đến lô cuối.
 
 Clairmont đồng hành cùng doanh nghiệp trong lựa chọn, chuẩn hoá và phát triển quan hệ với đối tác gia công. Tìm hiểu thêm về [phát triển đối tác và chuỗi giá trị](/dich-vu/phat-trien-chuoi-gia-tri/).
 

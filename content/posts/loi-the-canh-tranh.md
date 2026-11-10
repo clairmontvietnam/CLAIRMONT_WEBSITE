@@ -111,13 +111,13 @@ Với mỗi lý do còn lại, ước tính một đối thủ có vốn cần b
 :::
 
 :::quote
-知彼知己，百戰不殆
-Tri bỉ tri kỷ, bách chiến bất đãi
-Biết người biết ta, trăm trận không nguy.
-Tôn Tử binh pháp · Mưu công
+水滴石穿
+Thuỷ tích thạch xuyên
+Nước nhỏ giọt lâu ngày làm mòn đá.
+Thành ngữ
 :::
 
-Trong quản trị chiến lược, có thể liên hệ lời Tôn Tử với yêu cầu đánh giá đồng thời nguồn lực của doanh nghiệp và khả năng sao chép của đối thủ. VRIO giúp "biết ta", nhưng chỉ có ý nghĩa khi được đặt cạnh hiểu biết về đối thủ và thị trường.
+Những lợi thế khó sao chép nhất thường được tích luỹ qua thời gian, từ quy trình, quan hệ và kinh nghiệm. Đây cũng là lý do VRIO nhấn mạnh tính khó bắt chước của nguồn lực.
 
 Clairmont đồng hành cùng ban lãnh đạo từ nghiên cứu nội lực, phân tích cạnh tranh đến lựa chọn chiến lược. Tìm hiểu thêm về [tư vấn chiến lược doanh nghiệp](/dich-vu/tu-van-chien-luoc-doanh-nghiep/).
 

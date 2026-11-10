@@ -109,13 +109,13 @@ Sau đó viết một câu định vị mới gồm khách hàng mục tiêu, h�
 :::
 
 :::quote
-吾道一以貫之
-Ngô đạo nhất dĩ quán chi
-Đạo của ta chỉ một, xuyên suốt từ đầu đến cuối.
-Luận Ngữ · Lý nhân
+苟日新，日日新，又日新
+Cẩu nhật tân, nhật nhật tân, hựu nhật tân
+Nếu một ngày đổi mới, thì ngày ngày đổi mới, lại ngày càng mới.
+Đại Học
 :::
 
-Trong quản trị thương hiệu, có thể liên hệ lời cổ nhân với yêu cầu giữ một phần lõi xuyên suốt qua các lần thay đổi. Định vị có thể điều chỉnh theo thị trường, nhưng sợi chỉ xuyên suốt ấy là điều giúp khách hàng nhận ra thương hiệu sau mỗi lần thay đổi.
+Tái định vị là một dạng đổi mới, nhưng đổi mới có kỷ luật: giữ phần bản sắc đã tạo niềm tin và điều chỉnh phần không còn phù hợp với thị trường. Đổi mới liên tục ở mức nhỏ thường ít rủi ro hơn một lần thay đổi toàn bộ.
 
 Clairmont tư vấn định vị và tái định vị thương hiệu, từ chẩn đoán đến lộ trình triển khai. Tìm hiểu thêm về [dịch vụ định vị thương hiệu](/dich-vu/dinh-vi-thuong-hieu/).
 

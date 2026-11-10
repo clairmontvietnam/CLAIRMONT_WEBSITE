@@ -103,13 +103,13 @@ Sau đó làm chiều ngược lại: chọn một yếu tố khách hàng đán
 :::
 
 :::quote
-見小利則大事不成
-Kiến tiểu lợi tắc đại sự bất thành
-Ham lợi nhỏ thì việc lớn không thành.
-Luận Ngữ · Tử Lộ
+知足不辱，知止不殆
+Tri túc bất nhục, tri chỉ bất đãi
+Biết đủ thì không nhục, biết dừng thì không nguy.
+Đạo Đức Kinh · chương 44
 :::
 
-Khổng Tử nói câu này khi Tử Hạ hỏi về việc cai quản đất Cử Phụ, kèm lời dặn không nên nóng vội. Trong quản trị, một đơn hàng hấp dẫn nằm ngoài hướng đi đã chọn có thể là lợi ích ngắn hạn làm suy yếu vị thế dài hạn, và cần được đánh giá bằng đánh đổi chứ không chỉ bằng doanh thu.
+Trong chiến lược, biết dừng là biết giới hạn những gì doanh nghiệp theo đuổi. Danh sách những việc không làm cũng là một quyết định quản trị rủi ro, không chỉ là một quyết định tập trung nguồn lực.
 
 Khi doanh nghiệp cần một góc nhìn độc lập để phân định điều nên làm và nên bỏ, có thể tham khảo [tư vấn chiến lược doanh nghiệp](/dich-vu/tu-van-chien-luoc-doanh-nghiep/) của Clairmont.
 

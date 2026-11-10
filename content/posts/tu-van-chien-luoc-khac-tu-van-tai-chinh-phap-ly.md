@@ -104,13 +104,13 @@ Nếu một câu hỏi chưa có người phụ trách, hoặc câu trả lời 
 :::
 
 :::quote
-物有本末，事有終始
-Vật hữu bản mạt, sự hữu chung thuỷ
-Vật có gốc ngọn, việc có đầu cuối
-Đại Học
+知之為知之，不知為不知，是知也
+Tri chi vi tri chi, bất tri vi bất tri, thị tri dã
+Biết thì nói là biết, không biết thì nói là không biết, thế mới là biết.
+Luận Ngữ · Vi chính
 :::
 
-Câu văn trong Đại Học tiếp nối bằng ý biết điều gì trước, điều gì sau thì gần với đạo. Trong quản trị, có thể liên hệ với yêu cầu xác định câu hỏi gốc của quyết định và thứ tự phối hợp giữa các nhóm chuyên môn.
+Mỗi loại tư vấn có phạm vi chuyên môn riêng. Một đơn vị tư vấn chiến lược đáng tin cậy cần nói rõ phần việc nào thuộc chuyên môn của mình và phần nào cần ý kiến của luật sư, kiểm toán hay tư vấn tài chính.
 
 Clairmont đồng hành cùng doanh nghiệp ở câu hỏi về hướng đi và phối hợp với các đơn vị chuyên môn khác khi cần. Tìm hiểu thêm về [dịch vụ tư vấn chiến lược doanh nghiệp](/dich-vu/tu-van-chien-luoc-doanh-nghiep/).
 

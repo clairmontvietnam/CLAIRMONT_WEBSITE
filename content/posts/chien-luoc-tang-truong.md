@@ -105,13 +105,13 @@ Sau đó thực hiện chiều ngược lại: với ý tưởng ở ô xa nhấ
 :::
 
 :::quote
-千里之行，始於足下
-Thiên lý chi hành, thuỷ ư túc hạ
-Đi nghìn dặm bắt đầu từ một bước chân
-Đạo Đức Kinh · chương 64
+不積跬步，無以至千里
+Bất tích khuể bộ, vô dĩ chí thiên lý
+Không tích từng bước nhỏ thì không thể đi tới nghìn dặm.
+Tuân Tử · Khuyến học
 :::
 
-Chương 64 Đạo Đức Kinh bàn về việc lớn bắt đầu từ việc nhỏ và cần được xử lý từ khi sự việc còn nhỏ. Với chiến lược tăng trưởng, có thể liên hệ với việc bắt đầu từ dữ liệu và năng lực hiện có, rồi mở rộng theo từng bước được kiểm chứng.
+Ma trận Ansoff gợi ý đi từ thị trường và sản phẩm hiện có trước khi mở sang ô xa hơn. Mỗi bước tăng trưởng thành công cũng là dữ liệu và năng lực cho bước tiếp theo.
 
 Clairmont đồng hành cùng ban lãnh đạo đánh giá dư địa thị trường, so sánh các hướng tăng trưởng và lập kế hoạch triển khai. Tìm hiểu thêm về [tư vấn chiến lược doanh nghiệp](/dich-vu/tu-van-chien-luoc-doanh-nghiep/).
 

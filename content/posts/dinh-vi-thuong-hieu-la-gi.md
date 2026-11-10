@@ -103,13 +103,13 @@ Sau đó đặt cùng câu hỏi cho năm khách hàng gần nhất. Khoảng c�
 :::
 
 :::quote
-人有不為也，而後可以有為
-Nhân hữu bất vi dã, nhi hậu khả dĩ hữu vi
-Người có điều không làm, sau mới làm được việc lớn.
-Mạnh Tử · Ly Lâu hạ
+凡戰者，以正合，以奇勝
+Phàm chiến giả, dĩ chính hợp, dĩ kỳ thắng
+Phàm việc đánh trận, dùng phép chính để giao chiến, dùng phép kỳ để thắng.
+Tôn Tử binh pháp · Thế
 :::
 
-Lời Mạnh Tử phù hợp với bản chất của định vị: doanh nghiệp chỉ tạo được khác biệt rõ khi chấp nhận không phục vụ mọi nhóm khách và không theo đuổi mọi nhu cầu. Một định vị không loại trừ điều gì thường không đủ sắc để khách hàng ghi nhớ.
+Có thể liên hệ phép chính với các điểm tương đồng mà thương hiệu buộc phải đạt để được khách hàng xem xét, còn phép kỳ là điểm khác biệt khiến khách hàng chọn. Định vị cần cả hai: thiếu điểm tương đồng thì không được cân nhắc, thiếu điểm khác biệt thì không có lý do để chọn.
 
 Clairmont đồng hành cùng doanh nghiệp nghiên cứu khách hàng, xác định khung tham chiếu và xây dựng định vị dựa trên bản sắc và năng lực thực có. Tìm hiểu thêm về [dịch vụ tư vấn định vị thương hiệu](/dich-vu/dinh-vi-thuong-hieu/).
 

@@ -101,13 +101,13 @@ Chiều ngược lại: tìm một quyết định đang được giao cho đơn
 :::
 
 :::quote
-窮則變，變則通，通則久
-Cùng tắc biến, biến tắc thông, thông tắc cửu
-Đến cùng thì phải đổi, đổi thì thông, thông thì bền lâu.
-Kinh Dịch · Hệ Từ hạ
+萬物並育而不相害，道並行而不相悖
+Vạn vật tịnh dục nhi bất tương hại, đạo tịnh hành nhi bất tương bội
+Muôn vật cùng sinh trưởng mà không hại nhau, các đạo cùng đi mà không trái nhau.
+Trung Dung
 :::
 
-Câu trong Hệ Từ nói rằng khi một trạng thái đã đến giới hạn thì cần thay đổi để tiếp tục vận hành. Trong quản trị tổ chức, có thể liên hệ với thời điểm cơ cấu cũ không còn đáp ứng chiến lược mới; thay đổi khi đó là điều kiện để duy trì tăng trưởng, không phải dấu hiệu bất ổn.
+Cơ cấu ma trận chỉ vận hành tốt khi hai trục quản lý cùng tồn tại mà không triệt tiêu nhau. Điều đó đòi hỏi quyền quyết định của từng trục được xác định rõ trước khi áp dụng.
 
 Clairmont đồng hành cùng ban điều hành xây dựng phương án cơ cấu, phân tích đánh đổi theo từng chức năng và thiết kế ma trận quyền quyết định khi chiến lược thay đổi. Tìm hiểu thêm về [dịch vụ tái cấu trúc doanh nghiệp](/dich-vu/tai-cau-truc-doanh-nghiep/).
 

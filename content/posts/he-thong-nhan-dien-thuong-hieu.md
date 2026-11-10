@@ -105,13 +105,13 @@ Sau đó kiểm tra chiều ngược lại: với mỗi yếu tố đang dùng, 
 :::
 
 :::quote
-不以規矩，不能成方圓
-Bất dĩ quy củ, bất năng thành phương viên
-Không có thước và compa thì không vẽ được vuông tròn.
-Mạnh Tử · Ly Lâu thượng
+吾道一以貫之
+Ngô đạo nhất dĩ quán chi
+Đạo của ta lấy một lẽ mà xuyên suốt.
+Luận Ngữ · Lý nhân
 :::
 
-Mạnh Tử dùng hình ảnh này để nói rằng ngay cả người giỏi nhất cũng cần khuôn phép để làm đúng. Với thương hiệu, brand guideline đóng vai trò khuôn phép đó: nó giúp nhiều đơn vị thực hiện tạo ra kết quả nhất quán.
+Một hệ thống nhận diện có giá trị khi mọi điểm chạm cùng thể hiện một nền tảng thương hiệu thống nhất. Quy chuẩn quản trị nhận diện là công cụ giữ sự xuyên suốt đó khi doanh nghiệp mở rộng kênh và đội ngũ.
 
 Clairmont đồng hành cùng doanh nghiệp từ xác định nền tảng thương hiệu đến xây dựng hệ thống nhận diện và quy chuẩn quản trị. Tìm hiểu thêm về [dịch vụ phát triển thương hiệu](/dich-vu/phat-trien-thuong-hieu/).
 

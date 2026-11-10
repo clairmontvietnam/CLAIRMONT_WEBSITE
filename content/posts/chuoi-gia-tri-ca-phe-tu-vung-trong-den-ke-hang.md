@@ -104,13 +104,13 @@ Chiều ngược lại: chọn khâu đang giao cho đối tác và kiểm tra x
 :::
 
 :::quote
-人有不為也，而後可以有為
-Nhân hữu bất vi dã, nhi hậu khả dĩ hữu vi
-Người có điều không làm, sau mới làm được việc lớn.
-Mạnh Tử · Ly Lâu hạ
+知可以戰與不可以戰者勝
+Tri khả dĩ chiến dữ bất khả dĩ chiến giả thắng
+Biết khi nào nên đánh, khi nào không nên đánh thì thắng.
+Tôn Tử binh pháp · Mưu công
 :::
 
-Mạnh Tử cho rằng phải xác định được điều không làm thì mới làm được việc đáng làm. Trong chuỗi giá trị, có thể liên hệ với việc chủ động chọn những khâu không tự đầu tư để tập trung nguồn lực vào khâu tạo khác biệt.
+Tôn Tử đặt khả năng phân biệt trận nên đánh và trận nên tránh lên đầu các điều kiện thắng. Trong chuỗi giá trị cà phê, câu hỏi tương ứng là khâu nào doanh nghiệp đủ năng lực để tự làm và khâu nào nên giao cho đối tác chuyên môn.
 
 Clairmont đồng hành cùng doanh nghiệp phân tích chuỗi giá trị, xác định khâu tự làm, khâu hợp tác và xây dựng tiêu chuẩn làm việc với đối tác. Tìm hiểu thêm về [dịch vụ phát triển chuỗi giá trị](/dich-vu/phat-trien-chuoi-gia-tri/).
 

@@ -101,13 +101,13 @@ Chiều ngược lại: chọn hoạt động đang tiêu tốn nhiều chi phí
 :::
 
 :::quote
-吾道一以貫之
-Ngô đạo nhất dĩ quán chi
-Đạo của ta chỉ một, xuyên suốt từ đầu đến cuối
-Luận Ngữ · Lý nhân
+合抱之木，生於毫末
+Hợp bão chi mộc, sinh ư hào mạt
+Cây cả vòng tay ôm mọc lên từ mầm nhỏ.
+Đạo Đức Kinh · chương 64
 :::
 
-Khổng Tử dùng câu này để nói rằng học thuyết của ông được xuyên suốt bởi một nguyên tắc. Trong phân tích chuỗi giá trị, có thể liên hệ với yêu cầu các hoạt động của doanh nghiệp được liên kết bởi cùng một logic lợi thế, thay vì tồn tại như những bộ phận rời rạc.
+Lợi thế trong chuỗi giá trị hiếm khi đến từ một hoạt động riêng lẻ, mà từ nhiều cải tiến nhỏ ở từng khâu và mối liên kết giữa chúng. Phân tích chuỗi giá trị giúp nhìn thấy những điểm nhỏ đó trước khi chúng trở thành chi phí hoặc lợi thế lớn.
 
 Clairmont đồng hành cùng doanh nghiệp phân tích chuỗi giá trị, xác định hoạt động cần đầu tư, hoạt động cần tinh gọn và xây dựng quan hệ đối tác dài hạn. Tìm hiểu thêm về [dịch vụ phát triển chuỗi giá trị](/dich-vu/phat-trien-chuoi-gia-tri/).
 
