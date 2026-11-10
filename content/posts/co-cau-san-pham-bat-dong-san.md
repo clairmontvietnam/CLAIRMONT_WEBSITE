@@ -30,7 +30,7 @@ Phần lớn giá trị của một quyết định cơ cấu tốt vì thế đ
 
 **Điều kiện bán và ngưỡng thanh toán.** Luật Kinh doanh bất động sản số 29/2023/QH15, có hiệu lực từ 01/8/2024, quy định điều kiện đưa nhà ở hình thành trong tương lai vào kinh doanh. Chủ đầu tư chỉ được thu tiền đặt cọc không quá 5% giá bán khi dự án đã đủ điều kiện. Điều 25 của Luật giới hạn tiến độ thu tiền: lần đầu không quá 30% giá trị hợp đồng (kể cả tiền cọc), tổng số tiền thu trước khi bàn giao không quá 70% (không quá 50% nếu chủ đầu tư là tổ chức có vốn đầu tư nước ngoài), và không quá 95% trước khi người mua được cấp giấy chứng nhận. Tại thời điểm viết bài, dự thảo sửa đổi Luật đang đề xuất điều chỉnh các ngưỡng này, nên cần kiểm tra văn bản có hiệu lực khi lập kế hoạch. Hệ quả cho cơ cấu: thời điểm mỗi phân kỳ đủ điều kiện bán và tỷ lệ tiền thu được trước bàn giao quyết định phần vốn chủ đầu tư phải tự thu xếp.
 
-**Nghĩa vụ nhà ở xã hội.** Luật Nhà ở số 27/2023/QH15 và Nghị định 100/2024/NĐ-CP quy định nghĩa vụ dành quỹ đất 20% để phát triển nhà ở xã hội đối với một số dự án nhà ở thương mại, tuỳ loại đô thị. Nghị định 261/2025/NĐ-CP sửa đổi một số nội dung, trong đó có phương án thực hiện nghĩa vụ bằng hình thức thay thế như nộp tiền. Giữ quỹ đất hay chọn hình thức thay thế là một biến số tài chính của cơ cấu. Phạm vi áp dụng cần xác minh cho từng dự án, đặc biệt khi tiêu chí loại đô thị thay đổi sau sắp xếp đơn vị hành chính.
+**Nghĩa vụ nhà ở xã hội.** Luật Nhà ở số 27/2023/QH15 giao Chính phủ quy định nghĩa vụ dành quỹ đất phát triển nhà ở xã hội trong dự án nhà ở thương mại. Nghị định 100/2024/NĐ-CP quy định mức 20% quỹ đất và tiêu chí loại đô thị áp dụng; Nghị định 261/2025/NĐ-CP sửa đổi, bổ sung, trong đó hướng dẫn cách tính khi thực hiện nghĩa vụ bằng hình thức nộp tiền thay thế. Giữ quỹ đất hay chọn hình thức thay thế là một biến số tài chính của cơ cấu. Phạm vi áp dụng cần xác minh cho từng dự án, đặc biệt khi tiêu chí loại đô thị thay đổi sau sắp xếp đơn vị hành chính.
 
 **Hạ tầng đấu nối và năng lực thi công.** Giới hạn cấp điện, cấp nước, giao thông kết nối và năng lực của nhà thầu với từng loại hình có thể loại bỏ một số phương án trên giấy.
 
@@ -63,7 +63,7 @@ Một quỹ đất có chi phí đất 300 (đơn vị: tỷ đồng, trả ngay
 
 **Phương án B** tập trung vào nhà liền kề quy mô vừa cho người mua để ở: chi phí xây dựng và hạ tầng 460, trải đều trong 8 quý; bán đều trong 7 quý kể từ quý thứ hai.
 
-Để đơn giản, giả định tiền về ngay khi bán, chi phí vốn vay 10%/năm tính trên số dư âm, chưa tính thuế và chi phí bán hàng.
+Quy ước tính: trả tiền đất ở quý 0, thi công từ quý 1, bán từ quý 2; tiền về ngay khi bán; lãi vay 2,5%/quý tính trên số dư âm đầu kỳ và nhập gốc; NPV chiết khấu dòng tiền dự án theo quý, chưa tính tài trợ; chưa tính thuế và chi phí bán hàng. Chi phí xây dựng của B cao hơn A vì B có nhiều căn hơn trên cùng quỹ đất, kéo theo nhiều hạ tầng kỹ thuật và chi phí xây dựng trên mỗi đơn vị doanh thu cao hơn.
 :::
 
 | Chỉ số (giả định) | Phương án A | Phương án B |
