@@ -1,106 +1,145 @@
 ---
 slug: chien-luoc-doanh-nghiep-la-gi
-title: Chiến lược doanh nghiệp là gì? Porter và cách chọn để thắng
-h1: Chiến lược doanh nghiệp: khi quán nhỏ đứng đối diện chuỗi lớn
-description: Chiến lược doanh nghiệp không phải danh sách mục tiêu, mà là lựa chọn cách thắng. Ba chiến lược cạnh tranh của Porter, đọc qua chuyện một quán cà phê nhỏ.
-keywords: chiến lược doanh nghiệp, chiến lược doanh nghiệp là gì, ba chiến lược cạnh tranh tổng quát, Michael Porter, chiến lược kinh doanh
-summary: Một chuỗi lớn mở đối diện quán nhỏ. Rẻ hơn hay khác hơn — Porter cho rằng không thể là cả hai.
+title: Chiến lược doanh nghiệp là gì? Ba cấp độ và bốn phép thử
+h1: Chiến lược doanh nghiệp là gì: ba cấp độ, bốn phép thử
+description: Chiến lược doanh nghiệp là gì, khác mục tiêu và kế hoạch ra sao? Phân biệt ba cấp chiến lược và bốn phép thử để biết văn bản trong tay có thật là chiến lược.
+keywords: chiến lược doanh nghiệp, chiến lược doanh nghiệp là gì, chiến lược cấp công ty, chiến lược cạnh tranh, Rumelt, Michael Porter
+summary: Ba cấp chiến lược thường bị gộp làm một, và bốn phép thử để biết một văn bản có thật là chiến lược hay chỉ là danh sách mục tiêu.
 date: 2026-10-29
 category: Chiến lược doanh nghiệp
 author: Clairmont Group
 ---
 
-:::hook
-Một bản kế hoạch tham vọng chưa làm nên chiến lược doanh nghiệp. Chiến lược là lời đáp cho một câu hỏi khó hơn: **thắng bằng cách nào, trên sân nào** — và vì thế, cũng là quyết định về những điều sẽ không làm.
-:::
+Trong tiếng Việt, "chiến lược doanh nghiệp" được dùng cho ít nhất ba việc khác nhau: quyết định tập đoàn nên ở trong những ngành nào, quyết định một đơn vị kinh doanh cạnh tranh bằng cách nào, và kế hoạch hành động của từng bộ phận. Theo nhận định của Clairmont, gộp ba cấp này làm một là một nguyên nhân khiến nhiều bản "chiến lược 5 năm" dày nhưng không định hướng được quyết định nào. Bài này đưa ra định nghĩa làm việc, tách ba cấp chiến lược, và đề xuất bốn phép thử để Hội đồng quản trị kiểm tra văn bản chiến lược đang có.
 
 :::takeaways
-- Mục tiêu cho biết doanh nghiệp muốn đến đâu; chiến lược giải thích vì sao chỉ doanh nghiệp này đến được.
-- Porter gói các con đường cạnh tranh vào hai lựa chọn: rẻ hơn hoặc khác hơn, trên sân rộng hay sân hẹp.
-- Muốn làm tất cả cùng lúc là lối tắt dẫn thẳng vào thế mắc kẹt ở giữa.
+- Chiến lược là tập hợp lựa chọn có chủ đích về nơi cạnh tranh và cách thắng, dựa trên một chẩn đoán, và được chứng minh bằng việc phân bổ nguồn lực. Mục tiêu và kế hoạch không thay thế được nó.
+- Có ba cấp chiến lược: cấp công ty (danh mục ngành, phân bổ vốn), cấp đơn vị kinh doanh (cạnh tranh trong một thị trường) và cấp chức năng. Mỗi cấp trả lời một câu hỏi khác.
+- Một văn bản chỉ là chiến lược khi qua được bốn phép thử: có chẩn đoán, có đánh đổi, các hành động ăn khớp nhau, và nguồn lực thực sự dịch chuyển theo nó.
 :::
 
-:::story co-hoa | Khi chuỗi lớn mở đối diện
-Tháng Mười, gió heo may vừa về trên con phố nhỏ thì tấm biển của một chuỗi cà phê lớn được dựng lên bên kia đường, đúng đối diện quán cô Hoa. Đèn sáng suốt đêm, giá rẻ hơn, thực đơn dài ba trang. Mấy hôm liền, cô ngồi sau quầy tính chuyện giảm giá, thêm trà sữa, mở cửa muộn cho "bằng người ta".
+## Định nghĩa làm việc
 
-Một sáng, khi mùi cà phê rang còn quyện trong hơi sương, ông khách quen ở góc cửa sổ đặt chiếc phin xuống và nói chậm rãi: *"Bên kia rẻ thật, nhưng tôi sang đây là vì ly phin cô pha với cái tên cô gọi tôi mỗi sáng. Cô đổi thì tôi biết uống ở đâu?"*
+Các định nghĩa kinh điển khác nhau về câu chữ nhưng gặp nhau ở ba ý. Alfred Chandler (1962) xem chiến lược là việc xác định các mục tiêu dài hạn, chọn đường hướng hành động và phân bổ nguồn lực để đạt chúng. Michael Porter (1996) nhấn mạnh rằng bản chất của chiến lược là chọn một vị thế khác biệt và chấp nhận đánh đổi, tức là chọn cả những việc sẽ không làm. Richard Rumelt (2011) mô tả "hạt nhân" của một chiến lược tốt gồm ba phần: chẩn đoán đúng thách thức, một chính sách định hướng để đối phó với thách thức đó, và các hành động ăn khớp nhau để thực thi.
 
-Cô Hoa khựng lại. Tuần sau, cô không giảm giá; cô gạch bớt nửa thực đơn, giữ cà phê pha tay, chép vào cuốn sổ nhỏ thói quen của từng vị khách. Quán vẫn mấy bộ bàn ghế gỗ cũ, nhưng lần đầu tiên cô biết rõ mình đang thắng ở đâu.
+Clairmont dùng định nghĩa làm việc sau, tổng hợp từ ba nguồn trên: **chiến lược là tập hợp lựa chọn có chủ đích về nơi doanh nghiệp cạnh tranh và cách doanh nghiệp thắng ở đó, dựa trên một chẩn đoán cụ thể, và được chứng minh bằng việc phân bổ nguồn lực.** Vế cuối quan trọng nhất trong thực tế: nếu ngân sách, nhân sự và thời gian của lãnh đạo không đổi hướng sau khi "chiến lược" được ban hành, thì doanh nghiệp chưa có chiến lược mới.
+
+## Chiến lược khác gì mục tiêu, tầm nhìn và kế hoạch
+
+Bốn khái niệm này thường xuất hiện trong cùng một văn bản và dễ bị dùng lẫn. Bảng dưới đây tách chúng theo câu hỏi mà mỗi khái niệm trả lời.
+
+| Khái niệm | Câu hỏi trả lời | Ví dụ dạng câu | Sai lầm thường gặp |
+|---|---|---|---|
+| Tầm nhìn | Doanh nghiệp muốn trở thành gì trong dài hạn? | "Trở thành nhà phát triển dự án nghỉ dưỡng được tin cậy tại miền Trung" | Viết chung chung đến mức đối thủ nào cũng ký được |
+| Mục tiêu | Đạt được bao nhiêu, đến khi nào? | "Doanh thu tăng gấp đôi trong 5 năm" | Đặt mục tiêu rồi gọi đó là chiến lược |
+| Chiến lược | Cạnh tranh ở đâu, thắng bằng cách nào, vì sao cách đó khả thi? | "Tập trung quỹ đất ven biển quy mô vừa, thắng bằng năng lực vận hành mà các chủ đầu tư thuần phát triển không có" | Thiếu chẩn đoán và thiếu đánh đổi |
+| Kế hoạch | Ai làm gì, khi nào, với ngân sách bao nhiêu? | "Quý 2 hoàn tất nghiên cứu khả thi dự án A" | Kế hoạch chi tiết nhưng không gắn với lựa chọn nào |
+
+Rumelt gọi việc nhầm mục tiêu thành chiến lược là một trong những dấu hiệu của "chiến lược tồi". Mục tiêu tăng trưởng hai con số là mong muốn; chiến lược phải giải thích vì sao doanh nghiệp này, với nguồn lực này, có thể đạt được điều đó trong khi đối thủ thì không.
+
+## Ba cấp chiến lược và câu hỏi của từng cấp
+
+Cách chia chiến lược thành ba cấp (công ty, đơn vị kinh doanh, chức năng) được Hofer và Schendel (1978) hệ thống hoá và nay là cách phân loại phổ biến trong giáo trình quản trị chiến lược.
+
+### Cấp công ty: doanh nghiệp nên ở trong những ngành nào
+
+Đây là câu hỏi của tập đoàn đa ngành hoặc doanh nghiệp đang cân nhắc mở rộng: nên giữ, thêm hay rút khỏi lĩnh vực nào, và vốn được phân bổ giữa các mảng ra sao. Porter (1987) đề xuất ba phép thử cho mỗi quyết định đa dạng hoá: ngành mới phải đủ hấp dẫn về cấu trúc, chi phí gia nhập không được ăn hết lợi nhuận tương lai, và đơn vị mới hoặc tập đoàn phải được lợi thực sự khi đứng chung. Goold, Campbell và Alexander (1994) bổ sung khái niệm "lợi thế của công ty mẹ": tập đoàn chỉ tạo giá trị khi nó quản lý các đơn vị con tốt hơn so với việc các đơn vị đó đứng độc lập hoặc thuộc về một chủ sở hữu khác.
+
+Với một chủ đầu tư bất động sản đang cân nhắc thêm mảng vận hành khách sạn hay một ngành hàng tiêu dùng, câu hỏi cấp công ty không phải là "ngành đó có tăng trưởng không" mà là "năng lực nào của chúng ta làm cho ngành đó tốt hơn, và ngược lại".
+
+### Cấp đơn vị kinh doanh: cạnh tranh bằng cách nào
+
+Đây là cấp mà các khung của Porter về chiến lược cạnh tranh tổng quát được thiết kế để trả lời: thắng bằng chi phí thấp hay bằng khác biệt, trên phạm vi rộng hay một phân khúc hẹp (Porter 1980 nêu ba chiến lược tổng quát; năm 1985 ông tách chiến lược tập trung thành tập trung chi phí và tập trung khác biệt). Lafley và Martin (2013) diễn đạt cùng câu hỏi bằng chuỗi năm lựa chọn: khát vọng thắng, chơi ở đâu, thắng bằng cách nào, cần năng lực gì, và cần hệ thống quản trị gì.
+
+Một giới hạn cần biết: khung chiến lược tổng quát mô tả các vị thế cạnh tranh, không phải công thức chọn vị thế. Với một công ty phát triển bất động sản, khung này áp cho cấp đơn vị kinh doanh, tức cách công ty cạnh tranh qua nhiều dự án. Ở cấp từng dự án, theo nhận định của Clairmont, các câu hỏi về [định vị dự án](/goc-nhin/dinh-vi-du-an-bat-dong-san-truoc-thiet-ke/), cơ cấu sản phẩm và tốc độ hấp thụ hữu ích hơn câu hỏi "dẫn đầu chi phí hay khác biệt hoá".
+
+### Cấp chức năng: các bộ phận làm gì để phục vụ lựa chọn trên
+
+Chiến lược marketing, nhân sự, tài chính, vận hành nằm ở cấp này. Chúng có giá trị khi được suy ra từ lựa chọn cấp trên; chúng trở thành vấn đề khi mỗi bộ phận tự viết "chiến lược" của mình trước khi doanh nghiệp chọn được cách thắng. Dấu hiệu dễ thấy là các kế hoạch chức năng đều hợp lý khi đọc riêng, nhưng cộng lại thì đòi nhiều nguồn lực hơn doanh nghiệp có và kéo về nhiều hướng.
+
+## Bốn phép thử cho một văn bản chiến lược
+
+Các phép thử dưới đây là đề xuất của Clairmont, xây trên khung của Rumelt (2011) và Porter (1996). Chúng dùng được cho văn bản do nội bộ soạn hay do đơn vị tư vấn bàn giao.
+
+| Phép thử | Câu hỏi kiểm tra | Dấu hiệu không đạt |
+|---|---|---|
+| 1. Chẩn đoán | Văn bản có gọi tên thách thức quan trọng nhất và giải thích nguyên nhân của nó không? | Mở đầu bằng tầm nhìn và mục tiêu, không có phần nào nói vì sao doanh nghiệp đang gặp khó |
+| 2. Đánh đổi | Văn bản có nói rõ những phân khúc, sản phẩm, kênh hoặc cơ hội doanh nghiệp sẽ không theo đuổi không? | Mọi hướng đều được giữ; không có gì bị dừng hay cắt |
+| 3. Ăn khớp | Các hành động có củng cố lẫn nhau không, hay mỗi bộ phận một hướng? | Kế hoạch marketing nhắm cao cấp trong khi kế hoạch chi phí đòi cắt giảm dịch vụ |
+| 4. Nguồn lực | Ngân sách, nhân sự chủ chốt và thời gian lãnh đạo có dịch chuyển theo các lựa chọn không? | Phân bổ ngân sách năm sau gần giống năm trước |
+
+Một cách kiểm tra nhanh bổ sung: lấy văn bản chiến lược hiện có, che tên doanh nghiệp, và hỏi liệu một đối thủ trực tiếp có thể ký tên dưới văn bản đó không. Phép này phát hiện việc thiếu một vị thế khác biệt (theo nghĩa Porter 1996 dùng), thường đi kèm thiếu đánh đổi, nhưng không thay được bốn phép thử.
+
+Phép thử thứ tư cần thước đo. Ba chỉ số đơn giản: tỷ trọng ngân sách và vốn đầu tư năm tới chuyển sang các hướng đã chọn so với năm trước; số nhân sự chủ chốt được điều chuyển hoặc tuyển mới cho các hướng đó; tỷ lệ thời gian họp HĐQT và Ban điều hành dành cho các lựa chọn mới thay vì vận hành thường kỳ.
+
+Bốn phép thử cũng có giới hạn. Một văn bản qua đủ bốn phép vẫn có thể sai nếu chẩn đoán sai, vì mọi lựa chọn phía sau đều dựa trên nó. Vì vậy giả định của phần chẩn đoán cần được kiểm tra bằng dữ liệu thị trường và dữ liệu nội bộ trước khi ra quyết định phân bổ nguồn lực.
+
+## Áp dụng thử trên một văn bản giả định
+
+:::example Trích đoạn "chiến lược 5 năm" của một chủ đầu tư bất động sản (văn bản giả định)
+(1) "Trở thành nhà phát triển bất động sản hàng đầu khu vực phía Bắc." (2) "Doanh thu tăng trưởng bình quân 25%/năm." (3) "Phát triển đa dạng sản phẩm: nhà ở, nghỉ dưỡng, văn phòng, khu công nghiệp." (4) "Nâng cao chất lượng sản phẩm và dịch vụ khách hàng." (5) "Tối ưu chi phí, nâng cao hiệu quả vận hành."
 :::
 
-Sớm hay muộn, doanh nghiệp nào cũng gặp một "chuỗi lớn bên kia đường". Lúc ấy, câu hỏi đáng giá nhất không phải là làm thêm gì, mà là: **doanh nghiệp chọn thắng bằng chi phí hay bằng sự khác biệt, và thắng trong mắt nhóm khách nào?**
+| Câu | Phép thử trượt | Vì sao | Viết lại thành lựa chọn |
+|---|---|---|---|
+| (1) | Chẩn đoán, Đánh đổi | Là tầm nhìn; không nói thách thức nào, không loại trừ gì | Bỏ khỏi phần chiến lược, chuyển sang phần tầm nhìn |
+| (2) | Chẩn đoán | Là mục tiêu; không giải thích vì sao đạt được | Giữ làm mục tiêu, gắn với các lựa chọn bên dưới |
+| (3) | Đánh đổi, Ăn khớp | Bốn loại hình đòi bốn bộ năng lực và cấu trúc vốn khác nhau | "Tập trung nhà ở thấp tầng tại đô thị vệ tinh; không tham gia văn phòng và khu công nghiệp trong 5 năm" |
+| (4) | Đánh đổi | Đối thủ nào cũng viết được | "Bàn giao hoàn thiện, cam kết tiến độ công khai theo quý, vì chẩn đoán cho thấy niềm tin vào tiến độ là rào cản mua lớn nhất của tệp khách" |
+| (5) | Nguồn lực | Không nói nguồn lực dịch chuyển đi đâu | "Chuyển ngân sách và nhân sự từ mảng X sang năng lực thi công và quản lý tiến độ" |
 
-## Hai trục, bốn con đường: chiến lược doanh nghiệp theo Porter
+Văn bản sau khi viết lại ngắn hơn, nhưng mỗi câu buộc doanh nghiệp từ bỏ một điều gì đó và chỉ ra nguồn lực sẽ đi đâu.
 
-:::model matrix | Ba chiến lược cạnh tranh tổng quát | Michael E. Porter, "Competitive Strategy" (1980)
-x: Lợi thế chi phí | Lợi thế khác biệt
-y: Thị trường hẹp | Thị trường rộng
-- Dẫn đầu chi phí | Phục vụ số đông với chi phí thấp nhất ngành — sức mạnh đến từ quy mô và một bộ máy vận hành không thừa động tác nào.
-- Khác biệt hoá | Phục vụ số đông bằng một điều khách sẵn lòng trả thêm: chất lượng, thiết kế hay sự chu đáo của dịch vụ.
-- Tập trung chi phí | Chọn một nhóm khách hẹp và phục vụ họ với chi phí thấp hơn hẳn những người làm hàng đại trà.
-- Tập trung khác biệt | Chọn một nhóm khách hẹp và chăm họ theo một cách riêng mà người khổng lồ khó lòng làm theo.
-:::
+## Chiến lược dự định và chiến lược hình thành trong thực tế
 
-Porter đặt ra hai câu hỏi tưởng như đơn giản: lợi thế đến từ **chi phí thấp** hay **sự khác biệt**, và doanh nghiệp nhắm vào **thị trường rộng** hay **một phân khúc hẹp**. Mỗi ô trên ma trận đòi một cách tổ chức, tuyển người và chi tiêu khác hẳn nhau. Chọn ô nào, về thực chất, là chọn trước một kiểu doanh nghiệp mình sẽ trở thành.
+Mintzberg và Waters (1985) phân biệt chiến lược dự định (viết ra từ đầu) với chiến lược hình thành dần (emergent) qua các quyết định thực tế. Phần lớn doanh nghiệp vận hành bằng sự pha trộn của cả hai. Điều này có hai hệ quả cho lãnh đạo.
 
-- Ô Dẫn đầu chi phí hiếm khi rộng chỗ: thường chỉ người có quy mô lớn nhất đứng vững được ở đó.
-- Ô Tập trung khác biệt lại là nơi doanh nghiệp vừa và nhỏ có lợi thế tự nhiên — gần khách, hiểu khách, xoay trở nhanh.
-- Điều đáng chú ý là lời cảnh báo của Porter về thế **"mắc kẹt ở giữa"**: vừa muốn rẻ, vừa muốn khác, vừa muốn phục vụ tất cả, để rồi không giỏi hẳn điều nào.
+Thứ nhất, chiến lược thực sự của doanh nghiệp nằm ở các quyết định phân bổ nguồn lực đã diễn ra, không phải ở văn bản. Một buổi rà soát hữu ích thường bắt đầu bằng việc liệt kê mười quyết định đầu tư lớn nhất ba năm qua và hỏi chúng cho thấy doanh nghiệp đã thực sự chọn gì.
 
-## Bản kế hoạch dàn trải và một chiến lược biết từ chối
+Thứ hai, một chiến lược tốt cần chừa chỗ để học. Với doanh nghiệp đang mở mảng mới hoặc thị trường biến động, nên tách rõ phần đã cam kết (khó đảo ngược, như mua quỹ đất) với phần còn thử nghiệm (có thể dừng với chi phí thấp), và đặt trước điều kiện để chuyển một hướng từ thử nghiệm sang cam kết.
 
-:::compare Kế hoạch dàn trải | Chiến lược có lựa chọn
-- "Tăng doanh thu, mở rộng kênh, nâng chất lượng, giảm chi phí" || Một câu duy nhất: thắng bằng gì, cho ai — mọi mục tiêu xếp hàng phía sau câu ấy.
-- Đối thủ giảm giá thì giảm theo || Hỏi lại cho thật: giá có phải lý do khách chọn mình hay không?
-- Thêm sản phẩm để giữ chân mọi nhóm khách || Bỏ bớt những gì không bồi đắp cho lợi thế đã chọn.
-:::
+## Rủi ro khi soạn chiến lược
 
-Clairmont học từ Porter một tinh thần giản dị: chiến lược là chọn điều không làm. Một văn bản mà đối thủ nào cũng có thể ký tên bên dưới thì chưa phải chiến lược. Nó mới chỉ là một danh sách mong muốn.
+- **Soạn chiến lược như một bài tập văn bản.** Văn bản hoàn chỉnh về hình thức nhưng không ai thay đổi quyết định nào sau đó. Biện pháp: gắn mỗi lựa chọn chiến lược với ít nhất một thay đổi ngân sách hoặc nhân sự cụ thể.
+- **Bỏ qua chẩn đoán.** Đi thẳng vào SWOT và mục tiêu mà không xác định thách thức trọng tâm. Xem thêm bài [phân tích SWOT đúng cách](/goc-nhin/phan-tich-swot-dung-cach/) về giới hạn của công cụ này.
+- **Nhầm cấp.** Dùng khung cạnh tranh cấp đơn vị để trả lời câu hỏi cấp công ty, chẳng hạn chọn "khác biệt hoá" cho cả một tập đoàn có nhiều ngành.
+- **Không có điều kiện xem lại.** Chiến lược không nên đổi theo quý, nhưng cần nêu trước những tín hiệu thị trường nào sẽ khiến doanh nghiệp xem lại lựa chọn.
 
-:::example Ví dụ giả định: xưởng nội thất gỗ ở ven đô
-Một xưởng gỗ ven đô, sân phủ mùn cưa và thoảng mùi gỗ mới bào, đứng trước ba ngả: làm hàng đại trà để đua giá với nhà máy lớn, làm hàng thiết kế cho mọi nhà, hoặc chỉ nhận đồ đặt riêng cho những căn hộ nhỏ.
+## Bắt đầu từ đâu
 
-Ngả thứ ba là **Tập trung khác biệt**, và nó kéo theo cả một chuỗi quyết định: tuyển thợ đo giỏi, từ chối đơn số lượng lớn, bán qua kiến trúc sư thay vì đại lý. Chiến lược lộ diện chính ở những lời từ chối ấy.
-:::
+Với doanh nghiệp chưa có văn bản chiến lược, thứ tự hợp lý là chẩn đoán trước, lựa chọn sau, kế hoạch cuối cùng. Quy trình chi tiết được trình bày trong bài [các bước xây dựng chiến lược doanh nghiệp](/goc-nhin/cac-buoc-xay-dung-chien-luoc-doanh-nghiep/). Phần khó nhất, quyết định những gì không làm, được bàn riêng trong bài [chiến lược là biết không làm gì](/goc-nhin/biet-khong-lam-gi/). Khi lựa chọn đã rõ, câu hỏi tiếp theo là doanh nghiệp có năng lực nào khó sao chép để giữ vị thế, nội dung của bài [lợi thế cạnh tranh](/goc-nhin/loi-the-canh-tranh/).
 
-## Áp dụng: tìm chỗ đứng của doanh nghiệp trên ma trận
+Với doanh nghiệp đã có văn bản, bốn phép thử ở trên là một điểm khởi đầu tự đánh giá. Nếu Hội đồng quản trị cần một góc nhìn độc lập, dịch vụ [tư vấn chiến lược doanh nghiệp](/dich-vu/tu-van-chien-luoc-doanh-nghiep/) của Clairmont bắt đầu bằng phần chẩn đoán, với ba đầu ra: bản chẩn đoán thách thức trọng tâm có dữ liệu chứng minh, danh sách lựa chọn và đánh đổi để Hội đồng quản trị quyết định, và bản đồ dịch chuyển nguồn lực tương ứng.
 
-:::steps Bốn bước tìm ô của mình trên ma trận Porter
-- Kể lại ba lần khách chọn mình | Ghi đúng lý do họ nói ra, không phải lý do doanh nghiệp đoán thay họ.
-- Đặt mình vào một ô | Doanh nghiệp đang thắng bằng chi phí hay sự khác biệt, trên sân rộng hay sân hẹp?
-- Gọi tên những điều mâu thuẫn | Tìm sản phẩm, kênh bán, khoản chi đang lặng lẽ kéo doanh nghiệp sang ô khác.
-- Viết danh sách "không làm" | Chọn ba việc sẽ dừng trong năm nay để dồn sức cho ô đã chọn.
-:::
+## Nguồn tham khảo
 
-Lựa chọn ấy nên khởi đi từ đâu là câu hỏi của bài [vì sao bản sắc là điểm xuất phát của chiến lược](/goc-nhin/ban-sac-diem-xuat-phat-cua-chien-luoc/). Con đường từ lựa chọn đến hành động được bàn kỹ trong [các bước xây dựng chiến lược doanh nghiệp](/goc-nhin/cac-buoc-xay-dung-chien-luoc-doanh-nghiep/).
+- Chandler, A. D. (1962). *Strategy and Structure: Chapters in the History of the American Industrial Enterprise*. MIT Press.
+- Hofer, C. W. & Schendel, D. (1978). *Strategy Formulation: Analytical Concepts*. West Publishing.
+- Porter, M. E. (1980). *Competitive Strategy*. Free Press.
+- Porter, M. E. (1985). *Competitive Advantage*. Free Press.
+- Porter, M. E. (1987). "From Competitive Advantage to Corporate Strategy". *Harvard Business Review*, May–June 1987.
+- Porter, M. E. (1996). "What Is Strategy?". *Harvard Business Review*, November–December 1996.
+- Mintzberg, H. & Waters, J. A. (1985). "Of Strategies, Deliberate and Emergent". *Strategic Management Journal*, 6(3), 257–272.
+- Goold, M., Campbell, A. & Alexander, M. (1994). *Corporate-Level Strategy: Creating Value in the Multibusiness Company*. Wiley.
+- Rumelt, R. (2011). *Good Strategy / Bad Strategy*. Crown Business.
+- Lafley, A. G. & Martin, R. L. (2013). *Playing to Win*. Harvard Business Review Press.
 
-:::principle
-Không ai vừa rẻ nhất vừa khác nhất; chọn một cách thắng và đi đến cùng.
-:::
-
-:::exercise
-Hoàn thành câu: "Khách chọn chúng tôi thay vì đối thủ lớn nhất vì ___." Nếu chỗ trống là "giá rẻ hơn", câu hỏi tiếp theo là: doanh nghiệp có giữ được mức giá ấy lâu hơn đối thủ không?
-:::
-
-:::quote
-人有不為也，而後可以有為
-Nhân hữu bất vi dã, nhi hậu khả dĩ hữu vi
-Người có điều không làm, sau mới làm được việc lớn.
-Mạnh Tử · Ly Lâu hạ
-:::
-
-Clairmont đồng hành cùng doanh nghiệp từ nghiên cứu, lựa chọn chiến lược đến triển khai — tìm hiểu thêm về [tư vấn chiến lược doanh nghiệp](/dich-vu/tu-van-chien-luoc-doanh-nghiep/).
+Định nghĩa làm việc, bốn phép thử và thước đo, văn bản giả định và các ví dụ dạng câu trong bảng là đề xuất của Clairmont, không phải trích dẫn từ các nguồn trên.
 
 ## Câu hỏi thường gặp
 
-### Chiến lược doanh nghiệp khác kế hoạch kinh doanh thế nào?
+### Chiến lược doanh nghiệp là gì?
 
-Kế hoạch kinh doanh liệt kê việc cần làm, ai làm và khi nào xong. Chiến lược là logic đứng phía sau: vì sao con đường này, chứ không phải con đường khác, giúp doanh nghiệp thắng. Thiếu logic ấy, kế hoạch dễ trở thành một chuỗi việc bận rộn.
+Chiến lược doanh nghiệp là tập hợp lựa chọn có chủ đích về nơi doanh nghiệp cạnh tranh và cách thắng ở đó, dựa trên chẩn đoán về thách thức chính, và được thể hiện bằng việc phân bổ nguồn lực. Nó khác mục tiêu (đạt bao nhiêu) và kế hoạch (ai làm gì, khi nào).
 
-### Doanh nghiệp nhỏ có nên chọn chiến lược dẫn đầu chi phí?
+### Chiến lược cấp công ty khác chiến lược cạnh tranh thế nào?
 
-Hiếm khi, vì ô này thường đòi một quy mô mà doanh nghiệp nhỏ chưa có. Lợi thế của họ nằm nhiều hơn ở các ô Tập trung, nơi sự gần gũi và hiểu khách có sức nặng hơn sản lượng.
+Chiến lược cấp công ty trả lời câu hỏi doanh nghiệp nên ở trong những ngành nào và phân bổ vốn giữa các mảng ra sao. Chiến lược cạnh tranh, hay chiến lược cấp đơn vị kinh doanh, trả lời câu hỏi một mảng cụ thể thắng đối thủ bằng cách nào trong thị trường của nó.
 
-### Có thể đổi chiến lược khi thị trường thay đổi không?
+### Bao lâu nên xem lại chiến lược một lần?
 
-Có, nhưng không nên đổi theo từng tháng. Sản phẩm và kênh bán có thể điều chỉnh liên tục; còn lựa chọn cốt lõi về cách thắng cần đủ ổn định để đội ngũ kịp xây năng lực quanh nó.
+Không có chu kỳ chuẩn. Nhiều doanh nghiệp rà soát hằng năm cùng kỳ lập ngân sách, nhưng điều quan trọng hơn là xác định trước các tín hiệu thị trường hoặc nội bộ sẽ kích hoạt việc xem lại, thay vì đổi chiến lược theo từng biến động ngắn hạn.
+
+### Doanh nghiệp nhỏ có cần văn bản chiến lược không?
+
+Không nhất thiết cần văn bản dài. Doanh nghiệp nhỏ vẫn cần trả lời rõ ba câu hỏi: thách thức chính là gì, sẽ tập trung vào đâu và bỏ qua những gì, và nguồn lực có hạn sẽ dồn vào việc nào. Một trang viết rõ ba điều này thường hữu ích hơn một bộ tài liệu dày.
