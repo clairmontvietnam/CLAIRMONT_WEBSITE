@@ -34,7 +34,7 @@ Gợi ý carousel (6 slide):
 3. Tháp CBBE — Keller (2001): Nhận diện · Công năng & Hình ảnh · Đánh giá & Cảm xúc · Cộng hưởng
 4. Tên chủ đầu tư: lòng tin · Tên dự án: hình ảnh, cảm xúc, sự gắn bó
 5. Bốn bước: Đo tên mẹ → Xác định tầng dự án cần → Cân rủi ro hai chiều → Viết luật dùng tên
-6. Điều mình không muốn, đừng làm cho người — clairmontgroup.vn
+6. Danh không chính thì lời nói khó thuận — clairmontgroup.vn
 
 ## 3. Google Business Profile
 
@@ -50,4 +50,4 @@ Nút "Tìm hiểu thêm" → https://www.clairmontgroup.vn/goc-nhin/thuong-hieu-
 - **Khung 3 (22–31s):** Chữ: "Tên chủ đầu tư → lòng tin. Tên dự án → khát khao"
 - **Khung 4 (31–39s):** Chữ: "Nhà ở gia đình trẻ: để tên chủ đầu tư đứng trước. Nghỉ dưỡng: cần tên riêng"
 - **Khung 5 (39–46s):** Chữ: "Che tên chủ đầu tư đi — tài liệu bán hàng còn lý do nào để chọn?"
-- **Kết (46–52s):** "Điều mình không muốn, đừng làm cho người." clairmontgroup.vn · Hotline 0947 120 258
+- **Kết (46–52s):** "Danh không chính thì lời nói khó thuận." clairmontgroup.vn · Hotline 0947 120 258
