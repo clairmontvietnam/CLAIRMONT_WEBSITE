@@ -1,7 +1,7 @@
 ---
 slug: mot-thang-truoc-ngay-ra-mat-fleur
-title: "FLEUR Clairmont: chuẩn bị ra mắt qua mô hình AIDA"
-h1: "FLEUR Clairmont: chuẩn bị ra mắt thương hiệu qua mô hình AIDA và những điều chọn không làm"
+title: FLEUR Clairmont: chuẩn bị ra mắt qua mô hình AIDA
+h1: FLEUR Clairmont: chuẩn bị ra mắt thương hiệu qua mô hình AIDA và những điều chọn không làm
 description: Cách Clairmont chuẩn bị ra mắt FLEUR tại Hà Nội (29/11/2026): đọc kế hoạch qua mô hình AIDA, giới hạn của mô hình và những lựa chọn chủ động không làm.
 keywords: FLEUR Clairmont, mô hình AIDA, ra mắt thương hiệu, FLEUR, thương hiệu cà phê Việt, Clairmont Group
 summary: Kế hoạch ra mắt FLEUR được xây trên câu hỏi: sau khi được biết đến, điều gì khiến khách hàng lựa chọn?

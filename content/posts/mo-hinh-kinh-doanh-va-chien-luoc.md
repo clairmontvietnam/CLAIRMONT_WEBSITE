@@ -2,9 +2,9 @@
 slug: mo-hinh-kinh-doanh-va-chien-luoc
 title: Mô hình kinh doanh và chiến lược: khác nhau ở đâu?
 h1: Mô hình kinh doanh và chiến lược: phân biệt để không sửa nhầm chỗ
-description: Mô hình kinh doanh mô tả cách tạo và thu giá trị, chiến lược là lựa chọn vị thế trước đối thủ. Phân tích bằng Business Model Canvas và giới hạn của công cụ.
+description: Mô hình kinh doanh mô tả cách tạo và thu giá trị, chiến lược là lựa chọn vị thế trước đối thủ. Phân tích qua Business Model Canvas và giới hạn công cụ.
 keywords: mô hình kinh doanh, Business Model Canvas, mô hình kinh doanh là gì, chiến lược kinh doanh, Osterwalder
-summary: Sao chép mô hình kinh doanh của doanh nghiệp đang thành công chưa chắc hiệu quả nếu hai bên theo đuổi chiến lược khác nhau.
+summary: Sao chép mô hình kinh doanh của người đang thành công chưa chắc hiệu quả nếu hai bên theo đuổi chiến lược khác nhau.
 date: 2026-10-29
 category: Chiến lược doanh nghiệp
 author: Clairmont Group

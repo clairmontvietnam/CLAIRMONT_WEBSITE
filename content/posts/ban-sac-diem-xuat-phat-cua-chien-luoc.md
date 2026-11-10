@@ -125,7 +125,7 @@ Tầm nhìn mô tả nơi doanh nghiệp muốn đến; sứ mệnh mô tả vi�
 
 ### Doanh nghiệp mới thành lập đã có bản sắc chưa?
 
-Thường đã có những yếu tố ban đầu, nằm ở lý do người sáng lập bắt đầu và những điều họ không chấp nhận thoả hiệp. Tuy nhiên, bản sắc của doanh nghiệp mới mới chỉ là giả thuyết. Doanh nghiệp nên gọi tên sớm và kiểm chứng qua các quyết định thực tế và phản hồi của những khách hàng đầu tiên.
+Thường đã có những yếu tố ban đầu, nằm ở lý do người sáng lập bắt đầu và những điều họ không chấp nhận thoả hiệp. Tuy nhiên, ở giai đoạn này bản sắc vẫn chỉ là giả thuyết. Doanh nghiệp nên gọi tên sớm và kiểm chứng qua các quyết định thực tế và phản hồi của những khách hàng đầu tiên.
 
 ### Bắt đầu từ bản sắc có làm doanh nghiệp kém linh hoạt không?
 

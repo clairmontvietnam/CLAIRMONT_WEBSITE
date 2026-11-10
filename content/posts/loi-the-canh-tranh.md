@@ -29,7 +29,7 @@ Vì vậy, câu hỏi quản trị không phải "doanh nghiệp mạnh ở đâ
 :::story ong-tu | Khi đối thủ sao chép lời cam kết
 Sạp dưa hấu của Ông Tư đã giữ lời cam kết "không đỏ không lấy tiền" trong hai mươi năm. Mùa hè năm nay, hai sạp mới mở ở cùng khu chợ và treo đúng câu cam kết ấy, với giá thấp hơn một chút.
 
-Ông Tư đứng trước ba phương án. Thứ nhất, giảm giá để giữ khách. Thứ hai, mở rộng thêm mặt hàng để tăng doanh thu trên mỗi lượt khách. Thứ ba, giữ nguyên giá và đầu tư sâu hơn vào quan hệ với các nhà vườn đã cung cấp cho ông nhiều năm, vốn là lý do ông dám giữ lời cam kết.
+Ông Tư đứng trước ba phương án: giảm giá để giữ khách; mở rộng thêm mặt hàng để tăng doanh thu trên mỗi lượt khách; hoặc giữ nguyên giá và đầu tư sâu hơn vào quan hệ với các nhà vườn đã cung cấp cho ông nhiều năm, vốn là lý do ông dám giữ lời cam kết.
 
 Mỗi phương án có đánh đổi riêng. Giảm giá giúp phản ứng nhanh nhưng làm mỏng biên lợi nhuận và đưa cuộc cạnh tranh về thứ đối thủ dễ theo.
 
