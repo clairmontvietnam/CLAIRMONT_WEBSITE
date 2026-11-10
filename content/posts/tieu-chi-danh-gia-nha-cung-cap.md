@@ -1,106 +1,195 @@
 ---
 slug: tieu-chi-danh-gia-nha-cung-cap
-title: Đánh giá nhà cung cấp qua lăng kính ma trận Kraljic
-h1: Đánh giá nhà cung cấp: nơi nào mặc cả, nơi nào giữ chữ tín
-description: Đánh giá nhà cung cấp không dừng ở việc so báo giá. Ma trận Kraljic chia hàng mua thành bốn nhóm, chỉ ra nơi nên mặc cả và nơi phải giữ chặt đối tác.
-keywords: đánh giá nhà cung cấp, ma trận Kraljic, tiêu chí chọn nhà cung cấp, chọn nhà cung ứng, chuỗi cung ứng
-summary: Có món nên mặc cả từng đồng, có món mất một nhà cung ứng là cả xưởng lặng im. Kraljic tách hai loại ấy.
+title: Tiêu chí đánh giá nhà cung cấp: trọng số theo Kraljic
+h1: Tiêu chí đánh giá nhà cung cấp: bộ tiêu chí có trọng số và cách chấm theo ma trận Kraljic
+description: Tiêu chí đánh giá nhà cung cấp gồm sáu nhóm, nhưng trọng số phải đổi theo vị trí món hàng trên ma trận Kraljic. Ngưỡng loại, cách chấm và ví dụ có số liệu.
+keywords: tiêu chí đánh giá nhà cung cấp, bảng chấm điểm nhà cung cấp, đánh giá nhà cung cấp, ma trận Kraljic, tổng chi phí sở hữu, lựa chọn nhà cung cấp
+summary: Một bảng chấm dùng chung trọng số cho mọi món hàng sẽ chọn sai ở đúng chỗ đắt nhất. Trọng số phải suy ra từ vị trí món hàng trên ma trận Kraljic.
 date: 2026-10-29
 category: Chuỗi giá trị
 author: Clairmont Group
 ---
 
-:::hook
-Một xưởng hiếm khi dừng lại vì mua đắt. Nó dừng lại vì **thiếu đúng một thứ không ai khác bán** — và đánh giá nhà cung cấp, rốt cuộc, là biết trước thứ ấy là gì.
-:::
+Tiêu chí đánh giá nhà cung cấp thường gồm sáu nhóm: chất lượng, chi phí, giao hàng, năng lực kỹ thuật và dịch vụ, sức khoẻ tài chính, tuân thủ và rủi ro. Danh sách này gần như giống nhau ở mọi doanh nghiệp; điều quyết định chất lượng của việc chọn nhà cung cấp là trọng số và cách chấm. Bài này bảo vệ một luận điểm: một bảng chấm dùng chung trọng số cho mọi món hàng là sai về thiết kế, vì nó để giá chiếm ưu thế ở đúng những món mà giá ít quan trọng nhất. Trọng số cần suy ra từ vị trí của món hàng trên ma trận Kraljic, được chốt trước khi mở báo giá, và một số tiêu chí phải là ngưỡng loại chứ không được bù trừ bằng điểm.
 
 :::takeaways
-- Mỗi món hàng mua về mang một mức rủi ro riêng; mặc cả đồng đều là phân bổ sai sự chú ý.
-- Ma trận Kraljic đặt hàng mua lên hai trục: ảnh hưởng lợi nhuận và rủi ro cung ứng.
-- Nhà cung ứng ở ô "Chiến lược" cần được đối đãi như người cùng làm, không như người bán.
+- Sáu nhóm tiêu chí là điểm khởi đầu. Trọng số giữa chúng phải khác nhau theo từng nhóm hàng, không dùng chung một bảng.
+- Ma trận Kraljic (1983) xếp món hàng theo hai trục độc lập: ảnh hưởng đến lợi nhuận và rủi ro cung ứng. Ô Chiến lược là nơi cả hai cùng cao, và cũng là nơi bảng chấm nặng về giá gây thiệt hại lớn nhất.
+- Tiêu chí mà điểm cao ở chỗ khác không bù được (an toàn, pháp lý, năng lực tối thiểu) nên là ngưỡng loại, xét trước khi chấm điểm.
+- Trọng số chốt sau khi đã xem báo giá rất dễ bị điều chỉnh để hợp thức hoá một lựa chọn có sẵn.
 :::
 
-:::story cau-trong | Hai cuộc mặc cả của cậu Trống
-Xưởng hộp sơn mài của cậu Trống nằm cuối một con ngõ nhỏ, mùa nào cũng thoảng mùi sơn ta và gỗ mít. Suốt một tuần cuối thu, cậu đạp xe qua ba nơi in hộp giấy đựng ngoài, ép được mỗi chiếc vài trăm đồng. Tối về, cậu ghi từng khoản tiết kiệm vào sổ, lòng thấy mình làm chủ rất chặt.
+## Ba quyết định mà bảng chấm phục vụ
 
-Rồi bác thợ pha sơn ta duy nhất cậu tin tưởng báo nghỉ một tháng về quê. Xưởng lặng hẳn, những tấm cốt gỗ phủ bụi trên giá, đơn hàng dồn lại trên bàn. Bác chỉ nhắn một câu: *"Lâu nay cháu có hỏi bác cần gì đâu, cứ đến lấy sơn rồi về."*
+Đánh giá nhà cung cấp phục vụ ba quyết định khác nhau, và một bảng chấm tốt cho quyết định này chưa chắc tốt cho quyết định kia:
 
-Đêm ấy, ngồi giữa mùi sơn đã nhạt, cậu Trống mới hiểu: món cậu mặc cả kỹ nhất lại là món ai bán cũng được. Còn món giữ cả xưởng sống, cậu chưa từng ngồi nói chuyện cho tử tế.
+1. **Lựa chọn ban đầu:** chọn ai trong số các nhà cung cấp đang chào hàng. Dữ liệu chủ yếu là hồ sơ năng lực, mẫu, báo giá và kiểm tra tại xưởng.
+2. **Đánh giá định kỳ:** nhà cung cấp hiện tại có giữ được cam kết không. Dữ liệu là kết quả giao hàng thực tế: đúng hạn, đủ số lượng, tỷ lệ lỗi, tốc độ xử lý sự cố.
+3. **Đánh giá lại:** giữ, giảm tỷ trọng hay thay nhà cung cấp sau một sự cố lớn hoặc khi thị trường đổi.
+
+Tiêu chuẩn ISO 9001:2015 (điều 8.4) yêu cầu tổ chức xác định và áp dụng tiêu chí cho cả bốn việc: đánh giá, lựa chọn, theo dõi kết quả và đánh giá lại nhà cung cấp bên ngoài. Tiêu chuẩn không quy định tiêu chí cụ thể hay trọng số; phần đó là quyết định của doanh nghiệp.
+
+Bài này bàn về mua sắm của doanh nghiệp. Gói thầu sử dụng vốn nhà nước thuộc phạm vi Luật Đấu thầu số 22/2023/QH15 (hiệu lực từ 01/01/2024, đã được sửa đổi, bổ sung nhiều lần, văn bản hợp nhất số 74/VBHN-VPQH ngày 25/3/2026) phải đánh giá theo tiêu chuẩn trong hồ sơ mời thầu và quy định của luật đó.
+
+## Sáu nhóm tiêu chí đánh giá nhà cung cấp và cách đo
+
+Nghiên cứu về tiêu chí chọn nhà cung cấp có lịch sử dài. Dickson (1966) khảo sát các nhà quản lý mua hàng ở Mỹ với 23 tiêu chí và ghi nhận chất lượng, giao hàng và lịch sử thực hiện được xếp quan trọng nhất. Weber, Current và Benton (1991) tổng quan 74 bài nghiên cứu và thấy giá, giao hàng và chất lượng là ba tiêu chí được bàn nhiều nhất, phần lớn các bài xét nhiều tiêu chí cùng lúc. Bảng dưới đây gom các tiêu chí thường gặp thành sáu nhóm và chỉ ra cách đo cho từng nhóm.
+
+| Nhóm tiêu chí | Tiêu chí con đo được | Bằng chứng cần thu | Dùng làm |
+|---|---|---|---|
+| Chất lượng | Mẫu đạt thông số; tỷ lệ lỗi theo lô; hệ thống kiểm soát chất lượng tại xưởng | Biên bản thử mẫu, kết quả kiểm tra lô thử, chứng nhận hệ thống | Ngưỡng loại (mẫu không đạt) và điểm |
+| Chi phí | Tổng chi phí sở hữu: giá mua, vận chuyển, lưu kho, lắp đặt, bảo trì, chi phí xử lý lỗi | Báo giá chi tiết, điều khoản giá cho các năm sau, dữ liệu lỗi | Điểm |
+| Giao hàng | Tỷ lệ giao đúng hạn, đủ số lượng; thời gian từ đặt hàng đến nhận; khả năng tăng sản lượng | Lịch sử giao hàng, công suất và lịch sản xuất | Điểm |
+| Năng lực kỹ thuật và dịch vụ | Đội kỹ thuật, khả năng cải tiến, phụ tùng, thời gian phản hồi sự cố | Danh sách nhân sự, thăm xưởng, kiểm tra khách hàng tham chiếu | Ngưỡng tối thiểu và điểm |
+| Sức khoẻ tài chính | Kết quả kinh doanh, dòng tiền, nợ quá hạn, mức phụ thuộc vào một khách hàng | Báo cáo tài chính, xác nhận nghĩa vụ thuế | Ngưỡng loại và điểm |
+| Tuân thủ và rủi ro | Tư cách pháp lý, hoá đơn chứng từ, an toàn lao động, môi trường, rủi ro tập trung nguồn | Hồ sơ đăng ký, giấy phép, kết quả đánh giá tại chỗ | Chủ yếu là ngưỡng loại |
+
+Nhóm chi phí cần đo bằng tổng chi phí sở hữu chứ không bằng giá mua. Ellram (1995) mô tả cách phân tích tổng chi phí sở hữu trong mua hàng: cộng mọi chi phí phát sinh từ khi tìm nguồn đến khi kết thúc vòng đời của món hàng. Với thiết bị phải bảo trì nhiều năm hoặc vật tư có tỷ lệ lỗi biến động, phần chi phí sau khi mua có thể ngang hoặc lớn hơn chênh lệch giá chào.
+
+### Thang chấm cần có mô tả cho từng mức
+
+Thang 1–5 chỉ cho kết quả so sánh được khi mỗi mức có mô tả cụ thể. Ví dụ cho tiêu chí giao hàng: 5 là đúng hạn, đủ số lượng từ 98% số đơn trở lên trong 12 tháng; 3 là từ 90% đến dưới 95%; 1 là dưới 85%. Không có mô tả, hai người chấm cùng một nhà cung cấp có thể chênh nhau hai bậc, và chênh lệch đó lớn hơn chênh lệch thật giữa các nhà cung cấp. Với tiêu chí chi phí, nên chấm bằng công thức thay vì cảm nhận: điểm bằng 5 nhân với tỷ số giữa chi phí thấp nhất và chi phí của nhà cung cấp đang xét.
+
+## Ngưỡng loại trước, điểm sau
+
+Bảng chấm cộng điểm có trọng số là mô hình bù trừ: điểm cao ở tiêu chí này bù được điểm thấp ở tiêu chí khác. Điều đó hợp lý giữa giá và tốc độ giao hàng, nhưng không hợp lý giữa giá và an toàn. Một nhà cung cấp rẻ hơn 15% không bù được việc không có đội bảo trì trong bán kính phản hồi sự cố, hay việc không xuất được hoá đơn hợp lệ.
+
+Vì vậy Clairmont đề xuất tách bảng đánh giá thành hai lớp. Lớp thứ nhất là các ngưỡng đạt hoặc không đạt; nhà cung cấp trượt bất kỳ ngưỡng nào bị loại, không xét điểm. Lớp thứ hai là chấm điểm có trọng số cho những nhà cung cấp còn lại. Các ngưỡng loại thường gặp:
+
+- Tư cách pháp lý hợp lệ, xuất được hoá đơn và chứng từ theo quy định.
+- Mẫu hoặc lô thử đạt thông số kỹ thuật bắt buộc.
+- Đáp ứng yêu cầu an toàn và giấy phép bắt buộc của ngành hàng.
+- Không có dấu hiệu mất khả năng thanh toán trên báo cáo tài chính gần nhất.
+- Với hàng ở ô Chiến lược và Nút thắt: năng lực dịch vụ hoặc công suất tối thiểu đã được kiểm tra tại chỗ.
+
+Ngưỡng loại nên ít và thật sự không thương lượng được. Nếu danh sách ngưỡng dài, doanh nghiệp đang dùng ngưỡng để thay cho việc cân nhắc đánh đổi.
+
+## Ma trận Kraljic: xếp món hàng trước khi đặt trọng số
+
+Peter Kraljic trình bày khung danh mục mua hàng trong bài "Purchasing Must Become Supply Management" trên Harvard Business Review số tháng 9–10/1983. Luận điểm gốc là mua hàng cần chuyển từ một chức năng tác nghiệp sang quản trị nguồn cung có tính chiến lược, và mỗi nhóm hàng cần một cách quản lý khác nhau.
+
+Khung của Kraljic có bốn bước: phân loại hàng mua, phân tích thị trường cung, định vị chiến lược, và lập kế hoạch hành động. Bước phân loại dùng hai trục độc lập với nhau:
+
+- **Ảnh hưởng đến lợi nhuận:** đo bằng khối lượng mua, tỷ trọng trong tổng chi phí mua, hoặc tác động đến chất lượng sản phẩm và tăng trưởng của doanh nghiệp.
+- **Rủi ro cung ứng:** đo bằng mức sẵn có, số nhà cung cấp, cạnh tranh về nhu cầu từ người mua khác, khả năng tự làm, rủi ro lưu kho và khả năng thay thế.
+
+| | Rủi ro cung ứng thấp | Rủi ro cung ứng cao |
+|---|---|---|
+| **Ảnh hưởng lợi nhuận cao** | Đòn bẩy: dùng sức mua, chọn lọc nhà cung cấp, đàm phán theo mục tiêu | Chiến lược: dự báo nhu cầu, quan hệ dài hạn, phân tích rủi ro, kế hoạch dự phòng |
+| **Ảnh hưởng lợi nhuận thấp** | Thông thường: chuẩn hoá, gom đơn, xử lý hiệu quả | Nút thắt: bảo đảm nguồn hàng, kể cả chấp nhận giá cao hơn; dự trữ; nguồn dự phòng |
+
+Hai trục độc lập nên một món hàng có thể cao ở cả hai. Đó chính là ô Chiến lược, nơi Kraljic đề xuất quyết định ở cấp lãnh đạo cao nhất của chức năng mua hàng. Cách hiểu "giá trị lớn thì rủi ro thấp" hay ngược lại là sai: không có quan hệ nghịch nào giữa hai trục.
+
+Bước phân tích thị trường của Kraljic so sánh sức mạnh của doanh nghiệp với sức mạnh của nhà cung cấp, từ đó chọn một trong ba hướng: khai thác (doanh nghiệp mạnh hơn), cân bằng, hoặc đa dạng hoá nguồn (nhà cung cấp mạnh hơn). Bước này thường bị bỏ qua khi người ta chỉ nhớ bốn ô, nhưng nó quan trọng cho bảng chấm: ở ô Chiến lược mà doanh nghiệp yếu thế, tiêu chí "sẵn sàng ưu tiên doanh nghiệp khi khan hàng" có giá trị hơn vài phần trăm giá.
+
+### Giới hạn của ma trận
+
+- **Chỉ nhìn từ phía người mua.** Ma trận không hỏi nhà cung cấp xem doanh nghiệp là khách hàng quan trọng hay phiền phức. Steele và Court (1996) đề xuất nhìn thêm từ phía nhà cung cấp; một món ở ô Chiến lược mà nhà cung cấp coi doanh nghiệp là khách hàng nhỏ thì kế hoạch "quan hệ dài hạn" khó thành hiện thực.
+- **Đo lường và ranh giới ô mang tính chủ quan.** Gelderman và van Weele (2003) chỉ ra các vấn đề về chọn biến số, gán trọng số và đặt ngưỡng chia "cao" với "thấp". Cùng một món hàng, hai nhóm đánh giá có thể xếp vào hai ô khác nhau.
+- **Bỏ qua quan hệ phụ thuộc giữa các món và các nhà cung cấp.** Dubois và Pedersen (2002) lập luận rằng mô hình danh mục xử lý từng món hàng riêng lẻ, trong khi giá trị của một quan hệ hợp tác thường nằm ở sự kết nối giữa nhiều món, nhiều bên.
+
+Hệ quả thực tế: việc xếp ô phải ghi lý do và người xếp, được xem lại khi thị trường đổi, và không nên dùng như một phép phân loại khách quan.
+
+## Trọng số đổi theo ô
+
+Bảng dưới đây là bộ trọng số khởi điểm Clairmont đề xuất cho từng ô. Tổng mỗi cột là 100. Doanh nghiệp cần điều chỉnh theo ngành, nhưng nên giữ chênh lệch giữa các cột vì đó là phần mang logic của Kraljic.
+
+| Nhóm tiêu chí | Chiến lược | Đòn bẩy | Nút thắt | Thông thường |
+|---|---|---|---|---|
+| Chất lượng | 25 | 25 | 20 | 20 |
+| Chi phí (tổng chi phí sở hữu) | 20 | 40 | 10 | 35 |
+| Giao hàng | 10 | 15 | 30 | 25 |
+| Năng lực kỹ thuật và dịch vụ | 25 | 10 | 20 | 10 |
+| Sức khoẻ tài chính | 10 | 5 | 10 | 5 |
+| Tuân thủ và rủi ro | 10 | 5 | 10 | 5 |
+
+Lý do của từng cột: ở ô Đòn bẩy, thị trường nhiều người bán nên giá là nơi tạo giá trị và đàm phán là đúng việc. Ở ô Nút thắt, giá trị món hàng nhỏ nhưng thiếu hàng làm dừng sản xuất, nên giao hàng và năng lực đáp ứng nặng nhất, phù hợp với khuyến nghị của Kraljic là bảo đảm nguồn hàng kể cả với giá cao hơn. Ở ô Chiến lược, quan hệ kéo dài nhiều năm nên năng lực dịch vụ và sức khoẻ tài chính của nhà cung cấp nặng ngang chất lượng. Ở ô Thông thường, chi phí của chính việc đánh giá có thể lớn hơn lợi ích; ba tiêu chí giá, giao hàng và chất lượng là đủ, chấm một lần mỗi năm.
+
+## Ví dụ: cùng ba nhà cung cấp, hai bảng chấm, hai kết quả
+
+:::example Gói thang máy cho ba toà chung cư của một chủ đầu tư. Nhà cung cấp, giá và điểm đều là giả định
+Chủ đầu tư cần chọn nhà cung cấp thang máy cho ba toà chung cư. Món hàng được xếp vào ô Chiến lược: chiếm tỷ trọng lớn trong chi phí thiết bị, ảnh hưởng trực tiếp đến trải nghiệm cư dân, và chỉ có ít nhà cung cấp có đội lắp đặt, bảo trì tại địa phương.
+
+Ba nhà cung cấp A, B, C chào giá lần lượt 19,2; 16,8 và 15,0 tỷ đồng. Chi phí bảo trì và phụ tùng 15 năm theo báo giá lần lượt 4,8; 7,8 và 9,6 tỷ đồng. Tổng chi phí sở hữu lần lượt 24,0; 24,6 và 24,6 tỷ đồng.
+
+Quy ước tính: tổng chi phí sở hữu là giá chào cộng chi phí bảo trì 15 năm theo giá danh nghĩa, chưa chiết khấu, chưa tính thuế. Điểm chi phí bằng 5 nhân với tỷ số giữa chi phí thấp nhất và chi phí của nhà cung cấp. Các điểm khác chấm theo thang 1–5 có mô tả mức. Tổng điểm quy về thang 100 bằng cách lấy tổng (trọng số × điểm) chia cho 5.
 :::
 
-Doanh nghiệp nào cũng có "hộp giấy" và "sơn ta" của riêng mình. Điều đáng hỏi là thời gian dành cho việc **đánh giá nhà cung cấp đang rơi vào nhóm hàng nào** — nhóm dễ thay, hay nhóm không thể thiếu.
+| Tiêu chí | Trọng số bảng chung | Trọng số ô Chiến lược | A | B | C |
+|---|---|---|---|---|---|
+| Chất lượng kỹ thuật | 20 | 25 | 4,5 | 4,0 | 3,5 |
+| Chi phí: bảng chung dùng giá chào | 50 | | 3,91 | 4,46 | 5,00 |
+| Chi phí: ô Chiến lược dùng tổng chi phí sở hữu | | 20 | 5,00 | 4,88 | 4,88 |
+| Giao hàng, tiến độ lắp đặt | 15 | 10 | 4,0 | 4,0 | 4,0 |
+| Năng lực dịch vụ, bảo trì | 5 | 25 | 4,5 | 3,5 | 2,0 |
+| Sức khoẻ tài chính | 5 | 10 | 4,0 | 4,0 | 3,0 |
+| Tuân thủ, an toàn | 5 | 10 | 4,0 | 4,0 | 3,0 |
+| **Tổng điểm bảng chung** | | | 81,6 | 84,1 | 84,0 |
+| **Tổng điểm ô Chiến lược** | | | 89,0 | 81,0 | loại |
 
-## Ma trận Kraljic: bốn ô hàng, bốn cách giao thiệp
+Bảng chung, với giá chiếm một nửa trọng số, xếp A cuối và để B, C gần như hoà. Nếu nhóm mua hàng nghiêng về giá thấp nhất, C sẽ được chọn. Nhưng C không có đội bảo trì thường trực tại địa phương, trượt ngưỡng năng lực dịch vụ tối thiểu của ô Chiến lược và bị loại trước khi chấm. Với trọng số của ô Chiến lược và chi phí tính theo vòng đời, A dẫn B tám điểm.
 
-:::model matrix | Ma trận danh mục mua hàng | Peter Kraljic, Harvard Business Review (1983)
-x: Rủi ro cung ứng thấp | Rủi ro cung ứng cao
-y: Ảnh hưởng lợi nhuận thấp | Ảnh hưởng lợi nhuận cao
-- Đòn bẩy | Chi phí lớn, người bán nhiều: so sánh, đấu thầu và mặc cả ở đây là đúng việc.
-- Chiến lược | Quyết định chất lượng và khó thay thế: cần quan hệ lâu dài, cùng nhau lên kế hoạch.
-- Thông thường | Giá trị nhỏ, dễ mua: làm gọn quy trình, đừng để nó chiếm thời gian của người quyết định.
-- Nút thắt | Giá trị không lớn nhưng ít nơi có: giữ hàng dự phòng và sớm tìm nguồn thứ hai.
-:::
+Ví dụ này cần được thử thách, vì kết luận có thể đến từ một giả định yếu. Hai phép thử:
 
-Luận điểm của Kraljic giản dị mà sắc: mua hàng không nên có một chính sách chung cho mọi thứ. Mỗi ô đòi một cách quản lý riêng, bởi **rủi ro và giá trị hiếm khi đi cùng nhau**.
+**Giả định về chi phí bảo trì.** Giả sử A chỉ cam kết giá bảo trì trong 5 năm đầu, từ năm thứ 6 giá ngang B. Chi phí bảo trì 15 năm của A tăng lên khoảng 6,8 tỷ, tổng chi phí sở hữu thành 26,0 tỷ, cao nhất trong ba bên. A vẫn dẫn, 87,9 điểm so với 81,5. Như vậy lợi thế của A không nằm ở chi phí mà ở điểm năng lực dịch vụ.
 
-- Trục dọc hỏi món hàng ấy chạm đến chất lượng và lợi nhuận cuối cùng sâu đến đâu.
-- Trục ngang hỏi một điều thực tế hơn: nếu nhà cung ứng này dừng, mất bao lâu mới có người thay?
-- Lỗi quen thuộc của thương hiệu mới, cũng là lỗi của cậu Trống, là dồn sức vào ô "Thông thường" mà bỏ quên ô "Nút thắt" và "Chiến lược".
+**Điểm mà quyết định phụ thuộc vào.** Mỗi bậc điểm năng lực dịch vụ có giá trị 5 điểm trên thang 100 ở ô Chiến lược. Nếu kiểm tra thực tế cho thấy B ngang A về dịch vụ (4,5 thay vì 3,5), khoảng cách còn 3,0 điểm trong kịch bản gốc và 1,4 điểm trong kịch bản bảo trì bất lợi. Chủ đầu tư vì thế nên dồn công sức kiểm chứng vào đúng một tiêu chí: năng lực bảo trì thực tế của A và B, qua thăm công trình đang vận hành và phỏng vấn ban quản lý toà nhà tham chiếu. Đồng thời nên đàm phán khoá giá bảo trì hoặc trần tăng giá cho cả 15 năm, vì điều khoản đó làm giả định chi phí bớt phụ thuộc vào thiện chí của nhà cung cấp.
 
-## Tiêu chí đánh giá nhà cung cấp đổi trọng số theo từng ô
+Clairmont đề xuất một quy ước: khi chênh lệch tổng điểm dưới 3 trên thang 100, coi hai nhà cung cấp là ngang nhau về mặt bảng chấm, và quyết định bằng điều khoản hợp đồng, kết quả lô thử hoặc chia tỷ trọng, thay vì tin vào phần thập phân.
 
-:::compare Đánh giá chung một kiểu | Đánh giá theo ô Kraljic
-- Mọi nhà cung ứng chấm trên cùng một bảng, giá luôn nặng nhất || Ô Đòn bẩy nặng về giá; ô Chiến lược nặng về năng lực, sự minh bạch và độ ổn định.
-- Đổi nhà cung ứng ngay khi xuất hiện báo giá rẻ hơn || Ở ô Chiến lược và Nút thắt, chỉ đổi khi người thay thế đã được kiểm chứng.
-- Chỉ gặp nhà cung ứng khi có lỗi || Gặp định kỳ đối tác ô Chiến lược để cùng xem kế hoạch mùa tới.
-:::
+## Quy trình đánh giá nhà cung cấp
 
-Bản thân các tiêu chí không có gì mới: năng lực sản xuất hàng loạt chứ không chỉ làm mẫu đẹp, cách kiểm soát chất lượng, độ tin cậy về tiến độ, sự minh bạch về nguồn gốc. Điều thay đổi là **trọng số** của từng tiêu chí ở mỗi ô. Như người buôn bán phố cũ, ai cũng biết hỏi giá, nhưng chỉ người lâu năm mới biết mối hàng nào phải giữ bằng chữ tín.
+1. **Phân loại danh mục hàng mua theo Kraljic.** Liệt kê các món mua, giá trị mua 12 tháng, số nhà cung cấp đủ năng lực, thời gian cần để thay thế. Ghi lý do xếp ô và người xếp.
+2. **Chốt tiêu chí, ngưỡng loại và trọng số cho từng ô trước khi nhận báo giá.** Lưu biên bản phê duyệt trọng số. Đây là biện pháp chính chống việc điều chỉnh trọng số để hợp thức hoá lựa chọn có sẵn.
+3. **Thu bằng chứng theo từng tiêu chí.** Thử mẫu, lô thử, thăm xưởng hoặc công trình tham chiếu cho ô Chiến lược và Nút thắt; hồ sơ giấy tờ là đủ cho ô Thông thường.
+4. **Xét ngưỡng loại, rồi chấm điểm.** Hai người chấm độc lập cho các tiêu chí định tính; chênh nhau quá một bậc thì phải thảo luận và ghi lý do.
+5. **Phân tích độ nhạy.** Thử thay đổi trọng số của tiêu chí nặng nhất và giả định chi phí lớn nhất. Nếu thứ hạng đổi, tìm tiêu chí mà quyết định phụ thuộc vào và kiểm chứng thêm.
+6. **Đánh giá định kỳ theo ô.** Gợi ý tần suất: ô Chiến lược và Nút thắt mỗi quý, kèm họp kế hoạch chung với nhà cung cấp chiến lược; ô Đòn bẩy mỗi kỳ đàm phán; ô Thông thường mỗi năm. Chỉ số cốt lõi: tỷ lệ giao đúng hạn và đủ số lượng, tỷ lệ lỗi, thời gian xử lý sự cố.
 
-:::example Ví dụ giả định — thương hiệu quà tặng mới
-Một thương hiệu quà tặng mới mua bốn thứ: thùng carton vận chuyển, giấy in tờ giới thiệu, hộp quà in ép kim, và một loại nguyên liệu chính chỉ vài nơi làm đạt chuẩn.
+Kiểm soát chất lượng sau khi đã chọn nhà cung cấp, đặc biệt với đối tác gia công, được bàn trong bài [kiểm soát chất lượng gia công](/goc-nhin/kiem-soat-chat-luong-gia-cong/). Câu hỏi đứng trước việc chọn nhà cung cấp, tức có nên tự làm khâu đó hay không, được phân tích trong bài [tích hợp chuỗi giá trị](/goc-nhin/tich-hop-chuoi-gia-tri/). Bức tranh chung về các khâu tạo giá trị nằm ở bài [chuỗi giá trị là gì](/goc-nhin/chuoi-gia-tri-la-gi/).
 
-Thùng carton và giấy in thuộc ô Thông thường: chọn một nơi ổn định, đặt hàng theo kỳ rồi thôi bận tâm. Hộp quà nằm ở ô Đòn bẩy nếu nhiều xưởng in cùng làm được, nên đáng để so sánh kỹ. Nguyên liệu chính là ô Chiến lược: thương hiệu nên đến tận nơi, thống nhất mẫu đối chứng và cùng lập kế hoạch sản lượng cho cả năm.
-:::
+## Rủi ro thường gặp khi chấm nhà cung cấp
 
-## Áp dụng: sắp lại danh mục mua hàng
+- **Trọng số được chốt sau khi xem báo giá.** Bảng chấm khi đó chỉ ghi lại một quyết định đã có.
+- **Chấm giá bằng giá mua.** Bỏ qua chi phí lỗi, bảo trì, lưu kho; sai lệch lớn nhất ở thiết bị và vật tư có vòng đời dài.
+- **Một nguồn duy nhất cho món ở ô Nút thắt.** Điểm cao không thay được nguồn dự phòng đã thử.
+- **Đánh giá kỹ ô Thông thường, sơ sài ô Chiến lược.** Thời gian của người quyết định bị phân bổ ngược với giá trị.
+- **Không đánh giá lại.** Một món có thể đổi ô khi có nhà cung cấp mới, khi sản phẩm thay đổi thiết kế, hoặc khi doanh nghiệp lớn lên và đổi vị thế đàm phán.
 
-:::steps Bốn bước sắp nhà cung ứng vào ma trận
-- Liệt kê mọi thứ đang mua | Từ nguyên liệu chính đến tem nhãn và vận chuyển, ghi kèm chi phí của từng món trong năm.
-- Chấm điểm hai trục | Mỗi món chấm ảnh hưởng lợi nhuận và rủi ro cung ứng từ 1 đến 5, luôn kèm lý do.
-- Định cách làm cho từng ô | Ô nào mặc cả, ô nào làm gọn, ô nào cần nguồn dự phòng, ô nào cần quan hệ lâu dài.
-- Xem lại mỗi mùa | Một món có thể đổi ô khi thị trường đổi, khi có thêm nhà cung ứng, hoặc khi chính sản phẩm thay đổi.
-:::
+Khi doanh nghiệp cần dựng lại cách chọn và quản lý nhà cung cấp, Clairmont thực hiện trong khuôn khổ dịch vụ [phát triển chuỗi giá trị](/dich-vu/phat-trien-chuoi-gia-tri/), với các đầu ra: bản phân loại danh mục hàng mua theo ma trận Kraljic có ghi lý do, bộ tiêu chí, ngưỡng loại và trọng số cho từng nhóm hàng, mẫu bảng chấm có mô tả mức, và quy trình đánh giá định kỳ.
 
-Ma trận chỉ mở đầu câu chuyện. Bức tranh rộng hơn về toàn bộ chuỗi làm ra sản phẩm nằm ở bài [chuỗi giá trị là gì](/goc-nhin/chuoi-gia-tri-la-gi/), và một trường hợp cụ thể, từ nương đồi đến quầy kệ, ở bài [chuỗi giá trị cà phê từ vùng trồng đến kệ hàng](/goc-nhin/chuoi-gia-tri-ca-phe-tu-vung-trong-den-ke-hang/).
+## Nguồn tham khảo
 
-:::principle
-Mặc cả nơi có nhiều lựa chọn. Giữ chữ tín nơi chỉ có một.
-:::
+- Kraljic, P. (1983). "Purchasing Must Become Supply Management". *Harvard Business Review*, September–October 1983.
+- Dickson, G. W. (1966). "An Analysis of Vendor Selection Systems and Decisions". *Journal of Purchasing*, 2(1), 5–17.
+- Weber, C. A., Current, J. R. & Benton, W. C. (1991). "Vendor Selection Criteria and Methods". *European Journal of Operational Research*, 50(1), 2–18.
+- Ellram, L. M. (1995). "Total Cost of Ownership: An Analysis Approach for Purchasing". *International Journal of Physical Distribution & Logistics Management*, 25(8), 4–23.
+- Steele, P. T. & Court, B. H. (1996). *Profitable Purchasing Strategies*. McGraw-Hill.
+- Dubois, A. & Pedersen, A.-C. (2002). "Why Relationships Do Not Fit into Purchasing Portfolio Models: A Comparison between the Portfolio and Industrial Network Approaches". *European Journal of Purchasing & Supply Management*, 8(1), 35–42.
+- Gelderman, C. J. & van Weele, A. J. (2003). "Handling Measurement Issues and Strategic Directions in Kraljic's Purchasing Portfolio Model". *Journal of Purchasing and Supply Management*, 9(5–6), 207–216.
+- ISO 9001:2015 *Quality management systems: Requirements*, điều 8.4 Kiểm soát quá trình, sản phẩm và dịch vụ do bên ngoài cung cấp.
+- Luật Đấu thầu số 22/2023/QH15, hiệu lực từ 01/01/2024; Văn bản hợp nhất số 74/VBHN-VPQH ngày 25/3/2026 (hợp nhất các luật sửa đổi, bổ sung, gồm Luật số 57/2024/QH15 và Luật số 90/2025/QH15).
 
-:::exercise
-Viết ra ba món doanh nghiệp đang chi nhiều tiền nhất, và một món mà nếu thiếu thì sản xuất dừng lại. Với món cuối cùng ấy, lần gần nhất người lãnh đạo ngồi trò chuyện với nhà cung ứng là khi nào?
-:::
-
-:::quote
-言必信，行必果
-Ngôn tất tín, hành tất quả
-Nói phải giữ lời, làm phải đến nơi.
-Luận Ngữ · Tử Lộ
-:::
-
-Clairmont đồng hành cùng doanh nghiệp xây chuỗi đối tác và chuẩn hoá cách phối hợp giữa các bên — xem [phát triển chuỗi giá trị](/dich-vu/phat-trien-chuoi-gia-tri/).
+Bộ trọng số theo ô, cách tách ngưỡng loại và điểm, quy ước chênh lệch dưới 3 điểm, tần suất đánh giá định kỳ, ví dụ thang máy và mọi số liệu trong ví dụ là đề xuất và giả định phân tích của Clairmont, không phải trích dẫn từ các nguồn trên và không mô tả nhà cung cấp có thật.
 
 ## Câu hỏi thường gặp
 
+### Tiêu chí đánh giá nhà cung cấp gồm những gì?
+
+Thường gồm sáu nhóm: chất lượng, chi phí tính theo tổng chi phí sở hữu, giao hàng, năng lực kỹ thuật và dịch vụ, sức khoẻ tài chính, tuân thủ và rủi ro. Một số tiêu chí như tư cách pháp lý, an toàn hay mẫu đạt thông số nên là ngưỡng loại, xét trước khi chấm điểm các tiêu chí còn lại.
+
+### Trọng số các tiêu chí nên đặt thế nào?
+
+Trọng số nên suy ra từ vị trí món hàng trên ma trận Kraljic. Hàng nhiều người bán và chiếm tỷ trọng chi phí lớn thì nặng về giá; hàng khó thay thế thì nặng về giao hàng và năng lực đáp ứng; hàng vừa quan trọng vừa ít nguồn thì nặng về năng lực dịch vụ và sức khoẻ tài chính. Trọng số cần được chốt trước khi mở báo giá.
+
 ### Ma trận Kraljic có dùng được cho doanh nghiệp nhỏ không?
 
-Được, và có lẽ càng hữu ích. Doanh nghiệp nhỏ mua ít món hơn nên việc sắp vào bốn ô nhanh gọn, trong khi thời gian của chủ doanh nghiệp lại eo hẹp nhất. Ma trận cho biết nên dành quỹ thời gian ấy cho nhà cung ứng nào.
+Dùng được, và thường nhanh hơn vì danh mục hàng mua ngắn. Giá trị lớn nhất với doanh nghiệp nhỏ là chỉ ra một vài món ở ô Nút thắt và Chiến lược, nơi người chủ cần dành thời gian xây quan hệ và nguồn dự phòng. Cần nhớ ma trận chỉ nhìn từ phía người mua; với nhà cung cấp lớn, doanh nghiệp nhỏ có thể không phải khách hàng được ưu tiên.
 
-### Nên có bao nhiêu nhà cung ứng cho một món hàng?
+### Giá có nên là tiêu chí nặng nhất không?
 
-Không có con số chung. Ở ô Nút thắt, nên có ít nhất một nguồn dự phòng đã được thử. Ở ô Chiến lược, doanh nghiệp thường tập trung vào một đối tác chính để xây quan hệ sâu, kèm một kế hoạch phòng khi có biến.
+Chỉ ở ô Đòn bẩy và ô Thông thường. Ở các ô còn lại, chi phí vẫn cần được chấm nhưng nên tính theo tổng chi phí sở hữu, gồm bảo trì, lỗi, giao trễ và lưu kho. Với thiết bị dùng nhiều năm, chi phí sau khi mua có thể đảo ngược thứ hạng so với giá chào.
 
-### Giá có còn là tiêu chí đánh giá nhà cung cấp không?
+### Bao lâu nên đánh giá lại nhà cung cấp?
 
-Vẫn là một tiêu chí, nhưng không phải lúc nào cũng nặng nhất. Thước đo đáng tin hơn là tổng chi phí để có hàng đúng chuẩn, đúng hạn — gồm cả hàng lỗi, giao trễ và thời gian kiểm tra lại.
+Theo mức rủi ro của nhóm hàng. Gợi ý: nhà cung cấp ở ô Chiến lược và Nút thắt mỗi quý, ô Đòn bẩy mỗi kỳ đàm phán, ô Thông thường mỗi năm. Ngoài lịch định kỳ, nên đánh giá lại ngay sau một sự cố lớn về chất lượng hoặc giao hàng, hoặc khi thị trường cung thay đổi rõ rệt.
