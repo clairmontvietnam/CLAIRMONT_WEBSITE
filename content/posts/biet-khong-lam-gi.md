@@ -1,106 +1,134 @@
 ---
 slug: biet-khong-lam-gi
-title: Chiến lược là lựa chọn: điều không làm và khung ERRC
-h1: Chiến lược là lựa chọn: điều doanh nghiệp trẻ dám buông tay
-description: Chiến lược là lựa chọn, và lựa chọn khó nhất là điều sẽ không làm. Khung ERRC giúp doanh nghiệp trẻ quyết định điều cần bỏ, cần giảm, cần tăng và cần tạo.
-keywords: chiến lược là lựa chọn, khung ERRC, chiến lược đại dương xanh, chiến lược là chọn điều không làm, Michael Porter, đánh đổi chiến lược
-summary: Doanh nghiệp trẻ ít khi thiếu cơ hội. Điều họ thiếu là một danh sách rõ những gì sẽ bỏ — và lý do để bỏ.
+title: Đánh đổi chiến lược: khi nào nên dừng một mảng kinh doanh
+h1: Đánh đổi chiến lược trong doanh nghiệp đa ngành: viết tiêu chí thoái lui ngay khi mở mảng mới
+description: Đánh đổi chiến lược ở doanh nghiệp đa ngành: vì sao tiêu chí thoái lui phải viết khi mở mảng, bốn ngưỡng xem xét dừng và phản biện mạnh nhất.
+keywords: đánh đổi chiến lược, tiêu chí thoái lui, thoái vốn mảng kinh doanh, doanh nghiệp đa ngành, chiến lược là chọn điều không làm, khung ERRC
+summary: Quyết định dừng một mảng nên được viết sẵn từ ngày mở mảng đó. Khi tiêu chí bị chạm, bên muốn giữ phải chứng minh.
 date: 2026-10-29
 category: Góc nhìn Nhà sáng lập
 author: Clairmont Group
 ---
 
-:::hook
-Với doanh nghiệp trẻ, cơ hội hiếm khi khan hiếm; khan hiếm là sự tập trung. Chiến lược là lựa chọn, và lựa chọn khó nhất bao giờ cũng là **điều mình quyết định không làm**.
-:::
+Đánh đổi chiến lược ở doanh nghiệp đa ngành khó nhất ở chỗ dừng một mảng đang chạy, không phải ở chỗ từ chối một cơ hội mới. Lập trường của Clairmont: chủ đầu tư và tập đoàn nhiều mảng nên viết tiêu chí thoái lui cho mỗi mảng ngay khi mở mảng đó, và khi tiêu chí bị chạm, gánh nặng chứng minh chuyển sang phía muốn giữ. Bài trụ cột [chiến lược doanh nghiệp là gì](/goc-nhin/chien-luoc-doanh-nghiep-la-gi/) đã nêu đánh đổi là một phép thử của chiến lược; bài này bàn cách thực hiện đánh đổi đó khi đối tượng là cả một mảng kinh doanh.
 
 :::takeaways
-- Nguồn lực khan hiếm nhất của doanh nghiệp trẻ là sự tập trung.
-- Khung ERRC buộc doanh nghiệp viết ra điều sẽ bỏ, giảm, tăng và tạo mới.
-- Một lời "không" chiến lược luôn có lý do, và có thời hạn để xem lại.
+- Quyết định dừng một mảng thường đến muộn vì chi phí đã bỏ ra và vì người đề xuất mở mảng cũng là người đánh giá nó. Tiêu chí viết trước giảm hai lực kéo này.
+- Bốn tiêu chí Clairmont đề xuất: hiệu quả vốn, giá trị khi giữ so với giá chào mua, giá trị liên kết với mảng khác, và thời gian lãnh đạo tiêu tốn. Chạm hai trên bốn là phải đưa ra Hội đồng quản trị xem xét.
+- Mảng lỗ chưa chắc là mảng nên bán trước. Mảng có lãi nhưng người khác sở hữu tốt hơn có thể là ứng viên rõ hơn.
+- Tiêu chí kích hoạt việc xem xét, không tự động ra quyết định bán. Ở thị trường có chu kỳ như bất động sản, thời điểm thoái lui quan trọng ngang quyết định thoái lui.
 :::
 
-:::story ong-tu | Sạp dưa chỉ bán một thứ
-Hai mươi năm nay, sạp của Ông Tư ở góc chợ sớm chỉ bán dưa hấu. Những quả dưa vỏ xanh thẫm xếp thành ụ dưới mái bạt, sáng nào cũng còn vương hơi sương. Người trong phố khuyên ông bán thêm xoài, cam, làm thêm nước ép cho "đủ mùa đủ vụ"; năm nào cũng có người hỏi.
+## Đánh đổi chiến lược khó nhất: vì sao quyết định dừng thường đến muộn
 
-Ông Tư lắc đầu: *"Tôi chỉ dám nói không đỏ không lấy tiền với quả dưa. Bán xoài thì tôi lấy gì mà hứa?"* Ông bỏ hẳn chuyện mặc cả, bớt hẳn số loại dưa nhập về, nhưng tăng công chọn từng quả, gõ từng quả nghe tiếng.
+Hai cơ chế được nghiên cứu kỹ. Staw (1976) mô tả hiện tượng leo thang cam kết: người đã ra quyết định đầu tư có xu hướng bỏ thêm nguồn lực vào chính quyết định đó khi kết quả xấu, để biện minh cho lựa chọn ban đầu. Arkes và Blumer (1985) cho thấy chi phí chìm, phần đã chi không lấy lại được, vẫn chi phối quyết định tiếp tục dù về lý thuyết không nên.
 
-Rồi ông thêm một việc không sạp nào làm: ghi tên khách quen, đến mùa dưa ngon thì báo trước. Sạp không lớn thêm, nhưng cứ đến mùa, cả phố lại nghĩ tới ông.
+Ở doanh nghiệp đa ngành, hai cơ chế này mạnh hơn vì người mở mảng thường là thành viên Hội đồng quản trị hoặc chủ sở hữu, và mảng đó gắn với uy tín cá nhân. Bằng chứng ở quy mô lớn cũng không ủng hộ việc giữ mọi mảng: Porter (1987) khảo sát 33 tập đoàn lớn của Mỹ và thấy họ bán lại hơn một nửa số thương vụ mua vào ngành mới, tỷ lệ bình quân 74% với các thương vụ không liên quan. Dranikoff, Koller và Schneider (2002) cho rằng phần lớn doanh nghiệp thoái vốn một cách bị động, sau khi áp lực đã xuất hiện, thay vì coi thoái vốn là một công cụ chiến lược thường xuyên.
+
+Peter Drucker (1999) đề xuất một câu hỏi định kỳ cho mọi sản phẩm và hoạt động: nếu hôm nay chưa làm việc này, với hiểu biết hiện có, doanh nghiệp có bắt đầu làm nó không. Câu hỏi đúng hướng, nhưng thiếu ngưỡng. Không có ngưỡng, câu trả lời phụ thuộc vào người trả lời.
+
+## Bốn tiêu chí thoái lui đề xuất
+
+Các ngưỡng dưới đây là quy ước đề xuất của Clairmont, cần điều chỉnh theo ngành và cấu trúc vốn của từng doanh nghiệp.
+
+| Tiêu chí | Câu hỏi | Ngưỡng chạm (đề xuất) |
+|---|---|---|
+| 1. Hiệu quả vốn | Mảng có tạo ra lợi nhuận trên vốn sử dụng (ROIC) cao hơn chi phí vốn không? | ROIC thấp hơn chi phí vốn bình quân (WACC) trong ba năm liên tiếp, và không có kế hoạch đáng tin để đóng khoảng cách trong 24 tháng |
+| 2. Người sở hữu tốt hơn | Một chủ sở hữu khác có tạo ra nhiều giá trị hơn từ mảng này không? | Giá chào mua tốt nhất cao hơn giá trị khi giữ từ 15% trở lên, sau chi phí giao dịch |
+| 3. Giá trị liên kết | Mảng này đóng góp bao nhiêu cho các mảng khác? | Giá trị liên kết dưới 20% giá trị khi giữ của mảng |
+| 4. Chi phí chú ý | Mảng tiêu tốn bao nhiêu thời gian lãnh đạo cấp cao so với quy mô của nó? | Tỷ trọng thời gian lãnh đạo gấp từ 2 lần tỷ trọng vốn sử dụng trở lên |
+
+Tiêu chí 2 dựa trên khái niệm lợi thế của công ty mẹ của Goold, Campbell và Alexander (1994): tập đoàn chỉ nên giữ một mảng khi nó quản lý mảng đó tốt hơn các chủ sở hữu khác. Tiêu chí 4 thường bị bỏ qua vì thời gian lãnh đạo không xuất hiện trên báo cáo tài chính, dù đó là nguồn lực khan hiếm nhất của tập đoàn quy mô vừa.
+
+Quy tắc áp dụng: chạm từ hai tiêu chí trở lên thì mảng được đưa ra Hội đồng quản trị xem xét thoái lui, và bên đề xuất giữ phải trình bày lý do bằng số liệu. Chạm một tiêu chí thì ghi nhận và theo dõi.
+
+## Áp dụng trên một chủ đầu tư ba mảng
+
+:::example Chủ đầu tư có ba mảng: nhà ở thấp tầng, khách sạn trong khu đô thị đang phát triển, vật liệu xây dựng. Doanh nghiệp và mọi số liệu là giả định
+Vốn sử dụng (tỷ đồng): nhà ở 2.000, khách sạn 600, vật liệu 400. Lợi nhuận hoạt động sau thuế: 300, 18 và 56, tức ROIC lần lượt 15%, 3% và 14%. WACC của tập đoàn 12%. Tỷ trọng thời gian lãnh đạo cấp cao: 45%, 25% và 30%.
+
+Mảng vật liệu: dòng tiền tự do ổn định 45 tỷ/năm, tăng 2,5%/năm; 30% sản lượng bán cho dự án của tập đoàn, theo giá thị trường. Một doanh nghiệp vật liệu chuyên ngành chào mua 650 tỷ.
+
+Mảng khách sạn: dòng tiền tự do 12 tỷ/năm, tăng 2%/năm. Khách sạn hỗ trợ giá bán phần nhà ở còn lại trong khu đô thị, ước tính thêm 20 tỷ lợi nhuận mỗi năm trong ba năm tới. Giá chào mua tốt nhất 140 tỷ.
+
+Quy ước tính: giá trị khi giữ bằng dòng tiền năm tới chia cho (WACC trừ tốc độ tăng); giá trị liên kết chiết khấu ở 12%; chưa tính thuế chuyển nhượng và chi phí giao dịch.
 :::
 
-Doanh nghiệp trẻ nào cũng từng nghe lời khuyên "bán thêm cho đủ", và lời khuyên ấy hiếm khi xuất phát từ ý xấu. Câu hỏi then chốt vẫn là: **mình bỏ điều gì để giữ được lời hứa quan trọng nhất?**
+| Tiêu chí | Khách sạn | Vật liệu xây dựng |
+|---|---|---|
+| 1. ROIC so với WACC 12% | 3%: chạm | 14%: không chạm |
+| 2. Giá chào mua so với giá trị khi giữ | 140 so với 168 (120 độc lập + 48 liên kết), thấp hơn 17%: không chạm | 650 so với 474, cao hơn 37%: chạm |
+| 3. Giá trị liên kết trên giá trị khi giữ | 48/168 = 29%: không chạm | Gần 0, vì bán nội bộ theo giá thị trường: chạm |
+| 4. Thời gian lãnh đạo so với tỷ trọng vốn | 25% so với 20% = 1,25 lần: không chạm | 30% so với 13% = 2,25 lần: chạm |
+| Số tiêu chí chạm | 1/4 | 3/4 |
 
-## Bốn ô của một lựa chọn: khung ERRC và chiến lược là lựa chọn
+Nếu chỉ nhìn ROIC, Hội đồng quản trị sẽ bán khách sạn và giữ mảng vật liệu. Bốn tiêu chí cho kết luận ngược lại. Mảng vật liệu có lãi nhưng một chủ sở hữu chuyên ngành định giá nó cao hơn 37% so với giá trị tập đoàn tạo ra, và nó chiếm gần một phần ba thời gian lãnh đạo. Khách sạn lỗ trên vốn nhưng gần 30% giá trị của nó nằm ở việc hỗ trợ mảng nhà ở, và thị trường hiện không trả giá cao hơn giá trị khi giữ.
 
-:::model matrix | Khung ERRC trong Chiến lược đại dương xanh | W. Chan Kim & Renée Mauborgne (2005)
-x: Bớt đi | Thêm vào
-y: Điều chỉnh | Triệt để
-- Loại bỏ | Những yếu tố cả ngành coi là đương nhiên, nhưng khách không thật sự cần đến.
-- Tạo mới | Những yếu tố ngành chưa từng cung cấp mà khách sẽ trân trọng.
-- Giảm | Những yếu tố nên hạ xuống thấp hơn hẳn chuẩn chung của ngành.
-- Tăng | Những yếu tố nên nâng lên cao hơn hẳn chuẩn chung của ngành.
-:::
+Kết luận về khách sạn chỉ đúng trong ba năm. Khi khu đô thị bán hết, giá trị liên kết về gần 0 và khách sạn sẽ chạm tiêu chí 1 và 3. Vì vậy ngày xem xét lại cần được ghi vào nghị quyết ngay bây giờ, cùng phương án thay thế như chuyển sang hợp đồng quản lý với một nhà vận hành chuyên nghiệp.
 
-Kim và Mauborgne đưa ra khung này để doanh nghiệp thoát khỏi lối cạnh tranh bằng cách "làm nhiều hơn đối thủ". Hai ô bên trái là nơi giải phóng nguồn lực; hai ô bên phải là nơi dồn nguồn lực ấy vào.
+## Sau khi dừng: nguồn lực đi đâu
 
-- Phần lớn doanh nghiệp chỉ điền ô Tăng và Tạo mới. Thiếu hai ô bên trái, chiến lược trở thành một danh sách mong muốn đắt đỏ.
-- Ô Loại bỏ khó nhất, vì nó đòi hỏi dũng khí đi ngược thói quen của cả ngành.
-- Michael Porter từng nói gọn điều này: bản chất của chiến lược là chọn những gì không làm.
+Nửa còn lại của đánh đổi là nguồn lực được giải phóng đi đâu. Ở cấp đơn vị kinh doanh, khung ERRC của Kim và Mauborgne (2005) giúp trả lời câu hỏi này bằng lưới bốn hành động trên các yếu tố cạnh tranh của ngành:
 
-## Những ô "bớt đi" của Clairmont
+| Loại bỏ | Tăng |
+|---|---|
+| Yếu tố nào ngành coi là đương nhiên nhưng nên bỏ? | Yếu tố nào nên nâng cao hơn hẳn chuẩn ngành? |
+| **Giảm** | **Tạo mới** |
+| Yếu tố nào nên hạ thấp hơn hẳn chuẩn ngành? | Yếu tố nào ngành chưa từng cung cấp nên được tạo ra? |
 
-:::compare Nắm mọi cơ hội | Chọn điều không làm
-- Nhận cả tư vấn tài chính, pháp lý, môi giới mỗi khi khách hỏi || Clairmont chỉ làm tư vấn chiến lược và kinh doanh; phần chuyên môn khác dành cho đơn vị chuyên trách.
-- Hứa trước con số kết quả để hợp đồng dễ ký || Cam kết về cách làm: nghiên cứu kỹ, lập luận rõ, đồng hành, đánh giá trung thực.
-- Ra mắt mọi thương hiệu cùng lúc cho nhanh || FLEUR ra mắt trước tại Hà Nội ngày 29/11/2026; KỂ và MỜI theo kế hoạch năm 2027.
-:::
+ERRC được thiết kế cho cấp đơn vị kinh doanh, để vẽ lại đường giá trị so với đối thủ, không phải để chọn danh mục ngành. Nó cũng mang một giả định khác Porter (1996): Kim và Mauborgne cho rằng doanh nghiệp có thể đồng thời giảm chi phí và tăng khác biệt, trong khi Porter coi đánh đổi giữa các vị thế là bản chất của chiến lược. Dùng ERRC sau khi đã quyết định danh mục thì không mâu thuẫn; dùng nó để né quyết định danh mục thì có.
 
-Nguyên tắc chúng tôi theo đuổi gói trong mấy chữ: "Không làm mọi thứ. Chỉ làm điều đúng. Làm đúng cách. Đúng lúc." Chọn thứ tự ra mắt cũng là một cách nói không — chưa làm ngay, để làm cho tới nơi điều đang làm.
+## Phản biện mạnh nhất
 
-:::example Một xưởng nội thất nhỏ
-Xưởng quyết định trong hai năm tới chỉ làm đồ gỗ đặt riêng cho nhà ở. Theo ERRC: loại bỏ công trình thương mại số lượng lớn, giảm số mẫu có sẵn, tăng thời gian tư vấn cho từng gia đình, tạo mới dịch vụ bảo dưỡng đồ gỗ định kỳ.
+Phản biện mạnh nhất đến từ hai hướng, và cả hai đều có cơ sở.
 
-Khi một chuỗi nhà hàng ngỏ ý đặt hàng trăm bộ bàn ghế, câu trả lời không cần bàn lâu. Đơn hàng hấp dẫn thật, nhưng nó sẽ kéo xưởng sang một mô hình sản xuất khác hẳn.
-:::
+**Ở thị trường mới nổi, đa ngành có lý do riêng.** Khanna và Palepu (1997) lập luận rằng ở các nền kinh tế thiếu thể chế thị trường (thị trường vốn, lao động, thông tin còn mỏng), tập đoàn đa ngành có thể thay thế các thể chế đó: huy động vốn nội bộ, đào tạo quản lý, bảo lãnh uy tín. Áp tiêu chí thoái lui kiểu thị trường phát triển có thể bỏ mất giá trị này.
 
-## Viết bảng ERRC cho doanh nghiệp
+**Thoái lui sớm có thể là thoái lui sai thời điểm.** Dixit (1989) chỉ ra rằng khi tương lai bất định và việc gia nhập lại tốn kém, chờ đợi trước khi rút lui là hành vi hợp lý, không phải do thiên lệch. Với bất động sản và khách sạn, ba năm ROIC thấp có thể chỉ là đáy chu kỳ, và giá chào mua ở đáy chu kỳ thường thấp.
 
-:::steps Bốn bước viết bảng ERRC của riêng mình
-- Liệt kê yếu tố cạnh tranh | Ghi tám đến mười yếu tố mà ngành đang cạnh tranh: giá, số mẫu, tốc độ, dịch vụ đi kèm.
-- Điền hai ô bên trái trước | Viết ít nhất hai điều sẽ loại bỏ hoặc giảm, kèm lý do khách không thật sự cần.
-- Dồn nguồn lực sang phải | Phần nguồn lực vừa giải phóng sẽ được dùng để tăng hay tạo mới điều gì.
-- Gắn thời hạn xem lại | Mỗi lời "không" ghi rõ "trong giai đoạn này, vì…", và được xem lại cùng nhịp đánh giá chiến lược.
-:::
+## Vì sao vẫn giữ lập trường
 
-Để hiểu chiến lược từ gốc rễ, có thể đọc [chiến lược doanh nghiệp là gì](/goc-nhin/chien-luoc-doanh-nghiep-la-gi/). Chọn [bản sắc làm điểm xuất phát của chiến lược](/goc-nhin/ban-sac-diem-xuat-phat-cua-chien-luoc/) cũng là một lời từ chối chạy theo mọi xu hướng.
+Cả hai phản biện đều là lý do để điều chỉnh ngưỡng, không phải để bỏ tiêu chí. Lập luận của Khanna và Palepu chỉ đứng được khi tập đoàn thực sự phân bổ vốn tốt hơn thị trường; tiêu chí 2 và 3 chính là phép đo điều đó. Lập luận của Dixit cho thấy cần phân biệt khó khăn do chu kỳ với khó khăn do cấu trúc; quy tắc "chạm thì xem xét, không chạm thì không bàn" buộc Hội đồng quản trị làm phép phân biệt ấy một cách tường minh, thay vì để quán tính quyết định.
 
-:::principle
-Mỗi lời "có" quan trọng cần một lời "không" đứng phía sau che chắn.
-:::
+Điểm then chốt là thời điểm viết tiêu chí. Viết khi mở mảng, lúc chưa ai gắn uy tín cá nhân vào kết quả, tiêu chí khách quan hơn nhiều so với tiêu chí viết khi mảng đã lỗ.
 
-:::exercise
-Viết ra ba việc doanh nghiệp đang làm chỉ vì "ai cũng làm". Nếu ngày mai buông một việc, khách có thật sự tiếc không?
-:::
+## Khi nào lập trường này sai
 
-:::quote
-知止而後有定
-Tri chỉ nhi hậu hữu định
-Biết chỗ dừng rồi mới có sự vững vàng.
-Đại Học
-:::
+- Khi mảng mang lại quyền tiếp cận không mua được riêng lẻ, như quỹ đất, giấy phép hoặc quan hệ tín dụng gắn với quy mô tập đoàn. Giá trị này cần được định lượng trong tiêu chí 3 thay vì bị bỏ qua.
+- Khi thị trường đang ở đáy chu kỳ và mọi giá chào mua phản ánh áp lực bán. Lúc đó nên giữ quyết định thoái lui nhưng hoãn thời điểm thực hiện.
+- Khi doanh nghiệp chưa đo được ROIC và thời gian lãnh đạo theo từng mảng. Khi đó việc đầu tiên là xây hệ thống đo, xem bài [đo lường hiệu quả chiến lược](/goc-nhin/do-luong-hieu-qua-chien-luoc/).
 
-Khi doanh nghiệp cần một góc nhìn từ bên ngoài để phân định điều nên làm và nên bỏ, có thể tham khảo [tư vấn chiến lược doanh nghiệp](/dich-vu/tu-van-chien-luoc-doanh-nghiep/).
+Câu hỏi ngược lại, có nên mở thêm một mảng hay không, được bàn trong bài [chiến lược tăng trưởng](/goc-nhin/chien-luoc-tang-truong/). Khi Hội đồng quản trị cần rà soát danh mục, dịch vụ [tư vấn chiến lược doanh nghiệp](/dich-vu/tu-van-chien-luoc-doanh-nghiep/) của Clairmont cung cấp bảng đánh giá từng mảng theo bốn tiêu chí, phương án giữ, cải tổ hoặc thoái lui kèm đánh đổi, và bộ tiêu chí thoái lui viết sẵn cho các mảng mới.
+
+## Nguồn tham khảo
+
+- Staw, B. M. (1976). "Knee-deep in the big muddy: A study of escalating commitment to a chosen course of action". *Organizational Behavior and Human Performance*, 16(1), 27–44.
+- Arkes, H. R. & Blumer, C. (1985). "The psychology of sunk cost". *Organizational Behavior and Human Decision Processes*, 35(1), 124–140.
+- Porter, M. E. (1987). "From Competitive Advantage to Corporate Strategy". *Harvard Business Review*, May–June 1987.
+- Dixit, A. (1989). "Entry and Exit Decisions under Uncertainty". *Journal of Political Economy*, 97(3), 620–638.
+- Goold, M., Campbell, A. & Alexander, M. (1994). *Corporate-Level Strategy: Creating Value in the Multibusiness Company*. Wiley.
+- Porter, M. E. (1996). "What Is Strategy?". *Harvard Business Review*, November–December 1996.
+- Khanna, T. & Palepu, K. (1997). "Why Focused Strategies May Be Wrong for Emerging Markets". *Harvard Business Review*, July–August 1997.
+- Drucker, P. F. (1999). *Management Challenges for the 21st Century*. HarperBusiness.
+- Dranikoff, L., Koller, T. & Schneider, A. (2002). "Divestiture: Strategy's Missing Link". *Harvard Business Review*, May 2002.
+- Kim, W. C. & Mauborgne, R. (2005). *Blue Ocean Strategy*. Harvard Business School Press.
+
+Bốn tiêu chí thoái lui, các ngưỡng, quy tắc "chạm hai trên bốn" và tình huống chủ đầu tư ba mảng là đề xuất và giả định phân tích của Clairmont. Quyết định thoái vốn cụ thể cần ý kiến của đơn vị tư vấn tài chính, thuế và pháp lý.
 
 ## Câu hỏi thường gặp
 
-### Làm sao phân biệt lời "không" chiến lược với lời "không" vì ngại?
+### Đánh đổi chiến lược là gì?
 
-Lời "không" chiến lược dựa trên một hướng đi đã chọn và có điều kiện để xem lại. Lời "không" vì ngại thường né một việc khó nhưng đúng hướng, và không giải thích được mình đang bảo vệ điều gì.
+Đánh đổi chiến lược là chấp nhận không làm một số việc để làm tốt những việc đã chọn, vì nguồn lực và vị thế không cho phép theo đuổi mọi hướng cùng lúc. Porter (1996) coi đây là bản chất của chiến lược. Ở doanh nghiệp đa ngành, đánh đổi khó nhất là dừng một mảng đang hoạt động.
 
-### Khung ERRC chỉ dùng cho doanh nghiệp lớn?
+### Khi nào doanh nghiệp nên thoái vốn khỏi một mảng kinh doanh?
 
-Không. Doanh nghiệp nhỏ càng cần, vì nguồn lực ít nên mỗi điều bỏ đi lại giải phóng một phần lớn sự tập trung. Một bảng ERRC hoàn toàn có thể viết xong trong một buổi họp.
+Khi mảng không tạo đủ lợi nhuận trên vốn, khi một chủ sở hữu khác định giá nó cao hơn rõ rệt, khi nó đóng góp ít cho các mảng khác, hoặc khi nó tiêu tốn thời gian lãnh đạo không tương xứng. Chạm từ hai điều kiện trở lên là lúc nên đưa ra Hội đồng quản trị xem xét.
 
-### Đã chọn "không làm" thì có bao giờ đổi lại?
+### Khung ERRC dùng để làm gì?
 
-Có. Lời "không" chiến lược gắn với một giai đoạn. Khi năng lực, thị trường hay khách hàng thay đổi, doanh nghiệp xem lại bảng và có thể chuyển một ô từ trái sang phải.
+ERRC là lưới bốn hành động (Loại bỏ, Giảm, Tăng, Tạo mới) trong Chiến lược đại dương xanh của Kim và Mauborgne (2005). Nó giúp một đơn vị kinh doanh vẽ lại đường giá trị so với đối thủ. Khung này dùng ở cấp đơn vị kinh doanh, không thay thế quyết định về danh mục ngành của tập đoàn.
+
+### Mảng đang lỗ có nên bán ngay không?
+
+Không nhất thiết. Cần tính giá trị liên kết của mảng với các mảng khác và so giá trị khi giữ với giá chào mua thực tế. Một mảng lỗ trên vốn vẫn có thể đáng giữ trong một giai đoạn xác định, miễn là ngày xem xét lại và điều kiện thoái lui được ghi rõ từ trước.
