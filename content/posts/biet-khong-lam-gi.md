@@ -67,7 +67,9 @@ Khung ERRC cũng có giới hạn. Nó đòi hỏi dữ liệu về giá trị k
 - Không có thời hạn xem lại || Mỗi quyết định bỏ hoặc giảm có điều kiện và thời điểm xem lại
 :::
 
-Ở Clairmont, chúng tôi áp dụng cùng nguyên tắc cho chính mình. Clairmont chỉ cung cấp tư vấn chiến lược và kinh doanh, không nhận tư vấn tài chính, pháp lý hay môi giới, và cam kết về phương pháp làm việc thay vì hứa trước con số kết quả. Nguyên tắc chung được tóm gọn: "Không làm mọi thứ. Chỉ làm điều đúng. Làm đúng cách. Đúng lúc."
+Ở Clairmont, chúng tôi chỉ cung cấp tư vấn chiến lược và kinh doanh, không nhận tư vấn tài chính, pháp lý hay môi giới, và cam kết về phương pháp làm việc thay vì hứa trước con số kết quả.
+
+Nguyên tắc chung được tóm gọn: "Không làm mọi thứ. Chỉ làm điều đúng. Làm đúng cách. Đúng lúc."
 
 :::example Ví dụ giả định: xưởng nội thất đặt riêng và một đơn hàng lớn
 Giả sử một xưởng nội thất doanh thu khoảng 12 tỷ đồng mỗi năm, tập trung vào đồ gỗ đặt riêng cho nhà ở với biên lợi nhuận gộp khoảng 35%. Bảng ERRC của xưởng: loại bỏ công trình thương mại số lượng lớn, giảm số mẫu có sẵn, tăng thời gian tư vấn cho từng gia đình, tạo mới dịch vụ bảo dưỡng định kỳ. Mọi số liệu trong ví dụ là giả định.

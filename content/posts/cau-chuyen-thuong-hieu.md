@@ -31,7 +31,9 @@ Sạp dưa của Ông Tư không có biển hiệu, nhưng hai mươi năm nay g
 
 Con trai ông muốn mở bán qua mạng và giao hàng tận nhà, và cần một đoạn giới thiệu cho trang bán hàng. Vấn đề là ở kênh mới, khách bổ dưa tại nhà, ông không có mặt để kiểm tra, và chi phí hoàn tiền hoặc đổi quả cao hơn nhiều so với bán tại sạp.
 
-Gia đình có ba phương án. Giữ nguyên cam kết và xây quy trình đổi trả qua ảnh chụp, chấp nhận chi phí và rủi ro lạm dụng. Viết một đoạn giới thiệu chung chung về "dưa ngon, chọn kỹ", đơn giản hơn nhưng mất điểm khác biệt duy nhất. Hoặc chưa mở kênh mới cho đến khi tìm được cách giữ cam kết.
+Gia đình có ba phương án. Phương án thứ nhất là giữ nguyên cam kết và xây quy trình đổi trả qua ảnh chụp, chấp nhận chi phí và rủi ro lạm dụng.
+
+Phương án thứ hai là viết một đoạn giới thiệu chung chung về "dưa ngon, chọn kỹ", đơn giản hơn nhưng mất điểm khác biệt duy nhất. Phương án thứ ba là chưa mở kênh mới cho đến khi tìm được cách giữ cam kết.
 
 Câu hỏi cần trả lời là: điểm khác biệt nào của sạp có thể được chứng minh ở kênh mới, và với chi phí nào?
 :::

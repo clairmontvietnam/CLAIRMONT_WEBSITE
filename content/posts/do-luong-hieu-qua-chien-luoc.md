@@ -72,7 +72,7 @@ Thẻ điểm cân bằng và OKR thường được so sánh với nhau. OKR c�
 :::example Ví dụ giả định: chuỗi cửa hàng quà tặng tập trung vào khách doanh nghiệp
 Giả sử một chuỗi cửa hàng quà tặng quyết định tập trung vào khách doanh nghiệp đặt hàng trước cho các dịp lễ, thay vì cạnh tranh ở bán lẻ hằng ngày. Chiến lược được rút thành một lựa chọn chính: trở thành nhà cung cấp quà tặng doanh nghiệp được đặt lại hằng năm.
 
-**Tài chính (kết quả):** tỷ trọng doanh thu từ đơn đặt trước trên tổng doanh thu. **Khách hàng (kết quả):** tỷ lệ khách doanh nghiệp đặt lại trong vòng mười hai tháng. **Quy trình (dẫn dắt):** tỷ lệ đơn giao đúng hẹn và đúng quy cách, thời gian phản hồi báo giá. **Học hỏi và phát triển (dẫn dắt):** tỷ lệ nhân viên kinh doanh đã qua đào tạo tư vấn quà tặng doanh nghiệp.
+Bộ chỉ số gồm: **tài chính (kết quả)** là tỷ trọng doanh thu từ đơn đặt trước; **khách hàng (kết quả)** là tỷ lệ khách doanh nghiệp đặt lại trong vòng mười hai tháng; **quy trình (dẫn dắt)** là tỷ lệ đơn giao đúng hẹn, đúng quy cách và thời gian phản hồi báo giá; **học hỏi và phát triển (dẫn dắt)** là tỷ lệ nhân viên kinh doanh đã qua đào tạo tư vấn quà tặng doanh nghiệp.
 
 Giả thuyết đằng sau bộ chỉ số là: tư vấn tốt và giao hàng đúng hẹn làm tăng tỷ lệ đặt lại, từ đó tăng tỷ trọng doanh thu đặt trước. Giả thuyết này chỉ được xem là đúng nếu sau hai mùa lễ, các nhóm khách được phục vụ đúng hẹn có tỷ lệ đặt lại cao hơn rõ so với nhóm bị giao trễ; nếu không, cần tìm chỉ số dẫn dắt khác.
 :::
