@@ -29,9 +29,13 @@ Kiến trúc thương hiệu (brand architecture) là cách doanh nghiệp tổ 
 :::story chi-thao | Siêu thị đầu ngõ ra dòng giỏ quà Tết
 Siêu thị của Ông 9 Cò được khách hàng trong khu vực tin tưởng nhờ hàng hoá ổn định và giá hợp lý. Quầy bánh mì mở thêm trước cửa siêu thị dùng ngay tên 9 Cò và nhanh chóng có khách quen.
 
-Gần Tết, Ông 9 Cò muốn ra dòng giỏ quà biếu cao cấp và đến văn phòng Chị Thảo để trao đổi về việc đặt tên. Chị Thảo không đưa ra đáp án mà đặt ba câu hỏi. Người mua bánh mì buổi sáng và người mua giỏ quà biếu đối tác có cùng tiêu chí lựa chọn không? Với người mua giỏ quà, tên 9 Cò làm tăng niềm tin hay làm giảm cảm nhận cao cấp? Nếu một giỏ quà có sự cố, uy tín của siêu thị có bị ảnh hưởng không?
+Gần Tết, Ông 9 Cò muốn ra dòng giỏ quà biếu cao cấp và đến văn phòng Chị Thảo để trao đổi về việc đặt tên. Chị Thảo không đưa ra đáp án mà đặt ba câu hỏi.
 
-Ông 9 Cò có ba phương án. Thứ nhất, dùng tên 9 Cò cho giỏ quà, tiết kiệm chi phí nhưng khó tạo hình ảnh cao cấp. Thứ hai, đặt tên riêng hoàn toàn, có không gian định vị nhưng phải xây dựng nhận biết từ đầu. Thứ ba, đặt tên riêng kèm dòng xác nhận nhỏ về siêu thị.
+Người mua bánh mì buổi sáng và người mua giỏ quà biếu đối tác có cùng tiêu chí lựa chọn không? Với người mua giỏ quà, tên 9 Cò làm tăng niềm tin hay làm giảm cảm nhận cao cấp? Nếu một giỏ quà có sự cố, uy tín của siêu thị có bị ảnh hưởng không?
+
+Ông 9 Cò có ba phương án.
+
+Thứ nhất, dùng tên 9 Cò cho giỏ quà, tiết kiệm chi phí nhưng khó tạo hình ảnh cao cấp. Thứ hai, đặt tên riêng hoàn toàn, có không gian định vị nhưng phải xây dựng nhận biết từ đầu. Thứ ba, đặt tên riêng kèm dòng xác nhận nhỏ về siêu thị.
 
 Câu hỏi cần trả lời là: khách hàng của giỏ quà cần nhìn thấy tên 9 Cò ở mức độ nào để vừa tin tưởng, vừa nhận ra đây là một sản phẩm khác?
 :::

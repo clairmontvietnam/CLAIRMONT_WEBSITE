@@ -2,7 +2,7 @@
 slug: he-thong-nhan-dien-thuong-hieu
 title: Hệ thống nhận diện thương hiệu: thành phần và cách xây
 h1: Hệ thống nhận diện thương hiệu: từ nền tảng chiến lược đến quy chuẩn sử dụng
-description: Hệ thống nhận diện thương hiệu gồm logo, màu, chữ, hình ảnh, giọng văn và quy chuẩn quản trị. Phân tích các thành phần, tiêu chí đánh giá và quy trình xây dựng.
+description: Hệ thống nhận diện thương hiệu gồm logo, màu, chữ, hình ảnh, giọng văn và quy chuẩn. Phân tích thành phần, tiêu chí đánh giá và quy trình xây dựng.
 keywords: hệ thống nhận diện thương hiệu, bộ nhận diện thương hiệu, brand guideline, nền tảng thương hiệu, logo thương hiệu, phát triển thương hiệu
 summary: Hệ thống nhận diện gồm các yếu tố thị giác và quy chuẩn quản trị, được dẫn dắt từ nền tảng thương hiệu.
 date: 2026-10-29

@@ -2,7 +2,7 @@
 slug: kiem-soat-chat-luong-gia-cong
 title: Kiểm soát chất lượng gia công qua bộ ba Juran
 h1: Kiểm soát chất lượng gia công: từ yêu cầu kỹ thuật đến cải tiến cùng đối tác
-description: Kiểm soát chất lượng gia công không dừng ở nghiệm thu. Bộ ba Juran giúp chia việc thành lập kế hoạch, kiểm soát và cải tiến, kèm chỉ số và điều khoản hợp đồng.
+description: Kiểm soát chất lượng gia công không dừng ở nghiệm thu. Bộ ba Juran chia việc thành lập kế hoạch, kiểm soát, cải tiến, kèm chỉ số và điều khoản hợp đồng.
 keywords: kiểm soát chất lượng gia công, bộ ba chất lượng Juran, quản lý đối tác gia công, chất lượng sản phẩm thuê ngoài, lấy mẫu kiểm tra AQL
 summary: Chất lượng gia công được giữ bằng yêu cầu kỹ thuật, điểm kiểm theo rủi ro và cải tiến cùng đối tác.
 date: 2026-11-06
@@ -29,9 +29,13 @@ Vấn đề quản trị nằm ở chỗ chất lượng phải được xác đ
 :::story co-hoa | Lô khay gỗ thứ ba và câu hỏi về trách nhiệm chất lượng
 Quán cà phê của Cô Hoa đặt xưởng của Cậu Trống sản xuất khay gỗ phục vụ khách. Hai bên thống nhất qua một chiếc khay mẫu, không có bản mô tả kỹ thuật bằng văn bản.
 
-Hai lô đầu đạt yêu cầu. Đến lô thứ ba, một phần khay bị cong vênh và lớp dầu hoàn thiện không đều. Kiểm tra lại, xưởng xác định gỗ của lô này được mua từ nguồn khác và chưa được phơi sấy đủ thời gian. Thông tin về nguồn gỗ và độ ẩm chưa từng được ghi lại ở đâu.
+Hai lô đầu đạt yêu cầu.
 
-Cô Hoa đứng trước ba phương án. Thứ nhất, trả lại các khay lỗi và tiếp tục đặt hàng như cũ. Thứ hai, tự kiểm tra toàn bộ từng lô khi nhận hàng. Thứ ba, cùng xưởng xây dựng bản yêu cầu kỹ thuật, thống nhất điểm kiểm tra trong quá trình sản xuất và theo dõi lỗi qua từng lô.
+Đến lô thứ ba, một phần khay bị cong vênh và lớp dầu hoàn thiện không đều. Kiểm tra lại, xưởng xác định gỗ của lô này được mua từ nguồn khác và chưa được phơi sấy đủ thời gian. Thông tin về nguồn gỗ và độ ẩm chưa từng được ghi lại ở đâu.
+
+Cô Hoa đứng trước ba phương án.
+
+Thứ nhất, trả lại các khay lỗi và tiếp tục đặt hàng như cũ. Thứ hai, tự kiểm tra toàn bộ từng lô khi nhận hàng. Thứ ba, cùng xưởng xây dựng bản yêu cầu kỹ thuật, thống nhất điểm kiểm tra trong quá trình sản xuất và theo dõi lỗi qua từng lô.
 
 Phương án thứ nhất không ngăn lỗi tái diễn. Phương án thứ hai tốn thời gian của quán và vẫn chỉ phát hiện lỗi sau khi đã sản xuất. Phương án thứ ba đòi hỏi cả hai bên đầu tư thời gian ban đầu.
 
@@ -52,7 +56,9 @@ Juran so sánh ba quá trình này với quản trị tài chính: lập ngân s
 
 Sai lệch đột xuất là khi kết quả lệch khỏi chuẩn đang có, như lô khay cong vì gỗ ẩm. Kiểm soát tốt giúp phát hiện và đưa quá trình về chuẩn cũ. Lãng phí kinh niên là khi tỷ lệ lỗi hoặc làm lại đã trở thành mức "bình thường"; kiểm soát không phát hiện được, vì nó nằm ngay trong chuẩn.
 
-Khi áp dụng cho quan hệ gia công, cần làm rõ trách nhiệm của mỗi bên trong từng quá trình. Bên đặt hàng thường chịu trách nhiệm chính ở lập kế hoạch, vì họ hiểu khách hàng cuối. Bên gia công chịu trách nhiệm chính ở kiểm soát trong quá trình sản xuất. Cải tiến cần cả hai bên cùng tham gia.
+Khi áp dụng cho quan hệ gia công, cần làm rõ trách nhiệm của mỗi bên trong từng quá trình.
+
+Bên đặt hàng thường chịu trách nhiệm chính ở lập kế hoạch, vì họ hiểu khách hàng cuối. Bên gia công chịu trách nhiệm chính ở kiểm soát trong quá trình sản xuất. Cải tiến cần cả hai bên cùng tham gia.
 
 Mô hình có giới hạn. Bộ ba Juran được phát triển chủ yếu cho tổ chức sản xuất có quy mô và hệ thống dữ liệu; với xưởng nhỏ, cần đơn giản hoá công cụ. Mô hình cũng không tự giải quyết vấn đề quyền lực trong quan hệ: nếu bên đặt hàng chỉ chiếm phần nhỏ sản lượng của xưởng, khả năng yêu cầu cải tiến sẽ hạn chế.
 

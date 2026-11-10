@@ -2,7 +2,7 @@
 slug: doanh-nghiep-nho-khi-nao-nen-thue-tu-van
 title: Tư vấn doanh nghiệp nhỏ: khi nào nên thuê, khi nào tự làm
 h1: Tư vấn doanh nghiệp nhỏ: khi nào nên thuê chuyên gia, khi nào nên tự làm
-description: Tư vấn doanh nghiệp nhỏ chỉ đáng đầu tư khi việc cần làm quan trọng mà năng lực nội bộ còn mỏng. Phân tích ma trận tự làm hay thuê ngoài và các dấu hiệu cần thuê.
+description: Tư vấn doanh nghiệp nhỏ chỉ đáng đầu tư khi việc quan trọng mà năng lực nội bộ còn mỏng. Phân tích ma trận tự làm hay thuê ngoài và dấu hiệu cần thuê.
 keywords: tư vấn doanh nghiệp nhỏ, khi nào nên thuê tư vấn, ma trận tự làm hay thuê ngoài, make-or-buy, năng lực cốt lõi, tư vấn chiến lược
 summary: Thuê tư vấn đáng giá khi việc quan trọng mà năng lực nội bộ còn mỏng; phần còn lại nên tự làm hoặc thuê dịch vụ.
 date: 2026-10-29
@@ -31,7 +31,9 @@ Quán cơm gà của Dì Linh đã hoạt động ổn định nhiều năm, có
 
 Trong cùng thời gian, Dì Linh tự thiết kế thực đơn, tự ghi sổ thu chi và tự xử lý việc đặt hàng nguyên liệu. Những việc này chiếm phần lớn thời gian của chủ quán. Trong khi đó, quyết định mở cửa hàng thứ hai, liên quan đến vị trí, nhóm khách hàng, vốn đầu tư và cách giữ chất lượng khi không trực tiếp đứng bếp, lại chưa được phân tích một cách có hệ thống.
 
-Gia đình đứng trước ba phương án. Thứ nhất, tiếp tục tự làm mọi việc và quyết định mở quán dựa trên kinh nghiệm. Thứ hai, thuê dịch vụ cho các việc hành chính để dành thời gian tự nghiên cứu. Thứ ba, mời người có kinh nghiệm cùng phân tích quyết định mở rộng, đồng thời giữ nguyên quyền kiểm soát công thức.
+Gia đình đứng trước ba phương án.
+
+Thứ nhất, tiếp tục tự làm mọi việc và quyết định mở quán dựa trên kinh nghiệm. Thứ hai, thuê dịch vụ cho các việc hành chính để dành thời gian tự nghiên cứu. Thứ ba, mời người có kinh nghiệm cùng phân tích quyết định mở rộng, đồng thời giữ nguyên quyền kiểm soát công thức.
 
 Câu hỏi cần trả lời là: trong các việc của quán, việc nào thực sự đòi hỏi thời gian và năng lực của chủ quán, và việc nào cần thêm người cùng suy nghĩ?
 :::
@@ -55,7 +57,11 @@ Lý thuyết gốc của khung này là quan điểm năng lực cốt lõi (cor
 
 Áp dụng vào tình huống của Dì Linh, công thức nước dùng thuộc ô tự làm và giữ chặt; ghi sổ kế toán thuộc ô thuê dịch vụ; đặt hàng nguyên liệu thuộc ô chuẩn hoá; còn quyết định mở cửa hàng thứ hai thuộc ô cần chuyên gia đồng hành.
 
-Mô hình có những giới hạn cần lưu ý. Thứ nhất, việc chấm năng lực nội bộ thường bị đánh giá cao hơn thực tế, nhất là khi người chấm cũng là người đang làm việc đó. Thứ hai, các ô không cố định: một việc thuộc ô đồng hành hôm nay có thể chuyển sang ô tự làm sau khi được chuyển giao bài bản. Thứ ba, ma trận không tính đến chi phí giao dịch và rủi ro phụ thuộc, vốn cần được đánh giá riêng.
+Mô hình có những giới hạn cần lưu ý.
+
+Thứ nhất, việc chấm năng lực nội bộ thường bị đánh giá cao hơn thực tế, nhất là khi người chấm cũng là người đang làm việc đó. Thứ hai, các ô không cố định: một việc thuộc ô đồng hành hôm nay có thể chuyển sang ô tự làm sau khi được chuyển giao bài bản.
+
+Thứ ba, ma trận không tính đến chi phí giao dịch và rủi ro phụ thuộc, vốn cần được đánh giá riêng.
 
 ## Dấu hiệu cho thấy doanh nghiệp nhỏ nên cân nhắc thuê tư vấn
 
