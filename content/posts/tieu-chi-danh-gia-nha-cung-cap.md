@@ -16,7 +16,7 @@ Tiêu chí đánh giá nhà cung cấp thường gồm sáu nhóm: chất lượ
 - Với thiết bị dùng nhiều năm, thước đo chi phí (giá chào hay tổng chi phí sở hữu có chiết khấu) có thể đổi thứ hạng nhiều hơn trọng số.
 - Trọng số theo ô đổi kết quả khi chi phí còn phân biệt rõ giữa các bên; khi chi phí gần như ngang nhau, trọng số chỉ dồn quyết định vào tiêu chí cần kiểm chứng.
 - Ngưỡng loại không làm thay việc chấm điểm, nhưng chặn được lựa chọn sai trước khi điểm số kịp che nó.
-- Với chủ đầu tư bất động sản, gói thiết bị ô Chiến lược ràng buộc chi phí và chất lượng vận hành 15 năm trở lên; điều khoản dài hạn của gói đó thuộc thẩm quyền Hội đồng quản trị, không chỉ ban mua hàng.
+- Với chủ đầu tư bất động sản, gói thiết bị ô Chiến lược ràng buộc chi phí và chất lượng vận hành 15 năm trở lên; quy ước đề xuất là điều khoản dài hạn của gói đó do Hội đồng quản trị duyệt, không chỉ ban mua hàng.
 :::
 
 ## Quyết định cần đưa ra: chấm cái gì và đo thế nào
