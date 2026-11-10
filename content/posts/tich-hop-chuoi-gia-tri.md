@@ -62,7 +62,9 @@ Trên nền đó, ba đặc điểm của giao dịch quyết định hình th�
 
 Khi tính đặc thù thấp, thị trường thường hiệu quả hơn bất kể tần suất. Khi tính đặc thù ở mức trung bình, hợp đồng dài hạn hoặc liên minh thường phù hợp. Khi tính đặc thù cao, cùng với bất định lớn và giao dịch thường xuyên, tích hợp dọc mới có cơ sở rõ ràng.
 
-Lý thuyết này có giới hạn. Nó tập trung vào tối thiểu hoá chi phí cho từng giao dịch, nên không giải thích được khâu nào tạo ra khác biệt cạnh tranh. Câu hỏi đó thuộc về quan điểm dựa trên nguồn lực (resource-based view), được Jay B. Barney hệ thống hoá năm 1991, và khái niệm năng lực cốt lõi của Prahalad và Hamel (1990).
+Lý thuyết này có giới hạn. Nó tập trung vào tối thiểu hoá chi phí cho từng giao dịch, nên không giải thích được khâu nào tạo ra khác biệt cạnh tranh.
+
+Câu hỏi đó thuộc về quan điểm dựa trên nguồn lực (resource-based view), được Jay B. Barney hệ thống hoá năm 1991, và khái niệm năng lực cốt lõi của Prahalad và Hamel (1990).
 
 Khi quyết định, doanh nghiệp cần dùng cả hai góc nhìn, đồng thời tính đến rủi ro bị khoá chặt vào một đối tác và rủi ro mất năng lực học hỏi khi thuê ngoài khâu quan trọng.
 
