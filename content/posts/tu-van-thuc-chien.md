@@ -1,90 +1,121 @@
 ---
 slug: tu-van-thuc-chien
-title: Tư vấn thực chiến: khi đơn vị tư vấn tự vận hành thương hiệu
-h1: Tư vấn thực chiến: vì sao Clairmont tự vận hành FLEUR, và cái giá của lựa chọn đó
-description: Tư vấn thực chiến qua chu trình học Kolb: lập trường của Clairmont khi tự vận hành FLEUR, rủi ro xung đột lợi ích, phản biện mạnh nhất và các ràng buộc.
-keywords: tư vấn thực chiến, xung đột lợi ích trong tư vấn, đơn vị tư vấn tự vận hành thương hiệu, chu trình học từ trải nghiệm Kolb, Clairmont Group, FLEUR
-summary: Tự vận hành một thương hiệu bù cho đơn vị tư vấn hai chặng học thường phải vay của khách hàng. Đổi lại là rủi ro xung đột lợi ích phải được ràng buộc.
+title: Tư vấn thực chiến: lợi ích, xung đột lợi ích, cách kiểm tra
+h1: Tư vấn thực chiến: chọn đơn vị có vận hành kinh doanh thật hay tư vấn thuần
+description: Tư vấn thực chiến là gì, khi nào nên chọn đơn vị tư vấn có vận hành kinh doanh thật, rủi ro xung đột lợi ích và các câu hỏi lãnh đạo nên kiểm tra khi thuê.
+keywords: tư vấn thực chiến, chọn đơn vị tư vấn, xung đột lợi ích trong tư vấn, tiêu chí chọn đơn vị tư vấn, kinh nghiệm vận hành thực tế
+summary: Kinh nghiệm vận hành của đơn vị tư vấn chỉ có giá trị khi khớp loại quyết định của doanh nghiệp và khi lợi ích riêng được công bố, ràng buộc bằng hợp đồng.
 date: 2026-10-31
 category: Góc nhìn Nhà sáng lập
 author: Clairmont Group
 ---
 
-Tư vấn thực chiến, hiểu theo nghĩa hẹp, là lời khuyên đến từ người đã tự ra quyết định và tự chịu hệ quả của loại quyết định đó. Lập trường của Clairmont: một đơn vị tư vấn chiến lược nên tự vận hành ít nhất một doanh nghiệp thật, vì đó là cách trực tiếp nhất để có hai chặng học mà nghề tư vấn thường phải vay của khách hàng; nhưng lựa chọn này chỉ đứng được khi đi kèm các ràng buộc công khai về xung đột lợi ích. Clairmont đang làm điều đó với FLEUR, thương hiệu cà phê và quà tặng cao cấp mang bản sắc Việt, ra mắt tại Hà Nội ngày 29/11/2026. Bài này trình bày lý do, phản biện mạnh nhất, và những điều kiện khiến lập trường này sai.
+Tư vấn thực chiến thường được hiểu là lời khuyên từ đơn vị tư vấn có người đã hoặc đang tự vận hành kinh doanh, tự bỏ vốn và chịu hệ quả của loại quyết định đang được bàn. Khi chọn giữa đơn vị như vậy và một đơn vị tư vấn thuần, lãnh đạo doanh nghiệp đang cân hai thứ: hiểu biết về ràng buộc thực thi mà kinh nghiệm vận hành đem lại, và rủi ro xung đột lợi ích mà chính hoạt động kinh doanh riêng đó tạo ra. Lập trường của bài: kinh nghiệm vận hành chỉ đáng trả thêm khi nó cùng loại quyết định với bài toán của doanh nghiệp, và khi lợi ích kinh doanh riêng của đơn vị tư vấn được công bố và ràng buộc bằng điều khoản hợp đồng kiểm chứng được. Thiếu điều kiện thứ hai, đơn vị tư vấn thuần thường là lựa chọn an toàn hơn.
 
 :::takeaways
-- Theo Kolb (1984), học từ trải nghiệm đi qua bốn chặng. Đơn vị tư vấn thường mạnh ở quan sát phản tư và khái niệm hoá, còn trải nghiệm cụ thể và thử nghiệm chủ động thường nằm ở phía khách hàng.
-- Tự vận hành một thương hiệu đưa hai chặng còn thiếu về lại trong tổ chức tư vấn: tự quyết, tự bỏ vốn, tự chịu hệ quả.
-- Rủi ro lớn nhất là xung đột lợi ích và khái quát từ một trường hợp. Cả hai cần ràng buộc viết thành văn bản, không dựa vào thiện chí.
-- Lập trường này sai khi thương hiệu riêng chiếm phần lớn thời gian lãnh đạo, khi khách hàng hoạt động cùng phân khúc, hoặc khi bài học không được hệ thống hoá thành phương pháp.
+- "Thực chiến" có ba dạng khác nhau: người tư vấn từng điều hành, đơn vị tư vấn đang sở hữu doanh nghiệp, và đơn vị nhận phí gắn với kết quả hoặc cổ phần. Mỗi dạng có lợi ích và rủi ro riêng.
+- Lợi ích chính là biết hỏi đúng câu về thực thi: dòng tiền, nhà cung ứng, thời gian, trách nhiệm khi sai lệch. Lợi ích này chỉ chuyển được khi cùng loại quyết định.
+- Rủi ro chính là xung đột lợi ích và khái quát từ một trường hợp. Tư vấn chiến lược không chịu chuẩn độc lập bắt buộc như kiểm toán, nên phần bảo vệ nằm ở hợp đồng.
+- Bảy câu hỏi kiểm tra khi thuê và năm điều khoản hợp đồng giúp biến lời hứa thành cam kết kiểm chứng được.
 :::
 
-## Tư vấn thực chiến qua chu trình Kolb: hai chặng học thường phải vay
+## Quyết định cần đưa ra: ba dạng tư vấn thực chiến
 
-David Kolb (1984) mô tả học từ trải nghiệm như một chu trình bốn chặng: trải nghiệm cụ thể, quan sát phản tư, khái niệm hoá trừu tượng, và thử nghiệm chủ động. Bốn chặng nằm trên hai chiều. Chiều thứ nhất là cách tiếp nhận trải nghiệm, từ trực tiếp sống qua (trải nghiệm cụ thể) đến hiểu qua khái niệm (khái niệm hoá trừu tượng). Chiều thứ hai là cách chuyển hoá trải nghiệm, từ suy ngẫm (quan sát phản tư) đến hành động (thử nghiệm chủ động).
+Về thực chất, lựa chọn là giữa các cấu trúc lợi ích khác nhau của đơn vị tư vấn; bảng dưới phân biệt ba dạng thường gặp.
 
-Công việc tư vấn chiến lược nằm chủ yếu ở hai chặng giữa của chu trình: phân tích điều đã xảy ra và khái quát thành khung. Chặng trải nghiệm cụ thể thường được vay qua phỏng vấn, báo cáo và dữ liệu của khách hàng. Chặng thử nghiệm chủ động thường diễn ra sau khi đơn vị tư vấn đã bàn giao, do khách hàng thực hiện. Đơn vị tư vấn hiếm khi thấy trọn hệ quả của khuyến nghị mình đưa ra.
+| Dạng | Mô tả | Lợi ích | Rủi ro chính |
+|---|---|---|---|
+| Tư vấn thuần | Đơn vị chỉ bán dịch vụ tư vấn, không sở hữu doanh nghiệp trong ngành khách hàng | Độc lập cao, dễ kiểm tra lợi ích | Có thể thiếu cảm nhận về ràng buộc thực thi; hiếm khi thấy trọn hệ quả khuyến nghị |
+| Người tư vấn từng điều hành | Kinh nghiệm vận hành nằm trong quá khứ của cá nhân | Hiểu ràng buộc thực thi; ít xung đột hiện tại | Kinh nghiệm có thể đã cũ hoặc thuộc ngành khác |
+| Đơn vị đang sở hữu doanh nghiệp | Đơn vị tư vấn đồng thời đầu tư, vận hành một hoặc nhiều thương hiệu | Kinh nghiệm hiện tại, tự chịu hệ quả | Xung đột lợi ích; chia thời gian lãnh đạo |
 
-Tự vận hành một thương hiệu tiêu dùng đưa đơn vị tư vấn vào đúng hai chặng ấy. Với FLEUR, đó là những quyết định mà Clairmont thường chỉ phân tích hộ khách hàng: chọn nhà cung ứng, chốt quy cách bao bì, chọn kênh bán, định giá, và chịu hệ quả tài chính của từng lựa chọn. Trước ngày ra mắt, Clairmont chưa có kết quả kinh doanh để công bố; giá trị của lựa chọn này nằm ở vị trí ra quyết định, chưa nằm ở kết quả.
+Dạng thứ tư, nhận phí bằng cổ phần hoặc chia kết quả, gắn lợi ích của đơn vị tư vấn với khách hàng nhưng tạo động cơ ưu tiên kết quả ngắn hạn đo được; nó cần một phân tích riêng và không bàn ở đây.
 
-Đây cũng là cách Clairmont xếp ba lĩnh vực hoạt động: tư vấn và đồng hành chiến lược; đầu tư và phát triển thương hiệu (FLEUR, cùng KỂ và MỜI theo kế hoạch năm 2027); phát triển đối tác và chuỗi giá trị. Lĩnh vực thứ hai là nơi phương pháp bốn bước Nghiên cứu, Chiến lược, Triển khai, Đánh giá được áp dụng lên chính Clairmont. Lý do chọn ngành cà phê và quà tặng được trình bày trong bài [chiến lược đa ngành](/goc-nhin/tu-du-an-bat-dong-san-den-thuong-hieu-ca-phe/).
+## Kinh nghiệm vận hành đem lại gì, và giới hạn của nó
 
-## Phản biện mạnh nhất
+Chu trình học từ trải nghiệm của Kolb (1984) gồm bốn chặng: trải nghiệm cụ thể, quan sát phản tư, khái niệm hoá trừu tượng, thử nghiệm chủ động. Nhận định của Clairmont, không phải của Kolb: công việc tư vấn chiến lược thường mạnh ở hai chặng giữa, còn trải nghiệm cụ thể được vay qua dữ liệu của khách hàng và thử nghiệm chủ động diễn ra sau khi bàn giao. Đơn vị có vận hành kinh doanh tự đi qua cả bốn chặng với một số loại quyết định.
 
-Phản biện mạnh nhất có ba lớp, và lớp thứ nhất là nghiêm trọng nhất.
+Phép ánh xạ này có hai giới hạn. Kolb mô tả học tập của cá nhân; tổ chức tư vấn chỉ học được khi kinh nghiệm được chuyển thành quy trình và công cụ dùng chung, điều Argyris và Schön (1978) phân tích ở cấp học tập tổ chức. Chu trình Kolb cũng bị phê phán là quá tuyến tính; Seaman (2008) đề xuất hiểu học tập như quá trình xã hội gắn bối cảnh. Vì vậy mô hình chỉ giúp gọi tên lợi ích, không chứng minh được lợi ích.
 
-**Độc lập là tài sản cốt lõi của người tư vấn.** Nghề kiểm toán là một tiền lệ rõ: Đạo luật Sarbanes-Oxley năm 2002 của Mỹ (Điều 201) cấm công ty kiểm toán cung cấp nhiều loại dịch vụ phi kiểm toán cho chính khách hàng kiểm toán, vì lợi ích kinh doanh riêng làm suy giảm tính độc lập. Một đơn vị tư vấn sở hữu thương hiệu riêng có thể, dù không cố ý, khuyến nghị theo hướng có lợi cho thương hiệu của mình, giới thiệu nhà cung ứng của mình, hoặc tiếp cận thông tin của khách hàng hoạt động gần lĩnh vực đó. Kubr (2002), trong giáo trình nghề tư vấn quản lý của Tổ chức Lao động Quốc tế, xếp xung đột lợi ích vào nhóm vấn đề đạo đức nghề nghiệp mà người tư vấn phải chủ động công bố và xử lý.
+Lợi ích thực tế dễ kiểm tra hơn: đơn vị từng tự chịu hệ quả thường hỏi những câu tư vấn thuần dễ bỏ qua, như lô sản xuất tối thiểu, thời gian có mẫu thật, ai chịu trách nhiệm khi sai lệch, dòng tiền bị giữ ở đâu giữa đặt hàng và bán được hàng. Các câu hỏi này chỉ chuyển được khi cùng loại quyết định. Kinh nghiệm vận hành một thương hiệu tiêu dùng quy mô nhỏ giúp ít cho quyết định cơ cấu sản phẩm của một dự án bất động sản, nơi chu kỳ vốn và cấu trúc quyết định khác hẳn.
 
-**Một trường hợp không đủ để khái quát.** FLEUR là thương hiệu hàng tiêu dùng cao cấp, quy mô nhỏ. Phần lớn bài toán tư vấn của Clairmont liên quan đến chủ đầu tư và doanh nghiệp B2B, với chu kỳ vốn và cấu trúc quyết định khác hẳn. Rủi ro là lấy bài học của một thương hiệu cà phê áp cho một dự án bất động sản.
+## Rủi ro xung đột lợi ích và chi phí cơ hội
 
-**Chu trình Kolb không phải bằng chứng.** Chu trình bốn chặng bị phê phán là quá tuyến tính và đơn giản hoá cách người lớn thực sự học; Seaman (2008) lập luận rằng mô hình "chu trình học" nên được thay bằng cách hiểu học tập như một quá trình xã hội, gắn với bối cảnh. Dùng Kolb để biện minh cho một quyết định kinh doanh là dựa vào một mô hình mô tả, không phải một kết quả đã kiểm chứng.
+Đơn vị tư vấn có kinh doanh riêng tạo ra bốn rủi ro: khuyến nghị nghiêng về hướng có lợi cho doanh nghiệp của mình; giới thiệu nhà cung ứng hoặc đối tác mà mình có quan hệ; tiếp cận thông tin của khách hàng hoạt động gần lĩnh vực của mình; và nhận tư vấn cho đối thủ trực tiếp của chính mình. Thêm một chi phí ít được nói: thời gian của lãnh đạo đơn vị tư vấn bị chia cho doanh nghiệp riêng, nhất là giai đoạn ra mắt.
 
-## Vì sao vẫn giữ lập trường
+Các nghề khác đã có chuẩn cho rủi ro này. Với kiểm toán, Ủy ban Chứng khoán Mỹ (SEC) quy định tại Rule 2-01(c)(3) của Regulation S-X rằng công ty kiểm toán không độc lập nếu có quan hệ kinh doanh trực tiếp hoặc gián tiếp trọng yếu với khách hàng kiểm toán. Chuẩn này nghiêm vì bên thứ ba dựa vào ý kiến kiểm toán. Tư vấn quản lý là dịch vụ khuyến nghị cho chính người ra quyết định, nên các bộ quy tắc nghề nghiệp chọn công bố thay vì cấm: Bộ quy tắc đạo đức của IMC USA, thành viên của Hội đồng quốc tế các viện tư vấn quản lý (ICMCI), yêu cầu người tư vấn tránh xung đột lợi ích, công bố ngay hoàn cảnh hoặc lợi ích có thể ảnh hưởng đến tính khách quan, công bố trước lợi ích tài chính trong hàng hoá, dịch vụ nằm trong khuyến nghị, và giữ kín thông tin khách hàng. Kubr (2002), trong giáo trình tư vấn quản lý của Tổ chức Lao động Quốc tế, cũng xếp xung đột lợi ích vào nhóm vấn đề đạo đức mà người tư vấn phải chủ động xử lý.
 
-Lớp phản biện thứ nhất chỉ ra một rủi ro thật, nhưng tiền lệ kiểm toán không áp nguyên vẹn được. Kiểm toán là dịch vụ đảm bảo, nơi luật đòi hỏi độc lập vì bên thứ ba dựa vào ý kiến kiểm toán. Tư vấn chiến lược là dịch vụ khuyến nghị cho chính người ra quyết định, và người đó có quyền biết, hỏi và từ chối. Vì vậy cách xử lý phù hợp là công bố và ràng buộc, không phải cấm. Bốn ràng buộc dưới đây là điều Clairmont coi là điều kiện bắt buộc để lập trường này đứng được:
+Ở Việt Nam, tư vấn chiến lược không có quy định hành nghề riêng về độc lập tương đương kiểm toán. Bảo vệ của doanh nghiệp vì thế nằm ở câu hỏi kiểm tra và điều khoản hợp đồng.
 
-1. **Công bố từ đầu.** Mọi đề xuất dịch vụ nêu rõ các thương hiệu Clairmont sở hữu và lĩnh vực của chúng.
-2. **Không tư vấn cho đối thủ trực tiếp.** Không nhận công việc chiến lược cho doanh nghiệp cạnh tranh trực tiếp với FLEUR, KỂ hoặc MỜI trong cùng phân khúc.
-3. **Không giới thiệu đối tác của mình mà không công bố.** Khi khuyến nghị nhà cung ứng hoặc đối tác cũng đang làm việc với thương hiệu của Clairmont, quan hệ đó phải được nêu rõ để khách hàng tự quyết.
-4. **Tách thông tin.** Dữ liệu của khách hàng không được dùng cho quyết định của các thương hiệu Clairmont.
+## Ma trận chọn đơn vị tư vấn
 
-Lớp phản biện thứ hai được xử lý bằng cách giới hạn phạm vi khái quát. Điều chuyển được từ FLEUR sang công việc tư vấn không phải đáp án ngành cà phê, mà là loại câu hỏi người tư vấn biết phải hỏi: lô sản xuất tối thiểu, thời gian có mẫu thật, ai chịu trách nhiệm khi sai lệch, dòng tiền bị giữ ở đâu giữa đặt hàng và bán được hàng. Những câu hỏi này làm một khuyến nghị khả thi hơn mà không áp đặt đáp án.
+Ngưỡng dưới đây là quy ước đề xuất của Clairmont.
 
-Lớp thứ ba đúng: Kolb là khung để gọi tên khoảng trống, không phải bằng chứng hiệu quả. Bằng chứng sẽ đến từ việc bài học có được hệ thống hoá thành phương pháp và tạo ra khác biệt đo được trong công việc tư vấn hay không, và điều đó chỉ đánh giá được sau một thời gian vận hành.
+| Điều kiện của doanh nghiệp | Nghiêng về | Lý do |
+|---|---|---|
+| Bài toán là thực thi trong một ngành mà đơn vị tư vấn đang vận hành cùng loại quyết định | Đơn vị có vận hành | Lợi ích chuyển giao trực tiếp, nếu xung đột được ràng buộc |
+| Doanh nghiệp cạnh tranh, hoặc có thể cạnh tranh trong ba năm, với doanh nghiệp của đơn vị tư vấn | Tư vấn thuần | Xung đột khó ràng buộc đủ bằng hợp đồng |
+| Khuyến nghị sẽ bao gồm chọn nhà cung ứng, đối tác vận hành, kênh phân phối | Tư vấn thuần, hoặc đơn vị có vận hành nhưng tách khỏi phần chọn đối tác | Đây là chỗ xung đột dễ xảy ra nhất |
+| Bài toán là định hướng chiến lược, cấu trúc danh mục, tổ chức | Không khác biệt lớn | Kinh nghiệm vận hành ngành ít quyết định chất lượng |
+| Đơn vị tư vấn không chịu công bố lợi ích bằng văn bản | Loại | Không có cơ sở kiểm chứng |
 
-## Khi nào lập trường này sai
+:::example Chủ đầu tư chọn đơn vị tư vấn cho một dự án nghỉ dưỡng. Doanh nghiệp và tình huống là giả định
+Chủ đầu tư cần định vị và mô hình vận hành cho một dự án nghỉ dưỡng. Đơn vị A là tư vấn thuần. Đơn vị B có kinh nghiệm vận hành vì sở hữu một công ty quản lý khách sạn hoạt động cùng vùng. Một phần công việc là đề xuất có nên thuê nhà vận hành và chọn ai.
 
-- Khi thương hiệu riêng chiếm phần lớn thời gian của lãnh đạo, khiến chất lượng công việc tư vấn giảm. Ngưỡng cảnh báo đề xuất: thời gian lãnh đạo cấp cao dành cho các thương hiệu riêng vượt một nửa trong hai quý liên tiếp.
-- Khi khách hàng tư vấn và thương hiệu riêng bắt đầu cùng phân khúc, cùng kênh hoặc cùng nhà cung ứng chủ chốt, và ràng buộc 2 hoặc 3 không còn giữ được.
-- Khi sau mỗi chu kỳ đánh giá, không có bài học nào được viết thành công cụ hoặc quy trình dùng chung. Khi đó thương hiệu riêng chỉ còn là một khoản đầu tư, không còn là nguồn học của đơn vị tư vấn.
+Áp ma trận: kinh nghiệm của B cùng loại quyết định, nhưng B có lợi ích trực tiếp trong khuyến nghị chọn nhà vận hành và là đối thủ tiềm năng của các nhà vận hành khác trong vùng. Phương án hợp lý: thuê B cho phần định vị và mô hình vận hành, với điều khoản B không tham gia gói thầu vận hành; giao phần chọn nhà vận hành cho A hoặc Ban dự án tự làm theo tiêu chí do B soạn. Nếu B không chấp nhận điều khoản loại trừ, chọn A cho toàn bộ.
+:::
 
-Với lãnh đạo đang chọn đơn vị tư vấn, câu hỏi tương ứng là: đơn vị đó đã tự chịu hệ quả của loại quyết định nào, và họ công bố lợi ích riêng của mình ra sao. Các tiêu chí khác được bàn trong bài [chuẩn bị trước khi thuê tư vấn chiến lược](/goc-nhin/chuan-bi-truoc-khi-thue-tu-van-chien-luoc/), còn ranh giới giữa tư vấn chiến lược với tư vấn tài chính và pháp lý nằm ở bài [tư vấn chiến lược là gì](/goc-nhin/tu-van-chien-luoc-khac-tu-van-tai-chinh-phap-ly/).
+## Câu hỏi kiểm tra khi thuê và điều khoản hợp đồng
 
-Doanh nghiệp muốn làm việc với Clairmont có thể bắt đầu từ dịch vụ [tư vấn chiến lược doanh nghiệp](/dich-vu/tu-van-chien-luoc-doanh-nghiep/). Đầu ra đầu tiên là bản chẩn đoán thách thức trọng tâm có dữ liệu chứng minh và danh sách lựa chọn kèm đánh đổi để Ban điều hành quyết định.
+:::steps Bảy câu hỏi kiểm tra đơn vị tư vấn thực chiến
+- Loại quyết định | Đơn vị đã tự chịu hệ quả của loại quyết định nào, cụ thể gì, ở quy mô nào? Loại đó có trùng với bài toán của doanh nghiệp không?
+- Điều không như kế hoạch | Quyết định nào của họ không như kế hoạch, và họ thay đổi phương pháp ra sao sau đó?
+- Hệ thống hoá | Bài học riêng đã thành công cụ, quy trình dùng chung chưa? Đề nghị xem một ví dụ.
+- Danh mục lợi ích | Đơn vị và lãnh đạo đang sở hữu, đầu tư hoặc có quan hệ thương mại với những doanh nghiệp nào, trong lĩnh vực nào?
+- Đối thủ | Họ có đang tư vấn hoặc kinh doanh cạnh tranh với doanh nghiệp trong cùng phân khúc không?
+- Thông tin | Dữ liệu của doanh nghiệp được ai truy cập, lưu ở đâu, có bị dùng cho hoạt động kinh doanh riêng của họ không?
+- Thời gian | Bao nhiêu phần trăm thời gian của người phụ trách chính dành cho dự án này, và cho doanh nghiệp riêng của họ?
+:::
+
+Câu trả lời bằng lời chưa đủ. Năm điều khoản biến chúng thành cam kết kiểm chứng được: phụ lục công bố lợi ích, liệt kê doanh nghiệp và lĩnh vực đơn vị tư vấn có lợi ích; nghĩa vụ cập nhật khi phát sinh lợi ích mới trong thời gian hợp đồng; công bố bằng văn bản mọi quan hệ với nhà cung ứng, đối tác được khuyến nghị; điều khoản bảo mật và tách dữ liệu, có quyền yêu cầu xác nhận huỷ dữ liệu khi kết thúc; và quyền chấm dứt hợp đồng hoặc yêu cầu thay người phụ trách khi phát hiện lợi ích không được công bố. Nội dung điều khoản cụ thể nên được luật sư của doanh nghiệp rà soát.
+
+## Ví dụ minh bạch: trường hợp của Clairmont
+
+Clairmont thuộc dạng đơn vị đang sở hữu doanh nghiệp: ngoài tư vấn và đồng hành chiến lược, Clairmont đầu tư và phát triển thương hiệu FLEUR (cà phê và quà tặng cao cấp, ra mắt tại Hà Nội ngày 29/11/2026), cùng KỂ và MỜI theo kế hoạch năm 2027. Vì vậy những câu hỏi trên áp dụng cho chính Clairmont. Bốn cam kết về xung đột lợi ích đang ở dạng đề xuất, chờ Nhà sáng lập xác nhận, chưa phải chính sách đang áp dụng: công bố các thương hiệu sở hữu trong mọi đề xuất dịch vụ; không nhận tư vấn chiến lược cho đối thủ trực tiếp của FLEUR, KỂ, MỜI trong cùng phân khúc; công bố mọi quan hệ với nhà cung ứng hoặc đối tác được khuyến nghị; và không dùng dữ liệu khách hàng cho quyết định của các thương hiệu riêng. Vì FLEUR chưa ra mắt, Clairmont chưa có kết quả kinh doanh để dẫn làm bằng chứng cho lợi ích của kinh nghiệm vận hành.
+
+## Khi nào khung này không đủ
+
+- Khi doanh nghiệp không có năng lực đọc và đàm phán điều khoản hợp đồng; khi đó tư vấn thuần giảm rủi ro hơn mọi điều khoản.
+- Khi bài toán đòi hỏi ý kiến độc lập cho bên thứ ba, như định giá phục vụ giao dịch hoặc báo cáo cho ngân hàng; đó là dịch vụ đảm bảo, cần đơn vị chịu chuẩn độc lập riêng. Ranh giới này được bàn trong bài [tư vấn chiến lược khác tư vấn tài chính, pháp lý](/goc-nhin/tu-van-chien-luoc-khac-tu-van-tai-chinh-phap-ly/).
+- Khi "thực chiến" chỉ là nhãn tiếp thị, không trả lời được câu hỏi đầu tiên về loại quyết định cụ thể.
+
+Các bước chuẩn bị khác trước buổi gặp đầu tiên nằm trong bài [chuẩn bị trước khi thuê tư vấn chiến lược](/goc-nhin/chuan-bi-truoc-khi-thue-tu-van-chien-luoc/), và tiến trình một dự án tư vấn trong bài [quy trình tư vấn chiến lược](/goc-nhin/quy-trinh-tu-van-chien-luoc/). Doanh nghiệp làm việc với Clairmont qua dịch vụ [tư vấn chiến lược doanh nghiệp](/dich-vu/tu-van-chien-luoc-doanh-nghiep/) nhận đầu ra đầu tiên là bản chẩn đoán thách thức trọng tâm có dữ liệu và danh sách lựa chọn kèm đánh đổi để Ban điều hành quyết định.
 
 ## Nguồn tham khảo
 
+- Argyris, C. & Schön, D. A. (1978). *Organizational Learning: A Theory of Action Perspective*. Addison-Wesley.
 - Kolb, D. A. (1984). *Experiential Learning: Experience as the Source of Learning and Development*. Prentice Hall.
 - Kubr, M. (Ed.) (2002). *Management Consulting: A Guide to the Profession* (4th ed.). International Labour Office.
-- Sarbanes-Oxley Act of 2002, Pub. L. 107-204, Section 201 "Services outside the scope of practice of auditors".
 - Seaman, J. (2008). "Experience, reflect, critique: The end of the 'learning cycles' era". *Journal of Experiential Education*, 31(1), 3–18.
+- U.S. Securities and Exchange Commission. Regulation S-X, Rule 2-01(c)(3), 17 CFR 210.2-01 (Business Relationships Rule), sửa đổi theo Final Rule "Qualifications of Accountants", Federal Register, 11/12/2020.
+- IMC USA (2005, tái khẳng định 2018). *Code of Ethics*, các điều 5, 6 và 10.
 
-Lập trường, bốn ràng buộc về xung đột lợi ích và ngưỡng cảnh báo về thời gian lãnh đạo là đề xuất và nhận định của Clairmont. Thông tin về FLEUR, KỂ và MỜI là kế hoạch tại thời điểm viết bài; bài không nêu kết quả kinh doanh.
+Ba dạng tư vấn thực chiến, phép ánh xạ chu trình Kolb vào công việc tư vấn, ma trận chọn, bảy câu hỏi, năm điều khoản và tình huống dự án nghỉ dưỡng là đề xuất và giả định phân tích của Clairmont. Bốn cam kết của Clairmont là đề xuất chờ Nhà sáng lập xác nhận. Điều khoản hợp đồng cụ thể cần ý kiến pháp lý.
 
 ## Câu hỏi thường gặp
 
 ### Tư vấn thực chiến là gì?
 
-Tư vấn thực chiến là lời khuyên đến từ người đã tự ra và tự chịu hệ quả của loại quyết định đang được bàn, bên cạnh năng lực phân tích. Theo chu trình của Kolb, nó bổ sung hai chặng mà công việc tư vấn thường thiếu: trải nghiệm cụ thể và thử nghiệm chủ động, vốn thường diễn ra ở phía khách hàng.
+Tư vấn thực chiến là lời khuyên từ đơn vị tư vấn có người đã hoặc đang tự vận hành kinh doanh và chịu hệ quả của loại quyết định đang được bàn. Nó có ba dạng: người tư vấn từng điều hành, đơn vị đang sở hữu doanh nghiệp, và đơn vị nhận phí gắn với kết quả. Giá trị của nó phụ thuộc mức trùng giữa kinh nghiệm đó và bài toán của khách hàng.
 
-### Đơn vị tư vấn có thương hiệu riêng có gây xung đột lợi ích không?
+### Đơn vị tư vấn có kinh doanh riêng có gây xung đột lợi ích không?
 
-Có thể, nếu không được ràng buộc. Các rủi ro chính là khuyến nghị có lợi cho thương hiệu của mình, giới thiệu đối tác của mình hoặc tiếp cận thông tin của khách hàng cùng lĩnh vực. Cách xử lý là công bố từ đầu, không tư vấn cho đối thủ trực tiếp và tách thông tin của khách hàng.
-
-### Chu trình học của Kolb gồm những chặng nào?
-
-Chu trình gồm bốn chặng: trải nghiệm cụ thể, quan sát phản tư, khái niệm hoá trừu tượng và thử nghiệm chủ động. Kolb (1984) đặt chúng trên hai chiều: tiếp nhận trải nghiệm (cụ thể hay khái niệm) và chuyển hoá trải nghiệm (suy ngẫm hay hành động). Mô hình hữu ích để mô tả, nhưng bị phê phán là quá tuyến tính.
+Có thể. Các rủi ro chính là khuyến nghị có lợi cho doanh nghiệp của mình, giới thiệu đối tác có quan hệ, tiếp cận thông tin của khách hàng cùng lĩnh vực và tư vấn cho đối thủ của chính mình. Cách kiểm soát là yêu cầu công bố lợi ích bằng văn bản, loại trừ họ khỏi phần chọn đối tác khi cần, và có quyền chấm dứt hợp đồng khi lợi ích không được công bố.
 
 ### Khi chọn đơn vị tư vấn, nên hỏi gì về kinh nghiệm thực tế?
 
-Nên hỏi đơn vị đó đã tự chịu hệ quả của loại quyết định nào, điều gì đã không như kế hoạch và họ rút ra gì, bài học riêng đã thành phương pháp dùng chung chưa, và họ công bố lợi ích kinh doanh riêng của mình ra sao khi lợi ích đó có thể giao với lợi ích của khách hàng.
+Nên hỏi đơn vị đã tự chịu hệ quả của loại quyết định nào và ở quy mô nào, quyết định nào không như kế hoạch và họ rút ra gì, bài học đã thành công cụ dùng chung chưa, họ đang có lợi ích kinh doanh ở đâu, và người phụ trách chính dành bao nhiêu thời gian cho dự án so với doanh nghiệp riêng.
+
+### Khi nào nên chọn tư vấn thuần thay vì tư vấn thực chiến?
+
+Khi doanh nghiệp cạnh tranh hoặc có thể cạnh tranh với doanh nghiệp của đơn vị tư vấn, khi khuyến nghị bao gồm chọn nhà cung ứng hay đối tác vận hành mà không tách được phần đó, khi đơn vị không chịu công bố lợi ích bằng văn bản, hoặc khi doanh nghiệp không có năng lực rà soát điều khoản hợp đồng.
