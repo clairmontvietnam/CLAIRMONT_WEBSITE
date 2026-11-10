@@ -35,7 +35,7 @@ Bài này dùng định nghĩa làm việc sau: **concept dự án là một ý 
 
 ## Vì sao concept quyết định nhiều hơn vẻ ngoài của dự án
 
-Concept thường được trình bày bằng phối cảnh và câu chữ, nên dễ bị xem là phần "mềm" của dự án. Trên thực tế, nó cam kết ba loại nguồn lực khó đảo ngược.
+Concept thường được trình bày bằng phối cảnh và câu chữ, nhưng nó cam kết ba loại nguồn lực khó đảo ngược.
 
 **Quỹ đất.** Mỗi hecta dành cho hồ cảnh quan, sân thể thao hay công viên chủ đề là một hecta không dùng cho sản phẩm bán được, trừ khi phần đó đã bắt buộc theo chỉ tiêu quy hoạch. Concept quyết định phần đất bắt buộc được dùng vào việc gì và có thêm phần đất tự nguyện nào.
 
@@ -79,7 +79,7 @@ Giá trị gia tăng của một concept so với phương án không có concep
 3. **Vốn đầu tư tiện ích** tăng thêm và thời điểm chi.
 4. **Thâm hụt vận hành** chủ đầu tư phải gánh sau bàn giao: chi phí vận hành tiện ích trừ phần phí dịch vụ và doanh thu khai thác thu được.
 
-Giá trị gia tăng của concept bằng giá trị hiện tại của (1) và (2), trừ giá trị hiện tại của (3) và (4). Công thức đơn giản, nhưng đủ để thấy vì sao so sánh concept bằng mức tăng giá hay lợi nhuận danh nghĩa dễ dẫn đến chọn sai.
+Giá trị gia tăng của concept bằng giá trị hiện tại của (1) và (2), trừ giá trị hiện tại của (3) và (4). Công thức này đủ để thấy vì sao so sánh concept bằng mức tăng giá hay lợi nhuận danh nghĩa dễ dẫn đến chọn sai.
 
 ## Ví dụ giả định: cùng lợi nhuận danh nghĩa, khác giá trị
 
@@ -156,7 +156,7 @@ Với chủ đầu tư đang ở giai đoạn hình thành ý tưởng hoặc ng
 
 ### Concept dự án bất động sản là gì?
 
-Concept dự án là ý tưởng tổ chức, viết được trong một câu, cho biết dự án sẽ ưu tiên và đánh đổi điều gì để giữ lời hứa với tệp khách đã chọn. Một concept thật làm thay đổi quyết định về quy hoạch, danh mục tiện ích, cách vận hành sau bàn giao và mô hình chi phí, không chỉ thay đổi phối cảnh hay khẩu hiệu.
+Concept dự án là ý tưởng tổ chức, viết được trong một câu, cho biết dự án sẽ ưu tiên và đánh đổi điều gì để giữ lời hứa với tệp khách đã chọn. Một concept thật làm thay đổi quyết định về quy hoạch, danh mục tiện ích, cách vận hành sau bàn giao và mô hình chi phí. Một concept chỉ đổi được phối cảnh và khẩu hiệu là chưa đạt.
 
 ### Concept dự án khác định vị dự án thế nào?
 
@@ -172,4 +172,4 @@ Sau khi có định vị và trước khi giao đề bài thiết kế quy hoạ
 
 ### Chi phí vận hành tiện ích ảnh hưởng thế nào đến concept?
 
-Tiện ích chủ đạo phát sinh chi phí mỗi năm sau bàn giao. Nếu phí dịch vụ cư dân chấp nhận không đủ trả, chủ đầu tư phải bù hoặc cắt giảm tiện ích đã hứa. Vì vậy concept cần được so sánh trên dòng tiền có tính thâm hụt vận hành, không chỉ trên vốn đầu tư và giá bán.
+Tiện ích chủ đạo phát sinh chi phí mỗi năm sau bàn giao. Nếu phí dịch vụ cư dân chấp nhận không đủ trả, chủ đầu tư phải bù hoặc cắt giảm tiện ích đã hứa. Vì vậy concept cần được so sánh trên dòng tiền có tính thâm hụt vận hành, bên cạnh vốn đầu tư và giá bán.

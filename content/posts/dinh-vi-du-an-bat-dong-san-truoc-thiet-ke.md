@@ -10,7 +10,7 @@ category: Bất động sản
 author: Clairmont Group
 ---
 
-Định vị dự án bất động sản là quyết định dự án phục vụ tệp khách nào, hứa với họ giá trị gì khác các lựa chọn thay thế, ở dải tổng giá nào; nó cần được chốt trước khi viết đề bài thiết kế vì mọi thông số của đề bài đều suy ra từ đó. Luận điểm của bài này: với một dự án, định vị không phải bước sáng tạo đi sau nghiên cứu thị trường theo thứ tự giáo trình, mà là phép giao của ba ràng buộc (giá vốn của khu đất, độ sâu tệp khách có khả năng chi trả, nguồn cung cạnh tranh); ở nhiều khu đất, giá vốn đã loại phần lớn phân khúc trước khi chủ đầu tư chọn, và việc của định vị là tìm khác biệt trong phần còn lại, hoặc nói rõ rằng không phương án nào qua được.
+Định vị dự án bất động sản là quyết định dự án phục vụ tệp khách nào, hứa với họ giá trị gì khác các lựa chọn thay thế, ở dải tổng giá nào; nó cần được chốt trước khi viết đề bài thiết kế vì mọi thông số của đề bài đều suy ra từ đó. Luận điểm của bài này: với một dự án, định vị không phải bước sáng tạo đi sau nghiên cứu thị trường theo thứ tự giáo trình, mà là phép giao của ba ràng buộc (giá vốn của khu đất, độ sâu tệp khách có khả năng chi trả, nguồn cung cạnh tranh); khi giá vốn cao, nó có thể đã loại phần lớn phân khúc trước khi chủ đầu tư chọn, và việc của định vị là tìm khác biệt trong phần còn lại, hoặc nói rõ rằng không phương án nào qua được.
 
 :::takeaways
 - Quyết định định vị có ba đầu ra phải chốt cùng nhau: tệp khách chính, giá trị đề xuất so với đối thủ cụ thể, và dải tổng giá. Thiếu một trong ba, đề bài thiết kế vẫn mơ hồ.
@@ -18,9 +18,9 @@ author: Clairmont Group
 - Ma trận có trọng số chỉ dùng để xếp hạng các phương án đã qua cửa. Khi khoảng cách điểm nhỏ và thứ hạng đổi khi trọng số thay đổi hợp lý, quyết định phải chuyển sang mô hình dòng tiền và kiểm chứng với thị trường.
 :::
 
-## Quyết định cần đưa ra và thời điểm
+## Định vị dự án bất động sản: quyết định cần đưa ra và thời điểm
 
-Quyết định định vị nằm giữa hai mốc: sau khi có nghiên cứu thị trường cấp dự án, và trước khi giao đề bài cho đơn vị quy hoạch, kiến trúc. Trước mốc thứ nhất, chủ đầu tư chưa có dữ liệu về cầu, cung và giá để chọn. Sau mốc thứ hai, mỗi thay đổi định vị kéo theo chi phí thiết kế lại, thủ tục điều chỉnh và rủi ro tiến độ.
+Quyết định định vị nằm giữa hai mốc: sau khi có nghiên cứu thị trường cấp dự án, và trước khi giao đề bài cho đơn vị quy hoạch, kiến trúc. Trước mốc thứ nhất, chưa có dữ liệu cầu, cung và giá để chọn; sau mốc thứ hai, mỗi thay đổi kéo theo chi phí thiết kế lại, thủ tục điều chỉnh và rủi ro tiến độ.
 
 Đầu ra của quyết định là một bản định vị dự án gồm năm nội dung, đủ cụ thể để đơn vị thiết kế, kinh doanh và tài chính cùng dùng:
 
@@ -30,15 +30,15 @@ Quyết định định vị nằm giữa hai mốc: sau khi có nghiên cứu t
 4. **Cơ cấu sản phẩm sơ bộ**: loại hình, quy mô căn hoặc lô, mức hoàn thiện.
 5. **Giới hạn chi phí**: giá vốn trần để phương án còn đạt biên lợi nhuận yêu cầu.
 
-Nội dung thứ năm thường vắng mặt trong các bản định vị, và đó là lý do nhiều đề bài thiết kế đẹp nhưng không bán được ở mức giá cần thiết.
+Nội dung thứ năm hay bị bỏ qua. Thiếu nó, đề bài thiết kế không có giới hạn chi phí, và thiết kế có thể đẩy tổng giá ra khỏi khả năng chi trả của chính tệp khách đã chọn.
 
 ## Nguồn gốc khái niệm và giới hạn khi áp vào dự án
 
-Chuỗi phân khúc, chọn thị trường mục tiêu, định vị (STP) được Philip Kotler hệ thống hoá trong giáo trình *Marketing Management*, nhưng các thành phần của nó có nguồn gốc riêng. Khái niệm phân khúc thị trường được Wendell R. Smith trình bày năm 1956 trên *Journal of Marketing*, như một chiến lược thay thế cho khác biệt hoá sản phẩm: điều chỉnh sản phẩm theo nhu cầu của từng nhóm khách thay vì kéo cả thị trường về một sản phẩm. Khái niệm định vị được Jack Trout và Al Ries phổ biến từ bài viết của Trout năm 1969, loạt bài trên *Advertising Age* năm 1972 và cuốn *Positioning: The Battle for Your Mind* năm 1981, với trọng tâm là vị trí của thương hiệu trong nhận thức của khách hàng so với đối thủ.
+Chuỗi phân khúc, chọn thị trường mục tiêu, định vị (STP) được Philip Kotler hệ thống hoá trong *Marketing Management*, nhưng các thành phần có nguồn gốc riêng. Phân khúc thị trường được Wendell R. Smith trình bày năm 1956 trên *Journal of Marketing*, như chiến lược thay thế cho khác biệt hoá sản phẩm: điều chỉnh sản phẩm theo nhu cầu từng nhóm khách thay vì kéo cả thị trường về một sản phẩm. Định vị được Jack Trout và Al Ries phổ biến từ bài viết của Trout năm 1969 và cuốn *Positioning: The Battle for Your Mind* (1981), với trọng tâm là vị trí của thương hiệu trong nhận thức khách hàng so với đối thủ.
 
-Các khái niệm này được phát triển cho doanh nghiệp bán lặp lại một sản phẩm, có thể điều chỉnh sản phẩm và truyền thông theo thời gian. Một dự án bất động sản khác ở ba điểm: vị trí cố định, lượng hàng hữu hạn, và phần lớn chi phí (đất, tiền sử dụng đất, hạ tầng) đã cam kết trước khi chọn tệp khách. Hệ quả là thứ tự tuần tự của STP không còn đúng nguyên vẹn. Trong thực tế phát triển dự án, quy trình là lặp: ràng buộc khu đất và giá vốn thu hẹp tập phân khúc khả thi, nghiên cứu thị trường đo độ sâu của các phân khúc còn lại, và định vị được chọn trong giao của hai tập đó.
+Các khái niệm này phát triển cho doanh nghiệp bán lặp lại một sản phẩm và có thể điều chỉnh nó theo thời gian. Dự án bất động sản khác ở ba điểm: vị trí cố định, lượng hàng hữu hạn, và phần lớn chi phí (đất, tiền sử dụng đất, hạ tầng) đã cam kết trước khi chọn tệp khách. Vì vậy thứ tự tuần tự của STP không còn đúng nguyên vẹn. Trong phát triển dự án, quy trình là lặp: ràng buộc khu đất và giá vốn thu hẹp tập phân khúc khả thi, nghiên cứu thị trường đo độ sâu của phần còn lại, và định vị được chọn trong giao của hai tập đó.
 
-Clairmont điều chỉnh khái niệm định vị của Ries và Trout theo một hướng: với dự án, định vị phải biểu hiện được bằng sản phẩm và giá, không chỉ bằng thông điệp. Một định vị mà không thay đổi được diện tích căn, tiện ích hay dải tổng giá thì chỉ là khẩu hiệu. Phần thông điệp và hình ảnh thuộc về [concept dự án bất động sản](/goc-nhin/concept-du-an-bat-dong-san/) và thương hiệu dự án, đi sau định vị.
+Clairmont điều chỉnh khái niệm định vị của Ries và Trout theo một hướng: với dự án, định vị phải biểu hiện được bằng sản phẩm và giá. Định vị không làm thay đổi diện tích căn, tiện ích hay dải tổng giá thì chỉ là khẩu hiệu. Thông điệp và hình ảnh thuộc về [concept dự án bất động sản](/goc-nhin/concept-du-an-bat-dong-san/) và thương hiệu dự án, đi sau định vị.
 
 ## Bốn cửa loại trừ
 
@@ -51,7 +51,7 @@ Các phương án định vị ứng viên lần lượt đi qua bốn cửa dư
 | 3. Độ sâu của cầu | Kế hoạch bán đòi dự án chiếm bao nhiêu phần cầu đủ khả năng chi trả trong cửa sổ bán? | Tỷ lệ chiếm lĩnh yêu cầu không quá 25% | Nghiên cứu thị trường cấp dự án |
 | 4. Vốn đỉnh | Nhu cầu vốn cao nhất trước khi có tiền bán hàng có nằm trong khả năng thu xếp của chủ đầu tư không? | Không vượt hạn mức vốn đã cam kết | Mô hình dòng tiền, điều kiện bán và ngưỡng thu tiền |
 
-Một số ràng buộc pháp lý cần đưa vào từ cửa 1 và cửa 4. Nghị định 100/2024/NĐ-CP quy định nghĩa vụ dành 20% quỹ đất ở trong dự án nhà ở thương mại để phát triển nhà ở xã hội tại các đô thị thuộc diện áp dụng, và Nghị định 261/2025/NĐ-CP (hiệu lực 10/10/2025) sửa đổi, bổ sung, trong đó hướng dẫn hình thức nộp tiền thay thế; lựa chọn giữa giữ quỹ đất và nộp tiền làm thay đổi cả diện tích bán được lẫn giá vốn. Quy chuẩn quy hoạch hiện hành là QCVN 01:2021/BXD; QCVN 01:2026/BXD ban hành kèm Thông tư 46/2026/TT-BXD có hiệu lực từ 01/01/2027, nên dự án lập hoặc điều chỉnh quy hoạch quanh mốc này cần kiểm tra quy định chuyển tiếp. Luật Kinh doanh bất động sản số 29/2023/QH15 (hiệu lực 01/8/2024) giới hạn tiền đặt cọc không quá 5% khi dự án đã đủ điều kiện bán và giới hạn tiến độ thu tiền theo các ngưỡng 30%, 70% và 95%; dự án luật sửa đổi đang được Quốc hội xem xét (thảo luận tại hội trường ngày 30/10/2026) đề xuất thay đổi cơ chế này. Vì vậy ngưỡng thu tiền dùng trong mô hình vốn đỉnh cần được cập nhật theo văn bản có hiệu lực tại thời điểm mở bán. Các quy định trên chỉ ra loại ràng buộc cần kiểm tra; áp dụng cho từng khu đất cần ý kiến của đơn vị tư vấn pháp lý.
+Ba nhóm ràng buộc pháp lý cần đưa vào ngay. Nghị định 100/2024/NĐ-CP quy định nghĩa vụ dành 20% quỹ đất ở trong dự án nhà ở thương mại tại các đô thị thuộc diện áp dụng để phát triển nhà ở xã hội; Nghị định 261/2025/NĐ-CP (hiệu lực 10/10/2025) sửa đổi, bổ sung, trong đó hướng dẫn hình thức nộp tiền thay thế. Lựa chọn giữa giữ quỹ đất và nộp tiền làm thay đổi cả diện tích bán được lẫn giá vốn. Quy chuẩn quy hoạch hiện hành là QCVN 01:2021/BXD; QCVN 01:2026/BXD (Thông tư 46/2026/TT-BXD) có hiệu lực từ 01/01/2027, nên dự án lập hoặc điều chỉnh quy hoạch quanh mốc này cần kiểm tra quy định chuyển tiếp. Luật Kinh doanh bất động sản số 29/2023/QH15 (hiệu lực 01/8/2024) giới hạn đặt cọc không quá 5% khi dự án đã đủ điều kiện bán và giới hạn tiến độ thu tiền theo các ngưỡng 30%, 70%, 95%; dự án luật sửa đổi, được Quốc hội thảo luận tại hội trường ngày 30/10/2026, đề xuất thay đổi cơ chế này, nên ngưỡng dùng trong mô hình vốn đỉnh phải theo văn bản có hiệu lực khi mở bán. Áp dụng cho từng khu đất cần ý kiến tư vấn pháp lý.
 
 ## Ma trận xếp hạng các phương án đã qua cửa
 
@@ -95,11 +95,11 @@ Ba tệp khách ứng viên ban đầu:
 
 Ba điều đáng chú ý trong bảng.
 
-**Tệp khách sâu nhất không qua được cửa 2 với sản phẩm quy hoạch đang cho phép.** Ở lô 60 m², giá vốn đã vượt khả năng chi trả của gia đình trẻ. Chỉ khi thu nhỏ lô và giảm tầng (phương án A'), tổng giá mới về được ngưỡng của tệp khách. Thay đổi này phụ thuộc quy hoạch chi tiết và quy định của địa phương về kích thước lô, nên phải quay lại cửa 1 trước khi tiếp tục.
+**Tệp khách sâu nhất không qua cửa 2 với sản phẩm quy hoạch đang cho phép.** Ở lô 60 m², giá vốn đã vượt khả năng chi trả của gia đình trẻ; chỉ khi thu nhỏ lô và giảm tầng (A'), tổng giá mới về ngưỡng. Thay đổi này phụ thuộc quy hoạch chi tiết và quy định địa phương về kích thước lô, nên phải quay lại cửa 1.
 
-**Phương án có biên cao nhất bị loại ở cửa 3.** Phương án C chịu được giá vốn tăng mạnh nhất, nhưng kế hoạch bán đòi chiếm 36% cầu đầu tư ước tính, vốn là phần cầu nhạy nhất với tín dụng. Số liệu thị trường gần đây cho thấy rủi ro này có thật: theo CBRE Việt Nam, quý II/2026 thị trường nhà thấp tầng Hà Nội có khoảng 660 căn giao dịch, giảm 74% so với cùng kỳ năm trước. Phương án C có thể giữ lại với quy mô nhỏ, ví dụ dãy nhà phố dọc trục đường chính cho phân kỳ sau, nhưng không làm định vị chính.
+**Phương án có biên cao nhất bị loại ở cửa 3.** C chịu được giá vốn tăng mạnh nhất, nhưng kế hoạch bán đòi chiếm 36% cầu đầu tư ước tính, phần cầu nhạy nhất với tín dụng. Rủi ro này có thật: theo CBRE Việt Nam, quý II/2026 nhà thấp tầng Hà Nội có hơn 660 căn giao dịch, giảm 74% so với cùng kỳ. C có thể giữ ở quy mô nhỏ, chẳng hạn dãy nhà phố dọc trục chính cho phân kỳ sau, nhưng không làm định vị chính.
 
-**Giá đất đã gần như chọn thay chủ đầu tư.** Giải ngược điều kiện cửa 2, giá vốn phân bổ tối đa để A' và B còn đạt biên 20% là khoảng 81,7 triệu đồng/m² đất ở, chỉ cao hơn mức giả định khoảng 2%. Nếu giá vốn phân bổ cao hơn giả định 10%, chẳng hạn vì giá nhận chuyển nhượng đất hoặc tiền sử dụng đất cao hơn dự tính, cả A' và B đều trượt cửa 2, C trượt cửa 3, và không phương án nào qua đủ bốn cửa. Kết luận đúng khi đó không phải là chọn phương án ít tệ nhất, mà là báo cáo với Hội đồng quản trị rằng khu đất chưa có định vị khả thi ở giá vốn hiện tại, kèm các hướng xử lý: đàm phán lại điều kiện hợp tác, điều chỉnh quy hoạch, giãn thời điểm phát triển, hoặc hợp tác với đối tác có chi phí vốn thấp hơn.
+**Giá đất đã gần như chọn thay chủ đầu tư.** Giải ngược điều kiện cửa 2, giá vốn phân bổ tối đa để A' và B còn đạt biên 20% là khoảng 81,7 triệu đồng/m² đất ở, chỉ cao hơn mức giả định khoảng 2%. Nếu giá vốn phân bổ cao hơn giả định 10%, chẳng hạn vì giá nhận chuyển nhượng đất hoặc tiền sử dụng đất cao hơn dự tính, cả A' và B đều trượt cửa 2, C trượt cửa 3, và không phương án nào qua đủ bốn cửa. Khi đó, điều nên trình Hội đồng quản trị là khu đất chưa có định vị khả thi ở giá vốn hiện tại, thay vì phương án ít tệ nhất, kèm các hướng xử lý: đàm phán lại điều kiện hợp tác, điều chỉnh quy hoạch, giãn thời điểm phát triển, hoặc hợp tác với đối tác có chi phí vốn thấp hơn.
 
 Với giá vốn như giả định, A' và B qua đủ các cửa đã tính (cửa 4 cần mô hình dòng tiền, không tính trong ví dụ). Chấm theo ma trận:
 
@@ -113,7 +113,7 @@ Với giá vốn như giả định, A' và B qua đủ các cửa đã tính (c
 | Giá trị cho phân kỳ sau (10%) | 4 | 3 |
 | **Điểm có trọng số** | **3,30** | **2,95** |
 
-A' xếp trên. Nhưng nếu trọng số của "khác biệt bền" tăng từ 20% lên 30% và "độ sâu tệp khách" giảm từ 25% xuống 15%, điểm đổi thành 3,10 và 3,15, thứ hạng đảo ngược. Đây là giới hạn của mọi ma trận có trọng số: nó làm rõ đánh đổi, nhưng không tự giải quyết đánh đổi. A' có nhiều khách nhưng cạnh tranh trực tiếp với nhiều dự án cùng dải giá; B có khác biệt rõ hơn nhưng tệp khách mỏng. Lựa chọn phụ thuộc vào câu hỏi mà ma trận không trả lời được: A' có tạo được khác biệt nào trong dải giá đông đúc đó không.
+A' xếp trên. Nhưng nếu trọng số "khác biệt bền" tăng từ 20% lên 30% và "độ sâu tệp khách" giảm từ 25% xuống 15%, điểm đổi thành 3,10 và 3,15, thứ hạng đảo ngược. Ma trận làm rõ đánh đổi nhưng không tự giải quyết nó: A' nhiều khách nhưng cạnh tranh với nhiều dự án cùng dải giá; B khác biệt rõ hơn nhưng tệp khách mỏng. Câu hỏi quyết định nằm ngoài ma trận: A' có tạo được khác biệt nào trong dải giá đông đúc đó không.
 
 Khi khoảng cách điểm nhỏ hơn khoảng 0,3 và thứ hạng đảo khi trọng số thay đổi trong phạm vi hợp lý (quy ước đề xuất), Clairmont khuyến nghị không quyết định bằng điểm. Hai bước tiếp theo là chạy cả hai phương án, và cả phương án kết hợp (A' cho phân kỳ đầu để tạo dòng tiền và cộng đồng cư dân, B cho phân kỳ sau), trên mô hình dòng tiền có độ nhạy, như trình bày trong bài [cơ cấu sản phẩm bất động sản](/goc-nhin/co-cau-san-pham-bat-dong-san/); và kiểm chứng giá trị đề xuất của A' với khách hàng tiềm năng trước khi chốt.
 
@@ -126,15 +126,14 @@ Khi khoảng cách điểm nhỏ hơn khoảng 0,3 và thứ hạng đảo khi t
 | Người mua để ở hay nhà đầu tư | Thị trường tín dụng thắt chặt, cần độ ổn định | Biên lợi nhuận là ràng buộc chính và chủ đầu tư chịu được tốc độ bán chậm |
 | Định vị theo dự án lân cận đã thành công hay khác đi | Cầu còn dư so với nguồn cung cùng loại trong cửa sổ bán | Tỷ lệ thâm nhập đã vượt 100% ở dải giá đó |
 
-Với khu đất lớn nhiều phân kỳ, định vị đa tệp khách là hợp lý, với điều kiện mỗi tệp có khu vực, sản phẩm và lời hứa riêng, và thứ tự phân kỳ được chọn sao cho tệp khách của phân kỳ đầu làm tăng giá trị cho tệp khách của phân kỳ sau, không ngược lại.
+Với khu đất lớn nhiều phân kỳ, định vị đa tệp khách hợp lý khi mỗi tệp có khu vực, sản phẩm và lời hứa riêng, và tệp khách phân kỳ đầu làm tăng giá trị cho phân kỳ sau.
 
 ## Rủi ro thường gặp
 
-- **Định vị cho một tệp khách không đủ sâu.** Chân dung khách hàng hấp dẫn nhưng không được đo quy mô trong vùng ảnh hưởng. Cửa 3 tồn tại để chặn rủi ro này.
-- **Định vị không có giới hạn chi phí.** Đề bài thiết kế không ghi giá vốn trần, nên thiết kế tối ưu cho hình ảnh và đẩy tổng giá ra khỏi khả năng chi trả của tệp khách đã chọn.
-- **Sao chép định vị của dự án lân cận.** Khi ra thị trường, dự án cạnh tranh trực tiếp với chính nguồn hàng đó, thường trong lúc dự án lân cận đã có cộng đồng cư dân và pháp lý hoàn chỉnh hơn.
-- **Gộp nhiều tệp khách vào một lời hứa.** Thông điệp chung chung, sản phẩm thoả hiệp, không tệp khách nào thấy dự án là lựa chọn tốt nhất cho mình.
-- **Coi định vị là bước đặt tên và khẩu hiệu.** Định vị chưa thay đổi diện tích, tiện ích hay dải giá thì chưa phải quyết định định vị.
+- **Tệp khách không đủ sâu.** Chân dung khách hàng hấp dẫn nhưng không được đo quy mô trong vùng ảnh hưởng; cửa 3 tồn tại để chặn rủi ro này.
+- **Không có giá vốn trần.** Thiết kế tối ưu cho hình ảnh và đẩy tổng giá ra khỏi khả năng chi trả của tệp khách đã chọn.
+- **Sao chép định vị dự án lân cận.** Dự án mới cạnh tranh trực tiếp với nguồn hàng đó, trong khi dự án lân cận đã có cư dân và pháp lý hoàn chỉnh hơn.
+- **Gộp nhiều tệp khách vào một lời hứa.** Sản phẩm thoả hiệp, không tệp khách nào thấy dự án là lựa chọn tốt nhất cho mình.
 
 Khi định vị sai được phát hiện sau mở bán, chi phí sửa lớn hơn nhiều; cách chẩn đoán và các hướng xử lý được phân tích trong bài [dự án bất động sản bán chậm](/goc-nhin/tai-dinh-vi-du-an-bat-dong-san-ban-cham/).
 
@@ -182,7 +181,3 @@ Vì mọi thông số của đề bài thiết kế, từ quy mô căn, mật đ
 ### Định vị dự án khác concept dự án thế nào?
 
 Định vị trả lời dự án dành cho ai, khác biệt ở đâu và ở dải giá nào. Concept là ý tưởng tổ chức không gian và trải nghiệm để thực hiện lời hứa đó. Định vị đi trước và đặt giới hạn cho concept; concept đi trước và đặt hướng cho thiết kế.
-
-### Dự án lớn có nên nhắm nhiều tệp khách cùng lúc không?
-
-Có thể, khi quỹ đất đủ lớn để tách khu vực, sản phẩm và lời hứa riêng cho từng tệp, và khi thứ tự phân kỳ được chọn để tệp khách giai đoạn đầu làm tăng giá trị cho giai đoạn sau. Gộp nhiều tệp vào một sản phẩm và một thông điệp thường làm dự án kém hấp dẫn với tất cả.

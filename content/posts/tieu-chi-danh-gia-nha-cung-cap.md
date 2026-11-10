@@ -15,21 +15,14 @@ Tiêu chí đánh giá nhà cung cấp thường gồm sáu nhóm: chất lượ
 :::takeaways
 - Sáu nhóm tiêu chí là điểm khởi đầu. Trọng số giữa chúng phải khác nhau theo từng nhóm hàng, không dùng chung một bảng.
 - Ma trận Kraljic (1983) xếp món hàng theo hai trục độc lập: ảnh hưởng đến lợi nhuận và rủi ro cung ứng. Ô Chiến lược là nơi cả hai cùng cao, và cũng là nơi bảng chấm nặng về giá gây thiệt hại lớn nhất.
-- Tiêu chí mà điểm cao ở chỗ khác không bù được (an toàn, pháp lý, năng lực tối thiểu) nên là ngưỡng loại, xét trước khi chấm điểm.
-- Trọng số chốt sau khi đã xem báo giá rất dễ bị điều chỉnh để hợp thức hoá một lựa chọn có sẵn.
+- Tiêu chí mà điểm cao ở chỗ khác không bù được (an toàn, pháp lý, năng lực tối thiểu) nên là ngưỡng loại, xét trước khi chấm. Trọng số phải chốt trước khi xem báo giá.
 :::
 
 ## Ba quyết định mà bảng chấm phục vụ
 
-Đánh giá nhà cung cấp phục vụ ba quyết định khác nhau, và một bảng chấm tốt cho quyết định này chưa chắc tốt cho quyết định kia:
+Đánh giá nhà cung cấp phục vụ ba quyết định: lựa chọn ban đầu (dữ liệu là hồ sơ năng lực, mẫu, báo giá, kiểm tra tại xưởng), đánh giá định kỳ (dữ liệu là kết quả giao hàng thực tế) và đánh giá lại sau sự cố hoặc khi thị trường đổi. Tiêu chuẩn ISO 9001:2015 (điều 8.4) yêu cầu tổ chức xác định tiêu chí cho việc đánh giá, lựa chọn, theo dõi kết quả và đánh giá lại nhà cung cấp bên ngoài, nhưng không quy định tiêu chí cụ thể hay trọng số; phần đó là quyết định của doanh nghiệp.
 
-1. **Lựa chọn ban đầu:** chọn ai trong số các nhà cung cấp đang chào hàng. Dữ liệu chủ yếu là hồ sơ năng lực, mẫu, báo giá và kiểm tra tại xưởng.
-2. **Đánh giá định kỳ:** nhà cung cấp hiện tại có giữ được cam kết không. Dữ liệu là kết quả giao hàng thực tế: đúng hạn, đủ số lượng, tỷ lệ lỗi, tốc độ xử lý sự cố.
-3. **Đánh giá lại:** giữ, giảm tỷ trọng hay thay nhà cung cấp sau một sự cố lớn hoặc khi thị trường đổi.
-
-Tiêu chuẩn ISO 9001:2015 (điều 8.4) yêu cầu tổ chức xác định và áp dụng tiêu chí cho cả bốn việc: đánh giá, lựa chọn, theo dõi kết quả và đánh giá lại nhà cung cấp bên ngoài. Tiêu chuẩn không quy định tiêu chí cụ thể hay trọng số; phần đó là quyết định của doanh nghiệp.
-
-Bài này bàn về mua sắm của doanh nghiệp. Gói thầu sử dụng vốn nhà nước thuộc phạm vi Luật Đấu thầu số 22/2023/QH15 (hiệu lực từ 01/01/2024, đã được sửa đổi, bổ sung nhiều lần, văn bản hợp nhất số 74/VBHN-VPQH ngày 25/3/2026) phải đánh giá theo tiêu chuẩn trong hồ sơ mời thầu và quy định của luật đó.
+Gói thầu sử dụng vốn nhà nước thuộc phạm vi Luật Đấu thầu số 22/2023/QH15 (hiệu lực từ 01/01/2024, đã được sửa đổi, bổ sung nhiều lần, văn bản hợp nhất số 74/VBHN-VPQH ngày 25/3/2026) phải đánh giá theo tiêu chuẩn trong hồ sơ mời thầu và quy định của luật đó.
 
 ## Sáu nhóm tiêu chí đánh giá nhà cung cấp và cách đo
 
@@ -44,11 +37,11 @@ Nghiên cứu về tiêu chí chọn nhà cung cấp có lịch sử dài. Dicks
 | Sức khoẻ tài chính | Kết quả kinh doanh, dòng tiền, nợ quá hạn, mức phụ thuộc vào một khách hàng | Báo cáo tài chính, xác nhận nghĩa vụ thuế | Ngưỡng loại và điểm |
 | Tuân thủ và rủi ro | Tư cách pháp lý, hoá đơn chứng từ, an toàn lao động, môi trường, rủi ro tập trung nguồn | Hồ sơ đăng ký, giấy phép, kết quả đánh giá tại chỗ | Chủ yếu là ngưỡng loại |
 
-Nhóm chi phí cần đo bằng tổng chi phí sở hữu chứ không bằng giá mua. Ellram (1995) mô tả cách phân tích tổng chi phí sở hữu trong mua hàng: cộng mọi chi phí phát sinh từ khi tìm nguồn đến khi kết thúc vòng đời của món hàng. Với thiết bị phải bảo trì nhiều năm hoặc vật tư có tỷ lệ lỗi biến động, phần chi phí sau khi mua có thể ngang hoặc lớn hơn chênh lệch giá chào.
+Nhóm chi phí cần đo bằng tổng chi phí sở hữu, tức mọi chi phí từ khi tìm nguồn đến hết vòng đời món hàng (Ellram, 1995). Với thiết bị bảo trì nhiều năm hoặc vật tư có tỷ lệ lỗi biến động, phần chi phí sau khi mua có thể lớn hơn chênh lệch giá chào.
 
 ### Thang chấm cần có mô tả cho từng mức
 
-Thang 1–5 chỉ cho kết quả so sánh được khi mỗi mức có mô tả cụ thể. Ví dụ cho tiêu chí giao hàng: 5 là đúng hạn, đủ số lượng từ 98% số đơn trở lên trong 12 tháng; 3 là từ 90% đến dưới 95%; 1 là dưới 85%. Không có mô tả, hai người chấm cùng một nhà cung cấp có thể chênh nhau hai bậc, và chênh lệch đó lớn hơn chênh lệch thật giữa các nhà cung cấp. Với tiêu chí chi phí, nên chấm bằng công thức thay vì cảm nhận: điểm bằng 5 nhân với tỷ số giữa chi phí thấp nhất và chi phí của nhà cung cấp đang xét.
+Thang 1–5 chỉ so sánh được khi mỗi mức có mô tả. Ví dụ cho giao hàng: 5 là đúng hạn, đủ số lượng từ 98% số đơn trở lên trong 12 tháng; 3 là từ 90% đến dưới 95%; 1 là dưới 85%. Không có mô tả, hai người chấm có thể chênh nhau hai bậc, lớn hơn chênh lệch thật giữa các nhà cung cấp. Chi phí nên chấm bằng công thức: 5 nhân với tỷ số giữa chi phí thấp nhất và chi phí của nhà cung cấp đang xét.
 
 ## Ngưỡng loại trước, điểm sau
 
@@ -84,11 +77,11 @@ Bước phân tích thị trường của Kraljic so sánh sức mạnh của do
 
 ### Giới hạn của ma trận
 
-- **Chỉ nhìn từ phía người mua.** Ma trận không hỏi nhà cung cấp xem doanh nghiệp là khách hàng quan trọng hay phiền phức. Steele và Court (1996) đề xuất nhìn thêm từ phía nhà cung cấp; một món ở ô Chiến lược mà nhà cung cấp coi doanh nghiệp là khách hàng nhỏ thì kế hoạch "quan hệ dài hạn" khó thành hiện thực.
-- **Đo lường và ranh giới ô mang tính chủ quan.** Gelderman và van Weele (2003) chỉ ra các vấn đề về chọn biến số, gán trọng số và đặt ngưỡng chia "cao" với "thấp". Cùng một món hàng, hai nhóm đánh giá có thể xếp vào hai ô khác nhau.
-- **Bỏ qua quan hệ phụ thuộc giữa các món và các nhà cung cấp.** Dubois và Pedersen (2002) lập luận rằng mô hình danh mục xử lý từng món hàng riêng lẻ, trong khi giá trị của một quan hệ hợp tác thường nằm ở sự kết nối giữa nhiều món, nhiều bên.
+- **Chỉ nhìn từ phía người mua.** Steele và Court (1996) đề xuất nhìn thêm từ phía nhà cung cấp: một món ở ô Chiến lược mà nhà cung cấp coi doanh nghiệp là khách hàng nhỏ thì kế hoạch quan hệ dài hạn khó thành hiện thực.
+- **Ranh giới ô mang tính chủ quan.** Gelderman và van Weele (2003) chỉ ra các vấn đề về chọn biến số, gán trọng số và đặt ngưỡng chia "cao" với "thấp"; hai nhóm đánh giá có thể xếp cùng một món vào hai ô.
+- **Xét từng món riêng lẻ.** Dubois và Pedersen (2002) lập luận rằng giá trị của quan hệ hợp tác thường nằm ở sự kết nối giữa nhiều món, nhiều bên, điều mô hình danh mục không thể hiện.
 
-Hệ quả thực tế: việc xếp ô phải ghi lý do và người xếp, được xem lại khi thị trường đổi, và không nên dùng như một phép phân loại khách quan.
+Vì vậy việc xếp ô phải ghi lý do và người xếp, và được xem lại khi thị trường đổi.
 
 ## Trọng số đổi theo ô
 
@@ -103,7 +96,7 @@ Bảng dưới đây là bộ trọng số khởi điểm Clairmont đề xuất
 | Sức khoẻ tài chính | 10 | 5 | 10 | 5 |
 | Tuân thủ và rủi ro | 10 | 5 | 10 | 5 |
 
-Lý do của từng cột: ở ô Đòn bẩy, thị trường nhiều người bán nên giá là nơi tạo giá trị và đàm phán là đúng việc. Ở ô Nút thắt, giá trị món hàng nhỏ nhưng thiếu hàng làm dừng sản xuất, nên giao hàng và năng lực đáp ứng nặng nhất, phù hợp với khuyến nghị của Kraljic là bảo đảm nguồn hàng kể cả với giá cao hơn. Ở ô Chiến lược, quan hệ kéo dài nhiều năm nên năng lực dịch vụ và sức khoẻ tài chính của nhà cung cấp nặng ngang chất lượng. Ở ô Thông thường, chi phí của chính việc đánh giá có thể lớn hơn lợi ích; ba tiêu chí giá, giao hàng và chất lượng là đủ, chấm một lần mỗi năm.
+Lý do: ở ô Đòn bẩy, thị trường nhiều người bán nên giá là nơi tạo giá trị. Ở ô Nút thắt, thiếu hàng làm dừng sản xuất, nên giao hàng và năng lực đáp ứng nặng nhất, khớp với khuyến nghị của Kraljic là bảo đảm nguồn hàng kể cả với giá cao hơn. Ở ô Chiến lược, quan hệ kéo dài nhiều năm nên năng lực dịch vụ và sức khoẻ tài chính của nhà cung cấp nặng ngang chất lượng. Ở ô Thông thường, chi phí của việc đánh giá có thể lớn hơn lợi ích; ba tiêu chí giá, giao hàng, chất lượng chấm mỗi năm một lần là đủ.
 
 ## Ví dụ: cùng ba nhà cung cấp, hai bảng chấm, hai kết quả
 
@@ -150,11 +143,9 @@ Kiểm soát chất lượng sau khi đã chọn nhà cung cấp, đặc biệt 
 
 ## Rủi ro thường gặp khi chấm nhà cung cấp
 
-- **Trọng số được chốt sau khi xem báo giá.** Bảng chấm khi đó chỉ ghi lại một quyết định đã có.
-- **Chấm giá bằng giá mua.** Bỏ qua chi phí lỗi, bảo trì, lưu kho; sai lệch lớn nhất ở thiết bị và vật tư có vòng đời dài.
 - **Một nguồn duy nhất cho món ở ô Nút thắt.** Điểm cao không thay được nguồn dự phòng đã thử.
 - **Đánh giá kỹ ô Thông thường, sơ sài ô Chiến lược.** Thời gian của người quyết định bị phân bổ ngược với giá trị.
-- **Không đánh giá lại.** Một món có thể đổi ô khi có nhà cung cấp mới, khi sản phẩm thay đổi thiết kế, hoặc khi doanh nghiệp lớn lên và đổi vị thế đàm phán.
+- **Không xếp lại ô.** Một món có thể đổi ô khi có nhà cung cấp mới, khi sản phẩm đổi thiết kế, hoặc khi doanh nghiệp lớn lên và đổi vị thế đàm phán.
 
 Khi doanh nghiệp cần dựng lại cách chọn và quản lý nhà cung cấp, Clairmont thực hiện trong khuôn khổ dịch vụ [phát triển chuỗi giá trị](/dich-vu/phat-trien-chuoi-gia-tri/), với các đầu ra: bản phân loại danh mục hàng mua theo ma trận Kraljic có ghi lý do, bộ tiêu chí, ngưỡng loại và trọng số cho từng nhóm hàng, mẫu bảng chấm có mô tả mức, và quy trình đánh giá định kỳ.
 
