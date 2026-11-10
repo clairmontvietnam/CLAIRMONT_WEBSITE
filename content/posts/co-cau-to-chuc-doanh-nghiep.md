@@ -10,7 +10,7 @@ category: Quản trị tổ chức
 author: Clairmont Group
 ---
 
-Cơ cấu tổ chức doanh nghiệp có ba kiểu cơ bản: theo chức năng, theo bộ phận (sản phẩm, địa bàn hoặc khách hàng) và ma trận, cùng các dạng lai giữa chúng. Kiểu phù hợp phụ thuộc vào chiến lược: doanh nghiệp cạnh tranh trên bao nhiêu mảng, các mảng phụ thuộc nhau đến đâu, và nguồn lực khan hiếm nằm ở chức năng nào. Luận điểm của bài này: chọn cơ cấu thực chất là chọn trục nào giữ quyền cuối cùng về nguồn lực, và lựa chọn đó nên được đưa ra cho từng chức năng chứ không cho cả doanh nghiệp. Một sơ đồ ma trận không ghi rõ quyền cuối cùng ở đâu không phải là cơ cấu ma trận, mà là hai chuỗi chỉ huy chồng lên nhau.
+Cơ cấu tổ chức doanh nghiệp có ba kiểu cơ bản: theo chức năng, theo bộ phận (sản phẩm, địa bàn hoặc khách hàng) và ma trận, cùng các dạng lai giữa chúng. Kiểu phù hợp phụ thuộc vào chiến lược: doanh nghiệp cạnh tranh trên bao nhiêu mảng, các mảng phụ thuộc nhau đến đâu, và nguồn lực khan hiếm nằm ở chức năng nào. Luận điểm của bài này: chọn cơ cấu thực chất là chọn trục nào giữ quyền cuối cùng về nguồn lực, và lựa chọn đó nên được đưa ra cho từng chức năng chứ không cho cả doanh nghiệp. Một sơ đồ ma trận không ghi rõ quyền cuối cùng ở đâu chỉ tạo ra hai chuỗi chỉ huy chồng lên nhau.
 
 :::takeaways
 - Chandler (1962) chỉ ra rằng cơ cấu đi theo chiến lược: khi các tập đoàn Mỹ đa dạng hoá, cơ cấu chức năng tập trung bộc lộ giới hạn và được thay bằng cơ cấu đa bộ phận. Các kiểu cơ cấu khác, như ma trận, đến từ những nguồn sau.
@@ -23,7 +23,7 @@ Cơ cấu tổ chức doanh nghiệp có ba kiểu cơ bản: theo chức năng,
 
 Alfred D. Chandler, trong *Strategy and Structure* (1962), nghiên cứu lịch sử tổ chức của bốn tập đoàn Mỹ: DuPont, General Motors, Standard Oil (New Jersey) và Sears, Roebuck. Ông thấy rằng khi các doanh nghiệp này mở rộng sang sản phẩm mới hoặc địa bàn mới, cơ cấu tập trung theo chức năng gây quá tải cho lãnh đạo cấp cao và làm chậm quyết định. Sau một giai đoạn kém hiệu quả, họ chuyển sang cơ cấu đa bộ phận: mỗi bộ phận phụ trách một nhóm sản phẩm hoặc một vùng, tự chịu trách nhiệm kết quả, còn trụ sở tập trung vào kế hoạch dài hạn và phân bổ vốn. Từ đó ông rút ra mệnh đề "cơ cấu đi theo chiến lược".
 
-Có ba điểm cần đọc đúng. Thứ nhất, Chandler mô tả sự chuyển dịch từ cơ cấu chức năng sang đa bộ phận; ông không đề xuất một danh mục các kiểu cơ cấu, cũng không bàn về cơ cấu ma trận. Thứ hai, trong các trường hợp ông nghiên cứu, cơ cấu thường thay đổi chậm hơn chiến lược và chỉ sau khi sự kém hiệu quả đã rõ, tức là có độ trễ. Thứ ba, quan hệ không chỉ một chiều: Hall và Saias (1980) lập luận rằng cơ cấu hiện có cũng định hình những chiến lược mà doanh nghiệp nhìn thấy và theo đuổi được. Hệ quả thực tế: khi chiến lược đổi, Ban điều hành nên chủ động xem lại cơ cấu thay vì chờ sự kém hiệu quả buộc phải đổi.
+Có ba điểm cần đọc đúng. Thứ nhất, Chandler mô tả sự chuyển dịch từ cơ cấu chức năng sang đa bộ phận; ông không đề xuất một danh mục các kiểu cơ cấu, cũng không bàn về cơ cấu ma trận. Thứ hai, trong các trường hợp ông nghiên cứu, cơ cấu thường thay đổi chậm hơn chiến lược và chỉ sau khi sự kém hiệu quả đã rõ, tức là có độ trễ. Thứ ba, quan hệ có cả chiều ngược lại: Hall và Saias (1980) lập luận rằng cơ cấu hiện có cũng định hình những chiến lược mà doanh nghiệp nhìn thấy và theo đuổi được. Hệ quả thực tế: khi chiến lược đổi, Ban điều hành nên chủ động xem lại cơ cấu thay vì chờ sự kém hiệu quả buộc phải đổi.
 
 ## Các kiểu cơ cấu tổ chức doanh nghiệp và đánh đổi của từng kiểu
 

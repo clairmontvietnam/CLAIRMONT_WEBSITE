@@ -18,15 +18,9 @@ Tiêu chí đánh giá nhà cung cấp thường gồm sáu nhóm: chất lượ
 - Tiêu chí mà điểm cao ở chỗ khác không bù được (an toàn, pháp lý, năng lực tối thiểu) nên là ngưỡng loại, xét trước khi chấm. Trọng số phải chốt trước khi xem báo giá.
 :::
 
-## Ba quyết định mà bảng chấm phục vụ
-
-Đánh giá nhà cung cấp phục vụ ba quyết định: lựa chọn ban đầu (dữ liệu là hồ sơ năng lực, mẫu, báo giá, kiểm tra tại xưởng), đánh giá định kỳ (dữ liệu là kết quả giao hàng thực tế) và đánh giá lại sau sự cố hoặc khi thị trường đổi. Tiêu chuẩn ISO 9001:2015 (điều 8.4) yêu cầu tổ chức xác định tiêu chí cho việc đánh giá, lựa chọn, theo dõi kết quả và đánh giá lại nhà cung cấp bên ngoài, nhưng không quy định tiêu chí cụ thể hay trọng số; phần đó là quyết định của doanh nghiệp.
-
-Gói thầu sử dụng vốn nhà nước thuộc phạm vi Luật Đấu thầu số 22/2023/QH15 (hiệu lực từ 01/01/2024, đã được sửa đổi, bổ sung nhiều lần, văn bản hợp nhất số 74/VBHN-VPQH ngày 25/3/2026) phải đánh giá theo tiêu chuẩn trong hồ sơ mời thầu và quy định của luật đó.
-
 ## Sáu nhóm tiêu chí đánh giá nhà cung cấp và cách đo
 
-Nghiên cứu về tiêu chí chọn nhà cung cấp có lịch sử dài. Dickson (1966) khảo sát các nhà quản lý mua hàng ở Mỹ với 23 tiêu chí và ghi nhận chất lượng, giao hàng và lịch sử thực hiện được xếp quan trọng nhất. Weber, Current và Benton (1991) tổng quan 74 bài nghiên cứu và thấy giá, giao hàng và chất lượng là ba tiêu chí được bàn nhiều nhất, phần lớn các bài xét nhiều tiêu chí cùng lúc. Bảng dưới đây gom các tiêu chí thường gặp thành sáu nhóm và chỉ ra cách đo cho từng nhóm.
+Dickson (1966) khảo sát các nhà quản lý mua hàng ở Mỹ với 23 tiêu chí; chất lượng, giao hàng và lịch sử thực hiện được xếp quan trọng nhất. Weber, Current và Benton (1991) tổng quan 74 bài nghiên cứu và thấy giá, giao hàng, chất lượng là ba tiêu chí được bàn nhiều nhất. Tiêu chuẩn ISO 9001:2015 (điều 8.4) yêu cầu tổ chức xác định tiêu chí đánh giá, lựa chọn, theo dõi và đánh giá lại nhà cung cấp bên ngoài, nhưng không quy định tiêu chí hay trọng số cụ thể. Bảng dưới đây gom các tiêu chí thường gặp thành sáu nhóm. Riêng gói thầu sử dụng vốn nhà nước phải đánh giá theo Luật Đấu thầu số 22/2023/QH15 (hiệu lực từ 01/01/2024, đã sửa đổi, bổ sung; văn bản hợp nhất số 74/VBHN-VPQH ngày 25/3/2026) và hồ sơ mời thầu.
 
 | Nhóm tiêu chí | Tiêu chí con đo được | Bằng chứng cần thu | Dùng làm |
 |---|---|---|---|
@@ -73,7 +67,7 @@ Khung của Kraljic có bốn bước: phân loại hàng mua, phân tích thị
 
 Hai trục độc lập nên một món hàng có thể cao ở cả hai. Đó chính là ô Chiến lược, nơi Kraljic đề xuất quyết định ở cấp lãnh đạo cao nhất của chức năng mua hàng. Cách hiểu "giá trị lớn thì rủi ro thấp" hay ngược lại là sai: không có quan hệ nghịch nào giữa hai trục.
 
-Bước phân tích thị trường của Kraljic so sánh sức mạnh của doanh nghiệp với sức mạnh của nhà cung cấp, từ đó chọn một trong ba hướng: khai thác (doanh nghiệp mạnh hơn), cân bằng, hoặc đa dạng hoá nguồn (nhà cung cấp mạnh hơn). Bước này thường bị bỏ qua khi người ta chỉ nhớ bốn ô, nhưng nó quan trọng cho bảng chấm: ở ô Chiến lược mà doanh nghiệp yếu thế, tiêu chí "sẵn sàng ưu tiên doanh nghiệp khi khan hàng" có giá trị hơn vài phần trăm giá.
+Bước phân tích thị trường so sánh sức mạnh của doanh nghiệp với nhà cung cấp để chọn một trong ba hướng: khai thác, cân bằng, hoặc đa dạng hoá nguồn. Bước này hay bị bỏ qua nhưng ảnh hưởng đến bảng chấm: ở ô Chiến lược mà doanh nghiệp yếu thế, cam kết ưu tiên giao hàng khi khan hiếm có giá trị hơn vài phần trăm giá.
 
 ### Giới hạn của ma trận
 
@@ -101,7 +95,7 @@ Lý do: ở ô Đòn bẩy, thị trường nhiều người bán nên giá là 
 ## Ví dụ: cùng ba nhà cung cấp, hai bảng chấm, hai kết quả
 
 :::example Gói thang máy cho ba toà chung cư của một chủ đầu tư. Nhà cung cấp, giá và điểm đều là giả định
-Chủ đầu tư cần chọn nhà cung cấp thang máy cho ba toà chung cư. Món hàng được xếp vào ô Chiến lược: chiếm tỷ trọng lớn trong chi phí thiết bị, ảnh hưởng trực tiếp đến trải nghiệm cư dân, và chỉ có ít nhà cung cấp có đội lắp đặt, bảo trì tại địa phương.
+Món hàng thuộc ô Chiến lược: tỷ trọng lớn trong chi phí thiết bị, ảnh hưởng trực tiếp đến trải nghiệm cư dân, và ít nhà cung cấp có đội lắp đặt, bảo trì tại địa phương.
 
 Ba nhà cung cấp A, B, C chào giá lần lượt 19,2; 16,8 và 15,0 tỷ đồng. Chi phí bảo trì và phụ tùng 15 năm theo báo giá lần lượt 4,8; 7,8 và 9,6 tỷ đồng. Tổng chi phí sở hữu lần lượt 24,0; 24,6 và 24,6 tỷ đồng.
 
@@ -122,24 +116,24 @@ Quy ước tính: tổng chi phí sở hữu là giá chào cộng chi phí bả
 
 Bảng chung, với giá chiếm một nửa trọng số, xếp A cuối và để B, C gần như hoà. Nếu nhóm mua hàng nghiêng về giá thấp nhất, C sẽ được chọn. Nhưng C không có đội bảo trì thường trực tại địa phương, trượt ngưỡng năng lực dịch vụ tối thiểu của ô Chiến lược và bị loại trước khi chấm. Với trọng số của ô Chiến lược và chi phí tính theo vòng đời, A dẫn B tám điểm.
 
-Ví dụ này cần được thử thách, vì kết luận có thể đến từ một giả định yếu. Hai phép thử:
+Kết luận này cần được thử thách bằng hai phép thử.
 
-**Giả định về chi phí bảo trì.** Giả sử A chỉ cam kết giá bảo trì trong 5 năm đầu, từ năm thứ 6 giá ngang B. Chi phí bảo trì 15 năm của A tăng lên khoảng 6,8 tỷ, tổng chi phí sở hữu thành 26,0 tỷ, cao nhất trong ba bên. A vẫn dẫn, 87,9 điểm so với 81,5. Như vậy lợi thế của A không nằm ở chi phí mà ở điểm năng lực dịch vụ.
+**Giả định chi phí bảo trì.** Giả sử A chỉ cam kết giá bảo trì 5 năm đầu, từ năm thứ 6 giá ngang B. Chi phí bảo trì 15 năm của A lên khoảng 6,8 tỷ, tổng chi phí sở hữu 26,0 tỷ, cao nhất trong ba bên. A vẫn dẫn, 87,9 điểm so với 81,5. Lợi thế của A vì thế đến từ điểm năng lực dịch vụ, không đến từ chi phí.
 
-**Điểm mà quyết định phụ thuộc vào.** Mỗi bậc điểm năng lực dịch vụ có giá trị 5 điểm trên thang 100 ở ô Chiến lược. Nếu kiểm tra thực tế cho thấy B ngang A về dịch vụ (4,5 thay vì 3,5), khoảng cách còn 3,0 điểm trong kịch bản gốc và 1,4 điểm trong kịch bản bảo trì bất lợi. Chủ đầu tư vì thế nên dồn công sức kiểm chứng vào đúng một tiêu chí: năng lực bảo trì thực tế của A và B, qua thăm công trình đang vận hành và phỏng vấn ban quản lý toà nhà tham chiếu. Đồng thời nên đàm phán khoá giá bảo trì hoặc trần tăng giá cho cả 15 năm, vì điều khoản đó làm giả định chi phí bớt phụ thuộc vào thiện chí của nhà cung cấp.
+**Tiêu chí mà quyết định phụ thuộc vào.** Mỗi bậc điểm năng lực dịch vụ đáng 5 điểm trên thang 100. Nếu kiểm tra thực tế cho thấy B ngang A về dịch vụ (4,5 thay vì 3,5), khoảng cách còn 3,0 điểm trong kịch bản gốc và 1,4 điểm trong kịch bản bảo trì bất lợi. Chủ đầu tư nên dồn công sức kiểm chứng vào đúng tiêu chí này, qua thăm công trình đang vận hành và phỏng vấn ban quản lý toà nhà tham chiếu, đồng thời đàm phán khoá giá hoặc trần tăng giá bảo trì cho cả 15 năm.
 
 Clairmont đề xuất một quy ước: khi chênh lệch tổng điểm dưới 3 trên thang 100, coi hai nhà cung cấp là ngang nhau về mặt bảng chấm, và quyết định bằng điều khoản hợp đồng, kết quả lô thử hoặc chia tỷ trọng, thay vì tin vào phần thập phân.
 
 ## Quy trình đánh giá nhà cung cấp
 
-1. **Phân loại danh mục hàng mua theo Kraljic.** Liệt kê các món mua, giá trị mua 12 tháng, số nhà cung cấp đủ năng lực, thời gian cần để thay thế. Ghi lý do xếp ô và người xếp.
-2. **Chốt tiêu chí, ngưỡng loại và trọng số cho từng ô trước khi nhận báo giá.** Lưu biên bản phê duyệt trọng số. Đây là biện pháp chính chống việc điều chỉnh trọng số để hợp thức hoá lựa chọn có sẵn.
-3. **Thu bằng chứng theo từng tiêu chí.** Thử mẫu, lô thử, thăm xưởng hoặc công trình tham chiếu cho ô Chiến lược và Nút thắt; hồ sơ giấy tờ là đủ cho ô Thông thường.
-4. **Xét ngưỡng loại, rồi chấm điểm.** Hai người chấm độc lập cho các tiêu chí định tính; chênh nhau quá một bậc thì phải thảo luận và ghi lý do.
-5. **Phân tích độ nhạy.** Thử thay đổi trọng số của tiêu chí nặng nhất và giả định chi phí lớn nhất. Nếu thứ hạng đổi, tìm tiêu chí mà quyết định phụ thuộc vào và kiểm chứng thêm.
-6. **Đánh giá định kỳ theo ô.** Gợi ý tần suất: ô Chiến lược và Nút thắt mỗi quý, kèm họp kế hoạch chung với nhà cung cấp chiến lược; ô Đòn bẩy mỗi kỳ đàm phán; ô Thông thường mỗi năm. Chỉ số cốt lõi: tỷ lệ giao đúng hạn và đủ số lượng, tỷ lệ lỗi, thời gian xử lý sự cố.
+1. **Xếp danh mục hàng mua vào ma trận Kraljic:** giá trị mua 12 tháng, số nhà cung cấp đủ năng lực, thời gian cần để thay thế; ghi lý do và người xếp.
+2. **Chốt tiêu chí, ngưỡng loại và trọng số cho từng ô trước khi nhận báo giá,** có biên bản phê duyệt. Đây là biện pháp chính chống việc chỉnh trọng số để hợp thức hoá lựa chọn có sẵn.
+3. **Thu bằng chứng:** thử mẫu, lô thử, thăm xưởng hoặc công trình tham chiếu cho ô Chiến lược và Nút thắt; hồ sơ giấy tờ cho ô Thông thường.
+4. **Xét ngưỡng loại, rồi chấm điểm.** Hai người chấm độc lập các tiêu chí định tính; chênh quá một bậc thì thảo luận và ghi lý do.
+5. **Phân tích độ nhạy** với trọng số nặng nhất và giả định chi phí lớn nhất; nếu thứ hạng đổi, kiểm chứng thêm tiêu chí quyết định.
+6. **Đánh giá định kỳ theo ô:** ô Chiến lược và Nút thắt mỗi quý, ô Đòn bẩy mỗi kỳ đàm phán, ô Thông thường mỗi năm. Chỉ số cốt lõi: tỷ lệ giao đúng hạn và đủ số lượng, tỷ lệ lỗi, thời gian xử lý sự cố.
 
-Kiểm soát chất lượng sau khi đã chọn nhà cung cấp, đặc biệt với đối tác gia công, được bàn trong bài [kiểm soát chất lượng gia công](/goc-nhin/kiem-soat-chat-luong-gia-cong/). Câu hỏi đứng trước việc chọn nhà cung cấp, tức có nên tự làm khâu đó hay không, được phân tích trong bài [tích hợp chuỗi giá trị](/goc-nhin/tich-hop-chuoi-gia-tri/). Bức tranh chung về các khâu tạo giá trị nằm ở bài [chuỗi giá trị là gì](/goc-nhin/chuoi-gia-tri-la-gi/).
+Kiểm soát chất lượng sau khi đã chọn nhà cung cấp được bàn trong bài [kiểm soát chất lượng gia công](/goc-nhin/kiem-soat-chat-luong-gia-cong/). Câu hỏi đứng trước đó, có nên tự làm khâu này hay không, nằm ở bài [tích hợp chuỗi giá trị](/goc-nhin/tich-hop-chuoi-gia-tri/); bức tranh chung ở bài [chuỗi giá trị là gì](/goc-nhin/chuoi-gia-tri-la-gi/).
 
 ## Rủi ro thường gặp khi chấm nhà cung cấp
 
@@ -180,7 +174,3 @@ Dùng được, và thường nhanh hơn vì danh mục hàng mua ngắn. Giá t
 ### Giá có nên là tiêu chí nặng nhất không?
 
 Chỉ ở ô Đòn bẩy và ô Thông thường. Ở các ô còn lại, chi phí vẫn cần được chấm nhưng nên tính theo tổng chi phí sở hữu, gồm bảo trì, lỗi, giao trễ và lưu kho. Với thiết bị dùng nhiều năm, chi phí sau khi mua có thể đảo ngược thứ hạng so với giá chào.
-
-### Bao lâu nên đánh giá lại nhà cung cấp?
-
-Theo mức rủi ro của nhóm hàng. Gợi ý: nhà cung cấp ở ô Chiến lược và Nút thắt mỗi quý, ô Đòn bẩy mỗi kỳ đàm phán, ô Thông thường mỗi năm. Ngoài lịch định kỳ, nên đánh giá lại ngay sau một sự cố lớn về chất lượng hoặc giao hàng, hoặc khi thị trường cung thay đổi rõ rệt.
