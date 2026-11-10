@@ -5,6 +5,8 @@ h1: Chuỗi giá trị cà phê: từ vùng trồng đến kệ hàng, doanh ngh
 description: Chuỗi giá trị cà phê không phân bổ giá trị đều giữa các khâu. Đường cong nụ cười giúp thương hiệu chọn khâu tự làm, khâu hợp tác và kiểm soát rủi ro.
 keywords: chuỗi giá trị cà phê, đường cong nụ cười, Stan Shih, thương hiệu cà phê, gia công rang xay, FLEUR, phát triển chuỗi giá trị
 summary: Giá trị trong chuỗi cà phê không chia đều; chọn tự làm hay hợp tác cần dựa trên vai trò thực của từng khâu.
+cover: /assets/covers/chuoi-gia-tri-ca-phe-tu-vung-trong-den-ke-hang.webp
+cover_alt: Minh hoạ: đồi cà phê nối tiếp bằng một con đường dẫn tới xưởng rang và một kệ hàng, như một dải tranh liền mạch
 date: 2026-10-29
 category: Chuỗi giá trị
 author: Clairmont Group

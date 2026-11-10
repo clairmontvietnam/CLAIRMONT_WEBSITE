@@ -5,6 +5,8 @@ h1: Chiến lược là lựa chọn: xác định điều không làm bằng kh
 description: Chiến lược là lựa chọn, và lựa chọn khó nhất là điều sẽ không làm. Khung ERRC giúp doanh nghiệp quyết định yếu tố cần bỏ, giảm, tăng và tạo mới.
 keywords: chiến lược là lựa chọn, khung ERRC, chiến lược đại dương xanh, chiến lược là chọn điều không làm, Michael Porter, đánh đổi chiến lược
 summary: Doanh nghiệp trẻ ít khi thiếu cơ hội; điều thường thiếu là danh sách rõ những gì sẽ bỏ và lý do để bỏ.
+cover: /assets/covers/biet-khong-lam-gi.webp
+cover_alt: Minh hoạ: nhiều con đường rẽ nhánh trên cánh đồng, chỉ một con đường được thắp sáng, các lối khác mờ dần
 date: 2026-10-29
 category: Góc nhìn Nhà sáng lập
 author: Clairmont Group

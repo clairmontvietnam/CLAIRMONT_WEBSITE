@@ -5,6 +5,8 @@ h1: Chuẩn hoá quy trình vận hành: vì sao quy trình đã ban hành vẫn
 description: Chuẩn hoá quy trình vận hành nên bắt đầu từ một điểm nghẽn cụ thể và được cải tiến qua chu trình PDCA, thay vì soạn một bộ tài liệu dày khó áp dụng.
 keywords: chuẩn hoá quy trình vận hành, chu trình PDCA, chu trình Shewhart, PDSA Deming, quy trình thao tác chuẩn SOP, quản trị vận hành
 summary: Quy trình chỉ có giá trị khi được thử, đo và sửa định kỳ; PDCA là cơ chế để duy trì việc đó.
+cover: /assets/covers/chuan-hoa-quy-trinh-van-hanh.webp
+cover_alt: Minh hoạ: các bánh răng ăn khớp nhau trên một bảng quy trình, phong cách cơ khí tinh tế
 date: 2026-10-29
 category: Quản trị tổ chức
 author: Clairmont Group

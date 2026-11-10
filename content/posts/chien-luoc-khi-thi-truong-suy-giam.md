@@ -5,6 +5,8 @@ h1: Chiến lược khi thị trường suy giảm: cân bằng thanh khoản v�
 description: Chiến lược khi thị trường suy giảm cần cân bằng thanh khoản và vị thế dài hạn. Bài học từ nghiên cứu Roaring Out of Recession và giới hạn khi áp dụng.
 keywords: chiến lược khi thị trường suy giảm, Roaring Out of Recession, cắt giảm chi phí có chọn lọc, kịch bản dòng tiền, đầu tư khi suy thoái
 summary: Khi thị trường suy giảm, câu hỏi không phải cắt bao nhiêu, mà là cắt ở đâu, giữ gì và đầu tư vào đâu.
+cover: /assets/covers/chien-luoc-khi-thi-truong-suy-giam.webp
+cover_alt: Minh hoạ: một con thuyền buồm giữ hướng giữa biển động, trời nhiều mây
 date: 2026-11-07
 category: Góc nhìn Nhà sáng lập
 author: Clairmont Group

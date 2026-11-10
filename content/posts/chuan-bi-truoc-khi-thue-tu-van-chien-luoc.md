@@ -5,6 +5,8 @@ h1: Thuê tư vấn chiến lược: chuẩn bị đầu vào và tiêu chí ch�
 description: Trước khi thuê tư vấn chiến lược, doanh nghiệp cần chuẩn bị vấn đề, dữ liệu, người tham gia và tiêu chí chọn đơn vị tư vấn, nhìn qua Kim cương đôi.
 keywords: thuê tư vấn chiến lược, mô hình Kim cương đôi, Double Diamond, chọn đơn vị tư vấn chiến lược, tư vấn chiến lược doanh nghiệp
 summary: Mang đến buổi gặp đầu một vấn đề có dữ liệu, không phải giải pháp định sẵn, và biết cách đánh giá đơn vị tư vấn.
+cover: /assets/covers/chuan-bi-truoc-khi-thue-tu-van-chien-luoc.webp
+cover_alt: Minh hoạ: một chiếc bàn họp dài với bộ hồ sơ, sổ tay và bút được chuẩn bị sẵn trước cuộc họp
 date: 2026-10-29
 category: Hỏi đáp
 author: Clairmont Group

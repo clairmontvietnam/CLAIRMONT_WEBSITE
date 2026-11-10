@@ -233,10 +233,11 @@ def toc_box(toc):
     return f'<div class="glass"><h4>Nội dung</h4><ol>{li}</ol></div>'
 
 
-def card(url, k, title, summary, go='Đọc tiếp →', cat=None, model=None):
+def card(url, k, title, summary, go='Đọc tiếp →', cat=None, model=None, cover=None):
     dc = f' data-cat="{esc(cat)}"' if cat else ''
+    th = f'<div class="thumb"><img src="{esc(cover)}" alt="" width="1600" height="900" loading="lazy" decoding="async"></div>' if cover else ''
     mc = f'<div class="mchip">{blocks.glyph(model["type"])}<span>{esc(re.sub("<[^>]+>", "", model["title"]).split(" · ")[0])}</span></div>' if model else ''
-    return (f'<a class="card" href="{url}"{dc}>{mc}<span class="k">{esc(k)}</span><h3>{esc(title)}</h3>'
+    return (f'<a class="card{" has-thumb" if cover else ""}" href="{url}"{dc}>{th}{mc}<span class="k">{esc(k)}</span><h3>{esc(title)}</h3>'
             f'<p>{esc(summary)}</p><span class="go">{go}</span></a>')
 
 
@@ -267,7 +268,7 @@ def main():
     for key, frag, url, nav, title, desc in CORE:
         body = read(ROOT / f'src/pages/{frag}.html')
         pcard = lambda p: card(f'/goc-nhin/{p["slug"]}/', p.get('category', 'Góc nhìn'), p.get('h1') or p['title'],
-                               p.get('summary', p['description']), cat=p.get('category', 'Góc nhìn'), model=(p.get('models') or [None])[0])
+                               p.get('summary', p['description']), cat=p.get('category', 'Góc nhìn'), model=(p.get('models') or [None])[0], cover=p.get('cover'))
         if '{{POSTS}}' in body:
             cats = []
             for p in posts:
@@ -338,16 +339,17 @@ def main():
         page = (f'<div class="page" id="p-post"><section class="sec"><div class="wrap">{crumb_html(cr)}'
                 f'<header class="art-head"><div class="lbl">{esc(p.get("category", "Góc nhìn"))}</div><h1>{esc(h1)}</h1><p class="dek">{esc(p["description"])}</p>'
                 f'<div class="art-meta"><span>{esc(author)}</span><time datetime="{p["date"]}">{fmt_date(p["date"])}</time><span>{p["minutes"]} phút đọc</span></div></header>'
+                + (f'<figure class="art-cover"><img src="{esc(p["cover"])}" alt="{esc(p.get("cover_alt", ""))}" width="1600" height="900" fetchpriority="high" decoding="async"></figure>' if p.get('cover') else '') +
                 f'<div class="art-grid"><div><article class="prose">{p["html"]}{faq_html(p["faq"])}</article>{cta_box()}</div>'
                 f'<aside class="art-side">{side}</aside></div></div></section></div>')
         auth_ld = {'@id': SITE + '/#founder'} if author == ORG['founder'] else {'@id': SITE + '/#org'}
         ld = [crumbs_ld(cr), {'@type': 'BlogPosting', 'headline': h1[:110], 'description': p['description'], 'url': SITE + url,
                               'mainEntityOfPage': SITE + url, 'datePublished': p['date'], 'dateModified': p.get('updated', p['date']),
-                              'inLanguage': 'vi-VN', 'author': auth_ld, 'publisher': {'@id': SITE + '/#org'}, 'image': OG_IMAGE,
+                              'inLanguage': 'vi-VN', 'author': auth_ld, 'publisher': {'@id': SITE + '/#org'}, 'image': (SITE + p['cover']) if p.get('cover') else OG_IMAGE,
                               'keywords': ', '.join(p['keywords_list']), 'articleSection': p.get('category', 'Góc nhìn'), 'wordCount': p['words']}]
         if p['faq']:
             ld.append(faq_ld(p['faq']))
-        render(url, head(p['title'], p['description'], url, og_type='article', extra=ld), page, '/goc-nhin/')
+        render(url, head(p['title'], p['description'], url, og_type='article', extra=ld, image=(SITE + p['cover']) if p.get('cover') else OG_IMAGE), page, '/goc-nhin/')
         urls.append((url, p.get('updated', p['date']), '0.7'))
 
     # 404

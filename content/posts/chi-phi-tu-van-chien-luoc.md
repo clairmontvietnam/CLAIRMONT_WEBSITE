@@ -5,6 +5,8 @@ h1: Chi phí tư vấn chiến lược: phạm vi, thời hạn và hình thức
 description: Chi phí tư vấn chiến lược phụ thuộc vào phạm vi, thời hạn và nguồn lực chuyên môn. Cách bóc tách đề xuất, các hình thức tính phí và điều khoản cần hỏi.
 keywords: chi phí tư vấn chiến lược, tam giác dự án, phí tư vấn chiến lược, hình thức tính phí tư vấn, đề xuất tư vấn
 summary: Hai đề xuất tư vấn chênh nhau về giá thường là hai dự án khác nhau về phạm vi, thời hạn và nguồn lực.
+cover: /assets/covers/chi-phi-tu-van-chien-luoc.webp
+cover_alt: Minh hoạ: một chiếc cân đĩa cổ cân bằng giữa một chồng tài liệu và một chiếc đồng hồ cát
 date: 2026-10-29
 category: Hỏi đáp
 author: Clairmont Group

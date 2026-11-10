@@ -5,6 +5,8 @@ h1: Concept dự án bất động sản: từ nhu cầu cư dân đến quy ho�
 description: Concept dự án bất động sản là ý tưởng tổ chức nối định vị với quy hoạch, tiện ích, vận hành và chi phí. Phân tích qua tháp Maslow và giới hạn của mô hình.
 keywords: concept dự án bất động sản, tháp nhu cầu Maslow, ý tưởng dự án, định vị dự án, phát triển dự án bất động sản
 summary: Concept là lời hứa chính của dự án, phải hiện ra trong quy hoạch, tiện ích, vận hành và mô hình tài chính.
+cover: /assets/covers/concept-du-an-bat-dong-san.webp
+cover_alt: Minh hoạ khu nhà ở thấp tầng ven sông nhìn từ trên cao
 date: 2026-10-29
 category: Bất động sản
 author: Clairmont Group

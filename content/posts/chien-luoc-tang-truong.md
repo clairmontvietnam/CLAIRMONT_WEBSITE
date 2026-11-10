@@ -5,6 +5,8 @@ h1: Chiến lược tăng trưởng: đánh giá dư địa và chọn hướng 
 description: Chiến lược tăng trưởng bắt đầu từ việc đo dư địa thị trường hiện tại. Ma trận Ansoff giúp so sánh bốn hướng tăng trưởng, kèm giới hạn khi áp dụng.
 keywords: chiến lược tăng trưởng, ma trận Ansoff, thâm nhập thị trường, phát triển thị trường, phát triển sản phẩm, đa dạng hoá
 summary: Trước khi đi xa, cần biết thị trường hiện tại còn bao nhiêu dư địa và mỗi hướng mới đòi hỏi năng lực gì.
+cover: /assets/covers/chien-luoc-tang-truong.webp
+cover_alt: Minh hoạ: một cây lớn với bốn nhánh chính vươn ra bốn hướng, rễ bám chắc vào đất
 date: 2026-10-29
 category: Chiến lược doanh nghiệp
 author: Clairmont Group

@@ -5,6 +5,8 @@ h1: Bản sắc doanh nghiệp: vì sao chiến lược nên bắt đầu từ c
 description: Bản sắc doanh nghiệp giúp chiến lược nhất quán khi thị trường biến động. Phân tích Vòng tròn vàng của Simon Sinek, giới hạn và cách kiểm chứng bản sắc.
 keywords: bản sắc doanh nghiệp, Vòng tròn vàng Simon Sinek, bản sắc dẫn lối chiến lược, bản sắc tổ chức, xây dựng chiến lược từ bản sắc
 summary: Bản sắc giúp chiến lược nhất quán, nhưng chỉ có giá trị khi được hành động chứng minh và thị trường kiểm chứng.
+cover: /assets/covers/ban-sac-diem-xuat-phat-cua-chien-luoc.webp
+cover_alt: Minh hoạ: một chiếc la bàn cổ bằng đồng đặt trên bản đồ địa hình cũ, kim chỉ hướng rõ ràng
 date: 2026-10-29
 category: Góc nhìn Nhà sáng lập
 author: Clairmont Group

@@ -5,6 +5,8 @@ h1: Các bước xây dựng chiến lược doanh nghiệp theo chuỗi lựa c
 description: Các bước xây dựng chiến lược doanh nghiệp theo khung Playing to Win: năm lựa chọn nối nhau, đầu vào phân tích, cách thử phương án và giới hạn của mô hình.
 keywords: xây dựng chiến lược doanh nghiệp, các bước xây dựng chiến lược, Playing to Win, chuỗi lựa chọn chiến lược, chiến lược doanh nghiệp vừa và nhỏ
 summary: Chiến lược là chuỗi lựa chọn có thứ tự, được kiểm chứng bằng điều kiện cụ thể, không phải một bản kế hoạch dày.
+cover: /assets/covers/cac-buoc-xay-dung-chien-luoc-doanh-nghiep.webp
+cover_alt: Minh hoạ: những bậc thang đá đi lên một ngọn đồi thoai thoải, mỗi bậc một màu sắc khác nhau
 date: 2026-10-29
 category: Chiến lược doanh nghiệp
 author: Clairmont Group

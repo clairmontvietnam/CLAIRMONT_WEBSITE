@@ -5,6 +5,8 @@ h1: Câu chuyện thương hiệu: chọn một vai rõ và chứng minh bằng 
 description: Câu chuyện thương hiệu không nằm ở một đoạn văn hay. Phân tích 12 nguyên mẫu Mark & Pearson, giới hạn của mô hình và cách kể nhất quán ở mọi điểm chạm.
 keywords: câu chuyện thương hiệu, 12 nguyên mẫu thương hiệu, brand archetype, brand story, kể chuyện thương hiệu, phát triển thương hiệu
 summary: Câu chuyện thương hiệu đáng tin khi mỗi khẳng định được hành động chứng minh ở mọi điểm chạm khách hàng.
+cover: /assets/covers/cau-chuyen-thuong-hieu.webp
+cover_alt: Minh hoạ: một cuốn sách mở ra thành một khu phố nhỏ với những mái nhà và hàng cây
 date: 2026-10-29
 category: Thương hiệu
 author: Clairmont Group

@@ -5,6 +5,8 @@ h1: Chẩn đoán doanh nghiệp: chuẩn bị dữ liệu theo mô hình Sáu h
 description: Chẩn đoán doanh nghiệp cần chuẩn bị dữ liệu nào? Mô hình Sáu hộp của Weisbord chỉ ra nơi cần nhìn, hai lớp dữ liệu cho từng nơi và giới hạn của mô hình.
 keywords: chẩn đoán doanh nghiệp, mô hình Sáu hộp Weisbord, chẩn đoán tổ chức, dữ liệu chẩn đoán doanh nghiệp, chuẩn bị làm việc với tư vấn
 summary: Dữ liệu cho chẩn đoán doanh nghiệp gồm hai lớp: số liệu trong văn bản và cách công việc thực sự diễn ra.
+cover: /assets/covers/chan-doan-doanh-nghiep.webp
+cover_alt: Minh hoạ: bàn làm việc với kính lúp, sơ đồ tổ chức và các tập hồ sơ được sắp xếp gọn gàng, nhìn từ trên xuống
 date: 2026-11-08
 category: Hỏi đáp
 author: Clairmont Group

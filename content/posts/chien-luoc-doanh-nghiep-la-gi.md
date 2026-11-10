@@ -5,6 +5,8 @@ h1: Chiến lược doanh nghiệp là gì: định nghĩa, ba cấp độ và l
 description: Chiến lược doanh nghiệp là gì, khác mục tiêu và kế hoạch thế nào? Định nghĩa từ Chandler, Porter, Rumelt, ba cấp chiến lược và giới hạn của mô hình Porter.
 keywords: chiến lược doanh nghiệp, chiến lược doanh nghiệp là gì, ba chiến lược cạnh tranh tổng quát, Michael Porter, cấp độ chiến lược
 summary: Chiến lược là lựa chọn nơi cạnh tranh và cách thắng, thể hiện qua những điều doanh nghiệp không làm.
+cover: /assets/covers/chien-luoc-doanh-nghiep-la-gi.webp
+cover_alt: Minh hoạ: bàn cờ vua với vài quân cờ được đặt có chủ đích, ánh sáng chiếu nghiêng
 date: 2026-10-29
 category: Chiến lược doanh nghiệp
 author: Clairmont Group
