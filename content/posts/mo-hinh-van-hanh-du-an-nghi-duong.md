@@ -29,7 +29,7 @@ Mô hình vận hành dự án nghỉ dưỡng là cách chủ đầu tư phân 
 | Nhượng quyền | Phí nhượng quyền theo doanh thu phòng, phí marketing, đặt phòng; cộng phí nhà vận hành độc lập | Trung bình đến cao | Chủ sở hữu | Có nhà vận hành độc lập đủ năng lực; cần thương hiệu chủ yếu cho phân phối | Tổng phí vượt phần doanh thu thương hiệu mang lại |
 | Cho thuê toàn bộ | Không phí; nhận tiền thuê | Thấp; chỉ qua điều khoản hợp đồng thuê | Bên thuê, trong giới hạn năng lực tài chính của họ | Ưu tiên dòng tiền ổn định; bên thuê có lịch sử vận hành và năng lực trả | Bên thuê không chứng minh được khả năng trả trong năm xấu |
 
-Về bậc độ lớn của phí: khảo sát JLL công bố tháng 9/2024 trên khoảng 400 HMA tại châu Á – Thái Bình Dương ghi nhận phí cơ bản bình quân 1,6% doanh thu, phí khuyến khích bình quân 6,6% GOP, thời hạn bình quân khoảng 17 năm, 93% hợp đồng có điều khoản chấm dứt khi không đạt chỉ tiêu hiệu quả, 35% có khoản nhà vận hành góp cho chủ sở hữu khi ký (key money). Một khảo sát của HVS năm 2026 cho khu vực Trung Đông và châu Phi ghi phí cơ bản 1,5–2,0% ở phân khúc trung cấp đến cao cấp, và các hợp đồng chiếm 48,9% số khách sạn trong mẫu dùng phép thử hiệu quả kép (chỉ số doanh thu so với nhóm cạnh tranh cộng ngưỡng lợi nhuận). Số liệu HVS khác vùng, chỉ dùng để thấy xu hướng điều khoản; JLL là mốc tham chiếu gần với Việt Nam hơn.
+Về bậc độ lớn của phí: khảo sát JLL công bố tháng 9/2024 trên khoảng 400 HMA tại châu Á – Thái Bình Dương ghi nhận phí cơ bản bình quân 1,6% doanh thu, phí khuyến khích bình quân 6,6% GOP, thời hạn bình quân khoảng 17 năm, 93% hợp đồng có điều khoản chấm dứt khi không đạt chỉ tiêu hiệu quả, 35% có khoản nhà vận hành góp cho chủ sở hữu khi ký (key money). Khảo sát HVS năm 2026 cho Trung Đông và châu Phi (khác vùng, chỉ để thấy xu hướng điều khoản) ghi phí cơ bản 1,5–2,0% ở phân khúc trung cấp đến cao cấp; các hợp đồng chiếm 48,9% số khách sạn trong mẫu dùng phép thử hiệu quả kép, gồm chỉ số doanh thu so với nhóm cạnh tranh và ngưỡng lợi nhuận.
 
 **Tầng người mua: thu nhập đến tay chủ căn ra sao.** Khi căn hộ du lịch hoặc biệt thự du lịch đã bán cho cá nhân, có ba cơ chế.
 
@@ -41,7 +41,7 @@ Về bậc độ lớn của phí: khảo sát JLL công bố tháng 9/2024 trê
 
 ## Công cụ chia lại rủi ro giữa các bên
 
-Giữa "chủ sở hữu gánh hết" và "cam kết cố định" có các điều khoản trung gian mà Ban điều hành có thể đàm phán. Bảng dưới là đề xuất của Clairmont về điều kiện dùng; tính khả thi pháp lý của từng điều khoản cần ý kiến luật sư.
+Giữa "chủ sở hữu gánh hết" và "cam kết cố định" có các điều khoản trung gian để đàm phán. Điều kiện dùng dưới đây là đề xuất của Clairmont; tính khả thi pháp lý cần ý kiến luật sư.
 
 | Công cụ | Cách hoạt động | Dùng khi |
 |---|---|---|
@@ -56,7 +56,7 @@ Tình trạng dưới đây được kiểm tra tại tháng 11/2026, là danh s
 
 - **Loại bất động sản được kinh doanh.** Luật Kinh doanh bất động sản số 29/2023/QH15, hiệu lực từ 01/8/2024, khoản 2 Điều 5 đưa công trình có công năng du lịch, lưu trú vào nhóm bất động sản được kinh doanh, kể cả loại hình thành trong tương lai.
 - **Loại cơ sở lưu trú.** Luật Du lịch số 09/2017/QH14, hiệu lực từ 01/01/2018, ghi nhận căn hộ du lịch và biệt thự du lịch là cơ sở lưu trú (Điều 48) và quy định điều kiện kinh doanh lưu trú (Điều 49). Dự án Luật sửa đổi, bổ sung một số điều của bảy luật lĩnh vực văn hoá, thể thao, du lịch, trong đó có Luật Du lịch với nội dung hoàn thiện quy định kinh doanh lưu trú, được Hội đồng thẩm định do Bộ Tư pháp chủ trì thẩm định ngày 29/5/2026 và thẩm tra sơ bộ tháng 8/2026; chưa có hiệu lực.
-- **Đất.** Căn hộ du lịch nằm trên đất thương mại, dịch vụ theo Luật Đất đai số 31/2024/QH15, thời hạn sử dụng theo dự án.
+- **Đất.** Căn hộ du lịch nằm trên đất thương mại, dịch vụ theo Luật Đất đai số 31/2024/QH15.
 - **Cam kết lợi nhuận và hợp đồng vận hành.** Khi góp ý dự thảo sửa đổi Luật Kinh doanh bất động sản, VARS IRE kiến nghị quy định điều kiện, giới hạn cho cam kết lợi nhuận (chứng minh khả năng chi trả, biện pháp bảo đảm) và quy định rõ việc chia doanh thu, chi phí, quyền thông tin của nhà đầu tư trong hợp đồng vận hành. Bài không kết luận về tính hợp pháp của từng dạng cam kết; mọi cam kết cụ thể cần ý kiến pháp lý.
 - **Dự thảo đang bàn.** Dự thảo Luật Kinh doanh bất động sản (sửa đổi) được trình Uỷ ban Thường vụ Quốc hội ngày 29/7/2026, có đề xuất cho cá nhân nước ngoài mua, thuê mua căn hộ du lịch và cho bán căn hộ du lịch trên đất thuê trả tiền hằng năm; Quốc hội thảo luận ngày 30/10/2026. Các nội dung này chưa có hiệu lực.
 
@@ -89,17 +89,15 @@ Ba điều rút ra.
 
 **Cam kết tạo khoảng chênh lớn hơn lựa chọn nhà vận hành.** Thu nhập ròng giữa cách vận hành tốt nhất và kém nhất chênh khoảng 14 tỷ đồng mỗi năm cho cả dự án; cam kết 8% tạo thiếu hụt 17–30 tỷ đồng mỗi năm ở mọi cách. Trong 5 năm, thiếu hụt của phương án B ở kịch bản cơ sở khoảng 85 tỷ đồng, bằng 12% doanh thu bán hàng 700 tỷ đồng. Để cam kết 8% tự trang trải, phương án B cần công suất khoảng 93% quanh năm; phương án A không đạt được kể cả ở 100%.
 
-**Lợi thế của HMA phụ thuộc vào mức nâng doanh thu.** Ở cùng biên GOP 34%, phí và quỹ thay thế của B lấy đi phần doanh thu lớn hơn A, nên thương hiệu phải nâng tổng doanh thu khoảng 14% chỉ để hoà. Khi mức nâng chỉ bằng một nửa giả định (B'), lợi thế so với A thu hẹp từ khoảng 38 xuống khoảng 8 triệu đồng mỗi căn mỗi năm phần chủ căn nhận.
+**Lợi thế của HMA phụ thuộc vào mức nâng doanh thu.** Ở cùng biên GOP 34%, thương hiệu phải nâng tổng doanh thu khoảng 14% chỉ để bù phí. Khi mức nâng chỉ bằng một nửa giả định (B'), phần chủ căn nhận hơn A chỉ còn khoảng 8 thay vì 38 triệu đồng mỗi năm.
 
 **Trần cam kết suy từ kịch bản thấp.** Theo quy ước đề xuất ở trên, phương án B chỉ chịu được cam kết khoảng 165 triệu đồng/căn, tức 4,7% giá bán; muốn bán với cam kết cao hơn, phần chênh phải có nguồn bảo đảm riêng như quỹ ký quỹ hoặc bảo lãnh của nhà vận hành. Cho thuê toàn bộ (D) giữ thu nhập ổn định ở kịch bản thấp, nhưng rủi ro chuyển sang năng lực trả tiền thuê của bên thuê.
 
 ## Rủi ro cần quản lý trong mọi mô hình
 
-- **Xung đột ba bên.** Chủ căn muốn thu nhập cao và quyền sử dụng căn; nhà vận hành muốn chuẩn đồng nhất và quyền quyết định giá; chủ đầu tư đứng giữa với cam kết bán hàng. Quy chế cho thuê chung cần quy định quyền thông tin, cách phân bổ chi phí và số đêm chủ căn được tự dùng.
-- **Tỷ lệ căn tham gia chương trình.** Nên xác định trong hợp đồng mua bán, không để thoả thuận sau.
-- **Lệch thời hạn.** HMA có thể kéo dài 15–20 năm, cam kết với người mua và quy chế cho thuê chung có thời hạn khác; cần định trước điều gì xảy ra khi một hợp đồng kết thúc trước.
-- **Quỹ thay thế.** Bỏ qua quỹ này làm thu nhập những năm đầu trông cao, rồi dồn chi phí cải tạo về sau.
-- **Điều khoản chấm dứt.** Chủ đầu tư cần biết trước chỉ số hiệu quả, nhóm cạnh tranh dùng để so và chi phí chấm dứt.
+- **Xung đột ba bên.** Chủ căn muốn thu nhập và quyền sử dụng căn; nhà vận hành muốn chuẩn đồng nhất và quyền quyết định giá. Quy chế cho thuê chung cần quy định quyền thông tin, phân bổ chi phí, số đêm chủ căn tự dùng; tỷ lệ căn tham gia nên ghi trong hợp đồng mua bán.
+- **Lệch thời hạn.** HMA có thể kéo dài 15–20 năm, cam kết với người mua có thời hạn khác; cần định trước điều gì xảy ra khi một hợp đồng kết thúc trước.
+- **Quỹ thay thế và điều khoản chấm dứt.** Bỏ qua quỹ thay thế làm thu nhập những năm đầu trông cao; với điều khoản chấm dứt, cần biết trước chỉ số hiệu quả, nhóm cạnh tranh dùng để so và chi phí chấm dứt.
 
 ## Quy trình quyết định
 
@@ -111,7 +109,7 @@ Ba điều rút ra.
 - Đưa yêu cầu vận hành vào đề bài thiết kế | Chuẩn thương hiệu, luồng khách, luồng phục vụ, diện tích hậu cần phải có trước khi chốt thiết kế cơ sở; xem [concept dự án bất động sản](/goc-nhin/concept-du-an-bat-dong-san/).
 :::
 
-Khi tên nhà vận hành quốc tế đi cùng dự án, quan hệ giữa tên đó, tên dự án và tên chủ đầu tư cũng cần được quyết định; xem [thương hiệu dự án bất động sản](/goc-nhin/thuong-hieu-du-an-bat-dong-san/).
+Quan hệ giữa tên nhà vận hành, tên dự án và tên chủ đầu tư được bàn trong bài [thương hiệu dự án bất động sản](/goc-nhin/thuong-hieu-du-an-bat-dong-san/).
 
 Với chủ đầu tư đang chọn mô hình vận hành cho dự án nghỉ dưỡng, Clairmont dựng các kịch bản thu nhập vận hành, so sánh các cách vận hành và cơ chế chia thu nhập, và đề xuất trần cam kết cùng công cụ chia rủi ro để Hội đồng quản trị quyết định, trong khuôn khổ [tư vấn doanh nghiệp bất động sản](/dich-vu/tu-van-bat-dong-san/). Clairmont không tư vấn pháp lý hay soạn hợp đồng; các phần này cần đơn vị chuyên môn tương ứng.
 
@@ -128,17 +126,17 @@ Với chủ đầu tư đang chọn mô hình vận hành cho dự án nghỉ d�
 - Báo Đại biểu Nhân dân (29/05/2026). Thẩm định dự án Luật sửa đổi, bổ sung một số điều của Luật Thể dục, thể thao, Luật Du lịch và các luật khác. https://daibieunhandan.vn/de-xuat-khach-du-lich-quoc-te-den-viet-nam-bat-buoc-phai-mua-bao-hiem-du-lich-10418633.html
 - Báo Đại biểu Nhân dân (08/2026). "Sẽ sửa đổi, bổ sung 7 luật trong lĩnh vực văn hoá, thể thao, du lịch". https://daibieunhandan.vn/se-sua-doi-bo-sung-7-luat-trong-linh-vuc-van-hoa-the-thao-du-lich-10427985.html
 
-Ví dụ giả định (trừ mức phí theo bình quân JLL), bảng điều kiện chọn, bảng công cụ chia rủi ro, quy ước trần cam kết và quy trình năm bước là đề xuất phân tích của Clairmont. Văn bản pháp luật và dự thảo cần được kiểm tra hiệu lực tại thời điểm áp dụng.
+Ví dụ giả định (trừ mức phí theo JLL), các bảng điều kiện, quy ước trần cam kết và quy trình năm bước là đề xuất phân tích của Clairmont; văn bản pháp luật cần kiểm tra hiệu lực khi áp dụng.
 
 ## Câu hỏi thường gặp
 
 ### Có những mô hình vận hành dự án nghỉ dưỡng nào?
 
-Ở tầng tài sản có bốn cách: chủ đầu tư tự vận hành, ký hợp đồng quản lý với tập đoàn khách sạn, mua nhượng quyền thương hiệu rồi tự vận hành hoặc thuê nhà vận hành độc lập, và cho thuê toàn bộ tài sản. Với dự án đã bán căn, còn tầng người mua với ba cơ chế: chủ căn tự khai thác, chương trình cho thuê chung, hoặc thuê lại căn với tiền thuê cố định.
+Ở tầng tài sản có bốn cách: tự vận hành, hợp đồng quản lý với tập đoàn khách sạn, nhượng quyền thương hiệu, và cho thuê toàn bộ tài sản. Với dự án đã bán căn, tầng người mua có ba cơ chế: chủ căn tự khai thác, chương trình cho thuê chung, hoặc thuê lại căn với tiền thuê cố định. Hai tầng phải khớp nhau về rủi ro và thời hạn.
 
 ### Phí hợp đồng quản lý khách sạn thường bao nhiêu?
 
-Theo khảo sát JLL công bố năm 2024 trên khoảng 400 hợp đồng tại châu Á – Thái Bình Dương, phí cơ bản bình quân khoảng 1,6% doanh thu và phí khuyến khích bình quân khoảng 6,6% lợi nhuận gộp hoạt động, chưa kể phí hệ thống như marketing và đặt phòng. Mức cụ thể phụ thuộc thương hiệu, quy mô, vị trí và vị thế đàm phán của chủ sở hữu.
+Theo khảo sát JLL năm 2024 trên khoảng 400 hợp đồng tại châu Á – Thái Bình Dương, phí cơ bản bình quân khoảng 1,6% doanh thu, phí khuyến khích khoảng 6,6% lợi nhuận gộp hoạt động, chưa kể phí hệ thống như marketing, đặt phòng. Mức cụ thể tuỳ thương hiệu, quy mô, vị trí và vị thế đàm phán.
 
 ### Nên đặt mức cam kết lợi nhuận condotel thế nào?
 

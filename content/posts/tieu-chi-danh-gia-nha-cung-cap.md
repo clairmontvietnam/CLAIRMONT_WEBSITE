@@ -21,7 +21,7 @@ Tiêu chí đánh giá nhà cung cấp thường gồm sáu nhóm: chất lượ
 
 ## Sáu nhóm tiêu chí đánh giá nhà cung cấp và cách đo
 
-Hai nghiên cứu nền thường được dẫn: Dickson (1966) khảo sát các nhà quản lý mua hàng ở Mỹ với 23 tiêu chí, trong đó chất lượng, giao hàng và lịch sử thực hiện được xếp đầu; Weber, Current và Benton (1991) tổng quan 74 bài và thấy giá, giao hàng, chất lượng được bàn nhiều nhất. ISO 9001:2015 (điều 8.4.1) yêu cầu tổ chức xác định tiêu chí đánh giá, lựa chọn, theo dõi và đánh giá lại nhà cung cấp bên ngoài, nhưng không quy định trọng số. Gói thầu dùng vốn nhà nước phải đánh giá theo Luật Đấu thầu số 22/2023/QH15 (hiệu lực từ 01/01/2024, đã sửa đổi, bổ sung; Văn bản hợp nhất số 74/VBHN-VPQH năm 2026) và hồ sơ mời thầu; bài này bàn mua sắm của doanh nghiệp ngoài phạm vi đó.
+Dickson (1966) khảo sát nhà quản lý mua hàng Mỹ với 23 tiêu chí, xếp chất lượng, giao hàng, lịch sử thực hiện lên đầu; Weber, Current và Benton (1991) tổng quan 74 bài, thấy giá, giao hàng, chất lượng được bàn nhiều nhất. ISO 9001:2015 (điều 8.4.1) yêu cầu tổ chức xác định tiêu chí đánh giá, lựa chọn, theo dõi và đánh giá lại nhà cung cấp bên ngoài, nhưng không quy định trọng số. Gói thầu dùng vốn nhà nước phải đánh giá theo Luật Đấu thầu số 22/2023/QH15 (hiệu lực từ 01/01/2024, đã sửa đổi, bổ sung; Văn bản hợp nhất số 74/VBHN-VPQH năm 2026) và hồ sơ mời thầu; bài này bàn mua sắm của doanh nghiệp ngoài phạm vi đó.
 
 | Nhóm tiêu chí | Tiêu chí con đo được | Bằng chứng cần thu | Dùng làm |
 |---|---|---|---|
@@ -42,7 +42,7 @@ Hai nghiên cứu nền thường được dẫn: Dickson (1966) khảo sát cá
 
 Bảng chấm cộng điểm có trọng số là mô hình bù trừ: điểm cao ở tiêu chí này bù điểm thấp ở tiêu chí khác. Điều đó hợp lý giữa giá và tốc độ giao hàng, nhưng không hợp lý giữa giá và an toàn. Một nhà cung cấp rẻ hơn 15% không bù được việc không có đội bảo trì trong bán kính phản hồi sự cố, hay không xuất được hoá đơn hợp lệ.
 
-Vì vậy nên tách bảng đánh giá thành hai lớp: lớp ngưỡng đạt hoặc không đạt, trượt bất kỳ ngưỡng nào là loại; lớp chấm điểm có trọng số cho các bên còn lại. Ngưỡng thường gặp: tư cách pháp lý và hoá đơn hợp lệ; mẫu hoặc lô thử đạt thông số bắt buộc; giấy phép, an toàn bắt buộc của ngành hàng; không có dấu hiệu mất khả năng thanh toán; với ô Chiến lược và Nút thắt, năng lực dịch vụ hoặc công suất tối thiểu đã kiểm tra tại chỗ. Danh sách ngưỡng nên ngắn; ngưỡng dài là dấu hiệu doanh nghiệp đang tránh cân nhắc đánh đổi.
+Vì vậy nên tách hai lớp: ngưỡng đạt hoặc không đạt, trượt là loại; rồi chấm điểm có trọng số cho các bên còn lại. Ngưỡng thường gặp: tư cách pháp lý và hoá đơn hợp lệ; mẫu hoặc lô thử đạt thông số bắt buộc; giấy phép, an toàn bắt buộc của ngành hàng; không có dấu hiệu mất khả năng thanh toán; với ô Chiến lược và Nút thắt, năng lực dịch vụ hoặc công suất tối thiểu đã kiểm tra tại chỗ. Danh sách ngưỡng nên ngắn; ngưỡng dài là dấu hiệu doanh nghiệp đang tránh cân nhắc đánh đổi.
 
 ## Ma trận Kraljic: xếp món hàng trước khi đặt trọng số
 
@@ -53,7 +53,7 @@ Peter Kraljic trình bày khung danh mục mua hàng trong "Purchasing Must Beco
 | **Ảnh hưởng lợi nhuận cao** | Đòn bẩy: dùng sức mua, đàm phán theo mục tiêu | Chiến lược: quan hệ dài hạn, phân tích rủi ro, kế hoạch dự phòng |
 | **Ảnh hưởng lợi nhuận thấp** | Thông thường: chuẩn hoá, gom đơn | Nút thắt: bảo đảm nguồn hàng, kể cả chấp nhận giá cao hơn; nguồn dự phòng |
 
-Hai chiều đo những thứ khác nhau, nên một món có thể cao ở cả hai; đó là ô Chiến lược, nơi Kraljic đề xuất quyết định ở cấp cao nhất của chức năng mua hàng. Bước phân tích thị trường so sức mạnh của doanh nghiệp với nhà cung cấp để chọn hướng khai thác, cân bằng hoặc đa dạng hoá; ở ô Chiến lược mà doanh nghiệp yếu thế, cam kết ưu tiên giao hàng khi khan hiếm đáng giá hơn vài phần trăm giá.
+Hai chiều đo những thứ khác nhau, nên một món có thể cao ở cả hai; đó là ô Chiến lược, nơi Kraljic đề xuất quyết định ở cấp cao nhất của chức năng mua hàng. Bước phân tích thị trường so sức mạnh hai bên để chọn hướng khai thác, cân bằng hoặc đa dạng hoá.
 
 **Giới hạn.** Ma trận chỉ nhìn từ phía người mua; Steele và Court (1996) đề xuất nhìn thêm từ phía nhà cung cấp, vì món ở ô Chiến lược mà nhà cung cấp coi doanh nghiệp là khách nhỏ thì quan hệ dài hạn khó thành. Gelderman và van Weele (2003) chỉ ra ranh giới ô phụ thuộc chọn biến, gán trọng số và đặt ngưỡng "cao/thấp"; hai nhóm có thể xếp một món vào hai ô. Dubois và Pedersen (2002) lập luận giá trị quan hệ thường nằm ở kết nối giữa nhiều món, nhiều bên, điều mô hình danh mục không thể hiện. Vì vậy việc xếp ô phải ghi lý do, người xếp, và được xem lại khi thị trường đổi.
 
@@ -101,7 +101,7 @@ Kết luận vì thế có điều kiện: A được chọn chỉ khi lợi th�
 
 ## Quản trị quyết định: ai chốt gì
 
-Bảng chấm chỉ khách quan khi người thiết kế nó không biết trước kết quả. Clairmont đề xuất phân quyền như sau:
+Bảng chấm chỉ khách quan khi người thiết kế nó không biết trước kết quả. Phân quyền Clairmont đề xuất:
 
 | Việc | Người đề xuất | Người phê duyệt | Thời điểm |
 |---|---|---|---|
@@ -145,7 +145,7 @@ Bộ trọng số theo ô, cách chấm chi phí theo dải, cách tách ngưỡ
 
 ### Tiêu chí đánh giá nhà cung cấp gồm những gì?
 
-Thường gồm sáu nhóm: chất lượng, chi phí tính theo tổng chi phí sở hữu, giao hàng, năng lực kỹ thuật và dịch vụ, sức khoẻ tài chính, tuân thủ và rủi ro. Một số tiêu chí như tư cách pháp lý, an toàn hay mẫu đạt thông số nên là ngưỡng loại, xét trước khi chấm điểm các tiêu chí còn lại.
+Thường gồm sáu nhóm: chất lượng, chi phí tính theo tổng chi phí sở hữu, giao hàng, năng lực kỹ thuật và dịch vụ, sức khoẻ tài chính, tuân thủ và rủi ro. Tư cách pháp lý, an toàn, mẫu đạt thông số nên là ngưỡng loại, xét trước khi chấm điểm phần còn lại.
 
 ### Trọng số các tiêu chí nên đặt thế nào?
 
@@ -153,7 +153,7 @@ Suy ra từ vị trí món hàng trên ma trận Kraljic. Hàng nhiều người
 
 ### Ma trận Kraljic có dùng được cho doanh nghiệp nhỏ không?
 
-Dùng được, và thường nhanh hơn vì danh mục hàng mua ngắn. Giá trị lớn nhất là chỉ ra vài món ở ô Nút thắt và Chiến lược, nơi người chủ cần dành thời gian xây quan hệ và nguồn dự phòng. Ma trận chỉ nhìn từ phía người mua; với nhà cung cấp lớn, doanh nghiệp nhỏ có thể không phải khách hàng được ưu tiên.
+Dùng được, và nhanh hơn vì danh mục hàng mua ngắn. Giá trị lớn nhất là chỉ ra vài món ở ô Nút thắt và Chiến lược, nơi người chủ cần dành thời gian xây quan hệ và nguồn dự phòng. Ma trận chỉ nhìn từ phía người mua; với nhà cung cấp lớn, doanh nghiệp nhỏ có thể không được ưu tiên.
 
 ### Giá có nên là tiêu chí nặng nhất không?
 

@@ -15,8 +15,7 @@ Dấu hiệu cần tái cấu trúc doanh nghiệp là các chỉ số đo đư�
 :::takeaways
 - Tái cấu trúc có ba loại khác nhau về bản chất: danh mục, tài chính, tổ chức; mỗi loại có dấu hiệu, công cụ và chuyên gia riêng.
 - Quy tắc đếm đề xuất: một chỉ số là dấu hiệu khi vượt ngưỡng hai kỳ liên tiếp; một tầng có vấn đề khi có ít nhất hai dấu hiệu.
-- Theo Greiner (1972), lời giải của mỗi giai đoạn tăng trưởng gieo mầm cho khủng hoảng giai đoạn sau, nên hướng xử lý thường đổi chiều.
-- Mô hình giai đoạn là ngôn ngữ chẩn đoán, không phải quy luật; nghiên cứu thực nghiệm chưa xác nhận một trình tự chung.
+- Theo Greiner (1972), lời giải của mỗi giai đoạn tăng trưởng gieo mầm cho khủng hoảng giai đoạn sau, nên hướng xử lý thường đổi chiều; mô hình là ngôn ngữ chẩn đoán, không phải quy luật.
 :::
 
 ## Tái cấu trúc doanh nghiệp là gì: định nghĩa làm việc
@@ -31,7 +30,7 @@ Bowman và Singh (1993) phân biệt ba loại tái cấu trúc: danh mục (tha
 | Danh mục | Doanh nghiệp có nên ở trong những mảng đang có không? | Thoái vốn, sáp nhập, dừng mảng | Chiến lược cấp công ty, tài chính, luật sư |
 | Tổ chức | Cơ cấu và quyền quyết định có còn hợp chiến lược và quy mô không? | Đổi cơ cấu, ma trận phân quyền, quy trình liên bộ phận | Chiến lược và tổ chức |
 
-Nhầm tầng có hệ quả cụ thể: doanh nghiệp thiếu thanh khoản mà dồn sức vẽ lại sơ đồ sẽ tiêu thời gian lãnh đạo đúng lúc cần đàm phán với chủ nợ; doanh nghiệp có dòng tiền âm vì bán chịu không kiểm soát mà chỉ vay thêm thì đang dùng tiền nuôi một lỗi tổ chức.
+Nhầm tầng có hệ quả cụ thể: thiếu thanh khoản mà dồn sức vẽ lại sơ đồ là tiêu thời gian lãnh đạo đúng lúc cần đàm phán với chủ nợ; dòng tiền âm vì bán chịu không kiểm soát mà chỉ vay thêm là dùng tiền nuôi một lỗi tổ chức.
 
 ## Dấu hiệu cần tái cấu trúc doanh nghiệp: bộ chỉ số theo ba tầng
 
@@ -56,7 +55,7 @@ Các ngưỡng dưới đây là quy ước đề xuất của Clairmont để m
 | Tăng trưởng so với thị trường | Tăng trưởng doanh thu mảng trừ tăng trưởng thị trường mảng đó | Thấp hơn thị trường hai năm liên tiếp |
 | Thời gian lãnh đạo so với đóng góp | Tỷ lệ thời gian họp Ban điều hành dành cho mảng so với tỷ trọng lợi nhuận | Gấp đôi trở lên |
 
-**Chi phí vốn khi doanh nghiệp chưa niêm yết.** Không có giá cổ phiếu để ước tính, nên dùng bình quân gia quyền của hai phần: chi phí nợ sau thuế (lãi suất vay thực tế nhân với một trừ thuế suất) và tỷ suất sinh lời tối thiểu chủ sở hữu yêu cầu, do Hội đồng quản trị chốt bằng văn bản và tham chiếu lợi suất đầu tư thay thế có rủi ro tương đương. Con số này nên ổn định qua các kỳ; đổi nó để một mảng "đạt" là tự lừa mình.
+**Chi phí vốn khi doanh nghiệp chưa niêm yết.** Không có giá cổ phiếu để ước tính, nên dùng bình quân gia quyền của hai phần: chi phí nợ sau thuế (lãi suất vay thực tế nhân với một trừ thuế suất) và tỷ suất sinh lời tối thiểu chủ sở hữu yêu cầu, do Hội đồng quản trị chốt bằng văn bản và tham chiếu lợi suất đầu tư thay thế có rủi ro tương đương. Con số này nên giữ ổn định qua các kỳ, không chỉnh để một mảng "đạt".
 
 :::example Phép thử danh mục, số liệu giả định
 Doanh nghiệp có mảng thi công hoàn thiện dùng 80 tỷ đồng vốn, lợi nhuận hoạt động sau thuế 4,8 tỷ đồng (6%); ba năm trước đó tỷ suất lần lượt 7%, 5%, 6%. Cơ cấu vốn 40% nợ vay lãi 9%, thuế suất 20%; chủ sở hữu yêu cầu 13,5%. Chi phí vốn = 0,4 × 9% × 0,8 + 0,6 × 13,5% ≈ 11%. Mảng chiếm 35% thời gian họp Ban điều hành, 8% lợi nhuận.
@@ -74,11 +73,11 @@ Mảng có hai dấu hiệu: tỷ suất dưới chi phí vốn ba năm liên ti
 | Giữ người chủ chốt | Tỷ lệ nghỉ việc của quản lý cấp trung trong 12 tháng | Trên 20% |
 | Việc rơi giữa các bộ phận | Số sự cố khách hàng hoặc dự án không bộ phận nào nhận trách nhiệm, theo quý | Tăng hai quý liên tiếp |
 
-Quy tắc hai kỳ, hai dấu hiệu lọc báo động giả: một quý xấu do chu kỳ thị trường, một người chủ chốt nghỉ vì lý do cá nhân, hay một đợt chậm trễ ngay sau khi đổi phần mềm.
+Quy tắc hai kỳ, hai dấu hiệu lọc báo động giả như một quý xấu do chu kỳ thị trường hay một người chủ chốt nghỉ vì lý do cá nhân.
 
 ## Đọc tầng tổ chức bằng mô hình Greiner
 
-Larry Greiner trình bày mô hình trong "Evolution and Revolution as Organizations Grow" (*Harvard Business Review*, tháng 7–8/1972). Doanh nghiệp lớn lên qua các giai đoạn tương đối ổn định, mỗi giai đoạn có một phong cách quản lý chủ đạo; khi quy mô vượt phong cách đó, một khủng hoảng nổ ra, và lời giải cho khủng hoảng mở giai đoạn mới đồng thời gieo mầm khủng hoảng kế tiếp.
+Larry Greiner trình bày mô hình trong "Evolution and Revolution as Organizations Grow" (*Harvard Business Review*, tháng 7–8/1972). Mỗi giai đoạn tăng trưởng có một phong cách quản lý chủ đạo; khi quy mô vượt phong cách đó, khủng hoảng nổ ra, và lời giải mở giai đoạn mới đồng thời gieo mầm khủng hoảng kế tiếp.
 
 | Giai đoạn | Cách tăng trưởng chủ đạo | Khủng hoảng cuối giai đoạn | Lời giải theo Greiner |
 |---|---|---|---|
@@ -140,7 +139,7 @@ Tầng tài chính có hai dấu hiệu, nhưng không có dấu hiệu nào v�
 
 Khi vấn đề nằm ở tầng tổ chức, câu hỏi chọn kiểu cơ cấu được phân tích trong bài [cơ cấu tổ chức doanh nghiệp](/goc-nhin/co-cau-to-chuc-doanh-nghiep/).
 
-Clairmont tư vấn ở tầng tổ chức và vận hành, không tư vấn tái cơ cấu nợ, mua bán sáp nhập hay thủ tục pháp lý. Trong dịch vụ [tái cấu trúc doanh nghiệp](/dich-vu/tai-cau-truc-doanh-nghiep/), đầu ra gồm bản chẩn đoán dấu hiệu theo ba tầng có số liệu, phương án cơ cấu và ma trận phân quyền cho các nhóm quyết định có vấn đề, và lộ trình chuyển đổi kèm chỉ số theo dõi.
+Clairmont tư vấn ở tầng tổ chức và vận hành, không tư vấn tái cơ cấu nợ, mua bán sáp nhập hay pháp lý. Trong dịch vụ [tái cấu trúc doanh nghiệp](/dich-vu/tai-cau-truc-doanh-nghiep/), đầu ra gồm bản chẩn đoán dấu hiệu theo ba tầng có số liệu, phương án cơ cấu và ma trận phân quyền cho các nhóm quyết định có vấn đề, và lộ trình chuyển đổi kèm chỉ số theo dõi.
 
 ## Nguồn tham khảo
 
@@ -155,11 +154,11 @@ Clairmont tư vấn ở tầng tổ chức và vận hành, không tư vấn tá
 
 ### Dấu hiệu nào cho thấy doanh nghiệp cần tái cấu trúc?
 
-Dấu hiệu đáng tin là chỉ số đo được, kéo dài nhiều kỳ và xuất hiện thành cụm. Ở tầng tài chính: dòng tiền kinh doanh âm kéo dài, khả năng trả lãi thấp, nợ đến hạn vượt nguồn trả. Ở tầng danh mục: mảng có lợi nhuận trên vốn dưới chi phí vốn nhiều năm. Ở tầng tổ chức: quyết định chậm dần, dồn lên người đứng đầu, quản lý chủ chốt nghỉ việc.
+Chỉ số đo được, kéo dài nhiều kỳ, xuất hiện thành cụm. Ở tầng tài chính: dòng tiền kinh doanh âm kéo dài, khả năng trả lãi thấp, nợ đến hạn vượt nguồn trả. Ở tầng danh mục: mảng có lợi nhuận trên vốn dưới chi phí vốn nhiều năm. Ở tầng tổ chức: quyết định chậm dần, dồn lên người đứng đầu, quản lý chủ chốt nghỉ việc.
 
 ### Tái cấu trúc doanh nghiệp có phải là cắt giảm nhân sự?
 
-Không nhất thiết. Cắt giảm nhân sự là một công cụ, thường đi cùng tái cấu trúc tài chính hoặc danh mục. Tái cấu trúc tổ chức trong lúc tăng trưởng chủ yếu thay đổi quyền quyết định, cơ cấu và cơ chế phối hợp; số người có thể giữ nguyên hoặc tăng.
+Không nhất thiết. Cắt giảm nhân sự là một công cụ, thường đi cùng tái cấu trúc tài chính hoặc danh mục. Tái cấu trúc tổ chức khi đang tăng trưởng chủ yếu đổi quyền quyết định, cơ cấu và cơ chế phối hợp; số người có thể giữ nguyên hoặc tăng.
 
 ### Mô hình Greiner nói gì về khủng hoảng lãnh đạo?
 
