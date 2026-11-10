@@ -27,13 +27,13 @@ Bài viết bàn về tái cấu trúc tổ chức nội bộ, tức thay đổi
 :::
 
 :::story ong-9-co | Mở thêm hai điểm bán và vai trò của người quản lý cũ
-Siêu thị đầu ngõ của Ông 9 Cò tăng trưởng ổn định trong nhiều năm, một phần lớn nhờ chị Tâm, người quản lý cửa hàng từ ngày đầu, nắm rõ nhà cung cấp, công nợ và khách quen.
+Siêu thị đầu ngõ của Ông 9 Cò tăng trưởng ổn định nhiều năm, một phần lớn nhờ chị Tâm, người quản lý từ ngày đầu, nắm rõ nhà cung cấp và công nợ.
 
 Năm nay ông mở thêm hai điểm bán ở các phố lân cận và bổ nhiệm hai cửa hàng trưởng mới. Sau ba tháng, phần lớn quyết định về nhập hàng, giảm giá và đổi trả vẫn được chuyển về chị Tâm, vì hai cửa hàng trưởng chưa được giao quyền rõ ràng và chưa có quy trình chung để làm theo.
 
 Chị Tâm bắt đầu quá tải, trong khi vai trò của chị trong cơ cấu mới chưa được xác định. Phương án thứ nhất là bổ nhiệm chị quản lý cả ba điểm; cách này tận dụng được kinh nghiệm, nhưng có thể duy trì tình trạng mọi việc phụ thuộc vào một người.
 
-Phương án thứ hai là tuyển một quản lý vận hành từ bên ngoài, mang lại kinh nghiệm quản lý chuỗi nhưng có rủi ro khiến chị Tâm cảm thấy bị đặt xuống dưới. Phương án thứ ba là chuyển chị sang vai trò giữ chuẩn và đào tạo, đồng thời trao quyền cho từng cửa hàng trưởng; cách này đòi hỏi thời gian xây dựng quy trình và kỹ năng.
+Phương án thứ hai là tuyển quản lý vận hành từ bên ngoài, có kinh nghiệm quản lý chuỗi nhưng dễ khiến chị Tâm cảm thấy bị đặt xuống dưới. Phương án thứ ba là chuyển chị sang vai trò giữ chuẩn và đào tạo, đồng thời trao quyền cho từng cửa hàng trưởng; cách này đòi hỏi thời gian xây dựng quy trình và kỹ năng.
 
 Câu hỏi cần trả lời là: ngoài sơ đồ, những yếu tố nào của tổ chức phải thay đổi để ba điểm bán vận hành mà không phụ thuộc vào một người?
 :::

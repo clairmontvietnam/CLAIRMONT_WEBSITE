@@ -2,7 +2,7 @@
 slug: quan-tri-doanh-nghiep-gia-dinh
 title: Quản trị doanh nghiệp gia đình: mô hình ba vòng tròn
 h1: Quản trị doanh nghiệp gia đình: phân vai khi thế hệ thứ hai tham gia điều hành
-description: Quản trị doanh nghiệp gia đình phức tạp nhất khi thế hệ thứ hai tham gia. Mô hình ba vòng tròn giúp tách vai gia đình, sở hữu, điều hành trước khi phân quyền.
+description: Quản trị doanh nghiệp gia đình phức tạp nhất khi thế hệ thứ hai tham gia. Mô hình ba vòng tròn giúp tách vai gia đình, sở hữu, điều hành để phân quyền.
 keywords: quản trị doanh nghiệp gia đình, mô hình ba vòng tròn, thế hệ thứ hai, phân quyền trong doanh nghiệp gia đình, kế nhiệm
 summary: Một người có thể vừa là người nhà, cổ đông và người điều hành; phân vai rõ là điều kiện để phân quyền.
 date: 2026-11-04
