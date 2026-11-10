@@ -233,11 +233,16 @@ def toc_box(toc):
     return f'<div class="glass"><h4>Nội dung</h4><ol>{li}</ol></div>'
 
 
-def card(url, k, title, summary, go='Đọc tiếp →', cat=None, model=None, cover=None):
+def card(url, k, title, summary, go='Đọc tiếp →', cat=None, model=None, cover=None, thumb=False):
     dc = f' data-cat="{esc(cat)}"' if cat else ''
-    th = f'<div class="thumb"><img src="{esc(cover)}" alt="" width="1600" height="900" loading="lazy" decoding="async"></div>' if cover else ''
+    if cover:
+        th = f'<div class="thumb"><img src="{esc(cover)}" alt="" width="1600" height="900" loading="lazy" decoding="async"></div>'
+    elif thumb:
+        th = f'<div class="thumb ph">{blocks.glyph(model["type"] if model else "circles")}</div>'
+    else:
+        th = ''
     mc = f'<div class="mchip">{blocks.glyph(model["type"])}<span>{esc(re.sub("<[^>]+>", "", model["title"]).split(" · ")[0])}</span></div>' if model else ''
-    return (f'<a class="card{" has-thumb" if cover else ""}" href="{url}"{dc}>{th}{mc}<span class="k">{esc(k)}</span><h3>{esc(title)}</h3>'
+    return (f'<a class="card{" has-thumb" if th else ""}" href="{url}"{dc}>{th}{mc}<span class="k">{esc(k)}</span><h3>{esc(title)}</h3>'
             f'<p>{esc(summary)}</p><span class="go">{go}</span></a>')
 
 
@@ -268,7 +273,7 @@ def main():
     for key, frag, url, nav, title, desc in CORE:
         body = read(ROOT / f'src/pages/{frag}.html')
         pcard = lambda p: card(f'/goc-nhin/{p["slug"]}/', p.get('category', 'Góc nhìn'), p.get('h1') or p['title'],
-                               p.get('summary', p['description']), cat=p.get('category', 'Góc nhìn'), model=(p.get('models') or [None])[0], cover=p.get('cover'))
+                               p.get('summary', p['description']), cat=p.get('category', 'Góc nhìn'), model=(p.get('models') or [None])[0], cover=p.get('cover'), thumb=True)
         if '{{POSTS}}' in body:
             cats = []
             for p in posts:
