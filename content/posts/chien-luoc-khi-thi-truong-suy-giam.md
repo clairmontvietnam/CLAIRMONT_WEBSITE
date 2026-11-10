@@ -1,6 +1,6 @@
 ---
 slug: chien-luoc-khi-thi-truong-suy-giam
-title: Chiến lược khi thị trường suy giảm: cắt giảm và đầu tư chọn lọc
+title: Chiến lược khi thị trường suy giảm: cắt và đầu tư chọn lọc
 h1: Chiến lược khi thị trường suy giảm: cân bằng thanh khoản và vị thế cạnh tranh
 description: Chiến lược khi thị trường suy giảm cần cân bằng thanh khoản và vị thế dài hạn. Bài học từ nghiên cứu Roaring Out of Recession và giới hạn khi áp dụng.
 keywords: chiến lược khi thị trường suy giảm, Roaring Out of Recession, cắt giảm chi phí có chọn lọc, kịch bản dòng tiền, đầu tư khi suy thoái
