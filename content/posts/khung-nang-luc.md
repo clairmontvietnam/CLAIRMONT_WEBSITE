@@ -1,8 +1,8 @@
 ---
 slug: khung-nang-luc
 title: Khung năng lực và mô tả công việc khi tái cấu trúc
-h1: Khung năng lực và mô tả công việc: xác định lại vai trò khi tái cấu trúc doanh nghiệp
-description: Cách xây khung năng lực và viết lại mô tả công việc khi tái cấu trúc, dựa trên mô hình tảng băng năng lực của Spencer & Spencer, kèm bốn bước áp dụng.
+h1: Khung năng lực và mô tả công việc: tái định nghĩa vai trò trong quá trình tái cấu trúc doanh nghiệp
+description: Cách xây khung năng lực và thiết kế lại mô tả công việc theo định hướng chiến lược, ứng dụng mô hình tảng băng của Spencer & Spencer và quy trình bốn bước.
 keywords: khung năng lực, mô tả công việc, mô hình tảng băng năng lực, tái cấu trúc nhân sự, đánh giá năng lực
 summary: Sơ đồ tổ chức mới chỉ có tác dụng khi từng vị trí được mô tả lại bằng kết quả và năng lực cần có.
 date: 2026-11-11
@@ -11,103 +11,149 @@ author: Clairmont Group
 ---
 
 :::hook
-Tái cấu trúc doanh nghiệp **chưa hoàn tất khi sơ đồ tổ chức mới được phê duyệt**; nó chỉ hoàn tất khi từng vị trí được xác định lại bằng kết quả cần tạo ra và năng lực cần có.
+Tái cấu trúc doanh nghiệp **không dừng lại ở việc thay đổi sơ đồ**: cơ cấu mới chỉ vận hành được khi vai trò, trách nhiệm và năng lực của từng vị trí được tái định nghĩa tương ứng.
 :::
 
-Khi tái cấu trúc, ban lãnh đạo thường dành phần lớn thời gian cho câu hỏi về cơ cấu: bao nhiêu phòng ban, ai báo cáo cho ai, đơn vị nào được sáp nhập hoặc tách ra. Những quyết định này cần thiết, nhưng chưa trả lời được câu hỏi tiếp theo: người ở mỗi vị trí phải làm gì khác đi so với trước.
+Một doanh nghiệp có thể hoàn thành việc thiết kế cơ cấu tổ chức mới, sáp nhập các phòng ban, điều chỉnh tuyến báo cáo và bổ nhiệm đội ngũ quản lý mà vẫn chưa thực sự thay đổi được phương thức vận hành.
 
-Nếu mô tả công việc vẫn giữ nguyên nội dung cũ, nhân sự sẽ tiếp tục làm theo thói quen cũ trong một cơ cấu mới. Khoảng trống giữa sơ đồ và thực tế vận hành thường xuất hiện ở đây: trách nhiệm chồng chéo, việc mới không có người nhận, và tiêu chí đánh giá không còn phản ánh yêu cầu của chiến lược.
+Nguyên nhân thường nằm ở một khoảng trống ít được chú ý: **cơ cấu tổ chức đã thay đổi, nhưng vai trò, trách nhiệm và năng lực của từng vị trí chưa được tái định nghĩa tương ứng.**
 
-Khung năng lực (competency framework) và mô tả công việc (job description) là hai công cụ giúp lấp khoảng trống đó. Bài viết phân tích cách sử dụng chúng trong tái cấu trúc, những điểm dễ nhầm lẫn và giới hạn cần biết của mô hình nền tảng.
+Khi bản mô tả công việc vẫn phản ánh mô hình vận hành cũ, nhân sự có xu hướng tiếp tục thực hiện những nhiệm vụ quen thuộc. Trong khi đó, cơ cấu mới có thể đòi hỏi những năng lực hoàn toàn khác: khả năng phối hợp liên chức năng, chủ động ra quyết định, quản trị hiệu quả hay thích ứng với phương thức kinh doanh mới.
+
+Hệ quả là doanh nghiệp dễ xuất hiện ba vấn đề:
+
+- **Chồng chéo trách nhiệm:** nhiều bộ phận cùng tham gia nhưng không xác định rõ người chịu trách nhiệm cuối cùng.
+- **Khoảng trống thực thi:** những nhiệm vụ mới phát sinh không có vị trí hoặc cá nhân được giao trách nhiệm đầy đủ.
+- **Sai lệch trong đánh giá:** nhân sự tiếp tục được đánh giá theo những tiêu chí không còn phù hợp với mục tiêu chiến lược.
+
+Để xử lý những vấn đề này, doanh nghiệp cần đồng thời thiết kế lại hai công cụ quản trị nền tảng: **mô tả công việc (Job Description – JD) và khung năng lực (Competency Framework).** Nếu mô tả công việc làm rõ một vị trí cần tạo ra giá trị gì cho tổ chức, khung năng lực xác định người đảm nhận vị trí đó cần có những năng lực nào để tạo ra giá trị một cách nhất quán.
 
 :::takeaways
-- Mô tả công việc xác định vị trí phải tạo ra kết quả gì, còn khung năng lực xác định người đảm nhận cần những đặc điểm nào để tạo ra kết quả đó một cách ổn định.
-- Mô hình tảng băng năng lực của Spencer & Spencer giúp phân biệt phần năng lực dễ quan sát và dễ đào tạo với phần khó thay đổi, từ đó định hướng quyết định tuyển dụng, bố trí và phát triển.
-- Khung năng lực trong tái cấu trúc nên được xây từ yêu cầu của chiến lược và cơ cấu mới, không sao chép từ danh mục chung hoặc từ năng lực của những người đang giữ vị trí.
+- Tái cấu trúc vị trí phải bắt đầu từ kết quả đầu ra: câu hỏi quan trọng không phải người đang đảm nhiệm vị trí làm những gì, mà là vị trí đó cần đóng góp điều gì cho chiến lược và mô hình vận hành mới.
+- Năng lực phải được xác định theo yêu cầu tương lai, và bổ nhiệm đúng người đòi hỏi phân biệt năng lực có thể phát triển qua đào tạo với những đặc điểm cần đánh giá sâu hơn trước khi giao trách nhiệm.
+- JD và khung năng lực chỉ phát huy giá trị khi được kết nối với hệ thống phân quyền, quản trị hiệu quả và phát triển nhân sự.
 :::
 
-:::story cau-hieu | Viết lại vai trò quản lý cơ sở khi khách sạn có hai địa điểm
-Sau khi Khách sạn Hiếu Thảo vận hành cơ sở thứ hai, Cậu Hiếu quyết định thành lập vị trí quản lý cơ sở và giao bớt quyền điều hành hằng ngày. Ứng viên đầu tiên được cân nhắc là trưởng lễ tân lâu năm, người nắm rõ quy trình nhận trả phòng và được khách quen đánh giá tốt.
+:::story cau-hieu | Khi một nhân sự giỏi chưa chắc phù hợp với vai trò quản lý
+Sau khi Khách sạn Hiếu Thảo mở rộng sang cơ sở thứ hai, Cậu Hiếu quyết định thiết lập vị trí quản lý cơ sở để giảm bớt sự tham gia vào hoạt động hằng ngày. Người đầu tiên được cân nhắc là trưởng lễ tân lâu năm, am hiểu quy trình phục vụ và được khách hàng đánh giá tốt.
 
-Bản mô tả công việc dự kiến được soạn bằng cách ghép các nhiệm vụ lễ tân với một số việc trước đây Cậu Hiếu tự làm. Khi rà lại, Cậu Hiếu nhận thấy vị trí mới đòi hỏi những việc chưa từng có trong vai trò cũ: lập ca cho cả đội, xử lý chi phí trong hạn mức, quyết định trường hợp ngoại lệ về giá và chịu trách nhiệm về đánh giá của khách tại cơ sở.
+Khi xây dựng bản mô tả công việc cho vị trí mới, Cậu Hiếu nhận thấy một khác biệt căn bản. Trưởng lễ tân chịu trách nhiệm thực hiện tốt hoạt động phục vụ khách hàng, còn người quản lý cơ sở phải bảo đảm toàn bộ cơ sở vận hành hiệu quả, kể cả khi bản thân không trực tiếp làm từng việc: lập kế hoạch nhân sự, điều phối các bộ phận, kiểm soát chi phí, xử lý tình huống ngoại lệ và chịu trách nhiệm về chất lượng vận hành chung.
 
-Cậu Hiếu có ba phương án. Bổ nhiệm trưởng lễ tân và đào tạo dần thì giữ được người hiểu khách, nhưng có rủi ro người đó giỏi thực hiện mà chưa quen ra quyết định. Tuyển người có kinh nghiệm quản lý từ bên ngoài thì có năng lực điều hành sẵn, nhưng cần thời gian hiểu cách phục vụ riêng của khách sạn.
+Cậu Hiếu có ba phương án. Phương án thứ nhất là bổ nhiệm nội bộ và đào tạo bổ sung: tận dụng sự am hiểu tổ chức, nhưng phải chấp nhận thời gian chuyển đổi và đánh giá khả năng thích ứng với trách nhiệm quản lý.
 
-Phương án thứ ba là chia vị trí thành hai vai trò: giảm rủi ro, nhưng làm tăng chi phí và đầu mối.
+Phương án thứ hai là tuyển quản lý có kinh nghiệm từ bên ngoài: bổ sung năng lực điều hành đã được kiểm chứng, nhưng cần thời gian để người mới hiểu văn hoá và tiêu chuẩn dịch vụ. Phương án thứ ba là tách hoặc tái thiết kế trách nhiệm quản lý: giảm rủi ro chuyển đổi, nhưng phát sinh chi phí và yêu cầu phối hợp.
 
-Câu hỏi cần trả lời trước khi chọn người: vị trí quản lý cơ sở phải tạo ra kết quả gì, và trong các năng lực cần có, phần nào đào tạo được trong vài tháng, phần nào khó thay đổi?
+Câu hỏi cần trả lời trước khi chọn người: những kết quả nào chứng minh vị trí quản lý cơ sở đang thực hiện tốt vai trò, và những năng lực nào có thể phát triển qua đào tạo so với những năng lực cần được đánh giá kỹ trước khi bổ nhiệm?
 :::
 
-Đây cũng là câu hỏi mà nhiều doanh nghiệp gặp khi tái cấu trúc: vị trí mới được đặt tên trước, nội dung vai trò và yêu cầu năng lực được xác định sau, hoặc không được xác định đầy đủ.
+Vấn đề trong tình huống này không nằm ở việc chọn người cũ hay người mới. Doanh nghiệp phải xác định rõ yêu cầu của vị trí trước khi quyết định ai sẽ đảm nhận vị trí đó, và đó là điểm khởi đầu của việc xây dựng khung năng lực.
 
 ## Khung năng lực qua mô hình tảng băng của Spencer & Spencer
 
 :::model pyramid | Mô hình tảng băng năng lực (Iceberg Model of Competency) | Lyle M. Spencer Jr. & Signe M. Spencer, "Competence at Work: Models for Superior Performance" (1993); phát triển từ David C. McClelland, "Testing for Competence Rather Than for 'Intelligence'", American Psychologist (1973)
-- Kiến thức (Knowledge) | Thông tin chuyên môn người đảm nhận nắm được trong một lĩnh vực cụ thể. Dễ kiểm tra và tương đối dễ bổ sung qua đào tạo.
-- Kỹ năng (Skill) | Khả năng thực hiện một nhiệm vụ cụ thể, về thể chất hoặc tư duy. Quan sát được qua công việc và phát triển được qua luyện tập có hướng dẫn.
-- Hình ảnh bản thân (Self-concept) | Thái độ, giá trị và cách một người nhìn nhận vai trò của mình. Thay đổi được nhưng cần thời gian và môi trường phù hợp.
-- Tố chất (Traits) | Những đặc điểm thể chất và phản ứng ổn định trước tình huống, như khả năng tự kiểm soát khi chịu áp lực. Khó thay đổi trong ngắn hạn.
-- Động cơ (Motives) | Những điều một người thường xuyên nghĩ đến hoặc mong muốn, chi phối lựa chọn hành động. Nằm sâu nhất và khó đánh giá nhất.
+- Kiến thức (Knowledge) | Hiểu biết chuyên môn, quy trình, nguyên tắc và thông tin liên quan đến công việc. Tương đối dễ đánh giá và bổ sung thông qua đào tạo.
+- Kỹ năng (Skills) | Khả năng thực hiện một nhiệm vụ thông qua việc vận dụng kiến thức và kinh nghiệm. Có thể quan sát, thực hành và phát triển.
+- Nhận thức về bản thân (Self-concept) | Giá trị, thái độ và cách cá nhân nhìn nhận vai trò, trách nhiệm của mình. Cần thời gian và môi trường phù hợp để điều chỉnh.
+- Đặc điểm cá nhân (Traits) | Những khuynh hướng tương đối ổn định trong cách phản ứng và hành xử. Khó thay đổi nhanh chóng.
+- Động cơ (Motives) | Những nhu cầu, mong muốn và động lực thúc đẩy hành vi. Khó quan sát trực tiếp và cần phương pháp đánh giá phù hợp.
 :::
 
-Khái niệm năng lực trong quản trị nhân sự được David McClelland đặt nền móng năm 1973, khi ông lập luận rằng điểm kiểm tra trí thông minh và bằng cấp không dự báo tốt hiệu quả công việc bằng những đặc điểm hành vi quan sát được ở người làm tốt. Lyle và Signe Spencer hệ thống hoá các đặc điểm đó thành năm loại, sắp xếp theo mức độ dễ quan sát và dễ phát triển.
+Trong nghiên cứu về quản trị nhân sự, David C. McClelland (1973) đề xuất tiếp cận đánh giá năng lực gắn với những đặc điểm có liên quan đến hiệu quả thực hiện công việc, thay vì chỉ dựa vào bằng cấp hoặc các bài kiểm tra trí tuệ truyền thống. Lyle M. Spencer Jr. và Signe M. Spencer đã hệ thống hoá các thành phần năng lực trong tác phẩm *Competence at Work: Models for Superior Performance* (1993). Một cách diễn giải phổ biến là mô hình tảng băng, phân biệt các thành phần dễ quan sát với những đặc điểm nằm sâu hơn bên trong mỗi cá nhân.
 
-Phần nổi gồm kiến thức và kỹ năng. Đây là phần mà mô tả công việc truyền thống thường ghi rõ: bằng cấp, số năm kinh nghiệm, công cụ cần sử dụng. Phần chìm gồm hình ảnh bản thân, tố chất và động cơ, là phần thường quyết định một người có duy trì được hiệu quả khi vai trò thay đổi hay không.
+**Phần nổi: những năng lực dễ quan sát.** Kiến thức và kỹ năng có thể được đánh giá tương đối trực tiếp qua hồ sơ chuyên môn, bài kiểm tra, tình huống thực hành và kết quả công việc. Một nhân sự chưa thành thạo phần mềm quản lý khách sạn có thể được đào tạo; một người chưa có kỹ năng lập ngân sách có thể phát triển năng lực này qua hướng dẫn và thực hành. Vì vậy, thiếu hụt ở nhóm này không nhất thiết đồng nghĩa với việc một cá nhân không phù hợp với vị trí.
 
-Khi ứng dụng vào tái cấu trúc, mô hình gợi ý một nguyên tắc phân bổ: với các năng lực thuộc phần nổi, doanh nghiệp có thể tuyển người chưa đủ rồi đào tạo; với các năng lực thuộc phần chìm, quyết định tuyển chọn và bố trí đóng vai trò lớn hơn đào tạo. Trong tình huống của Khách sạn Hiếu Thảo, kỹ năng lập ca có thể học được, còn sự sẵn sàng chịu trách nhiệm về một quyết định khó là điều cần đánh giá trước khi bổ nhiệm.
+**Phần chìm: những yếu tố ảnh hưởng đến cách con người hành động.** Nhận thức về bản thân, đặc điểm cá nhân và động cơ có thể ảnh hưởng đến cách một người đưa ra quyết định, phản ứng với áp lực và tiếp nhận trách nhiệm. Hai nhân sự có kiến thức quản trị tương đương có thể thể hiện rất khác nhau khi được giao quyền điều hành: một người chủ động nhận trách nhiệm và xử lý vấn đề trong phạm vi thẩm quyền, người còn lại liên tục chờ chỉ đạo dù đã được đào tạo đầy đủ về quy trình. Sự khác biệt không nhất thiết xuất phát từ kiến thức chuyên môn, mà có thể liên quan đến nhận thức về vai trò, mức độ tự tin, động cơ hoặc môi trường tổ chức.
 
-Mô hình cũng có những giới hạn cần lưu ý. Thứ nhất, ranh giới giữa các lớp không tuyệt đối; nhiều năng lực, như giao tiếp hay lãnh đạo, là sự kết hợp của cả phần nổi và phần chìm. Thứ hai, phần chìm khó đo lường chính xác; các công cụ trắc nghiệm hoặc phỏng vấn hành vi chỉ cho kết quả tham khảo nếu không được thiết kế và kiểm chứng phù hợp.
+Về ý nghĩa đối với quyết định nhân sự, doanh nghiệp không nên mặc định rằng mọi khoảng thiếu hụt năng lực đều có thể được giải quyết bằng cùng một chương trình đào tạo. Với kiến thức và kỹ năng, đào tạo có thể là giải pháp chính. Với những đặc điểm sâu hơn, cần kết hợp đánh giá hành vi, trải nghiệm thực tế, mức độ phù hợp với vai trò và khả năng phát triển của cá nhân.
 
-Thứ ba, khung năng lực xây từ những người đang làm tốt ở hiện tại có thể phản ánh yêu cầu của quá khứ, trong khi tái cấu trúc thường được thực hiện vì yêu cầu đã thay đổi.
+Mô hình có giới hạn cần lưu ý. Không nên dùng mô hình để kết luận rằng một người không thể thay đổi, hoặc dùng một bài trắc nghiệm duy nhất để quyết định tuyển dụng hay bổ nhiệm. Các thành phần năng lực có mối liên hệ với nhau; những năng lực phức hợp như lãnh đạo, giao tiếp hoặc giải quyết vấn đề không thể được phân loại tuyệt đối vào phần nổi hay phần chìm. Mô hình nên được xem là công cụ hỗ trợ phân tích và ra quyết định, không phải hệ thống chẩn đoán con người có độ chính xác tuyệt đối.
 
-## Mô tả công việc và khung năng lực khác nhau ở đâu
+## Phân biệt mô tả công việc, khung năng lực và chỉ số hiệu quả
 
-:::compare Mô tả công việc | Khung năng lực
-- Trả lời câu hỏi vị trí này tồn tại để tạo ra kết quả gì || Trả lời câu hỏi người đảm nhận cần những đặc điểm nào để tạo ra kết quả đó
-- Gắn với một vị trí cụ thể trong cơ cấu || Thường áp dụng cho một nhóm vị trí hoặc toàn doanh nghiệp, kèm cấp độ theo từng vai trò
-- Gồm mục đích vị trí, trách nhiệm chính, quyền hạn, quan hệ báo cáo, chỉ số đánh giá || Gồm tên năng lực, định nghĩa và các hành vi biểu hiện ở từng cấp độ
-- Thay đổi khi cơ cấu hoặc phân công thay đổi || Ổn định hơn, thay đổi khi chiến lược hoặc mô hình kinh doanh thay đổi
-- Dùng để giao việc, tuyển dụng và đánh giá kết quả || Dùng để tuyển chọn, bố trí, đào tạo, quy hoạch kế cận và đánh giá hành vi
+Một sai lầm phổ biến khi tái cấu trúc là sử dụng mô tả công việc, tiêu chuẩn năng lực và chỉ số hiệu quả như những công cụ có thể thay thế lẫn nhau. Trên thực tế, ba công cụ này trả lời ba câu hỏi quản trị khác nhau.
+
+| Tiêu chí | Mô tả công việc (JD) | Khung năng lực | KPI |
+|---|---|---|---|
+| Câu hỏi chính | Vị trí phải làm gì và chịu trách nhiệm về kết quả nào? | Người đảm nhận cần có năng lực gì và ở cấp độ nào? | Kết quả thực hiện đang đạt đến mức nào? |
+| Đối tượng | Một vị trí công việc | Nhóm vị trí, chức danh hoặc toàn tổ chức | Vị trí, cá nhân, nhóm hoặc đơn vị |
+| Nội dung | Mục đích, trách nhiệm, quyền hạn, quan hệ công tác | Danh mục năng lực, định nghĩa, cấp độ, hành vi biểu hiện | Chỉ số, mục tiêu, kỳ đo lường, nguồn dữ liệu |
+| Vai trò | Phân công và xác lập trách nhiệm | Tuyển chọn, bố trí và phát triển | Theo dõi và đánh giá kết quả |
+| Thời điểm điều chỉnh | Khi vai trò hoặc cơ cấu thay đổi | Khi yêu cầu năng lực thay đổi | Theo mục tiêu và chu kỳ quản trị |
+
+JD xác lập trách nhiệm, khung năng lực xác định điều kiện thực hiện, KPI đo lường kết quả. Ba công cụ cần thống nhất với nhau nhưng không được đồng nhất về chức năng.
+
+Ví dụ, vị trí quản lý cơ sở khách sạn có thể được thiết kế như sau:
+
+- **Mục đích vị trí:** bảo đảm cơ sở vận hành ổn định, duy trì chất lượng dịch vụ và đạt các mục tiêu kinh doanh được giao.
+- **Trách nhiệm chính:** tổ chức vận hành, quản lý nhân sự, kiểm soát chi phí, quản trị trải nghiệm khách hàng và báo cáo kết quả.
+- **Năng lực yêu cầu:** quản lý vận hành, lãnh đạo đội nhóm, giải quyết vấn đề, quản trị tài chính cơ bản và ra quyết định.
+- **Chỉ số đánh giá:** mức độ hoàn thành mục tiêu doanh thu, tỷ lệ chi phí vận hành, mức độ hài lòng của khách hàng và các chỉ số chất lượng dịch vụ phù hợp.
+
+Cách thiết kế này tạo ra một chuỗi logic từ yêu cầu của tổ chức đến trách nhiệm, năng lực và kết quả thực hiện.
+
+### Vai trò của phân quyền trong tái cấu trúc
+
+Một bản mô tả công việc dù đầy đủ vẫn có thể không phát huy hiệu quả nếu trách nhiệm được giao không đi kèm quyền hạn tương ứng. Doanh nghiệp cần xác định rõ vị trí được quyền quyết định những vấn đề nào, quyết định nào cần phê duyệt từ cấp trên, vị trí phải phối hợp với những bộ phận nào và ai chịu trách nhiệm cuối cùng về từng kết quả.
+
+Các công cụ như ma trận RACI hoặc RASCI có thể hỗ trợ làm rõ trách nhiệm giữa các bên, nhưng cần được thiết kế phù hợp với quy trình vận hành thực tế.
+
+Trong các dự án tái cấu trúc có điều chỉnh công việc của người lao động, doanh nghiệp phải phân biệt giữa tài liệu quản trị nội bộ và nội dung đã được thoả thuận trong hợp đồng lao động. Việc thay đổi cơ cấu hoặc ban hành JD mới không tự động thay thế các thoả thuận lao động đã có; những thay đổi liên quan đến công việc, quyền lợi hoặc điều kiện lao động cần được xem xét theo quy định pháp luật hiện hành.
+
+Các yếu tố cần cân nhắc cùng lúc khi thiết kế lại tổ chức được phân tích trong bài [cơ cấu tổ chức doanh nghiệp](/goc-nhin/co-cau-to-chuc-doanh-nghiep/).
+
+## Từ chiến lược kinh doanh đến thiết kế lại vai trò
+
+:::example Ví dụ giả định: tái cấu trúc bộ phận kinh doanh của doanh nghiệp phân phối
+Giả sử một doanh nghiệp phân phối hàng tiêu dùng đang chuyển từ mô hình bán hàng chủ yếu qua đại lý sang mô hình kết hợp giữa hệ thống đại lý và bán trực tiếp cho các chuỗi bán lẻ. Đây không đơn thuần là việc bổ sung một kênh doanh thu: sự thay đổi kéo theo yêu cầu mới về quan hệ khách hàng, quản trị hợp đồng, điều phối chuỗi cung ứng và kiểm soát lợi nhuận.
+
+Trong cơ cấu cũ, trưởng phòng kinh doanh chủ yếu quản lý doanh số và phát triển mạng lưới đại lý. Sau tái cấu trúc, doanh nghiệp thiết lập hai bộ phận là kinh doanh kênh đại lý và kinh doanh khách hàng tổ chức; hai vị trí quản lý có yêu cầu khác nhau.
+
+**Trưởng bộ phận kinh doanh kênh đại lý** có kết quả trọng tâm là duy trì và mở rộng mạng lưới đại lý, đạt mục tiêu doanh thu và độ bao phủ thị trường, kiểm soát công nợ, chính sách thương mại và hiệu quả tuyến bán hàng. Năng lực ưu tiên gồm phát triển kênh phân phối, quản lý quan hệ đối tác, điều hành lực lượng bán hàng và kiểm soát công nợ.
+
+**Trưởng bộ phận kinh doanh khách hàng tổ chức** có kết quả trọng tâm là phát triển và quản lý các khách hàng chuỗi, đàm phán, ký kết và thực hiện hợp đồng thương mại, bảo đảm biên lợi nhuận và chất lượng phục vụ theo từng khách hàng. Năng lực ưu tiên gồm quản trị khách hàng chiến lược, đàm phán hợp đồng, phân tích hiệu quả thương mại và phối hợp liên chức năng.
+
+Nếu doanh nghiệp bổ nhiệm nhân sự bán hàng xuất sắc nhất ở kênh đại lý sang phụ trách khách hàng tổ chức chỉ dựa trên thành tích doanh số, quyết định này có thể tiềm ẩn rủi ro: thành tích ở một vị trí chứng minh năng lực trong bối cảnh đã thực hiện, nhưng không tự động chứng minh mức độ phù hợp với mọi vai trò khác.
+
+Doanh nghiệp cần đánh giá năng lực theo yêu cầu của vị trí mới thông qua phỏng vấn hành vi, tình huống thực tế, kết quả công việc và các nhiệm vụ thử nghiệm phù hợp. Bài học quản trị là năng lực phải được định nghĩa từ chiến lược tương lai, không chỉ từ thành tích quá khứ.
 :::
 
-Hai công cụ này bổ trợ nhau và không thay thế nhau. Một mô tả công việc đầy đủ nhưng không có yêu cầu năng lực sẽ khó dùng cho tuyển chọn. Một khung năng lực chi tiết nhưng không gắn với kết quả của vị trí sẽ khó dùng cho đánh giá hiệu quả.
+## Quy trình bốn bước xây dựng khung năng lực khi tái cấu trúc
 
-Cũng cần phân biệt mô tả công việc với nội dung công việc trong hợp đồng lao động. Mô tả công việc là công cụ quản trị nội bộ; khi tái cấu trúc làm thay đổi công việc đã thoả thuận với người lao động, doanh nghiệp cần đối chiếu với hợp đồng và quy định pháp luật lao động hiện hành, với sự tham vấn của chuyên gia pháp lý.
-
-Cách tái cấu trúc tổ chức theo nhiều yếu tố đồng thời được phân tích trong bài [tái cấu trúc tổ chức khi tăng trưởng nhanh](/goc-nhin/tai-cau-truc-to-chuc-khi-tang-truong-nhanh/).
-
-:::example Ví dụ giả định: viết lại vai trò trưởng phòng kinh doanh sau tái cấu trúc
-Giả sử một doanh nghiệp phân phối hàng tiêu dùng chuyển từ bán qua đại lý sang kết hợp đại lý và bán trực tiếp cho các chuỗi bán lẻ. Cơ cấu mới tách phòng kinh doanh thành hai bộ phận: kênh đại lý và khách hàng tổ chức.
-
-**Với vị trí trưởng bộ phận kênh đại lý**, mô tả công việc có thể giữ phần lớn nội dung cũ. Khung năng lực nhấn mạnh duy trì quan hệ, kiểm soát công nợ và điều phối đội bán hàng theo tuyến.
-
-**Với vị trí trưởng bộ phận khách hàng tổ chức**, kết quả cần tạo ra khác hẳn: số hợp đồng khung được ký, mức độ tuân thủ điều kiện giao hàng của chuỗi, biên lợi nhuận theo từng khách hàng. Năng lực cần có bao gồm đàm phán nhiều bên, đọc hiểu điều khoản thương mại và phối hợp với bộ phận kho vận, tài chính.
-
-Nếu doanh nghiệp bổ nhiệm người bán hàng giỏi nhất ở kênh đại lý vào vị trí thứ hai chỉ dựa trên thành tích doanh số, rủi ro là năng lực phần nổi được đánh giá cao trong khi động cơ và cách làm việc phù hợp với vai trò mới chưa được kiểm tra. Việc lựa chọn cần được kiểm chứng bằng phỏng vấn hành vi, giao việc thử trong một giai đoạn có giới hạn và tiêu chí đánh giá được thống nhất từ trước.
+:::steps Bốn bước xây dựng khung năng lực và mô tả công việc trong tái cấu trúc
+- Xác định mục đích và kết quả đầu ra của từng vị trí | Mỗi vị trí nên có một tuyên bố mục đích ngắn gọn và khoảng ba đến năm nhóm kết quả trọng tâm, kèm phạm vi trách nhiệm, thẩm quyền, mối quan hệ phối hợp, tuyến báo cáo và tiêu chí đánh giá. Sản phẩm đầu ra là bản mô tả công việc thiết kế theo vai trò và kết quả, thay vì chỉ liệt kê nhiệm vụ hằng ngày.
+- Thiết kế danh mục năng lực theo yêu cầu chiến lược | Tổ chức danh mục theo ba nhóm là năng lực cốt lõi, năng lực quản lý và lãnh đạo, năng lực chuyên môn; mỗi năng lực có định nghĩa, cấp độ thành thạo và hành vi biểu hiện quan sát được. Không nên xây danh mục quá dài khi tổ chức chưa đủ nguồn lực triển khai và đánh giá.
+- Đánh giá mức độ đáp ứng của nhân sự hiện hữu | Kết hợp kết quả công việc các kỳ trước, phỏng vấn hành vi, đánh giá của quản lý trực tiếp, bài tập mô phỏng và phản hồi của các bên liên quan; phân loại thành nhóm đáp ứng, nhóm có khả năng phát triển và nhóm cần xem xét phương án bố trí. Tiêu chí phải minh bạch, có căn cứ và tránh kết luận chủ quan về tính cách hoặc động cơ.
+- Tích hợp vào hệ thống quản trị nhân sự | Đưa khung năng lực vào tuyển dụng, đánh giá, đào tạo, phát triển lãnh đạo và quy hoạch kế cận, bảo đảm liên kết từ chiến lược, cơ cấu, vai trò, năng lực, phân quyền, kết quả đến phát triển nhân sự. Rà soát tiêu chuẩn khi chiến lược, mô hình kinh doanh, công nghệ hoặc phương thức tổ chức thay đổi.
 :::
 
-## Áp dụng khung năng lực khi tái cấu trúc
+Sản phẩm đầu ra của bước ba là ma trận khoảng cách năng lực (Competency Gap Analysis) cùng phương án phát triển và bố trí nhân sự; sản phẩm của bước hai là bộ từ điển năng lực, thang cấp độ và ma trận yêu cầu năng lực theo vị trí. Ví dụ với năng lực ra quyết định, các cấp độ có thể đi từ xử lý công việc theo hướng dẫn, chủ động quyết định trong phạm vi được giao, đến đánh giá các phương án có tác động liên phòng ban.
 
-:::steps Bốn bước xây khung năng lực và mô tả công việc trong tái cấu trúc
-- Xác định kết quả của từng vị trí trong cơ cấu mới | Viết mục đích tồn tại của vị trí và ba đến năm kết quả chính bằng ngôn ngữ đo lường được. Bắt đầu từ chiến lược và cơ cấu đã chọn, không bắt đầu từ việc người hiện tại đang làm.
-- Xây danh mục năng lực từ yêu cầu chiến lược | Chọn một số ít năng lực chung cho toàn doanh nghiệp và năng lực riêng cho từng nhóm vai trò, mỗi năng lực có định nghĩa và hành vi biểu hiện theo cấp độ. Danh mục quá dài thường khó dùng trong tuyển chọn và đánh giá thực tế.
-- Đánh giá nhân sự hiện có theo khung mới | Đối chiếu từng người với yêu cầu của vị trí dự kiến, tách phần thiếu hụt có thể đào tạo với phần cần cân nhắc khi bố trí. Kết hợp nhiều nguồn thông tin như phỏng vấn hành vi, đánh giá của quản lý trực tiếp và kết quả công việc, tránh dựa vào một công cụ duy nhất.
-- Gắn khung năng lực với các quy trình nhân sự | Đưa khung vào tuyển dụng, đào tạo, đánh giá và quy hoạch kế cận để khung được sử dụng thường xuyên. Định kỳ rà soát khi chiến lược hoặc cơ cấu thay đổi, vì khung không được cập nhật sẽ dần mất tác dụng.
-:::
+### Bốn nguyên tắc cần lưu ý khi triển khai
 
-Trình tự này đặt mô tả công việc trước khung năng lực ở cấp vị trí, nhưng hai việc nên được thực hiện song song ở cấp toàn doanh nghiệp. Mức độ chi tiết của khung cần tương xứng với quy mô; một doanh nghiệp vài chục nhân sự thường cần một khung gọn, dễ dùng hơn một hệ thống đầy đủ. Về lựa chọn cơ cấu trước khi viết lại vai trò, xem bài [cơ cấu tổ chức doanh nghiệp](/goc-nhin/co-cau-to-chuc-doanh-nghiep/).
+- **Không thiết kế vị trí chỉ để phù hợp với một cá nhân.** Cách làm này giải quyết nhu cầu trước mắt nhưng khiến cơ cấu bị chi phối bởi đặc điểm của đội ngũ hiện hữu. Trình tự nên là xác định yêu cầu chiến lược, thiết kế vai trò, xác định năng lực, rồi đánh giá và bố trí nhân sự, có cân nhắc nguồn lực thực tế và chi phí chuyển đổi.
+- **Không đồng nhất năng lực với thâm niên.** Số năm kinh nghiệm phản ánh mức độ tiếp xúc với công việc, không tự động chứng minh khả năng thực hiện tốt một vai trò; người ít năm kinh nghiệm hơn vẫn có thể phù hợp nếu có bằng chứng rõ ràng từ kết quả và hành vi.
+- **Không dùng khung năng lực như công cụ đánh giá hình thức.** Hệ thống hàng chục năng lực nhiều cấp độ nhưng thiếu hướng dẫn hành vi cụ thể sẽ khó triển khai nhất quán; nên ưu tiên những năng lực có tác động đáng kể và có phương pháp đánh giá phù hợp.
+- **Không tách phát triển năng lực khỏi điều kiện tổ chức.** Một nhân sự đáp ứng tiêu chuẩn chuyên môn vẫn gặp khó khăn nếu thiếu thẩm quyền, nguồn lực, dữ liệu hoặc cơ chế phối hợp cần thiết.
 
 :::principle
-Xác định kết quả của vị trí trước, năng lực cần có sau, và người đảm nhận sau cùng.
+Xác định yêu cầu chiến lược trước, thiết kế vai trò kế tiếp, xác định năng lực sau đó, và bố trí người đảm nhận sau cùng.
 :::
 
-Trình tự ngược lại, chọn người trước rồi viết vai trò quanh người đó, có thể phù hợp trong một số trường hợp đặc biệt, nhưng khi trở thành cách làm phổ biến, cơ cấu tổ chức sẽ phản ánh nhân sự hiện có nhiều hơn yêu cầu của chiến lược.
+Trình tự này không loại trừ việc xem xét đội ngũ hiện có, nhưng giữ cho cơ cấu phản ánh yêu cầu của chiến lược nhiều hơn thói quen của nhân sự đang có.
 
 :::exercise
-Chọn một vị trí quản lý vừa thay đổi hoặc sẽ thay đổi trong đợt tái cấu trúc. Viết ba kết quả chính mà vị trí phải tạo ra trong mười hai tháng tới, sau đó so sánh với bản mô tả công việc hiện có: bao nhiêu nội dung trong bản cũ còn phục vụ ba kết quả đó?
+Chọn một vị trí quản lý đang thay đổi đáng kể về trách nhiệm và trả lời lần lượt năm câu hỏi. Một, vị trí này tồn tại để tạo ra giá trị gì (một hoặc hai câu, gắn với nhu cầu của tổ chức). Hai, ba kết quả quan trọng nhất trong 12 tháng tới là gì (có thể đánh giá được). Ba, vị trí cần những quyền hạn nào để đạt kết quả (đối chiếu với phân quyền, ngân sách, quyền ra quyết định).
 
-Sau đó làm chiều ngược lại: liệt kê năng lực của người đang giữ vị trí, đánh dấu năng lực nào thuộc phần nổi và năng lực nào thuộc phần chìm của mô hình tảng băng. Nếu phần thiếu hụt chủ yếu nằm ở phần chìm, đó là dấu hiệu cần cân nhắc lại quyết định bố trí thay vì chỉ lập kế hoạch đào tạo.
+Bốn, những năng lực nào quyết định khả năng thành công (chuyên môn, quản lý và hành vi quan trọng). Năm, nhân sự hiện hữu đáp ứng đến đâu và cần hỗ trợ điều gì (khoảng cách năng lực, khả năng đào tạo, phương án bố trí).
+
+Kết quả của bài đánh giá không nhất thiết dẫn đến việc thay đổi nhân sự. Trong nhiều trường hợp, doanh nghiệp chỉ cần làm rõ trách nhiệm, điều chỉnh quyền hạn, cải thiện cơ chế phối hợp hoặc thiết kế chương trình phát triển phù hợp.
 :::
+
+## Kết luận: tái cấu trúc bắt đầu từ việc xác định đúng vai trò
+
+Tái cấu trúc tổ chức không đơn thuần là sắp xếp lại phòng ban hay thay đổi chức danh. Đó là quá trình thiết kế lại cách doanh nghiệp phân bổ trách nhiệm, sử dụng nguồn lực và tạo ra kết quả. Mô tả công việc và khung năng lực giữ vai trò kết nối giữa định hướng chiến lược với năng lực thực thi của tổ chức.
+
+Một bản mô tả công việc tốt giúp mỗi vị trí hiểu rõ trách nhiệm và kết quả cần đạt; một khung năng lực phù hợp giúp doanh nghiệp xác định điều kiện cần thiết để thực hiện tốt vai trò đó. Khi được tích hợp cùng phân quyền và quản trị hiệu quả, hai công cụ này giúp nâng cao chất lượng quyết định nhân sự và giảm khoảng trống vận hành sau tái cấu trúc. Giá trị của tái cấu trúc không nằm ở việc tổ chức có một sơ đồ mới, mà ở việc sơ đồ ấy tạo ra một phương thức vận hành tốt hơn.
 
 :::quote
 知人者智，自知者明
@@ -116,24 +162,40 @@ Hiểu người là khôn, hiểu mình là sáng.
 Đạo Đức Kinh · chương 33
 :::
 
-Trong quản trị nhân sự, có thể liên hệ lời cổ nhân với yêu cầu hiểu đúng người trước khi giao việc, và hiểu đúng yêu cầu của chính tổ chức trước khi đánh giá người. Khung năng lực là công cụ giúp hai sự hiểu biết đó được diễn đạt bằng cùng một ngôn ngữ.
+Trong quản trị tổ chức, hiểu con người là điều cần thiết, nhưng trước hết doanh nghiệp phải hiểu chính mình: chiến lược nào đang theo đuổi, giá trị nào cần tạo ra và năng lực nào thực sự quyết định thành công. Chỉ khi xác định đúng yêu cầu của tổ chức, doanh nghiệp mới có cơ sở để đánh giá, lựa chọn và phát triển con người một cách phù hợp.
 
-Clairmont đồng hành cùng doanh nghiệp trong chẩn đoán tổ chức, thiết kế cơ cấu, xác định lại vai trò và xây dựng khung năng lực phù hợp với chiến lược. Tìm hiểu thêm về [dịch vụ tái cấu trúc doanh nghiệp](/dich-vu/tai-cau-truc-doanh-nghiep/).
+Clairmont đồng hành cùng doanh nghiệp trong chẩn đoán tổ chức, thiết kế cơ cấu, xác lập chức năng và phân quyền, xây dựng khung năng lực và phát triển mô hình quản trị phù hợp với chiến lược tăng trưởng. Tìm hiểu thêm về [dịch vụ tái cấu trúc doanh nghiệp](/dich-vu/tai-cau-truc-doanh-nghiep/).
+
+## Tài liệu tham khảo
+
+1. McClelland, D. C. (1973). *Testing for Competence Rather Than for "Intelligence"*. American Psychologist, 28(1), 1–14.
+2. Spencer, L. M., Jr., & Spencer, S. M. (1993). *Competence at Work: Models for Superior Performance*. John Wiley & Sons.
+3. Lão Tử. *Đạo Đức Kinh*, chương 33.
+
+*Ghi chú: các tình huống doanh nghiệp trong bài được xây dựng nhằm minh hoạ phương pháp quản trị, không phải nghiên cứu trường hợp đã được kiểm chứng. Nội dung liên quan đến hợp đồng lao động chỉ mang tính lưu ý quản trị, không thay thế ý kiến tư vấn pháp lý cho từng trường hợp cụ thể.*
 
 ## Câu hỏi thường gặp
 
-### Doanh nghiệp nhỏ có cần khung năng lực không?
+### Doanh nghiệp quy mô nhỏ có cần khung năng lực không?
 
-Không phải doanh nghiệp nào cũng cần một hệ thống khung năng lực đầy đủ. Với doanh nghiệp nhỏ, một danh mục gọn gồm vài năng lực chung và yêu cầu năng lực ghi trong mô tả công việc của các vị trí then chốt thường đủ để hỗ trợ tuyển chọn và đánh giá. Mức độ chi tiết nên tăng dần theo quy mô và độ phức tạp của tổ chức.
+Có thể cần, nhưng không nhất thiết phải xây dựng một hệ thống phức tạp. Với doanh nghiệp nhỏ, nên bắt đầu từ các vị trí then chốt, xác định một số năng lực cốt lõi và mô tả hành vi theo những cấp độ đơn giản. Hệ thống có thể được mở rộng theo quy mô phát triển.
 
-### Có thể dùng khung năng lực mẫu có sẵn không?
+### Có thể sử dụng khung năng lực mẫu không?
 
-Khung mẫu có thể dùng làm tài liệu tham khảo về cách định nghĩa và mô tả cấp độ. Tuy nhiên, danh mục năng lực cần được chọn lọc từ chiến lược, mô hình kinh doanh và cơ cấu của chính doanh nghiệp. Áp dụng nguyên một khung chung thường dẫn đến danh mục dài, khó đánh giá và không phản ánh những năng lực thực sự tạo khác biệt.
+Có thể dùng để tham khảo cấu trúc, định nghĩa và cách phân cấp năng lực. Tuy nhiên, doanh nghiệp cần điều chỉnh theo chiến lược, mô hình kinh doanh, đặc thù vị trí và văn hoá vận hành. Sao chép nguyên một khung chung dễ tạo ra những tiêu chuẩn không thực sự cần thiết.
 
-### Khi nào nên viết lại mô tả công việc trong quá trình tái cấu trúc?
+### Khi nào nên viết lại mô tả công việc?
 
-Nên viết lại sau khi cơ cấu và phân quyền đã được xác định ở mức cơ bản, và trước khi bố trí nhân sự vào vị trí mới. Viết quá sớm dễ phải sửa nhiều lần; viết quá muộn khiến quyết định bố trí thiếu căn cứ. Những thay đổi ảnh hưởng đến công việc đã thoả thuận trong hợp đồng lao động cần được xem xét cùng chuyên gia pháp lý.
+Nên thực hiện sau khi định hướng cơ cấu và phạm vi phân quyền đã được xác lập ở mức đủ rõ, đồng thời trước khi hoàn tất phương án bố trí nhân sự. JD cần được tiếp tục điều chỉnh khi các yêu cầu vận hành được hoàn thiện.
 
-### Đánh giá phần chìm của tảng băng năng lực bằng cách nào?
+### Làm thế nào để đánh giá các năng lực thuộc phần chìm của mô hình tảng băng?
 
-Phỏng vấn hành vi, hỏi về cách ứng viên đã xử lý những tình huống cụ thể trong quá khứ, là phương pháp thường được sử dụng. Có thể kết hợp với bài tập tình huống, giao việc thử và đánh giá từ nhiều nguồn. Không có công cụ nào cho kết quả tuyệt đối chính xác, vì vậy nên kết hợp nhiều phương pháp và thống nhất tiêu chí trước khi đánh giá.
+Có thể kết hợp phỏng vấn hành vi, bài tập tình huống, quan sát thực tế và đánh giá từ nhiều nguồn. Các phương pháp này cần có tiêu chí cụ thể, phù hợp với vị trí và không nên được sử dụng đơn lẻ để đưa ra kết luận tuyệt đối.
+
+### Khung năng lực có thay thế KPI không?
+
+Không. Khung năng lực xác định khả năng và hành vi cần thiết để thực hiện công việc, trong khi KPI phản ánh mức độ hoàn thành những kết quả cụ thể. Doanh nghiệp cần kết hợp cả hai để đánh giá toàn diện hơn.
+
+### Bao lâu nên cập nhật khung năng lực?
+
+Không có một chu kỳ cố định phù hợp cho mọi doanh nghiệp. Nên rà soát định kỳ và đặc biệt khi có thay đổi đáng kể về chiến lược, công nghệ, cơ cấu tổ chức hoặc yêu cầu của các vị trí trọng yếu.
