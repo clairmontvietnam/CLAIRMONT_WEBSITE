@@ -68,4 +68,4 @@ Văn phong **báo cáo tư vấn chiến lược**: phân tích, chặt chẽ, t
 4. TikTok/Reels: kịch bản 45–60 giây — câu mở 3 giây, 4–6 khung một ý, chữ to, kết bằng clairmontgroup.vn và hotline 0947 120 258.
 
 ## Đăng
-Bài mới viết dạng NHÁP trên nhánh `nhap-goc-nhin`, chỉ đăng lên `main` khi Nhà sáng lập duyệt. `python3 tools/build.py` phải chạy không lỗi.
+Nhà sáng lập chốt 12/11/2026: bài mới đăng thẳng lên `main` sau khi tự rà soát đủ quy tắc trong tệp này, không chờ duyệt. `python3 tools/build.py` phải chạy không lỗi; commit cả bài .md, tệp social, calendar.md và các tệp do build sinh ra.
