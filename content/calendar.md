@@ -23,7 +23,7 @@ Trụ cột theo thứ trong tuần (dùng khi hết lịch): T2 Chiến lược
 | [x] | 2026-11-11 (T4) | Quản trị | Khung năng lực và mô tả công việc khi tái cấu trúc | khung năng lực → D | khung-nang-luc |
 | [x] | 2026-11-12 (T5) | Thương hiệu | Giọng nói thương hiệu: xây bộ quy tắc ngôn ngữ cho cả đội | giọng nói thương hiệu → F | giong-noi-thuong-hieu |
 | [x] | 2026-11-13 (T6) | Chuỗi giá trị | Đưa thương hiệu Việt ra nước ngoài: chuẩn bị gì trước khi tìm nhà phân phối | thương hiệu Việt xuất khẩu → G | thuong-hieu-viet-xuat-khau |
-| [ ] | 2026-11-14 (T7) | Nhà sáng lập | Bản sắc văn hoá trong thương hiệu: dùng thế nào để không thành trang trí | bản sắc văn hoá trong thương hiệu → F | |
+| [x] | 2026-11-14 (T7) | Nhà sáng lập | Bản sắc văn hoá trong thương hiệu: dùng thế nào để không thành trang trí | bản sắc văn hoá trong thương hiệu → F | ban-sac-van-hoa-trong-thuong-hieu |
 | [ ] | 2026-11-15 (CN) | Hỏi đáp | Làm việc với đơn vị tư vấn hiệu quả: vai trò của ban lãnh đạo | làm việc với đơn vị tư vấn → B | |
 | [ ] | 2026-11-16 (T2) | Chiến lược | Kế hoạch kinh doanh khác chiến lược ở đâu | kế hoạch kinh doanh → B | |
 | [ ] | 2026-11-17 (T3) | Bất động sản | Tiện ích dự án: chọn ít mà đúng | tiện ích dự án bất động sản → C | |
