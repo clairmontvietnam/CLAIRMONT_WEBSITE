@@ -605,3 +605,11 @@ a.more:hover{border-color:var(--gold-2)}
 .card .thumb.ph{display:flex;align-items:center;justify-content:center;background:radial-gradient(120% 90% at 30% 20%,#5a1d0c 0%,#3D1201 55%,#250a01 100%)}
 .card .thumb.ph svg{width:28%;height:auto;opacity:.9}
 .card:hover .thumb.ph svg{transform:scale(1.05);transition:transform .4s}
+
+/* Khách hàng tiêu biểu */
+.cl-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(min(100%,300px),1fr));gap:14px}
+.cl-card{padding:22px;border-radius:22px;display:flex;flex-direction:column;gap:8px}
+.cl-card h3{margin:8px 0 0}
+.cl-card p{margin:0;font-size:15px;color:var(--ivory-2)}
+.cl-logo{display:flex;align-items:center;justify-content:center;height:clamp(96px,9vw,128px);padding:18px 24px;border-radius:16px;background:#F6EFE3}
+.cl-logo img{display:block;max-width:min(240px,80%);max-height:100%;width:auto;height:auto;object-fit:contain}
