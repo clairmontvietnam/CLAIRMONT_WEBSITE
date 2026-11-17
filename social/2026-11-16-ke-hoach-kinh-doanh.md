@@ -1,4 +1,4 @@
-# Bản cắt mạng xã hội — Kế hoạch kinh doanh khác chiến lược ở đâu?
+# Bản cắt mạng xã hội — Chiến lược và kế hoạch kinh doanh: khác biệt giữa lựa chọn con đường và tổ chức thực thi
 
 Bài gốc: https://www.clairmontgroup.vn/goc-nhin/ke-hoach-kinh-doanh/
 
@@ -18,20 +18,20 @@ Một câu hỏi để bắt đầu: trong kế hoạch năm của doanh nghiệ
 
 ## 2. Facebook
 
-Khách sạn Hiếu Thảo giảm công suất phòng vào các ngày trong tuần sau khi hai khách sạn mới mở trong khu vực. Bản kế hoạch năm sau gồm năm hạng mục: tăng mục tiêu doanh thu, cải tạo phòng, tăng quảng cáo trực tuyến, tuyển thêm lễ tân, mở gói ưu đãi cuối tuần. Hạng mục nào cũng có ngân sách, người phụ trách và thời hạn.
+Một kế hoạch tăng trưởng doanh thu 30% có thể được xây dựng bằng cách tăng ngân sách quảng cáo, mở thêm điểm bán, tuyển thêm nhân viên kinh doanh và chạy khuyến mại. Nhưng kế hoạch ấy chưa trả lời: vì sao đây là con đường phù hợp nhất, đâu là rào cản cốt lõi, và cơ hội nào phải chấp nhận từ bỏ?
 
-Câu hỏi chưa được trả lời: khách công tác rời đi vì giá, vì vị trí, vì chất lượng phòng hay vì đối thủ đáp ứng một nhu cầu khác? Và hạng mục nào thực sự giải quyết nguyên nhân đó?
+Chiến lược không phải là phiên bản dài hạn của kế hoạch kinh doanh. Chiến lược là cơ sở để quyết định doanh nghiệp nên lập kế hoạch cho những gì.
 
-Đó là ranh giới giữa kế hoạch kinh doanh và chiến lược. Bài Góc nhìn thứ Hai phân tích ranh giới này qua hạt nhân chiến lược của Richard Rumelt, kèm giới hạn của mô hình và bốn bước để kế hoạch năm có căn cứ ưu tiên.
+Bài Clairmont Insights mới phân tích khác biệt giữa lựa chọn và thực thi qua hạt nhân chiến lược của Richard Rumelt, sáu phương diện phân biệt, chuỗi liên kết từ chẩn đoán đến KPI và năm câu hỏi cho ban lãnh đạo trước khi phê duyệt kế hoạch năm.
 
 Đọc bài đầy đủ: https://www.clairmontgroup.vn/goc-nhin/ke-hoach-kinh-doanh/
 
 Gợi ý carousel (6 slide):
-1. Kế hoạch kinh doanh khác chiến lược ở đâu?
-2. Chiến lược: chọn con đường nào và vì sao · Kế hoạch: làm gì, khi nào, bao nhiêu
+1. Chiến lược và kế hoạch kinh doanh: lựa chọn và thực thi
+2. Chiến lược tạo ra lựa chọn · Kế hoạch tổ chức thực thi
 3. Hạt nhân chiến lược của Rumelt: chẩn đoán · chính sách định hướng · hành động nhất quán
-4. Giới hạn: chẩn đoán sai vẫn cho ra một cấu trúc đầy đủ
-5. Bốn bước: viết chẩn đoán trước chỉ tiêu · nêu điều không làm · kiểm tra tính nhất quán · ghi giả định và điểm rà soát
+4. Chẩn đoán → Lựa chọn → Mục tiêu → Chương trình → Nguồn lực → KPI
+5. Đánh giá ở hai cấp độ: vận hành và chiến lược
 6. Đọc bài đầy đủ tại clairmontgroup.vn/goc-nhin
 
 ## 3. Google Business Profile
