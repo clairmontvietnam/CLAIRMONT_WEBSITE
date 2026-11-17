@@ -1,4 +1,4 @@
-# Bản cắt mạng xã hội — Tiện ích dự án bất động sản: chọn ít mà đúng
+# Bản cắt mạng xã hội — Tiện ích bất động sản: giá trị không nằm ở số lượng, mà ở chiến lược lựa chọn
 
 Bài gốc: https://www.clairmontgroup.vn/goc-nhin/tien-ich-du-an-bat-dong-san/
 
@@ -18,20 +18,20 @@ Một câu hỏi để bắt đầu: trong danh mục tiện ích hiện tại, 
 
 ## 2. Facebook
 
-Quán cà phê của Cô Hoa chuẩn bị mở thêm tầng hai. Danh sách đề xuất gồm quầy bánh, góc sách, khu chơi trẻ em, màn hình bóng đá, ban công cây xanh và phòng họp nhỏ, nhưng ngân sách chỉ đủ cho khoảng một nửa, và hạng mục nào cũng cần người trông coi.
+Hồ bơi vô cực, vườn thiền, rạp chiếu phim, không gian làm việc chung… Khi dự án nào cũng có thể giới thiệu một danh mục tiện ích tương tự, số lượng không còn đủ sức tạo nên sự khác biệt.
 
-Câu hỏi không phải hạng mục nào hấp dẫn nhất, mà là: khách hiện tại coi điều gì là đương nhiên, điều gì khiến họ quay lại thường xuyên hơn, và điều gì có thể làm chính họ rời đi?
+Mỗi tiện ích cần trả lời ba câu hỏi: giải quyết nhu cầu thực tế nào của cư dân mục tiêu, đóng vai trò gì trong định vị dự án, và có duy trì được với chi phí vận hành hợp lý trong dài hạn hay không.
 
-Chủ đầu tư bất động sản đối diện cùng bài toán khi chọn tiện ích dự án, chỉ khác ở quy mô vốn và thời gian cam kết. Bài Góc nhìn thứ Ba phân tích bài toán này qua mô hình Kano, kèm giới hạn của mô hình và bốn bước xây dựng danh mục tiện ích gắn với chi phí vận hành.
+Bài Clairmont Insights mới phân tích bài toán này qua mô hình Kano, năm nguyên tắc lựa chọn tiện ích và khung ra quyết định năm bước cho chủ đầu tư: đúng khách hàng, đúng định vị, đúng mô hình đầu tư và vận hành.
 
 Đọc bài đầy đủ: https://www.clairmontgroup.vn/goc-nhin/tien-ich-du-an-bat-dong-san/
 
 Gợi ý carousel (6 slide):
-1. Tiện ích dự án: chọn ít mà đúng
-2. Nhiều tiện ích chưa chắc là dự án tốt hơn
-3. Mô hình Kano: thiết yếu · một chiều · hấp dẫn · không khác biệt · ngược
-4. Giới hạn: phân loại đổi theo phân khúc và theo thời gian; không đo chi phí vận hành
-5. Bốn bước: danh sách từ nhu cầu cư dân · khảo sát Kano · chi phí vòng đời · chốt danh mục
+1. Tiện ích bất động sản: giá trị không nằm ở số lượng
+2. Ba câu hỏi: Giá trị · Khác biệt · Bền vững
+3. Mô hình Kano: thiết yếu · hiệu suất · tạo khác biệt · ít tạo khác biệt · tác động ngược
+4. Giá trị sử dụng thực tế quan trọng hơn giá trị trình diễn
+5. Đầu tư bao nhiêu? Ai sử dụng? Ai vận hành? Ai chi trả?
 6. Đọc bài đầy đủ tại clairmontgroup.vn/goc-nhin
 
 ## 3. Google Business Profile
