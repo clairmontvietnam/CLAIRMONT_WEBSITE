@@ -27,7 +27,7 @@ Trụ cột theo thứ trong tuần (dùng khi hết lịch): T2 Chiến lược
 | [x] | 2026-11-15 (CN) | Hỏi đáp | Làm việc với đơn vị tư vấn hiệu quả: vai trò của ban lãnh đạo | làm việc với đơn vị tư vấn → B | lam-viec-voi-don-vi-tu-van |
 | [x] | 2026-11-16 (T2) | Chiến lược | Chiến lược và kế hoạch kinh doanh: khác biệt giữa lựa chọn và thực thi | kế hoạch kinh doanh → B | ke-hoach-kinh-doanh |
 | [x] | 2026-11-17 (T3) | Bất động sản | Tiện ích bất động sản: giá trị không nằm ở số lượng, mà ở chiến lược lựa chọn | tiện ích dự án bất động sản → C | tien-ich-du-an-bat-dong-san |
-| [ ] | 2026-11-18 (T4) | Quản trị | Quản trị thay đổi khi tái cấu trúc: nói gì với nhân sự và khi nào | quản trị thay đổi → D | |
+| [x] | 2026-11-18 (T4) | Quản trị | Quản trị thay đổi khi tái cấu trúc: nói gì với nhân sự và khi nào | quản trị thay đổi → D | quan-tri-thay-doi |
 | [ ] | 2026-11-19 (T5) | Thương hiệu | Chân dung khách hàng mục tiêu: từ số liệu đến con người cụ thể | chân dung khách hàng mục tiêu → E | |
 | [ ] | 2026-11-20 (T6) | Chuỗi giá trị | Bao bì trong chiến lược thương hiệu cao cấp | thiết kế bao bì cao cấp → F | |
 | [ ] | 2026-11-21 (T7) | Nhà sáng lập | Khi nào nên nói chưa với một cơ hội tăng trưởng | tăng trưởng bền vững → B | |
