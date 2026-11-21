@@ -31,7 +31,7 @@ Trụ cột theo thứ trong tuần (dùng khi hết lịch): T2 Chiến lược
 | [x] | 2026-11-19 (T5) | Thương hiệu | Chân dung khách hàng mục tiêu: từ số liệu đến con người cụ thể | chân dung khách hàng mục tiêu → E | chan-dung-khach-hang-muc-tieu |
 | [x] | 2026-11-20 (T6) | Chuỗi giá trị | Bao bì trong chiến lược thương hiệu cao cấp | thiết kế bao bì cao cấp → F | thiet-ke-bao-bi-cao-cap |
 | [x] | 2026-11-21 (T7) | Nhà sáng lập | Khi nào nên nói chưa với một cơ hội tăng trưởng | tăng trưởng bền vững → B | tang-truong-ben-vung |
-| [ ] | 2026-11-22 (CN) | Hỏi đáp | Doanh nghiệp khởi nghiệp có cần chiến lược không? | chiến lược cho startup → B | |
+| [x] | 2026-11-22 (CN) | Hỏi đáp | Doanh nghiệp khởi nghiệp có cần chiến lược không? | chiến lược cho startup → B | chien-luoc-cho-startup |
 | [ ] | 2026-11-23 (T2) | Chiến lược | Đánh giá năng lực cốt lõi của doanh nghiệp | năng lực cốt lõi → B | |
 | [ ] | 2026-11-24 (T3) | Bất động sản | Định vị khu công nghiệp: điều nhà đầu tư thứ cấp thực sự cân nhắc | định vị khu công nghiệp → C | |
 | [ ] | 2026-11-25 (T4) | Quản trị | Hệ thống báo cáo quản trị cho doanh nghiệp vừa | báo cáo quản trị → D | |
