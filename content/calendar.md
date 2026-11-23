@@ -33,7 +33,7 @@ Trụ cột theo thứ trong tuần (dùng khi hết lịch): T2 Chiến lược
 | [x] | 2026-11-21 (T7) | Nhà sáng lập | Khi nào nên nói chưa với một cơ hội tăng trưởng | tăng trưởng bền vững → B | tang-truong-ben-vung |
 | [x] | 2026-11-22 (CN) | Hỏi đáp | Doanh nghiệp khởi nghiệp có cần chiến lược không? | chiến lược cho startup → B | chien-luoc-cho-startup |
 | [x] | 2026-11-23 (T2) | Chiến lược | Đánh giá năng lực cốt lõi của doanh nghiệp | năng lực cốt lõi → B | danh-gia-nang-luc-cot-loi |
-| [ ] | 2026-11-24 (T3) | Bất động sản | Định vị khu công nghiệp: điều nhà đầu tư thứ cấp thực sự cân nhắc | định vị khu công nghiệp → C | |
+| [x] | 2026-11-24 (T3) | Bất động sản | Định vị khu công nghiệp: điều nhà đầu tư thứ cấp thực sự cân nhắc | định vị khu công nghiệp → C | dinh-vi-khu-cong-nghiep |
 | [ ] | 2026-11-25 (T4) | Quản trị | Hệ thống báo cáo quản trị cho doanh nghiệp vừa | báo cáo quản trị → D | |
 | [ ] | 2026-11-26 (T5) | Thương hiệu | Ra mắt thương hiệu mới: những việc cần xong trước ngày mở bán | ra mắt thương hiệu → F | |
 | [ ] | 2026-11-27 (T6) | Chuỗi giá trị | ESG cho doanh nghiệp vừa và nhỏ: bắt đầu từ đâu | ESG doanh nghiệp vừa và nhỏ → G | |
