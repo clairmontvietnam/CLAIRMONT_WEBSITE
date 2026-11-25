@@ -35,6 +35,6 @@ Trụ cột theo thứ trong tuần (dùng khi hết lịch): T2 Chiến lược
 | [x] | 2026-11-23 (T2) | Chiến lược | Đánh giá năng lực cốt lõi của doanh nghiệp | năng lực cốt lõi → B | danh-gia-nang-luc-cot-loi |
 | [x] | 2026-11-24 (T3) | Bất động sản | Định vị khu công nghiệp: điều nhà đầu tư thứ cấp thực sự cân nhắc | định vị khu công nghiệp → C | dinh-vi-khu-cong-nghiep |
 | [x] | 2026-11-25 (T4) | Quản trị | Hệ thống báo cáo quản trị cho doanh nghiệp vừa | báo cáo quản trị → D | bao-cao-quan-tri |
-| [ ] | 2026-11-26 (T5) | Thương hiệu | Ra mắt thương hiệu mới: những việc cần xong trước ngày mở bán | ra mắt thương hiệu → F | |
+| [x] | 2026-11-26 (T5) | Thương hiệu | Ra mắt thương hiệu mới: những việc cần xong trước ngày mở bán | ra mắt thương hiệu → F | ra-mat-thuong-hieu |
 | [ ] | 2026-11-27 (T6) | Chuỗi giá trị | ESG cho doanh nghiệp vừa và nhỏ: bắt đầu từ đâu | ESG doanh nghiệp vừa và nhỏ → G | |
 | [ ] | 2026-11-28 (T7) | Nhà sáng lập | Văn hoá doanh nghiệp nhỏ hình thành từ những quyết định hằng ngày | văn hoá doanh nghiệp → D | |
