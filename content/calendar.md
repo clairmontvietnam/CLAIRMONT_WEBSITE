@@ -37,4 +37,4 @@ Trụ cột theo thứ trong tuần (dùng khi hết lịch): T2 Chiến lược
 | [x] | 2026-11-25 (T4) | Quản trị | Hệ thống báo cáo quản trị cho doanh nghiệp vừa | báo cáo quản trị → D | bao-cao-quan-tri |
 | [x] | 2026-11-26 (T5) | Thương hiệu | Ra mắt thương hiệu mới: những việc cần xong trước ngày mở bán | ra mắt thương hiệu → F | ra-mat-thuong-hieu |
 | [x] | 2026-11-27 (T6) | Chuỗi giá trị | ESG cho doanh nghiệp vừa và nhỏ: bắt đầu từ đâu | ESG doanh nghiệp vừa và nhỏ → G | esg-doanh-nghiep-vua-va-nho |
-| [ ] | 2026-11-28 (T7) | Nhà sáng lập | Văn hoá doanh nghiệp nhỏ hình thành từ những quyết định hằng ngày | văn hoá doanh nghiệp → D | |
+| [x] | 2026-11-28 (T7) | Nhà sáng lập | Văn hoá doanh nghiệp nhỏ hình thành từ những quyết định hằng ngày | văn hoá doanh nghiệp → D | van-hoa-doanh-nghiep |
